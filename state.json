@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59187,
-  "themadridzone": 31023,
+  "themadridzone": 31025,
   "FabrizioRomanoTG": 67192
  },
  "sent": [
@@ -1250,6 +1250,53 @@
    "status": "official",
    "headline": "🚨💣 BREAKING: Real Madrid are CONFIDENT of signing JJ Gabriel, but they’re still waiting for the FINAL decisio…",
    "link": "https://t.me/RealMadridImportantOnly/45"
+  },
+  {
+   "ts": 1791737133.730468,
+   "date": "2026-10-11",
+   "tokens": [
+    "1",
+    "11",
+    "31",
+    "4",
+    "5",
+    "8",
+    "94",
+    "99",
+    "accuracy",
+    "ball",
+    "big",
+    "carri",
+    "chance",
+    "clearanc",
+    "contribution",
+    "creat",
+    "defensive",
+    "duel",
+    "final",
+    "jacobo",
+    "last",
+    "long",
+    "man",
+    "match",
+    "pass",
+    "ramon",
+    "roma",
+    "tackl",
+    "tackle",
+    "third",
+    "touch",
+    "won"
+   ],
+   "names": [
+    "jacobo",
+    "ramon",
+    "roma"
+   ],
+   "cat": "⚽ Result",
+   "status": "fact",
+   "headline": "🚨 Jacobo Ramon vs As Roma:",
+   "link": "https://t.me/RealMadridImportantOnly/46"
   }
  ],
  "offset": 769011865,
