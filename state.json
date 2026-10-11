@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59189,
-  "themadridzone": 31035,
+  "themadridzone": 31036,
   "FabrizioRomanoTG": 67201
  },
  "sent": [
@@ -1329,8 +1329,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-11",
-  "calls": 5,
-  "tokens": 4097
+  "calls": 6,
+  "tokens": 5303
  },
  "pending_fb": {},
  "feedback": [
@@ -1377,6 +1377,19 @@
    ],
    "r": "Irrelevant meme, no real news",
    "h": "🚨 Marc Cucurella to referee after Vini Jr.’s red card: “I HOPE YOU GIVE THEM RE…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31036,
+   "t": "🚨 Official statement from Virginia's press office:\n\n\"Virginia and Vini Jr are no longer together. \n\nThere was no conflict and no fight, they simply agreed that they no longer want to continue as a couple.\" \n\n@UOL\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/c0WL_518ZTjDDfO0ze4CB93aR08rnudfUnYCQjcFyn0edwYBNZabGEk_KCGQE2Sbvx_p-eSGgE76TauvqE2y1Ydhk59sTIavuOv5TvK_uKf4uNcIJd3SF_7OFB6brNz3VBFuKJnXDigZyyr8SWhbcGmE2c1Ja432v2TyTGe2sThI24Dbr7GZw7r2XBsTux9wShiryvA5SsYBiVDTg8MgauHL0mbecBeud3-nwlr0s-iACBl6nPSZhsH9WDDqHK_nsZ5GXkhihJ4lgEhdXAwVk6fAypfNHW6pkKP4PcT_OUxeudTn4nJpMSeU2jOVNj8wTKP_-trWd0REvj5ySK4tyQ.jpg"
+    ]
+   ],
+   "r": "Personal relationship, not relevant",
+   "h": "🚨 Official statement from Virginia's press office:"
   }
  ],
  "summary_date": "2026-10-11",
