@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59189,
-  "themadridzone": 31034,
+  "themadridzone": 31035,
   "FabrizioRomanoTG": 67201
  },
  "sent": [
@@ -1329,8 +1329,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-11",
-  "calls": 4,
-  "tokens": 2882
+  "calls": 5,
+  "tokens": 4097
  },
  "pending_fb": {},
  "feedback": [
@@ -1364,6 +1364,19 @@
    ],
    "r": "No substantive Real Madrid news",
    "h": "TIMELESS BALLER. 💎"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31035,
+   "t": "🚨 Marc Cucurella to referee after Vini Jr.’s red card: “I HOPE YOU GIVE THEM RED CARD TOO IF THEY TOUCH ONE STRAND OF MY HAIR.” @MMajeedX @DAZN_ES\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/ZGzuF-Bant1yCPhZb1-1RVfzG0su74sRutHiOEU8Q-xRVpgqHYY-QlRUO26WmIHfgm3q2MJ2uE-qzYK-La-Ah4l1C7iaARX4k-W-tFG2Zkev_kQlj7llNXkM8ITlmA2AveZnHHcRPNZXUxunQmVtwISHRXBNAs850CsJExL131CqqG4wbW4U-l4IyFeGxrK_Fxkb3zS2u6NKnjX0uwrjynK6Hs5-diZn-LcAMfa5tfOdbuna218SqQnz8sl80MUxuex7H3ZcIgkQVLS8o8P-AYOou3UVvvG89C2bLSiM0Dpyqcw6Cv45SrCFr9Okj0nI9ANXJX6PfCLkfPbvhK3ZRw.jpg"
+    ]
+   ],
+   "r": "Irrelevant meme, no real news",
+   "h": "🚨 Marc Cucurella to referee after Vini Jr.’s red card: “I HOPE YOU GIVE THEM RE…"
   }
  ],
  "summary_date": "2026-10-11",
