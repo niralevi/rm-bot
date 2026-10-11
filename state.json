@@ -1324,20 +1324,22 @@
    "link": "https://t.me/RealMadridImportantOnly/47"
   }
  ],
- "offset": 769011874,
+ "offset": 769011875,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-11",
-  "calls": 2,
-  "tokens": 1636
+  "calls": 3,
+  "tokens": 2256
  },
- "pending_fb": {
-  "15": "🚨 JUST IN: Real Madrid players are VERY ANGRY at what the referees have been doing.\n\nSources inside the dressing room say:\n\n\"Sure, maybe what Vini did was a red card, but why does VAR ONLY intervene when it's something against us?\n\nWhy does it intervene for a Vini hair-pull, but it did NOT intervene for the tackle by Kang-In Lee on Valverde?\" \n\n@marca\n\n@TheMadridZone"
- },
+ "pending_fb": {},
  "feedback": [
   {
    "t": "🚨 CONFIRMED: Vini Jr's relationship with Virginia is FULLY OVER.\n\nThey broke up on Friday and she left Madrid that same day. @CNNBrasil\n\n@TheMadridZone",
+   "v": "-"
+  },
+  {
+   "t": "🚨 JUST IN: Real Madrid players are VERY ANGRY at what the referees have been doing.\n\nSources inside the dressing room say:\n\n\"Sure, maybe what Vini did was a red card, but why does VAR ONLY intervene when it's something against us?\n\nWhy does it intervene for a Vini hair-pull, but it did NOT intervene for the tackle by Kang-In Lee on Valverde?\" \n\n@marca\n\n@TheMadridZone",
    "v": "-"
   }
  ],
