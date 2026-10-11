@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59187,
-  "themadridzone": 31027,
+  "real_madrid": 59189,
+  "themadridzone": 31028,
   "FabrizioRomanoTG": 67193
  },
  "sent": [
@@ -1297,6 +1297,31 @@
    "status": "fact",
    "headline": "🚨 Jacobo Ramon vs As Roma:",
    "link": "https://t.me/RealMadridImportantOnly/46"
+  },
+  {
+   "ts": 1791738740.1241648,
+   "date": "2026-10-11",
+   "tokens": [
+    "broke",
+    "confirm",
+    "day",
+    "friday",
+    "ful",
+    "left",
+    "relationship",
+    "same",
+    "vini",
+    "virginia"
+   ],
+   "names": [
+    "friday",
+    "vini",
+    "virginia"
+   ],
+   "cat": "📢 Official",
+   "status": "official",
+   "headline": "🚨 CONFIRMED: Vini Jr's relationship with Virginia is FULLY OVER.",
+   "link": "https://t.me/RealMadridImportantOnly/47"
   }
  ],
  "offset": 769011865,
