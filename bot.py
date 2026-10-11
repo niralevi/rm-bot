@@ -71,7 +71,8 @@ AI_DAILY_CALLS = 900        # stay under Groq's free 1,000 requests/day
 AI_DAILY_TOKENS = 185_000   # ...and 200,000 tokens/day
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "state.json")
 
-LOOP_INTERVAL = 60      # --loop: seconds between channel checks
+LOOP_INTERVAL = 60      # seconds between channel checks while awake
+AWAKE_SECONDS = int(os.environ.get("AWAKE_SECONDS") or 150)  # each run stays awake this long
 QUIET_START, QUIET_END = 23, 8   # silent notifications between these hours
 SUMMARY_HOUR = 22       # daily summary is sent after this hour
 DEDUPE_HOURS = 48       # how far back to look for duplicates
@@ -1102,8 +1103,8 @@ def handle_updates(state, timeout=0):
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
-def check_all(state):
-    deadline = time.time() + 200  # keep each run well under GitHub's 5-minute limit
+def check_all(state, deadline=None):
+    deadline = min(deadline or time.time() + 200, time.time() + 200)
     for src, rm_only in SOURCES:
         try:
             check_source(state, src, rm_only)
@@ -1149,8 +1150,22 @@ def main():
                 print(f"error: {e}")
                 time.sleep(5)
     else:
-        handle_updates(state)
-        check_all(state)
+        # stay awake for AWAKE_SECONDS: answer messages within seconds, check channels every minute
+        end = time.time() + AWAKE_SECONDS
+        last_check = 0.0
+        while True:
+            if time.time() - last_check >= LOOP_INTERVAL:
+                check_all(state, deadline=end)
+                last_check = time.time()
+            left = end - time.time()
+            if left <= 1:
+                break
+            try:
+                handle_updates(state, timeout=int(min(20, left)))  # waits for messages
+            except Exception as e:
+                print(f"error: {e}")
+                time.sleep(3)
+        save_state(state)
 
 
 if __name__ == "__main__":
