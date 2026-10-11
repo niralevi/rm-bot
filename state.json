@@ -1324,7 +1324,12 @@
    "link": "https://t.me/RealMadridImportantOnly/47"
   }
  ],
- "offset": 769011865,
+ "offset": 769011867,
  "owner": 6681074596,
- "players": []
+ "players": [],
+ "ai_usage": {
+  "date": "2026-10-11",
+  "calls": 0,
+  "tokens": 0
+ }
 }
