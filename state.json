@@ -1324,13 +1324,13 @@
    "link": "https://t.me/RealMadridImportantOnly/47"
   }
  ],
- "offset": 769011875,
+ "offset": 769011879,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-11",
-  "calls": 3,
-  "tokens": 2256
+  "calls": 4,
+  "tokens": 2882
  },
  "pending_fb": {},
  "feedback": [
@@ -1341,10 +1341,15 @@
   {
    "t": "🚨 JUST IN: Real Madrid players are VERY ANGRY at what the referees have been doing.\n\nSources inside the dressing room say:\n\n\"Sure, maybe what Vini did was a red card, but why does VAR ONLY intervene when it's something against us?\n\nWhy does it intervene for a Vini hair-pull, but it did NOT intervene for the tackle by Kang-In Lee on Valverde?\" \n\n@marca\n\n@TheMadridZone",
    "v": "-"
+  },
+  {
+   "t": "🎥 Jose Mourinho leaving the Bernabéu last night. @DAZN_ES\n\n@TheMadridZone",
+   "v": "-"
   }
  ],
  "rules": [
-  "Skip personal relationship or dating news about Real Madrid players"
+  "Skip personal relationship or dating news about Real Madrid players",
+  "Skip Real Madrid coach departures or resignations"
  ],
  "skipped": [
   {
@@ -1361,5 +1366,8 @@
    "h": "TIMELESS BALLER. 💎"
   }
  ],
- "summary_date": "2026-10-11"
+ "summary_date": "2026-10-11",
+ "prefs": [
+  "i dont care that much about mourinio leaving the bernabeu"
+ ]
 }
