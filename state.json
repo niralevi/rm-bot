@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59186,
+  "real_madrid": 59187,
   "themadridzone": 31023,
   "FabrizioRomanoTG": 67192
  },
@@ -1190,7 +1190,8 @@
    "cat": "✍️ Transfer & Contract",
    "status": "none",
    "headline": "🚨💣 UPDATE: Real Madrid are now confident of SIGNING JJ Gabriel.",
-   "link": "https://t.me/RealMadridImportantOnly/43"
+   "link": "https://t.me/RealMadridImportantOnly/43",
+   "superseded": true
   },
   {
    "ts": 1791734238.2284644,
@@ -1214,6 +1215,41 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Clarence Seedorf becomes the new manager at Corinthians!",
    "link": "https://t.me/RealMadridImportantOnly/44"
+  },
+  {
+   "ts": 1791734960.3461301,
+   "date": "2026-10-11",
+   "tokens": [
+    "already",
+    "confident",
+    "decision",
+    "final",
+    "future",
+    "gabriel",
+    "inform",
+    "interest",
+    "jfelixdiaz",
+    "known",
+    "man",
+    "offer",
+    "official",
+    "sent",
+    "should",
+    "sign",
+    "soon",
+    "still",
+    "unit",
+    "wait"
+   ],
+   "names": [
+    "gabriel",
+    "man",
+    "united"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "official",
+   "headline": "🚨💣 BREAKING: Real Madrid are CONFIDENT of signing JJ Gabriel, but they’re still waiting for the FINAL decisio…",
+   "link": "https://t.me/RealMadridImportantOnly/45"
   }
  ],
  "offset": 769011865,
