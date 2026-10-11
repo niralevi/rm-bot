@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59186,
-  "themadridzone": 31012,
+  "themadridzone": 31016,
   "FabrizioRomanoTG": 67192
  },
  "sent": [
@@ -1172,6 +1172,25 @@
    "status": "none",
    "headline": "⚪️🔥 Home win for Real Madrid with Yan Diomande scoring his first goal!",
    "link": "https://t.me/RealMadridImportantOnly/42"
+  },
+  {
+   "ts": 1791734060.0002997,
+   "date": "2026-10-11",
+   "tokens": [
+    "confident",
+    "decision",
+    "final",
+    "gabriel",
+    "sign",
+    "wait"
+   ],
+   "names": [
+    "gabriel"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "none",
+   "headline": "🚨💣 UPDATE: Real Madrid are now confident of SIGNING JJ Gabriel.",
+   "link": "https://t.me/RealMadridImportantOnly/43"
   }
  ],
  "offset": 769011865,
