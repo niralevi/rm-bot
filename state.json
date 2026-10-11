@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59189,
-  "themadridzone": 31033,
+  "themadridzone": 31034,
   "FabrizioRomanoTG": 67200
  },
  "sent": [
@@ -1324,15 +1324,37 @@
    "link": "https://t.me/RealMadridImportantOnly/47"
   }
  ],
- "offset": 769011868,
+ "offset": 769011872,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-11",
-  "calls": 0,
-  "tokens": 0
+  "calls": 2,
+  "tokens": 1636
  },
- "pending_fb": {
-  "13": "🚨 CONFIRMED: Vini Jr's relationship with Virginia is FULLY OVER.\n\nThey broke up on Friday and she left Madrid that same day. @CNNBrasil\n\n@TheMadridZone"
- }
+ "pending_fb": {},
+ "feedback": [
+  {
+   "t": "🚨 CONFIRMED: Vini Jr's relationship with Virginia is FULLY OVER.\n\nThey broke up on Friday and she left Madrid that same day. @CNNBrasil\n\n@TheMadridZone",
+   "v": "-"
+  }
+ ],
+ "rules": [
+  "Skip personal relationship or dating news about Real Madrid players"
+ ],
+ "skipped": [
+  {
+   "src": "themadridzone",
+   "id": 31034,
+   "t": "TIMELESS BALLER. 💎\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/X4nFGGG6aJol0LbnDe5GqXtxpbqOmlqulmezbZqn70Nn7bi-VwXRY0FBLwJhNI5U7cco6nCVUf-3AmPjqw6bJPyqRbnNsIs-CQ4BqtpUZbnVaeXTvh0mOZwp_DyWmFC_8V7709GhX2IoItoXyBMdBEsAjEltqs-nyWvGhYbD4IxVKGMdOeOSfkRDDAOnOksZxdzFlvoc_M0MTcWJySwjkYmalb0JQ-X50quYePxUpIjSsIKWXjTPLV7WTt9sOIn5Py42TfJUOGrqinoDxI8stBLx-yP9Xskd0hB196GL3O3mogCzG_oAB2GQD__AJMWfgkOK2vdcJ_rkB6K3FFeH3A.jpg"
+    ]
+   ],
+   "r": "No substantive Real Madrid news",
+   "h": "TIMELESS BALLER. 💎"
+  }
+ ]
 }
