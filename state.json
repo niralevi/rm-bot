@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59186,
-  "themadridzone": 31016,
+  "themadridzone": 31019,
   "FabrizioRomanoTG": 67192
  },
  "sent": [
@@ -1191,6 +1191,29 @@
    "status": "none",
    "headline": "🚨💣 UPDATE: Real Madrid are now confident of SIGNING JJ Gabriel.",
    "link": "https://t.me/RealMadridImportantOnly/43"
+  },
+  {
+   "ts": 1791734238.2284644,
+   "date": "2026-10-11",
+   "tokens": [
+    "becom",
+    "clarence",
+    "congratulation",
+    "corinthian",
+    "manager",
+    "official",
+    "seedorf"
+   ],
+   "names": [
+    "clarence",
+    "congratulations",
+    "corinthians",
+    "seedorf"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Clarence Seedorf becomes the new manager at Corinthians!",
+   "link": "https://t.me/RealMadridImportantOnly/44"
   }
  ],
  "offset": 769011865,
