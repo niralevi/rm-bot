@@ -233,8 +233,9 @@ def tg(method, **params):
 # Reading channels (public web view t.me/s/<name>)
 # ---------------------------------------------------------------------------
 class Post:
-    def __init__(self, src, pid, text, media, too_big):
+    def __init__(self, src, pid, text, media, too_big, ts=None):
         self.src, self.id, self.text, self.media, self.too_big = src, pid, text, media, too_big
+        self.ts = ts  # when it was posted (unix time) or None
         self.link = f"https://t.me/{src}/{pid}"
 
 
@@ -266,12 +267,20 @@ def parse_page(src, page_html):
                     media.append(("photo", m.group(1)))
         if msg.select_one(".message_media_not_supported"):
             too_big = True
-        posts.append(Post(src, pid, text, media, too_big))
+        ts = None
+        t = msg.select_one("time[datetime]")
+        if t:
+            try:
+                ts = datetime.fromisoformat(t["datetime"]).timestamp()
+            except ValueError:
+                pass
+        posts.append(Post(src, pid, text, media, too_big, ts))
     return sorted(posts, key=lambda p: p.id)
 
 
-def fetch_posts(src):
-    url = f"https://t.me/s/{src}"
+def fetch_posts(src, before=None):
+    """Latest ~20 posts, or the ~20 posts just before post id `before`"""
+    url = f"https://t.me/s/{src}" + (f"?before={before}" if before else "")
     r = requests.get(url, timeout=30, headers={"User-Agent": "Mozilla/5.0"})
     r.raise_for_status()
     posts = parse_page(src, r.text)
@@ -351,8 +360,10 @@ def in_quiet_hours():
 TAGS = {"official": "✅ OFFICIAL", "rumour": "🟡 RUMOUR"}
 
 
-def send_post(post, label, status, quiet, update):
+def send_post(post, label, status, quiet, update, when=None):
     head = f"<b>{esc(label)}</b>"
+    if when:  # older post sent by /backfill - show the original time
+        head = f"🕒 {datetime.fromtimestamp(when, TZ):%a %d %b, %H:%M}\n" + head
     if status in TAGS:
         head += f"  ·  {TAGS[status]}"
     if update:
@@ -406,7 +417,7 @@ def my_link(msg_id, fallback):
 # ---------------------------------------------------------------------------
 # Processing posts
 # ---------------------------------------------------------------------------
-def process_post(state, post, rm_only):
+def process_post(state, post, rm_only, backfill=False):
     if not post.text:
         return "skip: no text"
     n = norm(post.text)
@@ -434,11 +445,13 @@ def process_post(state, post, rm_only):
         else:
             return "skip: duplicate"
 
-    quiet = opt(state, "quiet") and in_quiet_hours() and not (
-        status == "official" and label in URGENT)
-    msg_id = send_post(post, label, status, quiet, update)
+    quiet = backfill or (opt(state, "quiet") and in_quiet_hours() and not (
+        status == "official" and label in URGENT))
+    when = post.ts if backfill else None
+    msg_id = send_post(post, label, status, quiet, update, when)
+    posted = datetime.fromtimestamp(when, TZ) if when else datetime.now(TZ)
     state.setdefault("sent", []).append({
-        "ts": time.time(), "date": datetime.now(TZ).date().isoformat(),
+        "ts": time.time(), "date": posted.date().isoformat(),
         "tokens": sorted(toks), "names": sorted(names), "cat": label, "status": status,
         "headline": headline(post.text), "link": my_link(msg_id, post.link),
     })
@@ -461,6 +474,58 @@ def check_source(state, src, rm_only):
         last[src] = post.id
         save_state(state)
         time.sleep(1)
+
+
+def run_backfill(state, deadline):
+    """Send important posts from the last N hours (started by /backfill).
+    Works in pieces: if time runs out it continues in the next run."""
+    bf = state.get("backfill")
+    if not bf:
+        return
+    for src, rm_only in SOURCES:
+        if src in bf["done"]:
+            continue
+        until = bf["until"].get(src)
+        if until is None:  # source added after the request
+            bf["done"].append(src)
+            continue
+        upto = bf["upto"].get(src, 0)
+
+        # page back through the channel until we pass the cutoff time
+        found, before = {}, until + 1
+        for _ in range(40):
+            page = fetch_posts(src, before=before)
+            if not page:
+                break
+            for p in page:
+                if upto < p.id <= until and (p.ts is None or p.ts >= bf["cutoff"]):
+                    found[p.id] = p
+            oldest = page[0]
+            if (oldest.ts and oldest.ts < bf["cutoff"]) or oldest.id <= upto or oldest.id >= before:
+                break
+            before = oldest.id
+            time.sleep(1)
+
+        for p in sorted(found.values(), key=lambda p: p.id):
+            if time.time() > deadline:
+                print("[backfill] out of time, continuing next run")
+                save_state(state)
+                return
+            res = process_post(state, p, rm_only, backfill=True)
+            print(f"[backfill] {src}/{p.id}: {res}")
+            if res.startswith("SENT"):
+                bf["sent"] += 1
+                time.sleep(3)  # Telegram allows ~20 posts a minute in a channel
+            bf["upto"][src] = p.id
+            save_state(state)
+        bf["done"].append(src)
+
+    owner = OWNER_ID or state.get("owner")
+    if owner:
+        tg("sendMessage", chat_id=int(owner),
+           text=f"✅ Done! Sent {bf['sent']} important posts from the last {bf['hours']} hours.")
+    state.pop("backfill", None)
+    print(f"[backfill] finished, {bf['sent']} sent")
 
 
 def summary_text(state):
@@ -512,6 +577,7 @@ def menu_text(state):
         f"🎯 My players: {esc(p)}\n"
         "/add Vinicius, Mbappe - add players\n"
         "/remove Mbappe - remove\n"
+        "/backfill 48 - post the important news from the last 48 hours\n"
         "/summary - preview today's summary"
     )
 
@@ -561,6 +627,17 @@ def handle_message(state, m):
            text=f"🗑 Removed. My players: {', '.join(state['players']) or '(empty)'}")
     elif cmd == "/players":
         tg("sendMessage", chat_id=uid, text=f"🎯 My players: {', '.join(players) or '(empty)'}")
+    elif cmd == "/backfill":
+        hours = int(arg) if arg.strip().isdigit() else 48
+        hours = max(1, min(hours, 72))
+        state["backfill"] = {
+            "hours": hours, "cutoff": time.time() - hours * 3600,
+            "until": dict(state.get("last_post", {})), "upto": {}, "done": [], "sent": 0,
+        }
+        tg("sendMessage", chat_id=uid, text=(
+            f"⏳ OK! In the next few minutes I'll post the important news from the last "
+            f"{hours} hours to the channel (silently, with the original time). "
+            "I'll tell you when it's done."))
     elif cmd == "/summary":
         tg("sendMessage", chat_id=uid, text=summary_text(state), parse_mode="HTML",
            link_preview_options={"is_disabled": True})
@@ -609,11 +686,16 @@ def handle_updates(state, timeout=0):
 # Main
 # ---------------------------------------------------------------------------
 def check_all(state):
+    deadline = time.time() + 200  # keep each run well under GitHub's 5-minute limit
     for src, rm_only in SOURCES:
         try:
             check_source(state, src, rm_only)
         except Exception as e:
             print(f"{src}: error: {e}")
+    try:
+        run_backfill(state, deadline)
+    except Exception as e:
+        print(f"backfill error: {e}")
     prune(state)
     maybe_send_summary(state)
     save_state(state)
@@ -632,6 +714,7 @@ def main():
         {"command": "remove", "description": "Remove a player"},
         {"command": "players", "description": "Show my players"},
         {"command": "summary", "description": "Preview today's summary"},
+        {"command": "backfill", "description": "Post important news from the last 48h"},
     ])
 
     if "--loop" in sys.argv:
