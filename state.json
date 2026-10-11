@@ -1,8 +1,8 @@
 {
  "last_post": {
-  "real_madrid": 59184,
-  "themadridzone": 31010,
-  "FabrizioRomanoTG": 67189
+  "real_madrid": 59186,
+  "themadridzone": 31011,
+  "FabrizioRomanoTG": 67192
  },
  "sent": [
   {
@@ -1077,27 +1077,104 @@
    "status": "rumour",
    "headline": "🚨 JUST IN: Real Madrid players are VERY ANGRY at what the referees have been doing.",
    "link": "https://t.me/RealMadridImportantOnly/40"
+  },
+  {
+   "ts": 1791731111.9257703,
+   "date": "2026-10-10",
+   "tokens": [
+    "10",
+    "2026",
+    "accus",
+    "alive",
+    "barca",
+    "barcelona",
+    "constant",
+    "crush",
+    "damage",
+    "discredit",
+    "don",
+    "extend",
+    "fabrizio",
+    "flame",
+    "football",
+    "harm",
+    "how",
+    "image",
+    "innocent",
+    "keep",
+    "laporta",
+    "matter",
+    "much",
+    "oct",
+    "president",
+    "rectify",
+    "romano",
+    "summary",
+    "think",
+    "try",
+    "want",
+    "way"
+   ],
+   "names": [
+    "barca",
+    "barcelona",
+    "fabrizio",
+    "laporta",
+    "oct",
+    "romano"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "rumour",
+   "headline": "🚨 Barcelona president Laporta: “Real Madrid have accused us in a crushing and constant way, trying to discred…",
+   "link": "https://t.me/RealMadridImportantOnly/41"
+  },
+  {
+   "ts": 1791731115.3775022,
+   "date": "2026-10-11",
+   "tokens": [
+    "10",
+    "2026",
+    "card",
+    "diomande",
+    "disallow",
+    "fabrizio",
+    "first",
+    "goal",
+    "home",
+    "junior",
+    "man",
+    "match",
+    "oct",
+    "red",
+    "romano",
+    "scor",
+    "viniciu",
+    "who",
+    "win",
+    "yan",
+    "your"
+   ],
+   "names": [
+    "diomande",
+    "fabrizio",
+    "home",
+    "junior",
+    "man",
+    "match",
+    "oct",
+    "red",
+    "romano",
+    "vinicius",
+    "who",
+    "yan"
+   ],
+   "cat": "🟥 Discipline",
+   "status": "none",
+   "headline": "⚪️🔥 Home win for Real Madrid with Yan Diomande scoring his first goal!",
+   "link": "https://t.me/RealMadridImportantOnly/42"
   }
  ],
  "offset": 769011865,
  "owner": 6681074596,
- "players": [],
- "backfill": {
-  "hours": 48,
-  "cutoff": 1791555488.2749033,
-  "until": {
-   "real_madrid": 59181,
-   "themadridzone": 31010,
-   "FabrizioRomanoTG": 67184
-  },
-  "upto": {
-   "real_madrid": 59181,
-   "themadridzone": 31010
-  },
-  "done": [
-   "real_madrid",
-   "themadridzone"
-  ],
-  "sent": 36
- }
+ "players": []
 }
