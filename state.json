@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59204,
   "themadridzone": 31081,
-  "FabrizioRomanoTG": 67218
+  "FabrizioRomanoTG": 67219
  },
  "sent": [
   {
@@ -1590,8 +1590,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 49,
-  "tokens": 74276
+  "calls": 50,
+  "tokens": 76143
  },
  "pending_fb": {},
  "feedback": [
@@ -1932,7 +1932,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 32,
+ "train_seq": 33,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2128,6 +2128,19 @@
    "reason": "Irrelevant historical referee story",
    "ch": [
     89
+   ]
+  },
+  "33": {
+   "t": "🚨 Hansi Flick when asked about Real Madrid: “I do NOT answer questions about other teams”.\n\n“We're about to play against Galatasaray. So, respect Galatasaray”.\n\n“They have a fantastic stadium, an incredible atmosphere... respect them”. https://t.co/FhqzMevKbD\n — Fabrizio Romano (@FabrizioRomano)\n Oct 12, 2026",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "FabrizioRomanoTG",
+   "id": 67219,
+   "m": [],
+   "reason": "Not about Real Madrid news",
+   "ch": [
+    91
    ]
   }
  },
