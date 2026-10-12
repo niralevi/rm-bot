@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59204,
   "themadridzone": 31079,
-  "FabrizioRomanoTG": 67214
+  "FabrizioRomanoTG": 67218
  },
  "sent": [
   {
@@ -1590,8 +1590,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 46,
-  "tokens": 68150
+  "calls": 47,
+  "tokens": 70027
  },
  "pending_fb": {},
  "feedback": [
@@ -1927,7 +1927,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 29,
+ "train_seq": 30,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2097,6 +2097,19 @@
    "reason": "duplicate of existing post",
    "ch": [
     86
+   ]
+  },
+  "30": {
+   "t": "🔵🔴 Pau Cubarsí when asked about Real Madrid and the referees: “It’s not a topic for me. I don't pay attention to that”.\n\n“I focus on what I can actually influence: my club and what we can give to our fans”. https://t.co/z5Y4fPPSi9\n — Fabrizio Romano (@FabrizioRomano)\n Oct 12, 2026",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "FabrizioRomanoTG",
+   "id": 67215,
+   "m": [],
+   "reason": "Not about Real Madrid news",
+   "ch": [
+    88
    ]
   }
  },
