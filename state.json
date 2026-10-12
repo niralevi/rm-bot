@@ -1520,7 +1520,7 @@
    "link": "https://t.me/RealMadridImportantOnly/69"
   }
  ],
- "offset": 769011933,
+ "offset": 769011934,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
@@ -1598,6 +1598,11 @@
   },
   {
    "t": "🚨 EVERYONE at Real Madrid views Thibaut Courtois as a LEADER and as the BEST goalkeeper in the world. @MarioCortegana\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "Yan Diomande and @Kylian_Mbappe all smiles. 🤍",
    "v": "-",
    "miss": false
   }
@@ -1948,28 +1953,10 @@
    "ch": [
     59
    ]
-  },
-  "19": {
-   "t": "Yan Diomande and @Kylian_Mbappe all smiles. 🤍",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "rumour",
-   "src": "real_madrid",
-   "id": 59199,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/il2U9mbW43bCRQirvfcvtdt0x-dHnCZVwt-2Rfqrl73EsohqH1USxBUGHMgShQseSqV1K8Mxc2tjfeptK2F18lwnSpIWxUPmQnmDDYhKxJcI0BcpbVcbgaagaIjtnZLrNyw6rkraDZ0e8jiaSe5tB89grdNIS-8Gt_uD7whNQVrcObz-QAwkqoXiBJTmA6z__677Gynm2i3aA1wPg0j8KWWXwFB2FHP4NYZ4HxkKAPYbE81REbzH7m2T6dYiPiPF87QJdLwDR0BDPfFUia668q5v1OOI0758tmP_O_C4v9p75L0wZtkWQGdwa48TOz4WD-vMjcyNxGqQZBsR6uuGlg.jpg"
-    ]
-   ],
-   "reason": "No Real Madrid relevance",
-   "ch": [
-    71
-   ]
   }
  },
  "train_stats": {
-  "n": 11,
+  "n": 12,
   "recent": [
    1,
    1,
@@ -1980,6 +1967,7 @@
    1,
    1,
    0,
+   1,
    1,
    1
   ]
