@@ -155,6 +155,7 @@ OPTIONS = {
     "quiet": ("🌙 Quiet at night (23:00-08:00)", True),
     "summary": ("📝 Daily summary (22:00)", True),
     "players_only": ("🎯 Only my players", False),
+    "training": ("🎓 Training mode (rate every post)", False),
 }
 MENU_LABELS = list(CATEGORIES.keys())
 
@@ -489,7 +490,10 @@ def taste_text(state):
     rules = state.get("rules", [])
     if rules:
         parts += ["", "LEARNED FROM HIS FEEDBACK:"] + [f"- {r}" for r in rules]
-    fb = state.get("feedback", [])[-8:]
+    allfb = state.get("feedback", [])
+    misses = [f for f in allfb if f.get("miss")][-6:]   # where I got it wrong teach the most
+    others = [f for f in allfb if not f.get("miss")][-(8 - len(misses)):] if len(misses) < 8 else []
+    fb = others + misses
     if fb:
         parts += ["", "RECENT POSTS HE RATED:"]
         for f in fb:
@@ -577,7 +581,10 @@ def remember_skip(state, post, reason):
 TAGS = {"official": "✅ OFFICIAL", "rumour": "🟡 RUMOUR"}
 
 
-def send_post(post, label, status, quiet, update, when=None):
+def send_post(post, label, status, quiet, update, when=None, top=None, markup=None, ids_out=None):
+    """Send a post to the channel. Returns the first message id.
+    top = an extra first line (training guess); markup = buttons; ids_out collects every message id."""
+    ids = ids_out if ids_out is not None else []
     head = f"<b>{esc(label)}</b>"
     if when:  # older post sent by /backfill - show the original time
         head = f"🕒 {datetime.fromtimestamp(when, TZ):%a %d %b, %H:%M}\n" + head
@@ -585,6 +592,8 @@ def send_post(post, label, status, quiet, update, when=None):
         head += f"  ·  {TAGS[status]}"
     if update:
         head += "  ·  🔁 now official"
+    if top:
+        head = top + "\n" + head
     foot = f'\n\n🔗 <a href="{post.link}">@{post.src}</a>'
     if post.too_big:
         foot += "  ·  🎬 video in source"
@@ -593,6 +602,7 @@ def send_post(post, label, status, quiet, update, when=None):
         body = body[: 4000 - len(head) - len(foot)] + "…"
     full = f"{head}\n\n{body}{foot}"
     common = {"chat_id": TARGET, "disable_notification": quiet}
+    btn = {"reply_markup": markup} if markup else {}
 
     media = post.media[:10]
     if media:
@@ -602,6 +612,7 @@ def send_post(post, label, status, quiet, update, when=None):
             params = dict(common, **{kind: url, "parse_mode": "HTML"})
             if caption:
                 params["caption"] = caption
+                params.update(btn)
             r = tg("sendPhoto" if kind == "photo" else "sendVideo", **params)
         else:
             items = [{"type": k, "media": u} for k, u in media]
@@ -609,20 +620,29 @@ def send_post(post, label, status, quiet, update, when=None):
                 items[0].update(caption=caption, parse_mode="HTML")
             r = tg("sendMediaGroup", media=items, **common)
         if r.get("ok"):
-            res = r["result"]
-            first_id = (res[0] if isinstance(res, list) else res)["message_id"]
-            if not caption:  # text too long for a caption -> send it right after
-                tg("sendMessage", text=full, parse_mode="HTML",
-                   link_preview_options={"is_disabled": True},
-                   reply_parameters={"message_id": first_id}, **common)
+            res = r["result"] if isinstance(r["result"], list) else [r["result"]]
+            ids += [m["message_id"] for m in res]
+            first_id = ids[0]
+            if not caption:  # text too long for a caption -> send it right after (with the buttons)
+                r2 = tg("sendMessage", text=full, parse_mode="HTML",
+                        link_preview_options={"is_disabled": True},
+                        reply_parameters={"message_id": first_id}, **common, **btn)
+                if r2.get("ok"):
+                    ids.append(r2["result"]["message_id"])
+            elif markup and len(media) > 1:  # albums can't carry buttons -> small message under it
+                r2 = tg("sendMessage", text="👆 Rate this post", reply_markup=markup,
+                        reply_parameters={"message_id": first_id}, **common)
+                if r2.get("ok"):
+                    ids.append(r2["result"]["message_id"])
             return first_id
         print("  media failed, sending text with a preview of the source instead")
 
     r = tg("sendMessage", text=full, parse_mode="HTML",
-           link_preview_options={"is_disabled": not (media or post.too_big)}, **common)
+           link_preview_options={"is_disabled": not (media or post.too_big)}, **common, **btn)
     if not r.get("ok"):
         raise RuntimeError(f"sending to channel failed: {r.get('description')}")
-    return r["result"]["message_id"]
+    ids.append(r["result"]["message_id"])
+    return ids[0]
 
 
 def my_link(msg_id, fallback):
@@ -634,77 +654,179 @@ def my_link(msg_id, fallback):
 # ---------------------------------------------------------------------------
 # Processing posts
 # ---------------------------------------------------------------------------
-def process_post(state, post, rm_only, backfill=False, force=None):
-    """Decide about one post and send it if it's worth it. Returns a short log line.
-    force=(label, status) skips the judging (used when he asks to post a skipped item)."""
+def decide(state, post, rm_only):
+    """Work out what to do with a post. Returns a dict (see keys below)."""
+    d = {"send": False, "label": None, "status": "none", "dup": None, "update": False,
+         "big": False, "reason": "", "how": "keywords", "hard": False, "dup_skip": False}
     if not post.text:
-        return "skip: no text"
+        return dict(d, hard=True, reason="no text")
     n = norm(post.text)
     prx = players_re(state)
+    if HARD_IGNORE_RE.search(n):
+        return dict(d, hard=True, reason="ad/promo")
+    if rm_only and not (RM_RE.search(n) or (prx and prx.search(n))):
+        return dict(d, hard=True, reason="not Real Madrid")
     toks, names = tokens(post.text), names_of(post.text)
-    big = False
-    if force:
-        label, status = force
-        dup, how = None, "you"
+
+    verdict = None
+    if ai_provider():
+        try:
+            verdict = ai_judge(state, post.text)
+        except Exception as e:
+            print(f"  AI unavailable ({e}) - using keywords")
+    if verdict:
+        send, label, status, dup, big, reason = verdict
+        d.update(send=send, label=label, status=status, dup=dup, big=big, reason=reason, how="AI")
+        if send and not dup:
+            d["dup"] = find_duplicate(state, toks, names, label)
     else:
-        if HARD_IGNORE_RE.search(n):
-            return "skip: ad/promo"
-        if rm_only and not (RM_RE.search(n) or (prx and prx.search(n))):
-            return "skip: not Real Madrid"
-
-        verdict = None
-        if ai_provider():
-            try:
-                verdict = ai_judge(state, post.text)
-            except Exception as e:
-                print(f"  AI unavailable ({e}) - using keywords")
-        if verdict:
-            send, label, status, dup, big, reason = verdict
-            how = "AI"
-            if not send:
-                remember_skip(state, post, reason)
-                return f"skip (AI): {reason}"
-            if not dup:
-                dup = find_duplicate(state, toks, names, label)
+        label = classify(n)
+        d.update(label=label or "📰 Other")
+        if SOFT_IGNORE_RE.search(n):
+            d["reason"] = "lifestyle"
+        elif not label:
+            d["reason"] = "no important keywords"
+        elif label in NEEDS_RM and not (RM_RE.search(n) or (prx and prx.search(n))):
+            d["reason"] = "not about Real Madrid"
+        elif label == "⚽ Result" and STAT_RE.search(n) and not SCORE_RE.search(n):
+            d["reason"] = "player stats"
         else:
-            how = "keywords"
-            if SOFT_IGNORE_RE.search(n):
-                return "skip: lifestyle"
-            label = classify(n)
-            if not label:
-                remember_skip(state, post, "no important keywords")
-                return "skip: not important"
-            if label in NEEDS_RM and not (RM_RE.search(n) or (prx and prx.search(n))):
-                return "skip: not about Real Madrid"
-            if label == "⚽ Result" and STAT_RE.search(n) and not SCORE_RE.search(n):
-                return "skip: player stats"
             status = get_status(n, label)
-            dup = find_duplicate(state, toks, names, label)
-            big = status == "official" and label in URGENT
+            d.update(send=True, status=status, dup=find_duplicate(state, toks, names, label),
+                     big=status == "official" and label in URGENT, reason="important keywords")
 
-        if not is_enabled(state, label):
-            return f"skip: {label} is off"
-        if opt(state, "players_only") and prx and label not in PLAYER_EXEMPT and not prx.search(n):
-            return "skip: not about my players"
-
-    update = False
-    if dup:
-        if status == "official" and dup["status"] != "official":
-            update = True
-            dup["superseded"] = True  # the summary shows only the official version
+    if d["send"] and not is_enabled(state, d["label"]):
+        d.update(send=False, reason=f"{d['label']} is turned off")
+    if (d["send"] and opt(state, "players_only") and prx and d["label"] not in PLAYER_EXEMPT
+            and not prx.search(n)):
+        d.update(send=False, reason="not about your players")
+    if d["send"] and d["dup"]:
+        if d["status"] == "official" and d["dup"]["status"] != "official":
+            d["update"] = True
         else:
-            return f"skip: duplicate [{how}]"
+            d.update(send=False, reason="duplicate", dup_skip=True)
+    return d
 
-    quiet = backfill or (opt(state, "quiet") and in_quiet_hours() and not big)
+
+def publish(state, post, label, status, big=False, update=False, dup=None, backfill=False,
+            top=None, markup=None, ids_out=None, remember=True, quiet=None):
+    """Send a post to the channel and remember it."""
+    if update and dup:
+        dup["superseded"] = True  # the summary shows only the official version
+    if quiet is None:
+        quiet = backfill or (opt(state, "quiet") and in_quiet_hours() and not big)
     when = post.ts if backfill else None
-    msg_id = send_post(post, label, status, quiet, update, when)
+    msg_id = send_post(post, label, status, quiet, update, when, top, markup, ids_out)
+    if not remember:
+        return quiet
     posted = datetime.fromtimestamp(when, TZ) if when else datetime.now(TZ)
     state.setdefault("sent", []).append({
         "ts": time.time(), "date": posted.date().isoformat(),
-        "tokens": sorted(toks), "names": sorted(names), "cat": label, "status": status,
+        "tokens": sorted(tokens(post.text)), "names": sorted(names_of(post.text)),
+        "cat": label, "status": status,
         "headline": headline(post.text), "link": my_link(msg_id, post.link),
     })
-    return f"SENT {label} {status} [{how}]" + (" (silent)" if quiet else "")
+    return quiet
+
+
+def process_post(state, post, rm_only, backfill=False, force=None):
+    """Decide about one post and send it if it's worth it. Returns a short log line.
+    force=(label, status) skips the judging (used when he asks to post a skipped item)."""
+    if force:
+        if not post.text:
+            return "skip: no text"
+        publish(state, post, force[0], force[1])
+        return f"SENT {force[0]} {force[1]} [you]"
+
+    d = decide(state, post, rm_only)
+    if d["hard"]:
+        return f"skip: {d['reason']}"
+    if opt(state, "training") and state.get("train_in_channel", True) and not backfill:
+        if d["dup_skip"]:
+            return "skip: duplicate"
+        return train_in_channel(state, post, d)
+    if opt(state, "training") and not backfill and not d["dup_skip"]:
+        try:
+            send_training_card(state, post, d)
+        except Exception as e:
+            print(f"  training card failed: {e}")
+    if not d["send"]:
+        if not d["dup_skip"]:
+            remember_skip(state, post, d["reason"])
+        return f"skip ({d['how']}): {d['reason']}"
+    quiet = publish(state, post, d["label"], d["status"], d["big"], d["update"], d["dup"], backfill)
+    return f"SENT {d['label']} {d['status']} [{d['how']}]" + (" (silent)" if quiet else "")
+
+
+# ---------------------------------------------------------------------------
+# Training mode: every post goes to his private chat with 👍/👎, showing my guess
+# ---------------------------------------------------------------------------
+def send_training_card(state, post, d):
+    owner = OWNER_ID or state.get("owner")
+    if not owner:
+        return
+    if d["send"]:
+        guess = f"I'd SEND it · {esc(d['label'])}" + (f" · {TAGS[d['status']]}" if d["status"] in TAGS else "")
+        icon = "✅"
+    else:
+        guess = f"I'd SKIP it · <i>{esc(d['reason'] or 'not important')}</i>"
+        icon = "🙈"
+    body = esc(post.text[:3300]) + ("…" if len(post.text) > 3300 else "")
+    text = (f"🎓 {icon} {guess}\n\n{body}\n\n"
+            f'🔗 <a href="{post.link}">@{post.src}</a>')
+    seq = state.get("train_seq", 0) + 1
+    state["train_seq"] = seq
+    pend = state.setdefault("train_pending", {})
+    pend[str(seq)] = {"t": post.text[:1200], "ai": d["send"], "label": d["label"] or "📰 Other",
+                      "status": d["status"], "src": post.src, "id": post.id,
+                      "m": post.media[:4], "reason": d["reason"]}
+    while len(pend) > 150:
+        pend.pop(next(iter(pend)))
+    tg("sendMessage", chat_id=int(owner), text=text, parse_mode="HTML",
+       disable_notification=True,  # don't buzz his phone for every training post
+       link_preview_options={"url": post.link, "prefer_small_media": True,
+                             "is_disabled": not (post.media or post.too_big)},
+       reply_markup={"inline_keyboard": [[
+           {"text": "👍 Want it", "callback_data": f"tr:{seq}:+"},
+           {"text": "👎 Don't want", "callback_data": f"tr:{seq}:-"}]]})
+
+
+def guess_line(d):
+    if d["send"]:
+        return "🎓 ✅ <i>I'd send this</i>"
+    return f"🎓 🙈 <i>I'd skip this - {esc(d['reason'] or 'not important')}</i>"
+
+
+def train_in_channel(state, post, d):
+    """Training in the channel: post EVERYTHING with my guess and 👍/👎 (only he can press them)."""
+    seq = state.get("train_seq", 0) + 1
+    state["train_seq"] = seq
+    label = d["label"] or "📰 Other"
+    markup = {"inline_keyboard": [[
+        {"text": "👍 Want it", "callback_data": f"tr:{seq}:+"},
+        {"text": "👎 Don't want", "callback_data": f"tr:{seq}:-"}]]}
+    # things I'd skip arrive silently, things I'd send follow the normal night rules
+    quiet = True if not d["send"] else None
+    ids = []
+    publish(state, post, label, d["status"], d["big"], d["update"], d["dup"],
+            top=guess_line(d), markup=markup, ids_out=ids, remember=d["send"], quiet=quiet)
+    pend = state.setdefault("train_pending", {})
+    pend[str(seq)] = {"t": post.text[:1200], "ai": d["send"], "label": label,
+                      "status": d["status"], "src": post.src, "id": post.id,
+                      "m": post.media[:4], "reason": d["reason"], "ch": ids}
+    while len(pend) > 300:
+        pend.pop(next(iter(pend)))
+    return f"TRAIN {'send' if d['send'] else 'skip'} {label} [{d['how']}]"
+
+
+def training_stats_text(state):
+    st = state.get("train_stats", {})
+    n, recent = st.get("n", 0), st.get("recent", [])
+    if not n:
+        return "no ratings yet"
+    r = recent[-20:]
+    return (f"you rated {n} · I agreed with you {sum(r)}/{len(r)} "
+            f"({round(100 * sum(r) / len(r))}%) of the last {len(r)}")
 
 
 def check_source(state, src, rm_only):
@@ -832,6 +954,7 @@ def menu_text(state):
         "• Forward me any post → rate it 👍/👎\n"
         "• Just write what you want, e.g. <i>I don't care about loaned players</i>\n"
         "• /skipped - posts I didn't send (tell me if I missed something)\n"
+        "• /train - training: every post goes to the channel with 👍/👎 so I learn fast\n"
         "• /brain - what I've learned about you"
     )
 
@@ -881,6 +1004,9 @@ def brain_text(state):
         lines.append(f"Today: {u['calls']} AI checks, {u['tokens']:,} tokens")
     else:
         lines.append("Status: OFF - using the keyword filter (add GROQ_API_KEY to turn me on)")
+    where = " (in channel)" if state.get("train_in_channel", True) else " (private chat)"
+    lines.append(f"🎓 Training mode: {'ON' + where if opt(state, 'training') else 'off'} - "
+                 f"{training_stats_text(state)}")
     lines.append(f"Posts you rated: {sum(f['v'] == '-' for f in fb)} 👎, "
                  f"{sum(f['v'] == '+' for f in fb)} 👍")
     prefs = state.get("prefs", [])
@@ -959,6 +1085,31 @@ def handle_message(state, m):
     elif cmd == "/summary":
         tg("sendMessage", chat_id=uid, text=summary_text(state), parse_mode="HTML",
            link_preview_options={"is_disabled": True})
+    elif cmd == "/train":
+        a = arg.strip().lower()
+        if a in ("off", "0", "stop", "no"):
+            state.setdefault("opts", {})["training"] = False
+            tg("sendMessage", chat_id=uid,
+               text=f"🎓 Training mode OFF - the channel is filtered again.\nStats: {training_stats_text(state)}.")
+        else:
+            private = a in ("private", "dm", "here")
+            state.setdefault("opts", {})["training"] = True
+            state["train_in_channel"] = not private
+            if private:
+                where = ("I'll send you <b>every</b> Real Madrid post here in our chat (silently), "
+                         "with my guess. Your channel stays filtered as usual.")
+            else:
+                where = ("Your channel now gets <b>every</b> Real Madrid post (no filter), "
+                         "each with my guess on top:\n"
+                         "🎓 ✅ <i>I'd send this</i>  or  🎓 🙈 <i>I'd skip this</i>\n\n"
+                         "👍 = keep it in the channel\n"
+                         "👎 = it's removed from the channel\n"
+                         "Only you can press the buttons. Posts I'd skip arrive silently.")
+            tg("sendMessage", chat_id=uid, parse_mode="HTML", text=(
+                "🎓 <b>Training mode ON</b>\n\n" + where + "\n\n"
+                "Every time I guessed wrong I learn a rule and tell you here.\n"
+                "Progress: /brain · Stop: /train off"
+                + ("" if private else " · Train in our private chat instead: /train private")))
     elif cmd == "/brain":
         tg("sendMessage", chat_id=uid, text=brain_text(state), parse_mode="HTML")
     elif cmd == "/prefer" and arg.strip():
@@ -1010,6 +1161,84 @@ def handle_message(state, m):
 def handle_callback(state, q):
     kind, _, val = (q.get("data") or ":").partition(":")
     chat, msg_id = q["message"]["chat"]["id"], q["message"]["message_id"]
+
+    if kind == "noop":
+        tg("answerCallbackQuery", callback_query_id=q["id"])
+        return
+
+    if kind == "tr":  # rated a training card
+        key, _, v = val.partition(":")
+        x = state.get("train_pending", {}).pop(key, None)
+        if x is None:
+            tg("answerCallbackQuery", callback_query_id=q["id"], text="Already saved ✔")
+            return
+        wanted = v == "+"
+        agree = wanted == x["ai"]
+        fb = state.setdefault("feedback", [])
+        fb.append({"t": x["t"], "v": v, "miss": not agree})
+        del fb[:-40]
+        st = state.setdefault("train_stats", {"n": 0, "recent": []})
+        st["n"] = st.get("n", 0) + 1
+        st.setdefault("recent", []).append(1 if agree else 0)
+        del st["recent"][:-50]
+
+        owner = OWNER_ID or state.get("owner")
+        if x.get("ch"):  # the card is a post in the channel
+            if wanted:
+                if not x["ai"]:  # keep it in the summary / duplicate memory
+                    state.setdefault("sent", []).append({
+                        "ts": time.time(), "date": datetime.now(TZ).date().isoformat(),
+                        "tokens": sorted(tokens(x["t"])), "names": sorted(names_of(x["t"])),
+                        "cat": x["label"], "status": x.get("status") or "none",
+                        "headline": headline(x["t"]), "link": my_link(x["ch"][0], "")})
+                if (q["message"].get("text") or "") == "👆 Rate this post":
+                    tg("deleteMessage", chat_id=chat, message_id=msg_id)  # helper under an album
+                else:
+                    tg("editMessageReplyMarkup", chat_id=chat, message_id=msg_id,
+                       reply_markup={"inline_keyboard": []})
+            else:  # he doesn't want it -> remove it from the channel
+                for mid in x["ch"]:
+                    tg("deleteMessage", chat_id=chat, message_id=mid)
+                for srec in state.get("sent", []):
+                    if srec.get("link", "").endswith(f"/{x['ch'][0]}"):
+                        srec["superseded"] = True
+            verdict = "✓ same as me" if agree else "✗ I got it wrong - learning"
+            tg("answerCallbackQuery", callback_query_id=q["id"],
+               text=f"{'👍 Kept' if wanted else '👎 Removed'} · {verdict}")
+            if not agree:
+                try:
+                    learned = learn(state, x["t"], v)
+                    if learned and owner:
+                        tg("sendMessage", chat_id=int(owner), disable_notification=True,
+                           text=f"🧠 Learned: {learned}\n(from: {headline(x['t'], 70)})")
+                except Exception as e:
+                    print(f"learn failed: {e}")
+            return
+
+        note = ""
+        if wanted and not x["ai"]:  # I skipped it but he wanted it -> post it now
+            post = Post(x["src"], x["id"], x["t"], [tuple(mm) for mm in x.get("m", [])], False)
+            n = norm(x["t"])
+            label = x["label"] if x["label"] in CATEGORIES else (classify(n) or "📰 Other")
+            try:
+                publish(state, post, label, x.get("status") or get_status(n, label))
+                note = " · posted to channel"
+            except Exception as e:
+                print(f"post failed: {e}")
+        verdict = "✓ same as me" if agree else "✗ I got it wrong - learning"
+        tg("answerCallbackQuery", callback_query_id=q["id"], text=f"Saved · {verdict}")
+        tg("editMessageReplyMarkup", chat_id=chat, message_id=msg_id, reply_markup={
+            "inline_keyboard": [[{"text": f"{'👍' if wanted else '👎'} saved · {verdict}{note}",
+                                  "callback_data": "noop"}]]})
+        if not agree:
+            try:
+                learned = learn(state, x["t"], v)
+                if learned:
+                    tg("sendMessage", chat_id=chat, text=f"🧠 Learned: {learned}",
+                       reply_parameters={"message_id": msg_id}, disable_notification=True)
+            except Exception as e:
+                print(f"learn failed: {e}")
+        return
 
     if kind == "fb":  # rated a forwarded post
         key, _, v = val.partition(":")
@@ -1135,6 +1364,7 @@ def main():
         {"command": "backfill", "description": "Post important news from the last 48h"},
         {"command": "brain", "description": "What I've learned about your taste"},
         {"command": "skipped", "description": "Posts I didn't send - tell me if I missed one"},
+        {"command": "train", "description": "Training mode on/off - rate every post"},
     ])
     print(f"brain: {ai_provider() or 'off (keyword filter)'}")
 
