@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59189,
-  "themadridzone": 31049,
-  "FabrizioRomanoTG": 67207
+  "themadridzone": 31051,
+  "FabrizioRomanoTG": 67208
  },
  "sent": [
   {
@@ -1345,8 +1345,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 11,
-  "tokens": 13116
+  "calls": 12,
+  "tokens": 14433
  },
  "pending_fb": {},
  "feedback": [
@@ -1543,6 +1543,19 @@
    ],
    "r": "Lifestyle/brand news, not relevant",
    "h": "🚨 Thibaut Courtois has PURCHASED the GK gloves brand REAL."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31051,
+   "t": "🚨 Álvaro Arbeloa: “Can I handle this pressure? Maybe they don't know me, but I played for the best team in the world. \n\nI've coached the best team in the world. \n\nMaybe they don't know it, but just so they know, pressure has been part of my life since I was a kid.\n\nI never worry about my position. I don't feel fear. \n\nYou can't be a coach if you feel it. You have to work, make decisions, and show confidence to the players. \n\nI'm very happy with many of the things the team is doing. I know it's not easy for them.”\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/JrT0Sw1Awx4iL_6HKl-wmstzJ-KHfac1E8QhHv2g5psbtYYhOJlbhnM5fy2EJbghi9qCzDYR2PiMHacbcScY_wR1JPj7qDG1O7PblD8sBtmPFkHySOA5ILHE5fUKFuNluPuU9Cv13ecahi4r9Yd0FdpFoBuuZO9IJ082AOxms2SRon27a9Z47rx8SG1nYMkutRvyC9gu487iPOZV3IAEP8Z8sKWDgJ6YjLLzaRQvPIKnCC9bD8S-qzxHZFs-uqwHwwk515sSsJjRTP9MtYN_YN8Q5eowZmfWjzagfPiazIXjkpnyPpiPw64Wc3CWlgZ06rEquRIYg20ys9i9nn54Hw.jpg"
+    ]
+   ],
+   "r": "Just personal comment, no actionable news",
+   "h": "🚨 Álvaro Arbeloa: “Can I handle this pressure? Maybe they don't know me, but I …"
   }
  ],
  "summary_date": "2026-10-11",
