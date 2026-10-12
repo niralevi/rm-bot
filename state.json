@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59202,
+  "real_madrid": 59204,
   "themadridzone": 31079,
   "FabrizioRomanoTG": 67214
  },
@@ -1590,8 +1590,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 45,
-  "tokens": 66288
+  "calls": 46,
+  "tokens": 68150
  },
  "pending_fb": {},
  "feedback": [
@@ -1927,7 +1927,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 28,
+ "train_seq": 29,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2075,6 +2075,28 @@
    "reason": "duplicate of already posted update",
    "ch": [
     77
+   ]
+  },
+  "29": {
+   "t": "🚨 CONFIRMED: Real Madrid will APPEAL for Vini Jr.’s red card and Ibrahima Konate’s yellow card. [COPE]",
+   "ai": false,
+   "label": "🟥 Discipline",
+   "status": "official",
+   "src": "real_madrid",
+   "id": 59204,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/vQF7H56eyUbFb0CLh2LGcg_p8x8tv9-dwV39upBJh0zRgp3LewxORZ2sWXuH6-mrj9wxZyU5wKRRD_84RHLi2fpJibuJwnZGGHrhYmoblFix--H4ny_etF_zutluxXmsO7qyzsQUbbvIG6TLdeusYGYpLRZeK3Q0vI2QB682JWe91-jwL3mgcIFUV4h_71xFQAaHuNuThpa9CpUrZ_zqIO7BkNJ7v6Szq7hykkia4shwcJUKg-5MtLIBYGR3SZgoPLvZ-sDVXiuZppnDk8xnCUX1Cc_xQO0V1Nv20fNMUVa_sQo2vpRs0yqUYqNGXu22hFyNZLgqk78WwO8cUOdgag.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/BBTgRodpyeqyOax2iA74E8ZWOaRLSmMzxPrdMui5BKOeSjXqCODsmHf2T0kSLaFxr903njkLV_oDh047V0yPZa84RTyXHf9We496RUBTo8ClYzY0bg0K5ec2YfWVLM2TnS_teRPGuRyfaAal0zHmm0LQPe7iaqDk8DJ--zZoG1-yEdhlBqrBvaModZbFBuZ1AHFBt2PwTK8BsdRYGz5VJjPMDqCeRKvRYQ4LN819OXz-lxVDc4-5tg8kwdW1NwzcjLgUmEe6WkkmhfoAckIW4xRSWUzvY2Wx8BUn4TkiBcs07RO3aBBdJhUb_Z9Mhq0-BCqRKjN9SglGLdN9cq4VtQ.jpg"
+    ]
+   ],
+   "reason": "duplicate of existing post",
+   "ch": [
+    86
    ]
   }
  },
