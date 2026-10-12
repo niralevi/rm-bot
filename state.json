@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59189,
-  "themadridzone": 31044,
+  "themadridzone": 31047,
   "FabrizioRomanoTG": 67203
  },
  "sent": [
@@ -1322,6 +1322,22 @@
    "status": "official",
    "headline": "🚨 CONFIRMED: Vini Jr's relationship with Virginia is FULLY OVER.",
    "link": "https://t.me/RealMadridImportantOnly/47"
+  },
+  {
+   "ts": 1791776421.4678893,
+   "date": "2026-10-12",
+   "tokens": [
+    "kylian",
+    "mbappe"
+   ],
+   "names": [
+    "kylian",
+    "mbappe"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "headline": "Kylian Mbappé 🌪️",
+   "link": "https://t.me/RealMadridImportantOnly/49"
   }
  ],
  "offset": 769011879,
@@ -1329,8 +1345,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 6,
-  "tokens": 7136
+  "calls": 9,
+  "tokens": 10717
  },
  "pending_fb": {},
  "feedback": [
@@ -1471,6 +1487,32 @@
    ],
    "r": "No news, just fan sentiment",
    "h": "Jose Mourinho’s passion 🤍🔥"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31045,
+   "t": "📲 Jude Bellingham and Vini Jr. supporting Eriling Haaland on IG after his performance at Anfield yesterday.\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/av98s-DQdYcVybm4VSqxmvYwENKg7sYHrlLdTNOwthpOAxskJioxMaj2G99ShY1Umo4A4Zg4EY1MqntIZIz8f6hih0PvMpHoN4Z_E3wpST0bkt3qlcmBuXLqcAH5B3i-L8jAP8Rhha5VyDyaUw4spJfE8sJ8dVXC3WT0myrAvYGReM8SNJTkYDboAmksBaaR36xkjIEw9JZpMgl-TgxLh9UrKP_g1zPy4cqEdmhiLT2eoydYGJS2yQwCZSpPWfCA0FE2S83zHpq1hhul8-ZFN8Fwj5PhX-bIe4wiDCiYJRH0UnkDWutZwLOTRZB2QU_pWZG4e6x3MJM5yPNsksV4cg.jpg"
+    ]
+   ],
+   "r": "Lifestyle/social media, not news",
+   "h": "📲 Jude Bellingham and Vini Jr. supporting Eriling Haaland on IG after his perfo…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31047,
+   "t": "All smiles. 🤍😁\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Tzml89UWyVvIT9KeMN3OvbOLkhEzdNyUcr8OvjMPqVJHcaK_5aOUQ9nDkHrNsYs-zySMCr6BBUpp47hcEw8qSa00FhYb-_-sqw_6_AOGaCbbe6YMh7bi1epA4l3bEfNd3UPA8XOz0QXhZyJPYfcbkzYuhsB961v4lt-0LUr7JEdtSQZ8HwP-3ql8Sq0PetnSqT3phdoQdfM0yanyEofDOKX8jIJ938e3owwg2516F2Ybupt4ovZ-dnVSAWJwSfbr3MSVVtH-Sb9tp2CwSUvDe0Q_VnkN40-0iZEzG_pKM-smiVBsbZjMmWcXBk_aH7MxrBHGV2-DqGIrJWsT3-PepA.jpg"
+    ]
+   ],
+   "r": "No relevant Real Madrid news",
+   "h": "All smiles. 🤍😁"
   }
  ],
  "summary_date": "2026-10-11",
