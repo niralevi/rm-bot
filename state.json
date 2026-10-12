@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59194,
-  "themadridzone": 31059,
+  "themadridzone": 31063,
   "FabrizioRomanoTG": 67211
  },
  "sent": [
@@ -1436,13 +1436,13 @@
    "link": "https://t.me/RealMadridImportantOnly/61"
   }
  ],
- "offset": 769011916,
+ "offset": 769011920,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 27,
-  "tokens": 34964
+  "calls": 29,
+  "tokens": 38087
  },
  "pending_fb": {},
  "feedback": [
@@ -1485,6 +1485,16 @@
   {
    "t": "🚨🤍 Real Madrid have reached an agreement in principle with Thibaut Courtois over new contract.\n\nThe club considers Courtois a key player, top in the world and new deal will be signed soon after verbal agreement.\n\nCurrent deal expires in June 2027 but Thibaut will defend Real Madrid’s goal also next season, 2027/28.\n — Fabrizio Romano (@FabrizioRomano)\n Oct 12, 2026",
    "v": "+",
+   "miss": false
+  },
+  {
+   "t": "🚨 Cristiano Ronaldo: “Everything has to happen naturally. Whether I score 920 goals, 925 goals, 930 goals. \n\nI am the GREATEST PLAYER OF ALL TIME. Period. \n\nWhen it comes to scoring goals, the numbers speak for themselves.” @cnnportugal\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "🚨 Cristiano Ronaldo: “Everything has to happen naturally. Whether I score 920 goals, 925 goals, 930 goals. \n\nI am the GREATEST IN HISTORY. Period. \n\nWhen it comes to scoring goals, the numbers speak for themselves.” @cnnportugal\n\n@TheMadridZone",
+   "v": "-",
    "miss": false
   }
  ],
@@ -1702,7 +1712,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 12,
+ "train_seq": 14,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -1836,12 +1846,14 @@
   }
  },
  "train_stats": {
-  "n": 5,
+  "n": 7,
   "recent": [
    1,
    1,
    0,
    0,
+   1,
+   1,
    1
   ]
  },
