@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59194,
-  "themadridzone": 31058,
+  "themadridzone": 31059,
   "FabrizioRomanoTG": 67210
  },
  "sent": [
@@ -1364,8 +1364,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 24,
-  "tokens": 30765
+  "calls": 25,
+  "tokens": 32249
  },
  "pending_fb": {},
  "feedback": [
@@ -1614,7 +1614,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 10,
+ "train_seq": 11,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -1744,6 +1744,28 @@
    "reason": "🚑 Injury is turned off",
    "ch": [
     59
+   ]
+  },
+  "11": {
+   "t": "🚨 Cristiano Ronaldo: “If you prefer Messi, Pelé or Maradona, I respect that. It’s personal preference.\n\nBut saying Cristiano Ronaldo is NOT a complete player is a LIE.\n\nI am the MOST COMPLETE PLAYER.” @CNN\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31059,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Z_KUzCm3_i-pc_grjuQQGLgvW2ujG0VQ7K25To90ukwu9vWRfFG8D58OYvYEDvtAbVOzQUS-fqZIzc3of6l4t27NA-GZbj4svCNJJRW0Jquce4XkNzgNiV87YsFTfgKf0f4TlO6AYdiX0t2nlwpSXsirXpYQoKUuBP5sL5KjEzfxNPIEhFCLvC3idOeCaWoU0bKv90iP-w4_0wkViBTGyhB69luZv6tvpucuzwsUkETGtX3k6c2zRpKL1kMZoXrDfAgV_OUuJlAAm2Y26wyiAInNqKqT6iQCDft7sICyGHcwWhu47yXUcly2cMzFfrc28IzZ5vsMhdlaiUI_hrrF4A.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/QNE4LHV-pjPoAuqYWwclPEMgPw4JmUnML_kcKn-DrKZghnFMIZgEmriiQPzAm4CIdSqa7VTpNopCjyPxBqjvqGvczN1FJwsjaM8qObWhENO6LSrVxS2mRowbXQhuQVS9UB1cJ58Zey3HhFD9B0OzZ9UPeG3R-dCTkWN2fATk_RNXsbRhEMjHZjTJh1KSWRrJzJlEq4vLxUqmFWme1gkiY37wteWCUexjGewzMuqoIh2h0zXjCbMhTkV-GpDX_UGnd03b-hhHaahUc2sCa_0q_riHci7rZ2eOBAO307uelaYWlcgFlSkXcl6VKodwpFwrAdNx4_TdoWwdFJHyU3rqng.jpg"
+    ]
+   ],
+   "reason": "Not club‑related news",
+   "ch": [
+    61
    ]
   }
  },
