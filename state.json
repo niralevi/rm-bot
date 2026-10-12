@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59204,
-  "themadridzone": 31086,
+  "themadridzone": 31088,
   "FabrizioRomanoTG": 67219
  },
  "sent": [
@@ -1590,8 +1590,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 55,
-  "tokens": 85408
+  "calls": 57,
+  "tokens": 89112
  },
  "pending_fb": {},
  "feedback": [
@@ -1932,7 +1932,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 38,
+ "train_seq": 40,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2231,6 +2231,42 @@
    "reason": "No substantive Real Madrid news",
    "ch": [
     96
+   ]
+  },
+  "39": {
+   "t": "Endrick ⚔️ Alvaro Carreras 🇧🇷🇪🇸\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31087,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/sABbNISExlDPBUjuMQUm87Dk-OwQDoxORhTar42h6KNOhTYDOPvwtLdHVDgfENf0Ujn6c0_jwk6HpQzKhF7nSFPKasZoDPXqYCpFRkCfSIlRGMWa8C8f7A_QmTz1jzAYbkRKskG6IPexNRlvpJFDMZaghVmYkwZ1o50Cjo6J79r9hcu1CM070IhwtqWHas692V1Wepw4GHD_uIVnCepUIDlPtttIPpHU81KlWlkswsTQNAa0F9Z7hK8mmI1shMmzXweKk1rtrpx5ZRgM6flc0flMTTac1JyUPU3prKhf_N0OWCTdogx47HeFq1GKu_3t83dCZdVc8acF8bhq6kET_w.jpg"
+    ]
+   ],
+   "reason": "No substantive Real Madrid news",
+   "ch": [
+    97
+   ]
+  },
+  "40": {
+   "t": "🚨 Ferland Mendy is BACK! 🇫🇷\n\n@TheMadridZone",
+   "ai": false,
+   "label": "🚑 Injury",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31088,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/DrirG-jO6uVyuygYRjhMTf3GZTZBhQ6neu8Yonoc_D20TLYJ_1dYsn3fT0a8Gy_OVVY5Y2cvhzwwX7Z6rH9sBFzso7jRaQbfj_CiuCKtAAKGxsGXzbNr_dR-3MTdcvTCx61LW7p1clSZy85wJ-1w-UH_KoAnJD3IWrcubMuGylPhMfdsp7Hw1jBGK5jqIze93QAn3-iGzWFHHFOmIhMipTsLU3r66H176H9fRW4YPVMHSPbZlkGiTuOrnASbeezNUwlrX45ql_S7SLLA1ya5qsTA-U03TieY95UOrXQFQHx3vOXVBZxDcJ-Y3iDsK7b7H8VvcITlJgbwLiYjJd5ovg.jpg"
+    ]
+   ],
+   "reason": "duplicate of existing post",
+   "ch": [
+    98
    ]
   }
  },
