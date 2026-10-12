@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59189,
-  "themadridzone": 31047,
+  "themadridzone": 31048,
   "FabrizioRomanoTG": 67203
  },
  "sent": [
@@ -1345,8 +1345,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 9,
-  "tokens": 10717
+  "calls": 10,
+  "tokens": 11907
  },
  "pending_fb": {},
  "feedback": [
@@ -1513,6 +1513,19 @@
    ],
    "r": "No relevant Real Madrid news",
    "h": "All smiles. 🤍😁"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31048,
+   "t": "🚨 Marc Cucurella to referee after Vini Jr.’s red card: \n\n“Next time they touch one of my hair you better go off to check VAR.” @DAZN_ES\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/mfn8a0y01Bj6xrlDyMn-E_ob6_Xy2JGxYPE5otyrmKV4FB3YA_LgGHryT5HC47-hr8oAMvwxorVJmhZA59YA6LA59MC68TJMA2GJPopdGD6CmbMk9YJfAppLhXrWm5JxRFgWIQ3vGcU2Ufm_xVrWgQdQXtBMVrF_yLmngZETUdO8YnNtxxvfKULJtr0S4KxwX4wO0-JGcLeKysRBMjwPeAm96V8bn7kNZzz9irEwZ5_TiMT_GiF2os3UsCbGv5f-of4cYEMj3k5oMjh-CrUoD0AKGJkGVqPqXo0-w_2Q4nZ5koP7iUA0O-4FZnOw4BtH7k25J7yS6FgqaiMquwSumA.jpg"
+    ]
+   ],
+   "r": "Irrelevant joke, no real news",
+   "h": "🚨 Marc Cucurella to referee after Vini Jr.’s red card:"
   }
  ],
  "summary_date": "2026-10-11",
