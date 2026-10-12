@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59199,
+  "real_madrid": 59200,
   "themadridzone": 31074,
   "FabrizioRomanoTG": 67212
  },
@@ -1542,15 +1542,34 @@
    "status": "official",
    "headline": "🚨 CONFIRMED: Real Madrid will APPEAL for Vini Jr.’s red card and Ibrahima Konate’s yellow card. @COPE",
    "link": "https://t.me/RealMadridImportantOnly/72"
+  },
+  {
+   "ts": 1791812880.8609073,
+   "date": "2026-10-12",
+   "tokens": [
+    "back",
+    "ferland",
+    "mendy",
+    "team",
+    "train"
+   ],
+   "names": [
+    "ferland",
+    "mendy"
+   ],
+   "cat": "🚑 Injury",
+   "status": "fact",
+   "headline": "🚨💣 BREAKING: Ferland Mendy is BACK in team training.",
+   "link": "https://t.me/RealMadridImportantOnly/74"
   }
  ],
- "offset": 769011936,
+ "offset": 769011937,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 38,
-  "tokens": 53669
+  "calls": 39,
+  "tokens": 55435
  },
  "pending_fb": {},
  "feedback": [
@@ -1638,6 +1657,11 @@
   {
    "t": "Villarreal player pulling Mbappe down from his shirt as he takes a shot.\n\nNo penalty, no VAR intervention, not even a replay 🤣\n\n@TheMadridZone",
    "v": "-",
+   "miss": false
+  },
+  {
+   "t": "🚨💣 BREAKING: Ferland Mendy is BACK in team training.",
+   "v": "+",
    "miss": false
   }
  ],
@@ -1856,7 +1880,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 21,
+ "train_seq": 22,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -1990,7 +2014,7 @@
   }
  },
  "train_stats": {
-  "n": 14,
+  "n": 15,
   "recent": [
    1,
    1,
@@ -2001,6 +2025,7 @@
    1,
    1,
    0,
+   1,
    1,
    1,
    1,
