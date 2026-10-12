@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59204,
-  "themadridzone": 31081,
+  "themadridzone": 31086,
   "FabrizioRomanoTG": 67219
  },
  "sent": [
@@ -1590,8 +1590,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 50,
-  "tokens": 76143
+  "calls": 55,
+  "tokens": 85408
  },
  "pending_fb": {},
  "feedback": [
@@ -1932,7 +1932,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 33,
+ "train_seq": 38,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2141,6 +2141,96 @@
    "reason": "Not about Real Madrid news",
    "ch": [
     91
+   ]
+  },
+  "34": {
+   "t": "Vini Jr x Carlos Espi x Bernardo Silva\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31082,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/BQ_SKW6a2X9DYvQAUJR8IquKcBz4baERqDkQON09NdR9BWxi9iuQQ1EL-n29PvgiocWcRGLEvkkLuLXAIMDphrC1z3LYVcQWU10aznqTqSTEa-2sdlqNmZsPEcFIGEkrCnEHE3zeUjcVVUHd7-sZK5o7vzZBSZnusVHTttI9_8YAahqPJofnkOn9dVuSzRatO2kzNAH0akADu68QFBrN-sbaSDzLwwPQe28sclEevMEN0VB2P3iPToSsApWcm-DqakLBz9ohnzvIaFHzXnpsDlf2tLsvah-iC7f3EyyCFqgcWgXuEn1-SL9ejX0-zHMKvaTW8zkcJ3Sy51wLnxtmhg.jpg"
+    ]
+   ],
+   "reason": "Irrelevant speculation, no real news",
+   "ch": [
+    92
+   ]
+  },
+  "35": {
+   "t": "Bernardo ⚔️ Dumfries\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31083,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Dpr4qLXVLzS06HeUgWSoLtPM5IkCY3uL5tzf1Z1eU92qwsR4cR_DgXJxRSk-Huxk1YkaZOwS1cZRvA7IbNpQMpNYID8mzVqVTq_iw8cKDNpVqnwXopEkxjYn5Lsm1Mjy6O5h7I-fCrDzCeam17aF2kD3Ql9HPguetrU_AXOnKNZ_TSFlYsSozSkYef_SIc-zkvm8DcyqjRkJA6kPTTjVJDSQhlGkG-evKcxxa1K2ZfWTPxcTnClYgcS5x6flJfBd9ULPuGNz1fld7wKUgzu-1nKag01xVA9TAupOf545vhbfbysNYB1ZzfFa3xC_6swQKO_pfZ4XvRkqPtGXWapmsg.jpg"
+    ]
+   ],
+   "reason": "Irrelevant, no Real Madrid content",
+   "ch": [
+    93
+   ]
+  },
+  "36": {
+   "t": "Vini Jr x Marc Cucurella\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31084,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/KHXOIGKyT5Q8mUzyri6F2jHJIAcdue78oXUAWelcS1STcqRiUwGFQY-NQ9TNkatCrKCoPjbFRvEDwG8a_q0NcKS0Iaa8cGERRZGAXRP0BSGWfhaWWuUJ00daHeAVe4IbyU0w12zDX4d0sM9_OvvG84mfqYJzp_bMO6lSM7AlDSwWC_0oolbYuyVBVPfkbkEnl1gio0tJcYU2mHfLF91kdW-dqPIROY0Jirpt2xamHpa1XyDvpClzwYWTMj2A3Ln1GEqh4QcqRkWoY66gMRYg21EjjTR1Uqn1As6BY1g-Ji31I5_nWaq7mCs7TadOQWQmNeiHskurjeY8DiFbJS1SiA.jpg"
+    ]
+   ],
+   "reason": "Irrelevant, no real news",
+   "ch": [
+    94
+   ]
+  },
+  "37": {
+   "t": "Carlos Espi and Dean Huijsen in training 🇪🇸\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31085,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Fu-xLgtrMzp5FW4LEwFWXjDpI8adXqeVNwc7eqodOVUD2WtrGX5JZIzZtJ4JEL1QmaWa3GJvCEh4xB8GXO-F-bytmduyRuXyT_VEDdVm0p2Z5104YdgZSKohsMCq8edR98Cpc6ftdHWPMqiKkZKQXcyuYFuh1o-cD4JhfU1R_jhphbz0JmFGsfZKvQl9SM2Iz6v6yBX9aiHbpq1ie8xtJxuqXdIpR9U9VesbWfVZG7lj_2UclYmf-yqX2BVykpE2yvhGhmquWRLr3dMPnn792VujABvCsK51OMkY1lxNT9zGdDhRstMI2nY9xRvLsmD34w4NLoIck1IMTUjFLPhtFA.jpg"
+    ]
+   ],
+   "reason": "training update, not newsworthy",
+   "ch": [
+    95
+   ]
+  },
+  "38": {
+   "t": "Endrick x Vini Jr 🇧🇷🇧🇷\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31086,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Ip3Qx2POz7-GZgLcmi7nNZg4qyEYFfxxRKdrhOtN3QUCebNFEYako_0OAPb1AbMC3NPQLxGKzrIfw2s6kBS9eM5gqk2YPdBx5rmKTaHiIYpgtNXLXd8OsLrQ9NdZ6U3cYweBSEVx601J1w_xsHBxT_3dk8frsv7X999EveBA6gfetlPN8m2a8kKZg0O57ia_EHZ-iEtOlMcGseA-UNwGfmBaFte7kQG9w2xTItNGhzBvbMqwrHIPXhch0IDY8Tiup3P5-raWsFoWX3svhX79mglygHm4miYNmriKOVZLkAteFw8SOVPGtAJUjYQqObigCZN_SHh4YGnnpqXG8O20JA.jpg"
+    ]
+   ],
+   "reason": "No substantive Real Madrid news",
+   "ch": [
+    96
    ]
   }
  },
