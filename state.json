@@ -1585,7 +1585,7 @@
    "link": "https://t.me/RealMadridImportantOnly/79"
   }
  ],
- "offset": 769011940,
+ "offset": 769011944,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
@@ -1693,6 +1693,21 @@
   },
   {
    "t": "🚨 During Real Madrid's last 3 La Liga games:\n\n- Real Madrid committed 22 fouls, and received 9 yellow cards and 2 red cards.\n- Real Madrid's opponents in these games, committed 53 fouls, and received 8 yellow cards and 0 red cards.\n\n😂😂😂\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "🚨💣 Vini Jr went over to La Liga's match director after being sent off, and told him:\n\n\"THIS LEAGUE IS SH*T\" @DAZN_ES\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "🚨 UPDATE: Real Madrid have reached an AGREEMENT in principle to RENEW Thibaut Courtois. [FabrizioRomano] ✍️",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "RT @FabrizioRomano: 🚨🔵⚪️ Getafe have reached verbal agreement to sign Dani Carvajal, here we go!\n\nThe medical tests have been completed and the club is ready for announcement — only waiting for La Liga’s approval on Financial Fair Play limits.\n\nCarvajal said yes to Getafe — as ABC reported. https://t.co/mSabzHduvB\n — Fabrizio Romano (@FabrizioRomano)\n Oct 12, 2026",
    "v": "-",
    "miss": false
   }
@@ -2061,63 +2076,10 @@
    "ch": [
     77
    ]
-  },
-  "25": {
-   "t": "RT @FabrizioRomano: 🚨🔵⚪️ Getafe have reached verbal agreement to sign Dani Carvajal, here we go!\n\nThe medical tests have been completed and the club is ready for announcement — only waiting for La Liga’s approval on Financial Fair Play limits.\n\nCarvajal said yes to Getafe — as ABC reported. https://t.co/mSabzHduvB\n — Fabrizio Romano (@FabrizioRomano)\n Oct 12, 2026",
-   "ai": false,
-   "label": "✍️ Transfer & Contract",
-   "status": "rumour",
-   "src": "FabrizioRomanoTG",
-   "id": 67213,
-   "m": [],
-   "reason": "duplicate of earlier rumour",
-   "ch": [
-    81
-   ]
-  },
-  "26": {
-   "t": "🚨 UPDATE: Real Madrid have reached an AGREEMENT in principle to RENEW Thibaut Courtois. [FabrizioRomano] ✍️",
-   "ai": false,
-   "label": "✍️ Transfer & Contract",
-   "status": "official",
-   "src": "real_madrid",
-   "id": 59202,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/chfhaQb0YaPRV2A_Eff8IrhFPH8HLFkxRmpI2xLCzSNMKMRE6_PtylEe8JM2Wz1QNmlMJAKirPNi3uuVVSc5SR2JRtBVMfFpNhEKRCOe6fdd--ASTLCVhr8gdEEsn8AKnOJih8cpmJP-rs5SdXfbZPI6TBavCiXqqT9RbdrsCCttLQJtYF9jprCzsnWEMh76RJXCI0ZbF3tfXVTu0DB0lCVhD1wXyZokKhTT_9vDblxGhmffW1f_WSf30MmVI3dD-fNmrC09A8N_kcJ4beC_K5XS0OzMTUOIRoA2kBJYpXeOyl1j-GysSwB1sVnLxWRn6318RTiKv1abO-0AR_7Zqg.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/hIDNFF-8pHvNS82RpJSYf96V_ZXCrRQJxQE2oU9LbbfcuFqzhgQpdpI8UOAJkBmcvYfGUr0qoQ_WRtUEIWrQiVWUHjzy3r7zVRiixxiNPYE5675yp_tGa-aa45X3XfHVhGgX-KwQw1Tadz5hpOcBOrl8xL9sBijyOX-Xo7IRNQDzQ8Up1vx00imxXrs_ut5sVKsmFmW6xFkvgYP_aD30HlXfyeGIxslj53R2yxgorSMCeA9k1QcURiOmvYs-chi3FKtFykrI7l_yen8WRYS_bFUa0P4Vxbj66o2d3J9JYqnTuLDESXiQWDVvpJperix_gP_v374UefR9r_PJT69tmg.jpg"
-    ]
-   ],
-   "reason": "duplicate of earlier announcement",
-   "ch": [
-    82
-   ]
-  },
-  "28": {
-   "t": "🚨💣 Vini Jr went over to La Liga's match director after being sent off, and told him:\n\n\"THIS LEAGUE IS SH*T\" @DAZN_ES\n\n@TheMadridZone",
-   "ai": false,
-   "label": "🟥 Discipline",
-   "status": "fact",
-   "src": "themadridzone",
-   "id": 31079,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/VOJ8B375IDDgqcJ4INOjk4xUndri1pYv8B8n8cU4mIA-o92eHbZ6lBVfnzDHO7fFLHQrqIA7ZYXqoS8C1tosqztcJ7m7bBTzG_ZJ03DqQS7pbVQ-WyF2DDZbtH49a2EfXbbB2JEdgcvKvXcHZ6unI8jSrNDzIMDYX2gjHvkZ8knlxiWJJI-cfEI97gPzAsWU1kiwEUQSVXskWx_6nY3DMSmDY8a9mKkhsNUF4_ZP5RVcX5ww_qW0mJ26kLnimC6K_GvcLqFW2qvOqwDNMPaF-0SWWAbSjQ7SGSXIqi2QbfQNLr5-1lH4pIrU_SN9c-8IW4Y_LHikrwSv9HM1NyKASQ.jpg"
-    ]
-   ],
-   "reason": "Irrelevant profanity, no new info",
-   "ch": [
-    85
-   ]
   }
  },
  "train_stats": {
-  "n": 17,
+  "n": 20,
   "recent": [
    1,
    1,
@@ -2128,6 +2090,9 @@
    1,
    1,
    0,
+   1,
+   1,
+   1,
    1,
    1,
    1,
