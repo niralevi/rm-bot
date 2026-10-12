@@ -1338,15 +1338,34 @@
    "status": "rumour",
    "headline": "Kylian Mbappé 🌪️",
    "link": "https://t.me/RealMadridImportantOnly/49"
+  },
+  {
+   "ts": 1791800969.606899,
+   "date": "2026-10-12",
+   "tokens": [
+    "back",
+    "eder",
+    "militao",
+    "team",
+    "train"
+   ],
+   "names": [
+    "eder",
+    "militao"
+   ],
+   "cat": "🚑 Injury",
+   "status": "rumour",
+   "headline": "🚨💣 BREAKING: Éder Militão is BACK in team training.",
+   "link": "https://t.me/RealMadridImportantOnly/60"
   }
  ],
- "offset": 769011901,
+ "offset": 769011903,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 23,
-  "tokens": 29885
+  "calls": 24,
+  "tokens": 30765
  },
  "pending_fb": {},
  "feedback": [
@@ -1375,6 +1394,11 @@
    "t": "🗣️ Gary Lineker: “Can Jude Bellingham be one of the greatest of all time? \n\nYes, I’ve been saying it for a long time now. \n\nIf he avoids serious injury or falls of the rails which he won’t I’m sure. \n\nHe’s so good at football, he’s got everything.\n\nHe’s a superstar and carries himself like a superstar.” \n\n[wearetrackradio]",
    "v": "-",
    "miss": false
+  },
+  {
+   "t": "🚨💣 BREAKING: Éder Militão is BACK in team training.\n\n@TheMadridZone",
+   "v": "+",
+   "miss": true
   }
  ],
  "rules": [
@@ -1721,41 +1745,24 @@
    "ch": [
     59
    ]
-  },
-  "10": {
-   "t": "🚨💣 BREAKING: Éder Militão is BACK in team training.\n\n@TheMadridZone",
-   "ai": false,
-   "label": "🚑 Injury",
-   "status": "rumour",
-   "src": "themadridzone",
-   "id": 31058,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/GTcu02b5eN0LH1XdroJDsfB-lMkQin4MPDAdavTHGwsomFihDlh7BmH1DkA58mCsf4-p5yO1RAU8jIIMWDA5zIgydGQf2bAmruB1_KnHWevAIY_s0gKk5_A4AzA09jDzEyajQaYUzuGKtd2k_CgAHQacCDA_Gbqmt8H7gZKrIXwBI085ZB5kUPsHD3MpFSwbbU2uJFJDUWr-zFvBPXGMQHe357CGBz6-NDH1oeSS9hehEWwVGb11qrUr6wbqGx05Vsn5oAy6LCepJ54o2vqDCj9Si-PDkp8VOG8opRl5hSxWT90N7S6QyuD8d--FIRAnVdYkxVL42wUGsaAetY2hHQ.jpg"
-    ]
-   ],
-   "reason": "🚑 Injury is turned off",
-   "ch": [
-    60
-   ]
   }
  },
  "train_stats": {
-  "n": 2,
+  "n": 3,
   "recent": [
    1,
-   1
+   1,
+   0
   ]
  },
  "enabled": {
-  "🚑 Injury": false,
-  "✍️ Transfer & Contract": false,
-  "📋 Lineup & Squad": false,
-  "🟥 Discipline": false,
-  "👔 Coach & Board": false,
-  "⚽ Result": false,
-  "📢 Official": false,
-  "📰 Other": false
+  "🚑 Injury": true,
+  "✍️ Transfer & Contract": true,
+  "📋 Lineup & Squad": true,
+  "🟥 Discipline": true,
+  "👔 Coach & Board": true,
+  "⚽ Result": true,
+  "📢 Official": true,
+  "📰 Other": true
  }
 }
