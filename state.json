@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59189,
-  "themadridzone": 31036,
+  "themadridzone": 31044,
   "FabrizioRomanoTG": 67201
  },
  "sent": [
@@ -1328,9 +1328,9 @@
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "calls": 6,
-  "tokens": 5303
+  "tokens": 7136
  },
  "pending_fb": {},
  "feedback": [
@@ -1390,6 +1390,87 @@
    ],
    "r": "Personal relationship, not relevant",
    "h": "🚨 Official statement from Virginia's press office:"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31037,
+   "t": "Jude Bellingham’s influence 😮‍💨\n\n@TheMadridZone",
+   "m": [],
+   "r": "No concrete news, just commentary",
+   "h": "Jude Bellingham’s influence 😮‍💨"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31038,
+   "t": "Cam Little 🤝 Jude Bellingham\n\nThe Jaguars kicker HAD to pull out the Real Madrid and England star's iconic celebration!\n\n@TheMadridZone",
+   "m": [
+    [
+     "video",
+     "https://cdn4.telesco.pe/file/07e7ee5079.mp4?token=t1mNeMxWuwfxBMcaS5rWRgIBs8YEyPo8J1tObwplcs62W7vn31rheZrh83BwgavwpZkC3RPCaj9uAktloPNhCuj098NldCosU6QB-ZuS1eIWNyr03-K1XHHYrI5h1I3ks2prz0oyxQcx0LW43Hei_APOOjs3Or1DdEvivs6Zep1CEW_SpS25b1eOiz_9nAaQzvN0-h5qT7YNEB-ZzGhhBEVzeycmTr9C619cOY5tBjAEQZkIarIRdG_snYbHC3JP71HVTPtC6SABgqAZgfDfMYXJg-e11HXR8FnllrUFdOjk4hgKi-VhtgSfkUey_dR22Nb8pmnOl87Pb2-jmSpbi4WOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8"
+    ]
+   ],
+   "r": "Irrelevant celebration meme",
+   "h": "Cam Little 🤝 Jude Bellingham"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31039,
+   "t": "🗣️ Cam Little after securing the win for Jaguars in NFL today:\n\n“Hey, I know y’all saw the BELLINGHAM celebration there too.”\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/e7Ooi1souoMCpPh-RqGl4pUqVbESMKQyBUvYJa0KKKORjBuvWO2p9EkbM11QBx9Jy5xIeD9Gz1CH5B20GM9mIV1NjJLLHLlCJZlWSrZ9gvJrWtDxGnVtV44clqhxOjV0mniliAFjrISY6GtAO9UMFGCnOMBd7ToeBgU-evpgsNEtRtB7HLJVlZiiBETu8dascRKXPKI94Hig8YxEDcuMzXFZj1PsNnGgsTSUx5Se4KqGgJADd_v9zNRMRfaqcsJgjvp9-AmSPSQ1hyRtn-2lhVyEgnCPqtZI9QxS_998QIfWsVI-uwVpkqOqofwTDNImInruIOQEuSryAF72LYOXwA.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/v4u3nuXFH-SYmMtBA2BTQn0eASCFoSSDfda-QhSBB84XtbVo-Q9byPk1_tjHVU7aHAyxNtnBQbdUQuNYUC9a3KMSOEbaoSg6Y4k0l4ZhnK20IfSoP2BqsP6WEhyyQTM7hs5lzFVjt3GO3aBYBKA2u7Hyq1h6Mhs-l9WOfvQ32Y97BXtTuWey2-n7DozqtuMyn_S1dRswTfH7WeSwBDgNr8XIelx5u6PFs95d1QaIPZxOyps-6q_BUiDs6AitRuWqolBEAnj6Vh8T4M9t_Dzqok7GLPIXSI8BDvQtV18JDi27ivOWgBx_U0wb_1mD9Bizo4EUBANaXT7guchdSyAGmg.jpg"
+    ]
+   ],
+   "r": "Irrelevant NFL mention",
+   "h": "🗣️ Cam Little after securing the win for Jaguars in NFL today:"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31041,
+   "t": "Jude Bellingham with Yan Diomande and Vini Jr. 🫂🤍\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/DMSLacpKspO7BEoEV4Pd9FWIIgfLChfWIHExrEypxWWhxQEnqTYFAeCUCvF654KAU7_lUpCdMcLe3XpHQQa0269GeECC5658rBMJjDWMfFS7Y3UqbBtaj6neV5-cwy07AaYTHaSKhJYxXB3dYdgm5VO8abeL1dULi220RAUuwq7gH3M7qIEAJeqqd6iETdlUgXy6iAYjnbfrDqHptAt-pyfKlqoHpITo8WiVP1bdTSuIeyNaCCLKHI3xXrKS3rUTM-ayy3u0k-b0UlFNrQnQYTnC1NQNkOD8HNPssjjXLAT3wy-JycRCryPzas8HA7I58xZOpKKnfhwrK5n6AglOMg.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/l3vCPg_ZbE-shRqeo3kDWB3__PlDEFJf9B1Qcpxi7-1LxSCQq8RkVOFDUp4KKIhmOGp02JTny_kj5Gte3V8T_x2R9dwFJ04KCQKjIlvz_M5HoDLusoU_PDtPWmrZM8HhTfhgnsfgr5yk6E0p2ZaIkncxKY5nk5fKOYi4QSHqegnK27C15zW6qwFzMny14ncl0v7k8egl6TKeGreAieswU-NThvEEgYRFfOSSLmM8O0z9wbRxI4FfvrAgwN52aG_JfmoXo7eO4JfJQB2QQCGQ3UEyUo_VzS2G3x-l3r0gX17PWozFDOAnQ1vKMlQcNPudZnhlXguDPl-RVUBZMgYXvQ.jpg"
+    ]
+   ],
+   "r": "No substantive news, just a photo",
+   "h": "Jude Bellingham with Yan Diomande and Vini Jr. 🫂🤍"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31043,
+   "t": "1️⃣5️⃣ —> 1️⃣5️⃣\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Fc93mo73hS2RycznfErrUzSaAoIJG-rvjf22NCibQvdWq-rm_YjcszGGmtX9e4atWOeBE4mXgXPk7s3MYrgY3Pj-DTihNxg0wkObF3ye4mzJt4khVoKUOWbpXlZI24JqQKylOLIBiUelE24NS1tVOQJfuqQlQFViyrBSwMf7OsJle3pMJT3d8cZMehcft1Q577A6c1ymvbKTjrz4eVf6uUWq8zuBNl5NuLv6_lHv2n2Vg4kPLrKe9fvUZfitA9aa1ON-sPYHVilMQNbjtL7y-YBW_U8m5_dC-t6ITN45U1Y6wSIelotks2ZJmJgY5BjP_OAqiX50HGCQ1oEPYWRcAQ.jpg"
+    ]
+   ],
+   "r": "No relevant Real Madrid news content",
+   "h": "1️⃣5️⃣ —> 1️⃣5️⃣"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31044,
+   "t": "Jose Mourinho’s passion 🤍🔥\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/XCXTsRs8m3osWj5AAx3CkSkquAy0Eb-XusYwwsJtmg83cnVhTnmcERr-MwmyMhEZJ6LGNjP3dQYuukgPYKKhgGnblCUuuSmbgxYTU59IPYn_6qfs7PJkNUqM1PZDPKpYAC3AAw8LLF8eDP2J8QXjDqwLtv5oE3dcIrq8sGcNp5pzMlenz2Zi6OEVVAIbzd2_PwiQMtbQ9s2dTeX8Gj7eBFV2YSH-lPlg2uQgL_CT_R4F2jcqaq6oiTzC_koliU-_zW2Os7DAMAYIr3kUe7FT9_nCl0Jgx_WHwRsAXB058bSrMksmtNlTjle8CkVwgi8DNqbYv-yff4Yv3siaoafghA.jpg"
+    ]
+   ],
+   "r": "No news, just fan sentiment",
+   "h": "Jose Mourinho’s passion 🤍🔥"
   }
  ],
  "summary_date": "2026-10-11",
