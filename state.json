@@ -1340,13 +1340,13 @@
    "link": "https://t.me/RealMadridImportantOnly/49"
   }
  ],
- "offset": 769011879,
+ "offset": 769011882,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 12,
-  "tokens": 14433
+  "calls": 13,
+  "tokens": 15346
  },
  "pending_fb": {},
  "feedback": [
@@ -1361,11 +1361,25 @@
   {
    "t": "🎥 Jose Mourinho leaving the Bernabéu last night. @DAZN_ES\n\n@TheMadridZone",
    "v": "-"
+  },
+  {
+   "t": "Kylian Mbappé 🌪️\n\n@TheMadridZone",
+   "v": "-"
   }
  ],
  "rules": [
-  "Skip personal relationship or dating news about Real Madrid players",
-  "Skip Real Madrid coach departures or resignations"
+  "Send injuries, fitness updates, and player return timelines",
+  "Send transfers, contracts, renewals, departures, and buy‑back clauses involving Real Madrid assets",
+  "Send official line‑ups and squad lists for Real Madrid matches",
+  "Send Real Madrid first‑team results, goals, and match outcomes",
+  "Send suspensions, red cards, and disciplinary decisions",
+  "Send Real Madrid coach, board, and press‑conference news",
+  "Send official Real Madrid announcements",
+  "Skip pure statistical lists and ratings without contextual news",
+  "Skip lifestyle, personal, fashion, family, and social‑media content",
+  "Skip news about former Real Madrid players at other clubs",
+  "Skip any news about non‑Real Madrid players or clubs",
+  "Skip opinions, fan reactions, memes, polls, kit leaks, and promotional ads"
  ],
  "skipped": [
   {
@@ -1560,6 +1574,7 @@
  ],
  "summary_date": "2026-10-11",
  "prefs": [
-  "i dont care that much about mourinio leaving the bernabeu"
+  "i dont care that much about mourinio leaving the bernabeu",
+  "What do i acctualy see here?"
  ]
 }
