@@ -1340,7 +1340,7 @@
    "link": "https://t.me/RealMadridImportantOnly/49"
   }
  ],
- "offset": 769011899,
+ "offset": 769011901,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
@@ -1598,5 +1598,15 @@
    1,
    1
   ]
+ },
+ "enabled": {
+  "🚑 Injury": false,
+  "✍️ Transfer & Contract": false,
+  "📋 Lineup & Squad": false,
+  "🟥 Discipline": false,
+  "👔 Coach & Board": false,
+  "⚽ Result": false,
+  "📢 Official": false,
+  "📰 Other": false
  }
 }
