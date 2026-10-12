@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59194,
-  "themadridzone": 31063,
+  "real_madrid": 59197,
+  "themadridzone": 31065,
   "FabrizioRomanoTG": 67211
  },
  "sent": [
@@ -1403,7 +1403,8 @@
    "cat": "✍️ Transfer & Contract",
    "status": "rumour",
    "headline": "🚨🤍 Real Madrid have reached an agreement in principle with Thibaut Courtois over new contract.",
-   "link": "https://t.me/RealMadridImportantOnly/62"
+   "link": "https://t.me/RealMadridImportantOnly/62",
+   "superseded": true
   },
   {
    "ts": 1791802468.0454075,
@@ -1434,15 +1435,76 @@
    "status": "none",
    "headline": "🚨 Cristiano Ronaldo: “If you prefer Messi, Pelé or Maradona, I respect that. It’s personal preference.",
    "link": "https://t.me/RealMadridImportantOnly/61"
+  },
+  {
+   "ts": 1791802842.1745632,
+   "date": "2026-10-12",
+   "tokens": [
+    "agreement",
+    "courtoi",
+    "principle",
+    "reach",
+    "renew",
+    "thibaut"
+   ],
+   "names": [
+    "courtois",
+    "thibaut"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "official",
+   "headline": "🚨 UPDATE: Real Madrid have reached an AGREEMENT in principle to RENEW Thibaut Courtois. @FabrizioRomano ✍️",
+   "link": "https://t.me/RealMadridImportantOnly/65"
+  },
+  {
+   "ts": 1791802974.8391662,
+   "date": "2026-10-12",
+   "tokens": [
+    "came",
+    "crystal",
+    "didn",
+    "diomande",
+    "eze",
+    "first",
+    "goal",
+    "good",
+    "kid",
+    "later",
+    "michael",
+    "olise",
+    "one",
+    "palace",
+    "real",
+    "said",
+    "scor",
+    "sign",
+    "train",
+    "yan",
+    "year"
+   ],
+   "names": [
+    "crystal",
+    "diomande",
+    "eze",
+    "michael",
+    "olise",
+    "palace",
+    "yan",
+    "years"
+   ],
+   "cat": "📰 Other",
+   "status": "fact",
+   "headline": "🔙🗣️ Yan Diomande: “Michael Olise and Eze came to me after one training at Crystal Palace and said, ‘Yo kid, y…",
+   "link": "https://t.me/RealMadridImportantOnly/66"
   }
  ],
- "offset": 769011920,
+ "offset": 769011922,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 29,
-  "tokens": 38087
+  "calls": 32,
+  "tokens": 42753
  },
  "pending_fb": {},
  "feedback": [
@@ -1496,6 +1558,16 @@
    "t": "🚨 Cristiano Ronaldo: “Everything has to happen naturally. Whether I score 920 goals, 925 goals, 930 goals. \n\nI am the GREATEST IN HISTORY. Period. \n\nWhen it comes to scoring goals, the numbers speak for themselves.” @cnnportugal\n\n@TheMadridZone",
    "v": "-",
    "miss": false
+  },
+  {
+   "t": "🚨 UPDATE: Real Madrid have reached an AGREEMENT in principle to RENEW Thibaut Courtois. @FabrizioRomano ✍️\n\n@TheMadridZone",
+   "v": "+",
+   "miss": false
+  },
+  {
+   "t": "🔙🗣️ Yan Diomande: “Michael Olise and Eze came to me after one training at Crystal Palace and said, ‘Yo kid, you’re really good.’\n\nBut they didn’t sign me.”\n\nYears later, Diomande scored his first goal for Real Madrid.",
+   "v": "+",
+   "miss": true
   }
  ],
  "rules": [
@@ -1712,7 +1784,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 14,
+ "train_seq": 16,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -1846,7 +1918,7 @@
   }
  },
  "train_stats": {
-  "n": 7,
+  "n": 9,
   "recent": [
    1,
    1,
@@ -1854,7 +1926,9 @@
    0,
    1,
    1,
-   1
+   1,
+   1,
+   0
   ]
  },
  "enabled": {
@@ -1866,5 +1940,6 @@
   "⚽ Result": true,
   "📢 Official": true,
   "📰 Other": true
- }
+ },
+ "health": {}
 }
