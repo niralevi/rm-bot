@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59202,
-  "themadridzone": 31075,
+  "themadridzone": 31077,
   "FabrizioRomanoTG": 67214
  },
  "sent": [
@@ -1590,8 +1590,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 43,
-  "tokens": 62707
+  "calls": 44,
+  "tokens": 64468
  },
  "pending_fb": {},
  "feedback": [
@@ -1907,7 +1907,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 26,
+ "train_seq": 27,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2090,6 +2090,28 @@
    "reason": "duplicate of earlier announcement",
    "ch": [
     82
+   ]
+  },
+  "27": {
+   "t": "🚨 During Real Madrid's last 3 La Liga games:\n\n- Real Madrid committed 22 fouls, and received 9 yellow cards and 2 red cards.\n- Real Madrid's opponents in these games, committed 53 fouls, and received 8 yellow cards and 0 red cards.\n\n😂😂😂\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31077,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/UhxoM1H3ZymEjBez-FRdyGUqKeeloSu8WDlvlLr8culjSq05hswytERa0E9lyjOEY2xqU8vMBZlZQ16vj-imY2o2RmyFkzVlp7cHuVvhWTCYyTkotr_I1fP89_MPWYixgs10rUg5zo4GxeRcWh1Afn7PeuUOz6Saa2hBZhQ0wPWHXtp7R1KlytEsj0wnutmfRfT9h1ElQrkopZkdedA9OLhPg5HtaTJO8w1XfI7yoOZQc3hoLbAxWMQXQxnjrArjj70JZSckMmxLMblHg6y1lv0ilFHPY6BUxbpW35GNlfwOKkTtK_sf0bUDkGqMzKQBCIaCuc9aCuwzUOfzB_Y_rA.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/eRhdVUn3QcsMeC-JWwEZhWkMgaHM-ZsENyn2pv81vHV7PnK1u9BLwJIskF-j01Dl8aKaOthV0fMwYjNhjSyww1imRl-TAfLinyZ3SOA9oyn9dKvdGd3PAVkbQcsRlrGLpBdozP5pAJkA7xgLs91wMJnC0GeoP17FXc0V2T8-6sFKkD-yXsxkgAzm7FWmdWIL8BxxpccWX_1b6i5SUbMcxDZTYn9hKB3KlVbDJspQfBN6s4E5XcBMEmSqu-KadSc9tuKrn112TgiiCp33MZ4gjGa4WVpvqr1126DVLMvgOhsTvh4gCvlav2zBPoNin9sm51SzHqpUAdqeFDhf1KN1uQ.jpg"
+    ]
+   ],
+   "reason": "pure statistical list, no news",
+   "ch": [
+    84
    ]
   }
  },
