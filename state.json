@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59201,
-  "themadridzone": 31074,
+  "themadridzone": 31075,
   "FabrizioRomanoTG": 67212
  },
  "sent": [
@@ -1561,15 +1561,37 @@
    "status": "fact",
    "headline": "🚨💣 BREAKING: Ferland Mendy is BACK in team training.",
    "link": "https://t.me/RealMadridImportantOnly/74"
+  },
+  {
+   "ts": 1791813644.4303732,
+   "date": "2026-10-12",
+   "tokens": [
+    "carvajal",
+    "dani",
+    "getafe",
+    "join",
+    "liga",
+    "said",
+    "yes"
+   ],
+   "names": [
+    "carvajal",
+    "dani",
+    "getafe"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "headline": "🚨💣 BREAKING: Dani Carvajal is JOINING Getafe. La Liga has said YES. @MatteMoretto ✍️",
+   "link": "https://t.me/RealMadridImportantOnly/79"
   }
  ],
- "offset": 769011937,
+ "offset": 769011939,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 40,
-  "tokens": 57140
+  "calls": 41,
+  "tokens": 58936
  },
  "pending_fb": {},
  "feedback": [
@@ -1661,6 +1683,11 @@
   },
   {
    "t": "🚨💣 BREAKING: Ferland Mendy is BACK in team training.",
+   "v": "+",
+   "miss": false
+  },
+  {
+   "t": "🚨💣 BREAKING: Dani Carvajal is JOINING Getafe. La Liga has said YES. @MatteMoretto ✍️\n\n@TheMadridZone",
    "v": "+",
    "miss": false
   }
@@ -1880,7 +1907,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 23,
+ "train_seq": 24,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2032,7 +2059,7 @@
   }
  },
  "train_stats": {
-  "n": 15,
+  "n": 16,
   "recent": [
    1,
    1,
@@ -2043,6 +2070,7 @@
    1,
    1,
    0,
+   1,
    1,
    1,
    1,
