@@ -166,6 +166,20 @@ RM_WORDS += SQUAD
 STAT_WORDS = ["touches", "passing accuracy", "duels won", "man of the match", "motm",
               "rating*", "heatmap", "stats", "key passes", "dribbles"]
 
+# How reliable is whoever reported a rumour. Used by the keyword filter and as a guide for the AI.
+SOURCE_TIERS = {
+    "top": ["fabrizio romano", "here we go", "marca", "diario as", "relevo", "the athletic",
+            "mario cortegana", "jose felix diaz", "cadena ser", "el larguero", "cope",
+            "arancha rodriguez", "matteo moretto", "david ornstein", "real madrid confirm"],
+    "ok": ["mundo deportivo", "sport", "estadio deportivo", "ok diario", "okdiario", "goal",
+           "sky sports", "sky germany", "florian plettenberg", "l'equipe", "rmc sport",
+           "bild", "kicker", "gazzetta", "the times", "the guardian", "bbc", "espn"],
+    "weak": ["defensa central", "el chiringuito", "chiringuito", "fichajes.net", "fichajes",
+             "todofichajes", "el nacional", "caught offside", "football insider", "teamtalk",
+             "the sun", "daily mail", "mirror", "express", "fichajes.com"],
+}
+TIER_ICON = {"top": "🟢", "ok": "🟠", "weak": "🔴"}
+
 OPTIONS = {
     "quiet": ("🌙 Quiet at night (23:00-08:00)", True),
     "summary": ("📝 Daily summary (22:00)", True),
@@ -202,6 +216,7 @@ SOFT_IGNORE_RE = kw_regex(SOFT_IGNORE)
 OFFICIAL_RE = kw_regex(OFFICIAL_MARKERS)
 RUMOUR_RE = kw_regex(RUMOUR_MARKERS)
 RM_RE = kw_regex(RM_WORDS)
+TIER_RE = [(t, w, kw_regex([w])) for t in ("weak", "top", "ok") for w in SOURCE_TIERS[t]]
 STAT_RE = kw_regex(STAT_WORDS)
 SCORE_RE = re.compile(r"(?<![\d.:/])\d{1,2}\s*[-–]\s*\d{1,2}(?![\d.:/%])")
 
@@ -282,6 +297,7 @@ class Post:
     def __init__(self, src, pid, text, media, too_big, ts=None):
         self.src, self.id, self.text, self.media, self.too_big = src, pid, text, media, too_big
         self.ts = ts  # when it was posted (unix time) or None
+        self.source = self.tier = self.headline = None  # filled in when judged
         self.link = f"https://t.me/{src}/{pid}"
 
 
@@ -371,6 +387,24 @@ def classify(n):
         if rx and rx.search(n):
             return label
     return None
+
+
+def detect_source(text, src=""):
+    """(source name, tier) from who the post quotes - or (None, None)."""
+    if src.lower().startswith("fabrizio"):
+        return "Fabrizio Romano", "top"
+    n = norm(text)
+    found = []
+    for tier, word, rx in TIER_RE:
+        m = rx.search(n)
+        if m:
+            found.append((m.start(), tier, word))
+    if not found:
+        return None, None
+    _, tier, word = min(found)  # the first outlet mentioned
+    pretty = {"as": "AS", "cope": "COPE", "bbc": "BBC", "espn": "ESPN", "rmc sport": "RMC Sport",
+              "here we go": "Fabrizio Romano", "real madrid confirm": "Real Madrid"}
+    return pretty.get(word, word.title()), tier
 
 
 def get_status(n, label):
@@ -519,7 +553,7 @@ def taste_text(state):
     return "\n".join(parts)
 
 
-def ai_judge(state, text):
+def ai_judge(state, text, src=""):
     now = time.time()
     recent = [s for s in state.get("sent", []) if now - s["ts"] < DEDUPE_HOURS * 3600][-12:]
     labels = ", ".join(f'"{l}"' for l in CATEGORIES)
@@ -533,14 +567,26 @@ def ai_judge(state, text):
         '{"send": true or false,',
         f' "category": one of {labels},',
         ' "status": "official" (confirmed by the club, or Fabrizio Romano\'s "here we go") |'
-        ' "rumour" (reports, claims, interest, "could") | "fact" (lineups, results) | "none",',
+        ' "rumour" (reports, claims, interest, "could", anything not yet confirmed) |'
+        ' "fact" (already happened and not in doubt: results, lineups, training updates, quotes,'
+        ' what was said in a press conference),',
         ' "duplicate_of": the number of the already-sent item that is the SAME story'
         ' (also when this one is the official confirmation of that rumour), or null if it is new'
         ' or adds important new details,',
         ' "big": true only for major news worth waking him up at night'
         ' (official signing or departure, serious injury, coach sacked),',
+        ' "source": the journalist or outlet the news comes from (e.g. "Marca", "Fabrizio Romano")'
+        ' or null if not stated,',
+        ' "source_tier": how reliable that source is for Real Madrid news: "top" (Fabrizio Romano,'
+        ' Marca, AS, Relevo, The Athletic, COPE, Cadena SER, Real Madrid itself) | "ok" (mainstream'
+        ' but less accurate) | "weak" (known for invented stories: Defensa Central, El Chiringuito,'
+        ' Fichajes, tabloids) | null,',
+        ' "headline": ' + ('"the key news in max 12 words, English, no emojis"' if len(text) > 350
+                           else 'null') + ',',
         ' "reason": "why, max 8 words"}',
     ]
+    if src:
+        lines.insert(lines.index("NEW POST:"), f"(The post comes from the Telegram channel @{src}.)")
     out = call_ai(state, "\n".join(lines))
     label = out.get("category")
     if label not in CATEGORIES:
@@ -552,8 +598,12 @@ def ai_judge(state, text):
         i = int(d)
         if 1 <= i <= len(recent):
             dup = recent[i - 1]
+    extra = {"source": out.get("source") if isinstance(out.get("source"), str) else None,
+             "tier": out.get("source_tier") if out.get("source_tier") in TIER_ICON else None,
+             "headline": (str(out.get("headline")).strip()[:120]
+                          if isinstance(out.get("headline"), str) and len(text) > 350 else None)}
     return (bool(out.get("send")), label, status, dup, bool(out.get("big")),
-            str(out.get("reason", ""))[:80])
+            str(out.get("reason", ""))[:80], extra)
 
 
 def learn(state, text, verdict):
@@ -593,7 +643,8 @@ def remember_skip(state, post, reason):
 # ---------------------------------------------------------------------------
 # Sending
 # ---------------------------------------------------------------------------
-TAGS = {"official": "✅ OFFICIAL", "rumour": "🟡 RUMOUR"}
+# every post gets exactly one of these
+TAGS = {"official": "✅ OFFICIAL", "rumour": "🟡 RUMOUR", "fact": "📰 NEWS", "none": "📰 NEWS"}
 
 
 def send_post(post, label, status, quiet, update, when=None, top=None, markup=None, ids_out=None):
@@ -605,6 +656,11 @@ def send_post(post, label, status, quiet, update, when=None, top=None, markup=No
         head = f"🕒 {datetime.fromtimestamp(when, TZ):%a %d %b, %H:%M}\n" + head
     if status in TAGS:
         head += f"  ·  {TAGS[status]}"
+    src_name, tier = getattr(post, "source", None), getattr(post, "tier", None)
+    if status == "rumour" and src_name:
+        head += f"  ·  {TIER_ICON.get(tier, '⚪')} {esc(src_name)}"
+    if getattr(post, "headline", None):
+        head += f"\n<b>{esc(post.headline)}</b>"
     if update:
         head += "  ·  🔁 now official"
     if top:
@@ -686,12 +742,19 @@ def decide(state, post, rm_only):
     verdict = None
     if ai_provider():
         try:
-            verdict = ai_judge(state, post.text)
+            verdict = ai_judge(state, post.text, post.src)
+            health_ok(state, "_ai")
         except Exception as e:
             print(f"  AI unavailable ({e}) - using keywords")
+            ai_failed(state, e)
+    post.source, post.tier, post.headline = detect_source(post.text, post.src) + (None,)
     if verdict:
-        send, label, status, dup, big, reason = verdict
+        send, label, status, dup, big, reason, extra = verdict
         d.update(send=send, label=label, status=status, dup=dup, big=big, reason=reason, how="AI")
+        if extra["source"]:
+            post.source = extra["source"][:30]
+            post.tier = extra["tier"] or detect_source(extra["source"])[1] or post.tier
+        post.headline = extra["headline"]
         if send and not dup:
             d["dup"] = find_duplicate(state, toks, names, label)
     else:
@@ -739,7 +802,8 @@ def publish(state, post, label, status, big=False, update=False, dup=None, backf
         "ts": time.time(), "date": posted.date().isoformat(),
         "tokens": sorted(tokens(post.text)), "names": sorted(names_of(post.text)),
         "cat": label, "status": status,
-        "headline": headline(post.text), "link": my_link(msg_id, post.link),
+        "headline": getattr(post, "headline", None) or headline(post.text),
+        "link": my_link(msg_id, post.link),
     })
     return quiet
 
@@ -1022,6 +1086,7 @@ def brain_text(state):
     where = " (in channel)" if state.get("train_in_channel", True) else " (private chat)"
     lines.append(f"🎓 Training mode: {'ON' + where if opt(state, 'training') else 'off'} - "
                  f"{training_stats_text(state)}")
+    lines.append(health_text(state))
     lines.append(f"Posts you rated: {sum(f['v'] == '-' for f in fb)} 👎, "
                  f"{sum(f['v'] == '+' for f in fb)} 👍")
     prefs = state.get("prefs", [])
@@ -1347,13 +1412,74 @@ def handle_updates(state, timeout=0):
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
+# Health: tell him when something breaks (and when it's fixed)
+# ---------------------------------------------------------------------------
+SOURCE_ALERT_MIN = 120  # a channel unreadable this long -> alert
+AI_ALERT_MIN = 60       # the AI failing this long -> alert
+
+
+def notify_owner(state, text):
+    owner = OWNER_ID or state.get("owner")
+    if owner:
+        tg("sendMessage", chat_id=int(owner), text=text)
+
+
+def health_ok(state, key):
+    h = state.setdefault("health", {}).get(key)
+    if not h:
+        return
+    if h.get("alerted"):
+        name = "My AI brain" if key == "_ai" else f"@{key}"
+        notify_owner(state, f"✅ Fixed: {name} is working again.")
+    state["health"].pop(key, None)
+
+
+def health_fail(state, key, err, alert_after_min, message):
+    h = state.setdefault("health", {}).setdefault(key, {"since": time.time()})
+    h["err"] = str(err)[:150]
+    if not h.get("alerted") and time.time() - h["since"] >= alert_after_min * 60:
+        h["alerted"] = True
+        notify_owner(state, message)
+
+
+def ai_failed(state, e):
+    if "daily AI limit" in str(e):
+        today = datetime.now(TZ).date().isoformat()
+        if state.get("limit_alert") != today:
+            state["limit_alert"] = today
+            notify_owner(state, "🧠 I used today's free AI allowance - until midnight I'm using the "
+                                "simpler keyword filter. Nothing to do, it resets by itself.")
+        return
+    health_fail(state, "_ai", e, AI_ALERT_MIN,
+                f"⚠️ My AI brain hasn't worked for {AI_ALERT_MIN} minutes - I'm using the keyword "
+                f"filter meanwhile, so the channel keeps running.\nError: {str(e)[:150]}\n"
+                "If it lasts a day, check the GROQ_API_KEY in GitHub.")
+
+
+def health_text(state):
+    h = {k: v for k, v in state.get("health", {}).items()}
+    if not h:
+        return "✅ All sources and the AI are working"
+    out = []
+    for k, v in h.items():
+        mins = int((time.time() - v["since"]) / 60)
+        out.append(f"⚠️ {'AI brain' if k == '_ai' else '@' + k}: failing for {mins} min")
+    return "\n".join(out)
+
+
 def check_all(state, deadline=None):
     deadline = min(deadline or time.time() + 200, time.time() + 200)
     for src, rm_only in SOURCES:
         try:
             check_source(state, src, rm_only)
+            health_ok(state, src)
         except Exception as e:
             print(f"{src}: error: {e}")
+            health_fail(state, src, e, SOURCE_ALERT_MIN,
+                        f"⚠️ I can't read @{src} for {SOURCE_ALERT_MIN // 60} hours.\n"
+                        "Maybe it changed its name or became private. Open "
+                        f"t.me/s/{src} in a browser to check.\nError: {str(e)[:150]}")
     try:
         run_backfill(state, deadline)
     except Exception as e:
