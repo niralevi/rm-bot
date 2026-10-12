@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59204,
-  "themadridzone": 31079,
+  "themadridzone": 31081,
   "FabrizioRomanoTG": 67218
  },
  "sent": [
@@ -1585,13 +1585,13 @@
    "link": "https://t.me/RealMadridImportantOnly/79"
   }
  ],
- "offset": 769011944,
+ "offset": 769011946,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 47,
-  "tokens": 70027
+  "calls": 49,
+  "tokens": 74276
  },
  "pending_fb": {},
  "feedback": [
@@ -1708,6 +1708,11 @@
   },
   {
    "t": "RT @FabrizioRomano: 🚨🔵⚪️ Getafe have reached verbal agreement to sign Dani Carvajal, here we go!\n\nThe medical tests have been completed and the club is ready for announcement — only waiting for La Liga’s approval on Financial Fair Play limits.\n\nCarvajal said yes to Getafe — as ABC reported. https://t.co/mSabzHduvB\n — Fabrizio Romano (@FabrizioRomano)\n Oct 12, 2026",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "blacklist you, you're finished…\n\nDid Negreira have power and influence?\n\nOF COURSE he did. Ninety percent of the time, he was the one who told us at the end of the season which league we'd officiate in. In the physical tests, your main goal was to be told you were doing well. Because otherwise, you knew what was coming. \n\nNegreira was the one who greeted you, you stood in front of him, and with some notes he had, he'd tell you if you'd done better or worse in this match or another. And he'd tell you if you were in group 1, group 2, group 3… He definitely had the power because he was the one who told us.\n\nHe certainly had the power to promote and demote you. \n\nHe wasn't just some figurehead. He wielded considerable influence.\n\nThe Negreira scandal? \n\nI was SHOCKED, it's something unheard of. I didn't agree with that CTA at all, but it still surprised me. \n\nIt never crossed any of our minds that Negreira was being paid by a club. It's surreal, unbelievable. I couldn't believe it. \n\nBut that's the way it is, and little by little I've been coming to terms with it, with anger. I'm sure there have been many victims along the way to justify those payments.\n\nThe CTA trying to downplay the ",
    "v": "-",
    "miss": false
   }
@@ -1927,7 +1932,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 30,
+ "train_seq": 32,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2111,10 +2116,23 @@
    "ch": [
     88
    ]
+  },
+  "31": {
+   "t": "🚨 Tristante Oliva (former Spanish referee): \"In 2004, I gave Real Madrid a penalty vs Valencia in the 91st minute.\n\nTo me, it was a clear and obvious penalty, Marchena had blocked Raúl with his arm and leg inside the penalty area. \n\nI finished the match happy, but afterward I called home and everyone was telling me there had been a huge fuss about the penalty. Something completely disproportionate. \n\nThe news programs were leading with the play. That's something that's never been seen before. It was very hard for me. \n\nI didn't feel the support of the Technical Committee of Referees at any point. The support that other referees had, I didn't get.\n\nAnd at the end of the season, I was relegated from La Liga and I was never allowed to officiate another La Liga game again.\n\nOther referees complain and say that their children are insulted at school because of their father, but then those children can say that their father is still refereeing at the Camp Nou, the Bernabéu, or San Mamés. \n\nMy children couldn't say that because I was relegated at the end of the season. Because of that penalty, I was automatically sidelined.\n\nBack then, referee assignments were made by computer. So, despite",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31080,
+   "m": [],
+   "reason": "Irrelevant historical referee story",
+   "ch": [
+    89
+   ]
   }
  },
  "train_stats": {
-  "n": 20,
+  "n": 21,
   "recent": [
    1,
    1,
@@ -2125,6 +2143,7 @@
    1,
    1,
    0,
+   1,
    1,
    1,
    1,
