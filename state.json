@@ -1,8 +1,8 @@
 {
  "last_post": {
-  "real_madrid": 59189,
+  "real_madrid": 59193,
   "themadridzone": 31051,
-  "FabrizioRomanoTG": 67209
+  "FabrizioRomanoTG": 67210
  },
  "sent": [
   {
@@ -1340,13 +1340,13 @@
    "link": "https://t.me/RealMadridImportantOnly/49"
   }
  ],
- "offset": 769011886,
+ "offset": 769011899,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 13,
-  "tokens": 15346
+  "calls": 15,
+  "tokens": 18170
  },
  "pending_fb": {},
  "feedback": [
@@ -1365,6 +1365,16 @@
   {
    "t": "Kylian Mbappé 🌪️\n\n@TheMadridZone",
    "v": "-"
+  },
+  {
+   "t": "🚨 Bayern president Hainer on Olise: “On the rumours about Real Madrid over the summer, I can say that I'm convinced Bayern is a club that doesn't get forced to sell players”.\n\n“We make our decisions from a position of strength. Olise has a contract until 2029, and I hope he'll extend”, told BILD.\n — Fabrizio Romano (@FabrizioRomano)\n Oct 12, 2026",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "🗣️ Gary Lineker: “Can Jude Bellingham be one of the greatest of all time? \n\nYes, I’ve been saying it for a long time now. \n\nIf he avoids serious injury or falls of the rails which he won’t I’m sure. \n\nHe’s so good at football, he’s got everything.\n\nHe’s a superstar and carries himself like a superstar.” \n\n[wearetrackradio]",
+   "v": "-",
+   "miss": false
   }
  ],
  "rules": [
@@ -1574,11 +1584,19 @@
  ],
  "summary_date": "2026-10-11",
  "prefs": [
-  "i dont care that much about mourinio leaving the bernabeu",
   "What do i acctualy see here?"
  ],
  "opts": {
   "training": true
  },
- "train_in_channel": true
+ "train_in_channel": true,
+ "train_seq": 2,
+ "train_pending": {},
+ "train_stats": {
+  "n": 2,
+  "recent": [
+   1,
+   1
+  ]
+ }
 }
