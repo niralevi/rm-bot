@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59202,
-  "themadridzone": 31077,
+  "themadridzone": 31079,
   "FabrizioRomanoTG": 67214
  },
  "sent": [
@@ -1590,8 +1590,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 44,
-  "tokens": 64468
+  "calls": 45,
+  "tokens": 66288
  },
  "pending_fb": {},
  "feedback": [
@@ -1912,7 +1912,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 27,
+ "train_seq": 28,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2095,6 +2095,24 @@
    "reason": "duplicate of earlier announcement",
    "ch": [
     82
+   ]
+  },
+  "28": {
+   "t": "🚨💣 Vini Jr went over to La Liga's match director after being sent off, and told him:\n\n\"THIS LEAGUE IS SH*T\" @DAZN_ES\n\n@TheMadridZone",
+   "ai": false,
+   "label": "🟥 Discipline",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31079,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/VOJ8B375IDDgqcJ4INOjk4xUndri1pYv8B8n8cU4mIA-o92eHbZ6lBVfnzDHO7fFLHQrqIA7ZYXqoS8C1tosqztcJ7m7bBTzG_ZJ03DqQS7pbVQ-WyF2DDZbtH49a2EfXbbB2JEdgcvKvXcHZ6unI8jSrNDzIMDYX2gjHvkZ8knlxiWJJI-cfEI97gPzAsWU1kiwEUQSVXskWx_6nY3DMSmDY8a9mKkhsNUF4_ZP5RVcX5ww_qW0mJ26kLnimC6K_GvcLqFW2qvOqwDNMPaF-0SWWAbSjQ7SGSXIqi2QbfQNLr5-1lH4pIrU_SN9c-8IW4Y_LHikrwSv9HM1NyKASQ.jpg"
+    ]
+   ],
+   "reason": "Irrelevant profanity, no new info",
+   "ch": [
+    85
    ]
   }
  },
