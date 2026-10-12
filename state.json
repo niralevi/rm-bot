@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59194,
-  "themadridzone": 31053,
+  "themadridzone": 31056,
   "FabrizioRomanoTG": 67210
  },
  "sent": [
@@ -1345,8 +1345,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 18,
-  "tokens": 22548
+  "calls": 21,
+  "tokens": 26895
  },
  "pending_fb": {},
  "feedback": [
@@ -1590,7 +1590,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 5,
+ "train_seq": 8,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -1648,6 +1648,60 @@
    "reason": "No substantive Real Madrid news",
    "ch": [
     55
+   ]
+  },
+  "6": {
+   "t": "Vinicius Jr 🔥\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31054,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/OlDdtPx_SIQKkvdbbwncVg7KVagtpheNW1abGvCtkUQT4f2N-3gV8Q_o-3RH2FwX4ko5J0OkmBMdAS7tBPvfajANv6vLQY28tq1zV6oI938YOU-9E2l_13X5FaNGWdI9MWnSmyCP-faBdvl8Bp2nkick2Z8sA_Zt66u1dPWafPuZ3MA02MMhgXesBbLH5-Sj3o1Aq0171BYsYT7vVU6Y677KziryNkuXgzSH5mlf9OJgwbcGBlG2Pf61JroXZdYdXETCZ3mIyJ-FluDLpTli-H-Tmjkx3QwQR9314balppEf8erLlCpgkYxZadl6Ph7-e3Se5ZSfP6KfwJxWlo1Yfg.jpg"
+    ]
+   ],
+   "reason": "No substantive news, just hype",
+   "ch": [
+    56
+   ]
+  },
+  "7": {
+   "t": "Jude Bellingham 🌟\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31055,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/YoukSvxilVOHqyDiTo6C8YE3GGI3rvWSCRbY7HQalqE3XCd3A1CxNovqHmOd-3tj5mwMBDzVxYX7lr-KdNblRuSiNICYyESoO0AXiXDjYHU5t6sJjMyTQ0Bcx5ocE-YZVi1T14oYNSZPtnipsoaNewEElAA1l5OCLzoDhA6XRlrn0tId76Zj5LKnF76A2cSeCCkI5BHPliIIzWgjuZPHeNYKvoqOrXhegEg_bOKzIEz86-wYFd9KlgNhUlFqEECBN_sUcTyyK2sKdBvuLCSVjI9qyLUb4dfjfW62Ha_qW-5DK8bNxPi0Ah-grU5uCt6ZJJxYURBJ4r1FkIKl2mGnbg.jpg"
+    ]
+   ],
+   "reason": "No substantive Real Madrid news",
+   "ch": [
+    57
+   ]
+  },
+  "8": {
+   "t": "🚨💣 BREAKING: Ferland Mendy is BACK in team training.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "🚑 Injury",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31056,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/aI_FgRJB3znXXx42DybzQggQmKpHbxDlg9IrwtCZDBeH0XjlDFk_fGhZIyTTPyNXG6YNbygs9FffYUVww8K2HgBDf2QUI-yOXCbIl3Sn5xYc4ecAF70bGILqEM0YJWL3pihkWolYlcpfVX7vBH3h0X_b8P8LKuspvPJ8qa_ogr-PG7Ks54y4A1Uud7Al3X0msSpZTZZrGVhJVKh8ajdKnI84IyYpNZm5nLVSLjIQbVsjdslB2nV3qpy3WOtIBTUU9qO9tAJJvQu0pgXQaYvDg-H2fJSm6E3hsKudLJpVT9IoZIwwmkwNZZ2VDQ0m_NPvQpo6kLKiREzLa261YN7tvQ.jpg"
+    ]
+   ],
+   "reason": "🚑 Injury is turned off",
+   "ch": [
+    58
    ]
   }
  },
