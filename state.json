@@ -1585,7 +1585,7 @@
    "link": "https://t.me/RealMadridImportantOnly/79"
   }
  ],
- "offset": 769011949,
+ "offset": 769011957,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
@@ -1728,6 +1728,46 @@
   },
   {
    "t": "🚨 Hansi Flick when asked about Real Madrid: “I do NOT answer questions about other teams”.\n\n“We're about to play against Galatasaray. So, respect Galatasaray”.\n\n“They have a fantastic stadium, an incredible atmosphere... respect them”. https://t.co/FhqzMevKbD\n — Fabrizio Romano (@FabrizioRomano)\n Oct 12, 2026",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "Vini Jr x Carlos Espi x Bernardo Silva\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "Bernardo ⚔️ Dumfries\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "Vini Jr x Marc Cucurella\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "Carlos Espi and Dean Huijsen in training 🇪🇸\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "Endrick x Vini Jr 🇧🇷🇧🇷\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "Endrick ⚔️ Alvaro Carreras 🇧🇷🇪🇸\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "🚨 Ferland Mendy is BACK! 🇫🇷\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "🤍 Toni Kroos on IG.\n\n@TheMadridZone",
    "v": "-",
    "miss": false
   }
@@ -2118,154 +2158,10 @@
    "ch": [
     86
    ]
-  },
-  "34": {
-   "t": "Vini Jr x Carlos Espi x Bernardo Silva\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "rumour",
-   "src": "themadridzone",
-   "id": 31082,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/BQ_SKW6a2X9DYvQAUJR8IquKcBz4baERqDkQON09NdR9BWxi9iuQQ1EL-n29PvgiocWcRGLEvkkLuLXAIMDphrC1z3LYVcQWU10aznqTqSTEa-2sdlqNmZsPEcFIGEkrCnEHE3zeUjcVVUHd7-sZK5o7vzZBSZnusVHTttI9_8YAahqPJofnkOn9dVuSzRatO2kzNAH0akADu68QFBrN-sbaSDzLwwPQe28sclEevMEN0VB2P3iPToSsApWcm-DqakLBz9ohnzvIaFHzXnpsDlf2tLsvah-iC7f3EyyCFqgcWgXuEn1-SL9ejX0-zHMKvaTW8zkcJ3Sy51wLnxtmhg.jpg"
-    ]
-   ],
-   "reason": "Irrelevant speculation, no real news",
-   "ch": [
-    92
-   ]
-  },
-  "35": {
-   "t": "Bernardo ⚔️ Dumfries\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "none",
-   "src": "themadridzone",
-   "id": 31083,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Dpr4qLXVLzS06HeUgWSoLtPM5IkCY3uL5tzf1Z1eU92qwsR4cR_DgXJxRSk-Huxk1YkaZOwS1cZRvA7IbNpQMpNYID8mzVqVTq_iw8cKDNpVqnwXopEkxjYn5Lsm1Mjy6O5h7I-fCrDzCeam17aF2kD3Ql9HPguetrU_AXOnKNZ_TSFlYsSozSkYef_SIc-zkvm8DcyqjRkJA6kPTTjVJDSQhlGkG-evKcxxa1K2ZfWTPxcTnClYgcS5x6flJfBd9ULPuGNz1fld7wKUgzu-1nKag01xVA9TAupOf545vhbfbysNYB1ZzfFa3xC_6swQKO_pfZ4XvRkqPtGXWapmsg.jpg"
-    ]
-   ],
-   "reason": "Irrelevant, no Real Madrid content",
-   "ch": [
-    93
-   ]
-  },
-  "36": {
-   "t": "Vini Jr x Marc Cucurella\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "none",
-   "src": "themadridzone",
-   "id": 31084,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/KHXOIGKyT5Q8mUzyri6F2jHJIAcdue78oXUAWelcS1STcqRiUwGFQY-NQ9TNkatCrKCoPjbFRvEDwG8a_q0NcKS0Iaa8cGERRZGAXRP0BSGWfhaWWuUJ00daHeAVe4IbyU0w12zDX4d0sM9_OvvG84mfqYJzp_bMO6lSM7AlDSwWC_0oolbYuyVBVPfkbkEnl1gio0tJcYU2mHfLF91kdW-dqPIROY0Jirpt2xamHpa1XyDvpClzwYWTMj2A3Ln1GEqh4QcqRkWoY66gMRYg21EjjTR1Uqn1As6BY1g-Ji31I5_nWaq7mCs7TadOQWQmNeiHskurjeY8DiFbJS1SiA.jpg"
-    ]
-   ],
-   "reason": "Irrelevant, no real news",
-   "ch": [
-    94
-   ]
-  },
-  "37": {
-   "t": "Carlos Espi and Dean Huijsen in training 🇪🇸\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "fact",
-   "src": "themadridzone",
-   "id": 31085,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Fu-xLgtrMzp5FW4LEwFWXjDpI8adXqeVNwc7eqodOVUD2WtrGX5JZIzZtJ4JEL1QmaWa3GJvCEh4xB8GXO-F-bytmduyRuXyT_VEDdVm0p2Z5104YdgZSKohsMCq8edR98Cpc6ftdHWPMqiKkZKQXcyuYFuh1o-cD4JhfU1R_jhphbz0JmFGsfZKvQl9SM2Iz6v6yBX9aiHbpq1ie8xtJxuqXdIpR9U9VesbWfVZG7lj_2UclYmf-yqX2BVykpE2yvhGhmquWRLr3dMPnn792VujABvCsK51OMkY1lxNT9zGdDhRstMI2nY9xRvLsmD34w4NLoIck1IMTUjFLPhtFA.jpg"
-    ]
-   ],
-   "reason": "training update, not newsworthy",
-   "ch": [
-    95
-   ]
-  },
-  "38": {
-   "t": "Endrick x Vini Jr 🇧🇷🇧🇷\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "rumour",
-   "src": "themadridzone",
-   "id": 31086,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Ip3Qx2POz7-GZgLcmi7nNZg4qyEYFfxxRKdrhOtN3QUCebNFEYako_0OAPb1AbMC3NPQLxGKzrIfw2s6kBS9eM5gqk2YPdBx5rmKTaHiIYpgtNXLXd8OsLrQ9NdZ6U3cYweBSEVx601J1w_xsHBxT_3dk8frsv7X999EveBA6gfetlPN8m2a8kKZg0O57ia_EHZ-iEtOlMcGseA-UNwGfmBaFte7kQG9w2xTItNGhzBvbMqwrHIPXhch0IDY8Tiup3P5-raWsFoWX3svhX79mglygHm4miYNmriKOVZLkAteFw8SOVPGtAJUjYQqObigCZN_SHh4YGnnpqXG8O20JA.jpg"
-    ]
-   ],
-   "reason": "No substantive Real Madrid news",
-   "ch": [
-    96
-   ]
-  },
-  "39": {
-   "t": "Endrick ⚔️ Alvaro Carreras 🇧🇷🇪🇸\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "none",
-   "src": "themadridzone",
-   "id": 31087,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/sABbNISExlDPBUjuMQUm87Dk-OwQDoxORhTar42h6KNOhTYDOPvwtLdHVDgfENf0Ujn6c0_jwk6HpQzKhF7nSFPKasZoDPXqYCpFRkCfSIlRGMWa8C8f7A_QmTz1jzAYbkRKskG6IPexNRlvpJFDMZaghVmYkwZ1o50Cjo6J79r9hcu1CM070IhwtqWHas692V1Wepw4GHD_uIVnCepUIDlPtttIPpHU81KlWlkswsTQNAa0F9Z7hK8mmI1shMmzXweKk1rtrpx5ZRgM6flc0flMTTac1JyUPU3prKhf_N0OWCTdogx47HeFq1GKu_3t83dCZdVc8acF8bhq6kET_w.jpg"
-    ]
-   ],
-   "reason": "No substantive Real Madrid news",
-   "ch": [
-    97
-   ]
-  },
-  "40": {
-   "t": "🚨 Ferland Mendy is BACK! 🇫🇷\n\n@TheMadridZone",
-   "ai": false,
-   "label": "🚑 Injury",
-   "status": "fact",
-   "src": "themadridzone",
-   "id": 31088,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/DrirG-jO6uVyuygYRjhMTf3GZTZBhQ6neu8Yonoc_D20TLYJ_1dYsn3fT0a8Gy_OVVY5Y2cvhzwwX7Z6rH9sBFzso7jRaQbfj_CiuCKtAAKGxsGXzbNr_dR-3MTdcvTCx61LW7p1clSZy85wJ-1w-UH_KoAnJD3IWrcubMuGylPhMfdsp7Hw1jBGK5jqIze93QAn3-iGzWFHHFOmIhMipTsLU3r66H176H9fRW4YPVMHSPbZlkGiTuOrnASbeezNUwlrX45ql_S7SLLA1ya5qsTA-U03TieY95UOrXQFQHx3vOXVBZxDcJ-Y3iDsK7b7H8VvcITlJgbwLiYjJd5ovg.jpg"
-    ]
-   ],
-   "reason": "duplicate of existing post",
-   "ch": [
-    98
-   ]
-  },
-  "41": {
-   "t": "🤍 Toni Kroos on IG.\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "fact",
-   "src": "themadridzone",
-   "id": 31089,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/i36lC99xvrUdeIRMd2M32g974zwk1heN-d988DfYX53LD8VEExRIHvvtFtoxvCGcXlui5JB4yX1oZOP5dVoXkHqBcMUBpBcFjPPrKLqdU_Yqa8a94NqwiRgAOsOaBIbbVOaUiIdzbqm6i9gAWjs5RgnmFymixs0S1R65_PsnWIv1V2W7ePWJbqpBAaC-OLWWTkMyVlG83xUwjw61kVOb3wBl4C4L14ZuzgLgcAxoHzIZYisl4tZV0bOwtekn3P683Z72dh8SX4oZ7K_5sco8zMX9m0CuuI7pFdo67t-CyK7Olnt-SXYPxOgwCbMvsYltaYTD5RWN_-sjewIqCJss3A.jpg"
-    ]
-   ],
-   "reason": "Lifestyle content, not news",
-   "ch": [
-    99
-   ]
   }
  },
  "train_stats": {
-  "n": 24,
+  "n": 32,
   "recent": [
    1,
    1,
@@ -2276,6 +2172,14 @@
    1,
    1,
    0,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
    1,
    1,
    1,
