@@ -1340,7 +1340,7 @@
    "link": "https://t.me/RealMadridImportantOnly/49"
   }
  ],
- "offset": 769011882,
+ "offset": 769011886,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
@@ -1576,5 +1576,9 @@
  "prefs": [
   "i dont care that much about mourinio leaving the bernabeu",
   "What do i acctualy see here?"
- ]
+ ],
+ "opts": {
+  "training": true
+ },
+ "train_in_channel": true
 }
