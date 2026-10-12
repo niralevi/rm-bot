@@ -1498,7 +1498,7 @@
    "link": "https://t.me/RealMadridImportantOnly/66"
   }
  ],
- "offset": 769011922,
+ "offset": 769011926,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
@@ -1778,7 +1778,8 @@
  "summary_date": "2026-10-11",
  "prefs": [
   "Dont send anything about vacations",
-  "keep thing about ronaldo if its important"
+  "keep thing about ronaldo if its important",
+  "send anything official about michael olise"
  ],
  "opts": {
   "training": true
