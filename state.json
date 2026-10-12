@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59194,
-  "themadridzone": 31056,
+  "themadridzone": 31057,
   "FabrizioRomanoTG": 67210
  },
  "sent": [
@@ -1345,8 +1345,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 21,
-  "tokens": 26895
+  "calls": 22,
+  "tokens": 28375
  },
  "pending_fb": {},
  "feedback": [
@@ -1590,7 +1590,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 8,
+ "train_seq": 9,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -1702,6 +1702,24 @@
    "reason": "🚑 Injury is turned off",
    "ch": [
     58
+   ]
+  },
+  "9": {
+   "t": "🚨🚨 Ferland Mendy is TRAINING with the GROUP.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "🚑 Injury",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31057,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/TE_Pr9htHVGzWZNmDvmnHunwothr1eQiYEFA7rNopZU9SSayhcmwf9NDnsDJYj_sqzMQswG0k7Hxs5zCqdl_fgY2_gqlwfHcYffCTi0sryf-7RWna62p0KwRTQNLIYoJ0QzYBi4yXPWCIynpfLf6MELvKjoRXqMep5JLx7unimDEe3MlzExXNKTKCskn4xgULqU8oVdHhYi7fo6zNMeFAT3XQV0PF4cH4E40nHtB5Mq3t7NrpXx96t6cDnZppdBplw6g1ok5blkfB1RAR1m5t4iPlcZ19pIkJo7lI25nwr5GAw9n-iVrHELTyNxD4ZiysCtXeluJNEK9vRlRy_iqBw.jpg"
+    ]
+   ],
+   "reason": "🚑 Injury is turned off",
+   "ch": [
+    59
    ]
   }
  },
