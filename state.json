@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59199,
-  "themadridzone": 31071,
+  "themadridzone": 31072,
   "FabrizioRomanoTG": 67212
  },
  "sent": [
@@ -843,7 +843,8 @@
    "cat": "🟥 Discipline",
    "status": "none",
    "headline": "6 yellow cards & 1 red card for Real Madrid tonight.",
-   "link": "https://t.me/RealMadridImportantOnly/31"
+   "link": "https://t.me/RealMadridImportantOnly/31",
+   "superseded": true
   },
   {
    "ts": 1791728433.035337,
@@ -1518,6 +1519,29 @@
    "status": "official",
    "headline": "🚨 CONFIRMED: Thibaut Courtois is set to EXTEND his contract with Real Madrid until 2028. @MarioCortegana",
    "link": "https://t.me/RealMadridImportantOnly/69"
+  },
+  {
+   "ts": 1791811162.6554263,
+   "date": "2026-10-12",
+   "tokens": [
+    "appeal",
+    "card",
+    "confirm",
+    "ibrahima",
+    "konate",
+    "red",
+    "vini",
+    "yellow"
+   ],
+   "names": [
+    "ibrahima",
+    "konate",
+    "vini"
+   ],
+   "cat": "🟥 Discipline",
+   "status": "official",
+   "headline": "🚨 CONFIRMED: Real Madrid will APPEAL for Vini Jr.’s red card and Ibrahima Konate’s yellow card. @COPE",
+   "link": "https://t.me/RealMadridImportantOnly/72"
   }
  ],
  "offset": 769011934,
@@ -1525,8 +1549,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 36,
-  "tokens": 50098
+  "calls": 37,
+  "tokens": 51899
  },
  "pending_fb": {},
  "feedback": [
@@ -1822,7 +1846,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 19,
+ "train_seq": 20,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -1952,6 +1976,28 @@
    "reason": "🚑 Injury is turned off",
    "ch": [
     59
+   ]
+  },
+  "20": {
+   "t": "🚨 CONFIRMED: Real Madrid will APPEAL for Vini Jr.’s red card and Ibrahima Konate’s yellow card. @COPE\n\n@TheMadridZone",
+   "ai": true,
+   "label": "🟥 Discipline",
+   "status": "official",
+   "src": "themadridzone",
+   "id": 31072,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/LFVqdVlknBKarMeZ__SCIq6t3xTEDnAFRBIKMaP2xe2ynyiS-BqSHwYiX_TtWJ0sSbsnLiGGQR-AwJaNJgxUp1ahMvv_jO_GtkswaWkVowg9_ne1kHjfYwjOvPpK1LINvsot6h55a6ZsOlYnj4q1ZExABgdOPtNQMgsTBbdWeGTQVWUg-0IkLVO2zxUAM2P0il7f2N1wkO2IEhI3FEQuN2xc8M70iH0FsN6sJ4Hhhy0C6gbllgEaM-Zo1hRO7BWx7kiWIdvNnQgQ67J6ZrAHj_GJiZUFs7jRT2tfV1QduwKB29HqD4Rf_sYTIveTxDqyVZYlEOOTTjT80YfuEk2VjA.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/rlI0tEvbWKW5wjLOct2hz-FdqOcR7aA4qGjAXDAgzAS0oeaqiv3RUAO44iW6Tko2KY88lArPAjH-4CluemEXIJ3_UmHqd9rGFZoBbUuY3sg0LNH_0sHNcByTeMfKbnUa0G1QYC6RRAs0pdKcRw1j8qpnHsF8YtMjcUqJGOUIPVHz7vXek_yLj1PhbtHCEG_TAshdV5OuDlCRWfep3V_SDLzI_OycJQX8MZlbvAOZxoMqrPQXqnEtiIgqYVbRklG0RiEQ_8zluaepVVCX8BUMhe-QilZ8uCJjfpAmZqBDk74AH8zVrQq4AUGiXcIXCw-PxXhKnAEmEwDljZ7v5zFv2w.jpg"
+    ]
+   ],
+   "reason": "Club appeals disciplinary decisions",
+   "ch": [
+    72
    ]
   }
  },
