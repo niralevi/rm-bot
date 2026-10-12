@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59204,
-  "themadridzone": 31089,
+  "themadridzone": 31090,
   "FabrizioRomanoTG": 67225
  },
  "sent": [
@@ -1583,6 +1583,37 @@
    "status": "rumour",
    "headline": "🚨💣 BREAKING: Dani Carvajal is JOINING Getafe. La Liga has said YES. @MatteMoretto ✍️",
    "link": "https://t.me/RealMadridImportantOnly/79"
+  },
+  {
+   "ts": 1791834743.908323,
+   "date": "2026-10-12",
+   "tokens": [
+    "absolute",
+    "ball",
+    "bellingham",
+    "best",
+    "brilliant",
+    "everyth",
+    "fede",
+    "incredible",
+    "jude",
+    "man",
+    "through",
+    "valverde"
+   ],
+   "names": [
+    "bellingham",
+    "brilliant",
+    "fede",
+    "jude",
+    "man",
+    "valverde",
+    "you"
+   ],
+   "cat": "📰 Other",
+   "status": "fact",
+   "headline": "🗣️ Jude Bellingham to Fede Valverde after his incredible through ball:",
+   "link": "https://t.me/RealMadridImportantOnly/102"
   }
  ],
  "offset": 769011957,
@@ -1590,8 +1621,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 58,
-  "tokens": 90919
+  "calls": 59,
+  "tokens": 92686
  },
  "pending_fb": {},
  "feedback": [
@@ -1987,7 +2018,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 41,
+ "train_seq": 42,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2157,6 +2188,28 @@
    "reason": "duplicate of existing post",
    "ch": [
     86
+   ]
+  },
+  "42": {
+   "t": "🗣️ Jude Bellingham to Fede Valverde after his incredible through ball: \n\n“Man, you are just absolutely brilliant. Brilliant at everything. You are the best.” @MMajeedX @MPlusDeportes\n\n@TheMadridZone",
+   "ai": true,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31090,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/am3FsNn3QgrFB5cmn86WvJhOJs0ZZpjXBjtxT-0ru-YgbVUHo2DNU7qyptUNGh996TmO9vzqea7YZHLxIYxAaMfCp8-RSMINQ1CrW6KDON4qc8YAWJ-qKhzURJEDArOp1SQW0_sHj4T0PdyEJunb9Yxe2E5bJ9QPbu8NFKmJfM_0IVeJ0hMzjSHpn85W-96hZrCvy-RKT36zel1ruzmFzb0Wet9dWmnH5rtdGlMvJZScNvgdizcLsThERwpsDkAXNN4jVJescs3y-Ynp5EM1gzO2btdHameokM5Sb9AQLF1Kf_ysBfYTdh4fajyDChN9zbRJv8sql3M-u5FcZu97ew.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/b30tFOlUWDbzSCF-bJuQIV-un6KpVA-c4tPCey3QDbHmjMfaRRE7c9oRgF5ok1mPX31srgtLXI5zuTcBTIDqp3DDb9bfNad6Kk63yjlfybNLIR3rZDE-Wp4BBR_yCQtydO11Z7fuhTh7PQt0XoLvD_JQ35VQffoQOjtIqDr5Lq0vm0k1-_EXQEhRGSYS1cQsqhp67IPL-Z6j6QOFII18L1KAcfiy0N2v7WP7sEcCWkXsWVrWbZUZW9PHTD6ghrX1YFrTRjF8XGjwjT1dLHO08WKShjYqZZyDCLyKiwEcKXiaQSsYtQlCIEvlHOqnwkua5oc8MT8rJP9jPsCaZ20XdA.jpg"
+    ]
+   ],
+   "reason": "player praise quote",
+   "ch": [
+    102
    ]
   }
  },
