@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59204,
-  "themadridzone": 31090,
+  "themadridzone": 31092,
   "FabrizioRomanoTG": 67225
  },
  "sent": [
@@ -1621,8 +1621,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 59,
-  "tokens": 92686
+  "calls": 60,
+  "tokens": 94397
  },
  "pending_fb": {},
  "feedback": [
@@ -2018,7 +2018,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 42,
+ "train_seq": 43,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2210,6 +2210,24 @@
    "reason": "player praise quote",
    "ch": [
     102
+   ]
+  },
+  "43": {
+   "t": "😅 Antonio Rüdiger kept looking at the stands when the referee was trying to talk to him. \n\n🗣️ Juan Foyth: “Look at him, see, he’s not even looking.”\n\n@MMajeedX @MPlusDeportes\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31092,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Hsa_Nir4mkSc6K2r7Cr3c8kCl6t58UbJ9Z4s6lWGn74FVOPx8eHr9Z2SPhkn2WXKJ8VpR0HwwiInkA3lgxtJc0twO3_K3q5sWsomORqSfT5uNb3HlwI1HFo2K2JT8JysWA7aZlCXlppvt5-k-T9tJKsjR4W-GKYJv7HEQslP5Rn5u4dx_1NUheII1Y46jUE3wX3wxaUm51FcB9ZbhUKyooSqE1VmibVOF2jJRZjM-Ln8XyP-21n2BA5Ad9Fp_LMVYJZtoCYxaEesT3L84mNJQzcJY8DP_UltzPDX7hcaaRmOcxwzFho-mTRLqoEoIQwOio4r7Dt8bAOA9qdgNQ1UCA.jpg"
+    ]
+   ],
+   "reason": "Not about Real Madrid",
+   "ch": [
+    103
    ]
   }
  },
