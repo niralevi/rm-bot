@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59197,
-  "themadridzone": 31067,
+  "themadridzone": 31071,
   "FabrizioRomanoTG": 67211
  },
  "sent": [
@@ -1496,15 +1496,37 @@
    "status": "fact",
    "headline": "🔙🗣️ Yan Diomande: “Michael Olise and Eze came to me after one training at Crystal Palace and said, ‘Yo kid, y…",
    "link": "https://t.me/RealMadridImportantOnly/66"
+  },
+  {
+   "ts": 1791804437.1526856,
+   "date": "2026-10-12",
+   "tokens": [
+    "2028",
+    "confirm",
+    "contract",
+    "courtoi",
+    "extend",
+    "set",
+    "thibaut",
+    "until"
+   ],
+   "names": [
+    "courtois",
+    "thibaut"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "official",
+   "headline": "🚨 CONFIRMED: Thibaut Courtois is set to EXTEND his contract with Real Madrid until 2028. @MarioCortegana",
+   "link": "https://t.me/RealMadridImportantOnly/69"
   }
  ],
- "offset": 769011926,
+ "offset": 769011927,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 33,
-  "tokens": 44674
+  "calls": 35,
+  "tokens": 48331
  },
  "pending_fb": {},
  "feedback": [
@@ -1568,6 +1590,11 @@
    "t": "🔙🗣️ Yan Diomande: “Michael Olise and Eze came to me after one training at Crystal Palace and said, ‘Yo kid, you’re really good.’\n\nBut they didn’t sign me.”\n\nYears later, Diomande scored his first goal for Real Madrid.",
    "v": "+",
    "miss": true
+  },
+  {
+   "t": "🚨 CONFIRMED: Thibaut Courtois is set to EXTEND his contract with Real Madrid until 2028. @MarioCortegana\n\n@TheMadridZone",
+   "v": "+",
+   "miss": false
   }
  ],
  "rules": [
@@ -1785,7 +1812,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 16,
+ "train_seq": 18,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -1916,10 +1943,28 @@
    "ch": [
     59
    ]
+  },
+  "18": {
+   "t": "🚨 EVERYONE at Real Madrid views Thibaut Courtois as a LEADER and as the BEST goalkeeper in the world. @MarioCortegana\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31071,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/emk5YF5x9ae5lGSeqVrPFO9fGK3EGi_5wwAXP5jql2fXJK8sb0n3GkTCfNi3v5CUUGlZ7sSQjcpsLAWLunKgNNt5pnlxjmIlm7pqc4YUGub8C_wnGmwPDrmyWv1H3blZSGWanptChFK9dbVr4oGRGIvTCygS11GmtK6cTrlvsdZ9RODVR6avTbMIdguIxmRZjfrLpATF84FAguAClFRlGiBkH9LXszvxz1HCYiS4zyPjwKVEGTROeiKwUECTtSe528Pc4DNG2oB6f79WTE3e2BFXzlM8-0V5ngJVi6OvFRhvaD6k4_Z4idpH3UcwjGhsR3piE7DcIc85VKW3o1oFGA.jpg"
+    ]
+   ],
+   "reason": "No new actionable info",
+   "ch": [
+    70
+   ]
   }
  },
  "train_stats": {
-  "n": 9,
+  "n": 10,
   "recent": [
    1,
    1,
@@ -1929,7 +1974,8 @@
    1,
    1,
    1,
-   0
+   0,
+   1
   ]
  },
  "enabled": {
