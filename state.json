@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59201,
   "themadridzone": 31075,
-  "FabrizioRomanoTG": 67212
+  "FabrizioRomanoTG": 67213
  },
  "sent": [
   {
@@ -1590,8 +1590,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 41,
-  "tokens": 58936
+  "calls": 42,
+  "tokens": 60921
  },
  "pending_fb": {},
  "feedback": [
@@ -1907,7 +1907,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 24,
+ "train_seq": 25,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2055,6 +2055,19 @@
    "reason": "duplicate of already posted update",
    "ch": [
     77
+   ]
+  },
+  "25": {
+   "t": "RT @FabrizioRomano: 🚨🔵⚪️ Getafe have reached verbal agreement to sign Dani Carvajal, here we go!\n\nThe medical tests have been completed and the club is ready for announcement — only waiting for La Liga’s approval on Financial Fair Play limits.\n\nCarvajal said yes to Getafe — as ABC reported. https://t.co/mSabzHduvB\n — Fabrizio Romano (@FabrizioRomano)\n Oct 12, 2026",
+   "ai": false,
+   "label": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "src": "FabrizioRomanoTG",
+   "id": 67213,
+   "m": [],
+   "reason": "duplicate of earlier rumour",
+   "ch": [
+    81
    ]
   }
  },
