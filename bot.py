@@ -146,6 +146,21 @@ RUMOUR_MARKERS = [
 RM_WORDS = ["real madrid", "realmadrid", "rmcf", "bernabeu", "los blancos", "hala madrid",
             "valdebebas", "castilla", "florentino", "mourinho"]  # add the coach's name if it changes
 
+# Current squad + players the club still controls (buy-back clauses). Posts from general
+# channels (like Fabrizio) that mention any of these are treated as Real Madrid news.
+# Update this list when the squad changes - players you /add count too.
+SQUAD = [
+    "courtois", "lunin",
+    "carvajal", "alexander-arnold", "alexander arnold", "militao", "rudiger", "huijsen",
+    "asencio", "alaba", "carreras", "fran garcia", "ferland mendy", "mendy",
+    "tchouameni", "valverde", "camavinga", "bellingham", "ceballos", "arda guler", "guler",
+    "mastantuono", "brahim",
+    "vinicius", "vini jr", "vini", "mbappe", "rodrygo", "endrick", "gonzalo garcia",
+    "diomande",
+    "nico paz", "jacobo ramon",  # sold with buy-back clauses
+]
+RM_WORDS += SQUAD
+
 # Player-stat posts ("94 touches, 99% passing accuracy...") are dropped - unless they
 # also carry real news (a final score, an injury, a transfer...)
 STAT_WORDS = ["touches", "passing accuracy", "duels won", "man of the match", "motm",
