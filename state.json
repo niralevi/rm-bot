@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59194,
-  "themadridzone": 31057,
+  "themadridzone": 31058,
   "FabrizioRomanoTG": 67210
  },
  "sent": [
@@ -1345,8 +1345,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 22,
-  "tokens": 28375
+  "calls": 23,
+  "tokens": 29885
  },
  "pending_fb": {},
  "feedback": [
@@ -1590,7 +1590,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 9,
+ "train_seq": 10,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -1720,6 +1720,24 @@
    "reason": "🚑 Injury is turned off",
    "ch": [
     59
+   ]
+  },
+  "10": {
+   "t": "🚨💣 BREAKING: Éder Militão is BACK in team training.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "🚑 Injury",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31058,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/GTcu02b5eN0LH1XdroJDsfB-lMkQin4MPDAdavTHGwsomFihDlh7BmH1DkA58mCsf4-p5yO1RAU8jIIMWDA5zIgydGQf2bAmruB1_KnHWevAIY_s0gKk5_A4AzA09jDzEyajQaYUzuGKtd2k_CgAHQacCDA_Gbqmt8H7gZKrIXwBI085ZB5kUPsHD3MpFSwbbU2uJFJDUWr-zFvBPXGMQHe357CGBz6-NDH1oeSS9hehEWwVGb11qrUr6wbqGx05Vsn5oAy6LCepJ54o2vqDCj9Si-PDkp8VOG8opRl5hSxWT90N7S6QyuD8d--FIRAnVdYkxVL42wUGsaAetY2hHQ.jpg"
+    ]
+   ],
+   "reason": "🚑 Injury is turned off",
+   "ch": [
+    60
    ]
   }
  },
