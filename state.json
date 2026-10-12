@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59189,
-  "themadridzone": 31048,
+  "themadridzone": 31049,
   "FabrizioRomanoTG": 67207
  },
  "sent": [
@@ -1345,8 +1345,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 10,
-  "tokens": 11907
+  "calls": 11,
+  "tokens": 13116
  },
  "pending_fb": {},
  "feedback": [
@@ -1526,6 +1526,23 @@
    ],
    "r": "Irrelevant joke, no real news",
    "h": "🚨 Marc Cucurella to referee after Vini Jr.’s red card:"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31049,
+   "t": "🚨 Thibaut Courtois has PURCHASED the GK gloves brand REAL. \n\nThe same brand that supported him at the very start of his career.\n\nHe debuted his own gloves against Villarreal.\n\nWHAT A STORY. 🧤\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/lOXYseY-x8_8JJfafudTFw2io_wuz1RRUtdtzuWNoT3f5nQkQZaC3sPuKCrKcLxC-CQUDsinX7gIqUot51U_geCIhkEqNUfJBuiI8HFwv9rDwPv9U_4djbA8Se5Eamdr1xCkjok_tp6moqs4NaAh2u77dTvKp3Hki_YgXmMnGBGOpWUP7Ehqv00Teq6zBsNqmeMvCD6sBoTxdxsDKLz2V0x6MSB0rBvQkGbDIHfJIjnkJu3NebwshiswNcziXEiLfXyq6zmikG2u_e4fUsqQwRJ8jIt_VYs86Nu3qQRsMKdYPUR6zYua_jWgY7c6gnC6bDTYMkhciaS9F2vkeSR_1w.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/qpOYRQdGcVUbU16LmquXUjGIh_VIWXLu4o6wr3fz6mvPXUy6FjdXCV6OgfYKITHuMZ7ljUQJB3CDDTxmRh0HREBHTR4TCODBdZe894Ucv4kzPz9YQbhgj5Sr7rx0w39qXCqw6YMm2ymMIUNL6XrE23-OUwSN_nd4n-w7V6Lg2CNUsfQFajAD0M8GeP3qVVbGbqZebnJinD3wyYZgIcThAmTuZ2Ys2yceOPFjxJkp30ru-Zzmev8UBjc6h5ck2hR7-E3pBCQZgbYtKY5q3hEPLumO24qDhpXa9vPmXX2y756UzD9tXWf876a5n26oXxX5ByyT0DvnUHrdzm76UwMazQ.jpg"
+    ]
+   ],
+   "r": "Lifestyle/brand news, not relevant",
+   "h": "🚨 Thibaut Courtois has PURCHASED the GK gloves brand REAL."
   }
  ],
  "summary_date": "2026-10-11",
