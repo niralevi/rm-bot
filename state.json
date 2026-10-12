@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59201,
+  "real_madrid": 59202,
   "themadridzone": 31075,
   "FabrizioRomanoTG": 67214
  },
@@ -1590,8 +1590,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 42,
-  "tokens": 60921
+  "calls": 43,
+  "tokens": 62707
  },
  "pending_fb": {},
  "feedback": [
@@ -1907,7 +1907,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 25,
+ "train_seq": 26,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2068,6 +2068,28 @@
    "reason": "duplicate of earlier rumour",
    "ch": [
     81
+   ]
+  },
+  "26": {
+   "t": "🚨 UPDATE: Real Madrid have reached an AGREEMENT in principle to RENEW Thibaut Courtois. [FabrizioRomano] ✍️",
+   "ai": false,
+   "label": "✍️ Transfer & Contract",
+   "status": "official",
+   "src": "real_madrid",
+   "id": 59202,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/chfhaQb0YaPRV2A_Eff8IrhFPH8HLFkxRmpI2xLCzSNMKMRE6_PtylEe8JM2Wz1QNmlMJAKirPNi3uuVVSc5SR2JRtBVMfFpNhEKRCOe6fdd--ASTLCVhr8gdEEsn8AKnOJih8cpmJP-rs5SdXfbZPI6TBavCiXqqT9RbdrsCCttLQJtYF9jprCzsnWEMh76RJXCI0ZbF3tfXVTu0DB0lCVhD1wXyZokKhTT_9vDblxGhmffW1f_WSf30MmVI3dD-fNmrC09A8N_kcJ4beC_K5XS0OzMTUOIRoA2kBJYpXeOyl1j-GysSwB1sVnLxWRn6318RTiKv1abO-0AR_7Zqg.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/hIDNFF-8pHvNS82RpJSYf96V_ZXCrRQJxQE2oU9LbbfcuFqzhgQpdpI8UOAJkBmcvYfGUr0qoQ_WRtUEIWrQiVWUHjzy3r7zVRiixxiNPYE5675yp_tGa-aa45X3XfHVhGgX-KwQw1Tadz5hpOcBOrl8xL9sBijyOX-Xo7IRNQDzQ8Up1vx00imxXrs_ut5sVKsmFmW6xFkvgYP_aD30HlXfyeGIxslj53R2yxgorSMCeA9k1QcURiOmvYs-chi3FKtFykrI7l_yen8WRYS_bFUa0P4Vxbj66o2d3J9JYqnTuLDESXiQWDVvpJperix_gP_v374UefR9r_PJT69tmg.jpg"
+    ]
+   ],
+   "reason": "duplicate of earlier announcement",
+   "ch": [
+    82
    ]
   }
  },
