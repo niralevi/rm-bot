@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59194,
   "themadridzone": 31059,
-  "FabrizioRomanoTG": 67210
+  "FabrizioRomanoTG": 67211
  },
  "sent": [
   {
@@ -1357,15 +1357,92 @@
    "status": "rumour",
    "headline": "🚨💣 BREAKING: Éder Militão is BACK in team training.",
    "link": "https://t.me/RealMadridImportantOnly/60"
+  },
+  {
+   "ts": 1791802466.693111,
+   "date": "2026-10-12",
+   "tokens": [
+    "12",
+    "2026",
+    "2027",
+    "28",
+    "agreement",
+    "consider",
+    "contract",
+    "courtoi",
+    "current",
+    "deal",
+    "defend",
+    "expir",
+    "fabrizio",
+    "goal",
+    "june",
+    "key",
+    "next",
+    "oct",
+    "principle",
+    "reach",
+    "romano",
+    "season",
+    "sign",
+    "soon",
+    "thibaut",
+    "top",
+    "verbal",
+    "world"
+   ],
+   "names": [
+    "courtois",
+    "current",
+    "fabrizio",
+    "june",
+    "oct",
+    "romano",
+    "thibaut"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "headline": "🚨🤍 Real Madrid have reached an agreement in principle with Thibaut Courtois over new contract.",
+   "link": "https://t.me/RealMadridImportantOnly/62"
+  },
+  {
+   "ts": 1791802468.0454075,
+   "date": "2026-10-12",
+   "tokens": [
+    "complete",
+    "cristiano",
+    "lie",
+    "maradona",
+    "messi",
+    "most",
+    "pele",
+    "personal",
+    "prefer",
+    "preference",
+    "respect",
+    "ronaldo",
+    "say"
+   ],
+   "names": [
+    "cristiano",
+    "maradona",
+    "messi",
+    "pele",
+    "ronaldo"
+   ],
+   "cat": "📰 Other",
+   "status": "none",
+   "headline": "🚨 Cristiano Ronaldo: “If you prefer Messi, Pelé or Maradona, I respect that. It’s personal preference.",
+   "link": "https://t.me/RealMadridImportantOnly/61"
   }
  ],
- "offset": 769011910,
+ "offset": 769011916,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-12",
-  "calls": 25,
-  "tokens": 32249
+  "calls": 27,
+  "tokens": 34964
  },
  "pending_fb": {},
  "feedback": [
@@ -1399,6 +1476,16 @@
    "t": "🚨💣 BREAKING: Éder Militão is BACK in team training.\n\n@TheMadridZone",
    "v": "+",
    "miss": true
+  },
+  {
+   "t": "🚨 Cristiano Ronaldo: “If you prefer Messi, Pelé or Maradona, I respect that. It’s personal preference.\n\nBut saying Cristiano Ronaldo is NOT a complete player is a LIE.\n\nI am the MOST COMPLETE PLAYER.” @CNN\n\n@TheMadridZone",
+   "v": "+",
+   "miss": true
+  },
+  {
+   "t": "🚨🤍 Real Madrid have reached an agreement in principle with Thibaut Courtois over new contract.\n\nThe club considers Courtois a key player, top in the world and new deal will be signed soon after verbal agreement.\n\nCurrent deal expires in June 2027 but Thibaut will defend Real Madrid’s goal also next season, 2027/28.\n — Fabrizio Romano (@FabrizioRomano)\n Oct 12, 2026",
+   "v": "+",
+   "miss": false
   }
  ],
  "rules": [
@@ -1413,7 +1500,7 @@
   "Skip lifestyle, personal, fashion, family, and social‑media content",
   "Skip news about former Real Madrid players at other clubs",
   "Skip any news about non‑Real Madrid players or clubs",
-  "Skip opinions, fan reactions, memes, polls, kit leaks, and promotional ads"
+  "Send player statements or quotes about themselves or the club"
  ],
  "skipped": [
   {
@@ -1608,13 +1695,14 @@
  ],
  "summary_date": "2026-10-11",
  "prefs": [
-  "Dont send anything about vacations"
+  "Dont send anything about vacations",
+  "keep thing about ronaldo if its important"
  ],
  "opts": {
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 11,
+ "train_seq": 12,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -1745,36 +1833,16 @@
    "ch": [
     59
    ]
-  },
-  "11": {
-   "t": "🚨 Cristiano Ronaldo: “If you prefer Messi, Pelé or Maradona, I respect that. It’s personal preference.\n\nBut saying Cristiano Ronaldo is NOT a complete player is a LIE.\n\nI am the MOST COMPLETE PLAYER.” @CNN\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "none",
-   "src": "themadridzone",
-   "id": 31059,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Z_KUzCm3_i-pc_grjuQQGLgvW2ujG0VQ7K25To90ukwu9vWRfFG8D58OYvYEDvtAbVOzQUS-fqZIzc3of6l4t27NA-GZbj4svCNJJRW0Jquce4XkNzgNiV87YsFTfgKf0f4TlO6AYdiX0t2nlwpSXsirXpYQoKUuBP5sL5KjEzfxNPIEhFCLvC3idOeCaWoU0bKv90iP-w4_0wkViBTGyhB69luZv6tvpucuzwsUkETGtX3k6c2zRpKL1kMZoXrDfAgV_OUuJlAAm2Y26wyiAInNqKqT6iQCDft7sICyGHcwWhu47yXUcly2cMzFfrc28IzZ5vsMhdlaiUI_hrrF4A.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/QNE4LHV-pjPoAuqYWwclPEMgPw4JmUnML_kcKn-DrKZghnFMIZgEmriiQPzAm4CIdSqa7VTpNopCjyPxBqjvqGvczN1FJwsjaM8qObWhENO6LSrVxS2mRowbXQhuQVS9UB1cJ58Zey3HhFD9B0OzZ9UPeG3R-dCTkWN2fATk_RNXsbRhEMjHZjTJh1KSWRrJzJlEq4vLxUqmFWme1gkiY37wteWCUexjGewzMuqoIh2h0zXjCbMhTkV-GpDX_UGnd03b-hhHaahUc2sCa_0q_riHci7rZ2eOBAO307uelaYWlcgFlSkXcl6VKodwpFwrAdNx4_TdoWwdFJHyU3rqng.jpg"
-    ]
-   ],
-   "reason": "Not club‑related news",
-   "ch": [
-    61
-   ]
   }
  },
  "train_stats": {
-  "n": 3,
+  "n": 5,
   "recent": [
    1,
    1,
-   0
+   0,
+   0,
+   1
   ]
  },
  "enabled": {
