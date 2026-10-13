@@ -1689,7 +1689,7 @@
    "link": "https://t.me/RealMadridImportantOnly/104"
   }
  ],
- "offset": 769011966,
+ "offset": 769011967,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
@@ -1699,11 +1699,6 @@
  },
  "pending_fb": {},
  "feedback": [
-  {
-   "t": "🗣️ Gary Lineker: “Can Jude Bellingham be one of the greatest of all time? \n\nYes, I’ve been saying it for a long time now. \n\nIf he avoids serious injury or falls of the rails which he won’t I’m sure. \n\nHe’s so good at football, he’s got everything.\n\nHe’s a superstar and carries himself like a superstar.” \n\n[wearetrackradio]",
-   "v": "-",
-   "miss": false
-  },
   {
    "t": "🚨💣 BREAKING: Éder Militão is BACK in team training.\n\n@TheMadridZone",
    "v": "+",
@@ -1896,6 +1891,11 @@
   },
   {
    "t": "🤩 YEAR 2 OF REAL MADRID x LOUIS VUITTON. \n\n📸 @HYPEBEAST\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "🥶 Jude Bellingham for Real Madrid x LV.\n\n@TheMadridZone",
    "v": "-",
    "miss": false
   }
@@ -2287,24 +2287,6 @@
     86
    ]
   },
-  "51": {
-   "t": "🥶 Jude Bellingham for Real Madrid x LV.\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "rumour",
-   "src": "themadridzone",
-   "id": 31101,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Ncdk-S2Uovv0is5bNNPp02d9GSWyjDnM72sPfzwox6uq7wZGrIKBSMkAhUINn17_y3IK3qJotl_lqFmLbE8fWRvPUq4cpZAt-N5yLRXaqilFJhjKmg3sp4wwLRtQVeUWUzxIFDNla-8ICS4_b9V4aA4PIfAubUioi2eAGyR4nOXadri0yljnPiAbI-Q_vcWacSxbxRqCc5IMl1qFuOjN9VT0Fvz1jfnY6baRttdLOnl_7ldVxji_jtGh_wqTAsXSWAsMS5eRppHYVEApI_pQ0qBpytUYlOLIj7ThaDpHjhUH8zWHw60tSk1kli3T6S88GcB5K8hYdcKjcUfdPwwWaA.jpg"
-    ]
-   ],
-   "reason": "Lifestyle/brand collab, not relevant",
-   "ch": [
-    111
-   ]
-  },
   "52": {
    "t": "Vini Jr. for Real Madrid x Louis Vuitton 🔥\n\n@TheMadridZone",
    "ai": false,
@@ -2325,7 +2307,7 @@
   }
  },
  "train_stats": {
-  "n": 41,
+  "n": 42,
   "recent": [
    1,
    1,
@@ -2367,6 +2349,7 @@
    1,
    1,
    0,
+   1,
    1
   ]
  },
