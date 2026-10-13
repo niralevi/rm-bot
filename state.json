@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59218,
-  "themadridzone": 31183,
-  "FabrizioRomanoTG": 67248
+  "themadridzone": 31184,
+  "FabrizioRomanoTG": 67252
  },
  "sent": [
   {
@@ -808,6 +808,122 @@
    "status": "fact",
    "headline": "🚨 Jose Mourinho: \"Endrick and Bernardo Silva were about to come on, but we scored the goal right then. And we…",
    "link": "https://t.me/RealMadridImportantOnly/164"
+  },
+  {
+   "ts": 1791913761.986034,
+   "date": "2026-10-13",
+   "tokens": [
+    "13",
+    "2026",
+    "all",
+    "chance",
+    "clos",
+    "door",
+    "endrick",
+    "fabrizio",
+    "forget",
+    "here",
+    "january",
+    "jose",
+    "loan",
+    "mourinho",
+    "oct",
+    "romano",
+    "succe",
+    "told",
+    "trust"
+   ],
+   "names": [
+    "endrick",
+    "fabrizio",
+    "forget",
+    "january",
+    "jose",
+    "mourinho",
+    "oct",
+    "romano"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "fact",
+   "headline": "🚨 José Mourinho closes all doors to a loan for Endrick in January: “Forget it! No chance. I trust Endrick”. 🇧🇷",
+   "link": "https://t.me/RealMadridImportantOnly/165"
+  },
+  {
+   "ts": 1791913764.3850846,
+   "date": "2026-10-13",
+   "tokens": [
+    "13",
+    "2026",
+    "adore",
+    "club",
+    "endrick",
+    "fabrizio",
+    "fight",
+    "him",
+    "important",
+    "interest",
+    "jose",
+    "mourinho",
+    "oct",
+    "potential",
+    "romano",
+    "sign",
+    "told",
+    "top"
+   ],
+   "names": [
+    "endrick",
+    "fabrizio",
+    "jose",
+    "mourinho",
+    "oct",
+    "romano"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "fact",
+   "headline": "🚨 José Mourinho: “The clubs interested in Endrick will have to FIGHT WITH ME to sign him”.",
+   "link": "https://t.me/RealMadridImportantOnly/166"
+  },
+  {
+   "ts": 1791913766.5794456,
+   "date": "2026-10-13",
+   "tokens": [
+    "13",
+    "2026",
+    "against",
+    "come",
+    "does",
+    "endrick",
+    "fabrizio",
+    "great",
+    "here",
+    "injury",
+    "jose",
+    "loan",
+    "mourinho",
+    "need",
+    "oct",
+    "play",
+    "return",
+    "romano",
+    "soon",
+    "succe",
+    "thing",
+    "villarreal"
+   ],
+   "names": [
+    "endrick",
+    "fabrizio",
+    "jose",
+    "mourinho",
+    "oct",
+    "romano",
+    "villarreal"
+   ],
+   "cat": "🚑 Injury",
+   "status": "fact",
+   "headline": "🚨🇧🇷 José Mourinho: “Endrick does NOT need to be loaned out, he will do great things and succeed here”.",
+   "link": "https://t.me/RealMadridImportantOnly/167"
   }
  ],
  "offset": 769011995,
@@ -815,8 +931,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 93,
-  "tokens": 151874
+  "calls": 97,
+  "tokens": 158739
  },
  "pending_fb": {},
  "feedback": [
@@ -1038,19 +1154,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31162,
-   "t": "🚨 José Mourinho: \"It's very strange to me.\n\nUsually, BY LAW, the referee's name is known 24 hours before the game in La Liga.\n\nSo, why, for us, we always hear the name 3 weeks before?\n\nIT SMELLS STRANGE.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/AR7tHOVebxv7UFMqO0dmbfwGzlrhh0vV18GhUYE1E2jO5d5Wo7kL8-2lXX5kGIq9_5YzaJprYFcY7i8RqD7y-MpEE8ORV1FN_yTWHGs8YPDe8AXUexdc8YkMwT7MsMB8_dbNIGj1n-YK-RJMmv9cUIGT_GbApGc12lAQBxicwUOIvBJerpMNmLb9uBfu1yNraUw1C79sDrtJPnJaORlEg0rrbfNzK8EiB7lzRJ33mcMarFO-ZawBapUPbRkECuP3vQQ5E4iPIgvuMYrXpi1uio-CAJfNzdjdXzlQ_408WkQtM0RcCA9vNTpV3yF9DvHlH_ZoXmJy4J_LphWCSbq5eA.jpg"
-    ]
-   ],
-   "r": "trivial coach comment, not essential",
-   "h": "🚨 José Mourinho: \"It's very strange to me."
-  },
-  {
-   "src": "themadridzone",
    "id": 31163,
    "t": "🚨 José Mourinho: \"Do our players find it harder to make tackles in La Liga than in other competitions like the UCL because of the refereeing?\n\nWhen you ask me that question, you know the answer.\n\nYou just don't want to say it.\n\nEveryone knows.\"\n\n@TheMadridZone",
    "m": [
@@ -1219,6 +1322,19 @@
    ],
    "r": "Not about Real Madrid",
    "h": "David Alaba made his debut for Udinese."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31184,
+   "t": "Sergio Ramos x Maluma 🇪🇸🇨🇴\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/QqxVBnClgmmOkRZR4Nzck5gQc4PPQnrbmuONSHzAWZiggNf5osqeXWY_xVs0qhHC8GCDihVZ5d8nKtUjOlFwMt7ni2CALBb4t1y4XR7Wx4TgP2KZ_mTu5vvcbgeHmm9RcrVCyKdZs00xSSBvTbqc-5S2VwzdtescccM3YWyJ5GMj4ekHYPGzzzhEC4C82upn3W-LGlGpBTtR1GqfqVHTltv6ldPj0QwD-8aTDJyttCgp0MEwjz76AmIqWSMGrPZgR4_6NEXoq-0WaS7B4AqRy-ChKlGTaFqmlI-gXFmnMMOTQjUffEpf-XVKwTc86cg_avTofsOfOy6dujgb9SAQ7g.jpg"
+    ]
+   ],
+   "r": "Lifestyle content, not relevant",
+   "h": "Sergio Ramos x Maluma 🇪🇸🇨🇴"
   }
  ],
  "summary_date": "2026-10-12",
