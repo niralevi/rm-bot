@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59218,
-  "themadridzone": 31190,
+  "themadridzone": 31192,
   "FabrizioRomanoTG": 67252
  },
  "sent": [
@@ -958,8 +958,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 101,
-  "tokens": 165308
+  "calls": 103,
+  "tokens": 168522
  },
  "pending_fb": {},
  "feedback": [
@@ -1181,32 +1181,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31168,
-   "t": "Yan Diomandé arrives for his first ever away UCL game 🇮🇹💫\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/j0clwvt7lU_r5Yhsy_zYYGp9XhymhOWXVbYHcAOYryDWj_T0frSh8XtmtU6P3q8Yyqrg3zKe1VZczLLIM2bGI8ywbvqKbeWiC0p8uU1d4TOG9XlKgp3iFR21EPjAf-F6rIVk1mAOumgHczxzCoD6wL463krbMpV2W4A62KjDBExhy7J7oOcFN57ER4VV6A49lGTttBuDIvsGrkP55-z3M-kUNEd2ILVh3uMENM1t93D6Ix9CoNVaaIi3PWwgavI6GWyUeAYh8ddiKqLo-WmLiNvBRpI_AE51X4NuxKwUdqXvZMiUz5rZ_m0ME_DmHbPdT4gJWPmfSpOptmwuHDL63g.jpg"
-    ]
-   ],
-   "r": "Lifestyle/marketing, not relevant",
-   "h": "Yan Diomandé arrives for his first ever away UCL game 🇮🇹💫"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31169,
-   "t": "Endrick in Roma 🇧🇷\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/sn5KPfDMdBt2D-l98eprLKVocwx8WCWzQyT_9x_Tw_pfac7gHGwR0Y5p8k5hkrt__yPsYwLO1ftYbvRn5L957mHgqTeTBn6GC9JpzrCK8dOXfeV5v8eN2Pmv7PMl_IUvd4rvgSdrC21WRoXm8haGAX0Tp5OM9xLGZmX78_XRAEwSHmDLQUsfgIgxGfsp0uRns_fyaAK7zOtJJI6kUOTr8cEebD19uY3k0ZX1zW2r8I5I78T_j7YHW0BDfGO754wsNZS5bPdtxZkIOC7_2oAqRnapiV7wdMjgq1_m2OPyk5hnNEKQcjwvM7NZTSkUPmwjspGQ3vQl-rNV_SzcMW5JvQ.jpg"
-    ]
-   ],
-   "r": "Not about Real Madrid",
-   "h": "Endrick in Roma 🇧🇷"
-  },
-  {
-   "src": "themadridzone",
    "id": 31170,
    "t": "The best GK in the world is here 🦒\n\n@TheMadridZone",
    "m": [
@@ -1366,6 +1340,32 @@
    ],
    "r": "generic quote, no actionable news",
    "h": "🚨 Aurélien Tchouaméni: \"Preparing for El Clasico?"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31191,
+   "t": "🏗️ Real Madrid logo before it was installed on the Bernabéu today. @diarioas\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/U0jG5Idaf-V2b-fOxLn2I0AwkkFtCdGKuffVn9hYzByrhCUd1IJMPjZ1HeiuwkAGfR0vmFaRNSe__8YHJm4FdY_S9MZn1KgZVA279ASxV4M1HS6l1pzphnGfLQCTf9vHZQUFKlig5eHfDNTR-jsTUEQygCwYuRxA6aYfVWcVAYbHTfMqKuOTu1qTeWmZ_JaRa5Uv9U0eRkT4wFbHGg8-8E3pfitqC6ciC2B6XZQHEJInVtCOBV0mjH1-BsBULe8HuuDPLVCUvMlOCGdBotPnWCB56bFnRg56UqqvWqfabyrqKAVF36VVLPZButMWqXqEA7CRnVyjA-PJpQ3dsiWatA.jpg"
+    ]
+   ],
+   "r": "Not relevant club news",
+   "h": "🏗️ Real Madrid logo before it was installed on the Bernabéu today. @diarioas"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31192,
+   "t": "🚨🏗️ The new logo at the Bernabéu. @diarioas\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/uce_HSLDfTvko-3V8yhSccW6WeP8bRLOjEfpBqtTD-W_nKvEkDwX1dsTybo1v04kH9VoxiyXQCfF807QfgHQVDPVs5iI2LOlIxEV9tStR2hN41vOUHaHg_oI-Z2Rv7F55M1I5snMF8cbU5DKi2N3sIWnJJpt_GlvvFvepkyKz0WCXSO8ldz2zFOJbG8PAp-QxZJVq3h-qKRZg9hZtXxwgKuQjFDynZwXMv_gHGQrA9DavVpIL85KL0gqV410lMoQckINXulJFR5K9fgDqGXSUMBScEy5ljPly0m-IQ1a1scW-CpFRrAWzL_rqiZ-i3g6XN3fCShEnwd0yaa_a4ROvA.jpg"
+    ]
+   ],
+   "r": "Not about team news",
+   "h": "🚨🏗️ The new logo at the Bernabéu. @diarioas"
   }
  ],
  "summary_date": "2026-10-12",
