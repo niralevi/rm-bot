@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59213,
-  "themadridzone": 31121,
+  "themadridzone": 31123,
   "FabrizioRomanoTG": 67236
  },
  "sent": [
@@ -1777,8 +1777,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 33,
-  "tokens": 53774
+  "calls": 34,
+  "tokens": 55425
  },
  "pending_fb": {},
  "feedback": [
@@ -2198,7 +2198,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 75,
+ "train_seq": 76,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2498,6 +2498,24 @@
    "reason": "Player not at Real Madrid",
    "ch": [
     142
+   ]
+  },
+  "76": {
+   "t": "🚨 STAT:\n\n- Vini Jr has suffered 511 fouls at Real Madrid, and only 6 players have been sent off for those fouls. A red card for every 85 fouls.\n\n- Lamine Yamal has suffered 168 fouls at Barcelona, and 5 players have been sent off for those fouls. A red card for every 33 fouls.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31123,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/B8Eh5Ei4luIb_PPsz6QsTcQgL30MZFn9jM0xbqUY9rpPp0xSvNLygIhISREWXGDEeOfYicTpgOmuExEZpWAFlix2Dz73R9ny_XUJS3BzXltV72YDJlYcjvbEEiESCAV0GfK06AmJXsdGvvLwu-q54vSeHMplQ6l4e1ZxjBaJQc5MIxEmrLir5-EhrqI8SkCWxVDhypcVPN5Y8FX4Vl-w1Be81QV99K65nUWWUqvgTKiCVSNobvZ97tShtli_DVIHm7dGTzDOch3u5wtWkgBaKIL3g56id4AiSnYIUzat7vzgLs4bCxdcJ0m5cWkOFgVzgIvUMVln7WCG5Iy9EC_g-w.jpg"
+    ]
+   ],
+   "reason": "Pure statistical list, no news",
+   "ch": [
+    143
    ]
   }
  },
