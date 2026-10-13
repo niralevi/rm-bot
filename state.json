@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59218,
-  "themadridzone": 31185,
+  "themadridzone": 31190,
   "FabrizioRomanoTG": 67252
  },
  "sent": [
@@ -958,8 +958,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 98,
-  "tokens": 160397
+  "calls": 101,
+  "tokens": 165308
  },
  "pending_fb": {},
  "feedback": [
@@ -1181,45 +1181,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31163,
-   "t": "🚨 José Mourinho: \"Do our players find it harder to make tackles in La Liga than in other competitions like the UCL because of the refereeing?\n\nWhen you ask me that question, you know the answer.\n\nYou just don't want to say it.\n\nEveryone knows.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/vIwFXErj_HwQWr1x05dUKXgkvBmpJV7ucI70Vrz9aEJlyMDd1ksyUET_TkPY1k_m8pHVRYW0YXxdW43OZmCalSERGQaUX4zwVZaCti7N38sxkN-Ing1R4aBwjYiDNzQzYuJoEudG5PUNcW0VKBG9W0OhlaMw1qn9_-_-Td0JQ5RkTn8Li2RypXC-pBACl4NHVzuB-b4MAQilXASaAX0239zNYAI0QbJQXtVGFC3dsCTDkWLqASwUwREp_wrunUXCUhgaqdG91DUGWpd2uxtUg6zeGt-DzipgNvf58zSyWFj5DKwX9cZkDYMzDOq0MdSyJGi0UNZnadPBr5AF0jbXMA.jpg"
-    ]
-   ],
-   "r": "coach quote, not essential news",
-   "h": "🚨 José Mourinho: \"Do our players find it harder to make tackles in La Liga than…"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31166,
-   "t": "Vini Jr with fans in Roma 🇮🇹\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/qXh6ABhU0rsU6KRG9fcPElE4gm-VKxFMjLXdb7hIBlt_QIu0VJT0jq5MUi6TcxgbuWjCSweRHpbw8qK9NPkcZLIwJJUuL4siVLmOiEO5lgklzJqOdzDCaXvxLJiOfbL3Mcas4stLiqCUrDCEJgL6bzHyyx2mSIuALuQVKACzjPs0ZDQ_Hb8OJu4qaQeFG8lAGV-dGYCAmGG0TxMRFUEaS7PQscSFZTAfIVCLaB5DGBSK9cn6hhwhFXecyrrE6OvEbPK8imfEXPZyTyE7BwAnWD-fW4rfByiygYS6WuKIeHaRd4PQfxWJyYOjy4EYb8wmnRN4FAbQw82vYK3vWGAfFQ.jpg"
-    ]
-   ],
-   "r": "Lifestyle, no news value",
-   "h": "Vini Jr with fans in Roma 🇮🇹"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31167,
-   "t": "Kylian Mbappé with fans in Italy 🇮🇹\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/VtWJSfsZ44uEFWFwhvdHfiKv3g9JERTezJ-iVuYUu1zFZ3bcKS4Kgn8i0_eSlkLsIiB5wL-m-kUPPNYw-K10pD1LE7Rzl5qfIvYVJzq3twS74Rr8dDhbHoOT6Fk2YSNmYBXURVZiCBz0gs3D_uAVqYBTGhzBry5ZsIiJWmYOcO0WQRVZRcD3Qivl58eD_5QAAJQ6hNIXPDo44NlKsjAJykxLUkGFZVSjHTmF8LYJIyD05xeOzyw6byh5r_c_X7L-e0Pwc3vX5IeTfjSbJAWlbv6njeZWVZVIC8PsvtKUU-px9g1gvttGzYZOP0DvGDlwUfMjCC4n3_VY5AP-Q4xjCw.jpg"
-    ]
-   ],
-   "r": "Irrelevant fan photo, no club news",
-   "h": "Kylian Mbappé with fans in Italy 🇮🇹"
-  },
-  {
-   "src": "themadridzone",
    "id": 31168,
    "t": "Yan Diomandé arrives for his first ever away UCL game 🇮🇹💫\n\n@TheMadridZone",
    "m": [
@@ -1362,6 +1323,49 @@
    ],
    "r": "Lifestyle content, not relevant",
    "h": "Sergio Ramos x Maluma 🇪🇸🇨🇴"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31187,
+   "t": "🚨🚨 New Santiago Bernabéu logo has been installed. @RMadrid1902new\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/vIXvHbDCZI4LnlaMhH4nbKRFFne3KP3T6qrO3JHexgXiBvr_G72n3auRC9I6b85dYJYImx_dkYTBgEiCPaq669xyCqgfvvVZo2QUs1ur3KY_bE_gIa6vXmoYM-_tR000uDVLPulXUdbTo2C88VI4DBrmD0nGHA7UwS5PPdLuHanO27H6DDfW8FBlYEtQKuT67ldC_oP1c2tPL6Z-Pe8oM_JM0niOtdq20KbIGokUMhyW6YbFr7HY4gBl28oVsjvnS1tQxNWo5U_oTZ6LU1R1R4khn3PgaFf1Z8UTi3o_SeYs4Wu-3WSuUw_a62Tjm4Jj5yUIsMS7W4rA_pbK2ASRHQ.jpg"
+    ]
+   ],
+   "r": "Not relevant to team news",
+   "h": "🚨🚨 New Santiago Bernabéu logo has been installed. @RMadrid1902new"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31188,
+   "t": "🚨 José Mourinho: \"Will Vini start tomorrow?\n\nI won't tell you, because I don't want to lie.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/EwuUqC_nx0VVphpGQ62xoJrsdCblyHaLD_7_9TRVLbPW-9i4s8YbV1CbkeLJHRqSRl1wNrjgDJKOa8qyjk-57g8rSkwOK9J3oeTcTf_AzTihJVk5CAR_RGEu5ey24QJ1OA3b3p8pJfA3mv0QLFdd9NjY6MuegOoPpn_yL0loMXTq9d4IwD697-9o2X9FwUBv_Tok9A7QMLRE02p31K6TLpnOL90d3PqNU12zDED2QgvfJEPKegl3wgxwAO0gGCh6-dHm075RLW8vbyWwRntgle2ereJeoh6CarkjoCZuV6gzJfd_lQQP1Fk3ARHR-6tD-cqNq6tmZAvSrs9BLnX7Zg.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/dEDO7P_rc-zC_ORmGRq0iK8-DT9IXsA5gHZlv2kgvMURXwlI5oQ3TzWqhwyPdk2ZLGKAr88fupeRzRikozi9IV6nuXQL1vM4R5a6BGPCEZJ9_vCPd6XdUHuBEd45KuaVardZDS2NIBwhTZk-5Yn1lo1q3e8oZEmQOlW0geHkMjMj3y4ZDYssLBPfIQPNJQxglyOiJVfo440xr6BCHMPitKWXrqEWldunIwvEPV3uXb8lSeUENRqxcYp2Z6npGQkZDxniNfYGJDRL6oKT10vSfD7qyRNBhVjcbmdfIa96m2yQLR2xMCXkj0x4kMkrZFSlrE6f_x7ddb9IWfcC5ZV2xA.jpg"
+    ]
+   ],
+   "r": "duplicate of earlier Vini quote",
+   "h": "🚨 José Mourinho: \"Will Vini start tomorrow?"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31190,
+   "t": "🚨 Aurélien Tchouaméni: \"Preparing for El Clasico?\n\nEl Clasico is a different match.\n\nWhether you win 15 games in a row or lose 2 in a row, El Clasico is completely different.\n\nIt's a game that requires special things to win it.\n\nWe'll do our best to prepare during these games, and we'll be READY for it.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/qBl-4MFM4wj7xbFNX-5pduY20krSuExNadTaHl9g3E7VEE7QF8q0g9jRwozULnKRVAtg2d0GvIYS2Hx5MWoL1HTEUwNCinyjIqWeu5bHm3I1GpaNvnhT43si8K5SIJjnbCSxI7gCtVR6acPCSJKxGf9OQe2k-_igW0ZnjfcoWgRYzfunLoKCeDl1621ytUKhSGVsiKn5flRCC0LK44G29v01K-kegPWllcTdu02M4rugtLqXCpDopWvtaO-OhUpfITszPeQYDxr4JhXpRHb9yQlZrAsNhadv8RaZR45aP-oHVrrevIBMi4Sy5bMc8TmiL-ruUUJNL8bol-4rCaBA1A.jpg"
+    ]
+   ],
+   "r": "generic quote, no actionable news",
+   "h": "🚨 Aurélien Tchouaméni: \"Preparing for El Clasico?"
   }
  ],
  "summary_date": "2026-10-12",
