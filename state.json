@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59213,
-  "themadridzone": 31132,
+  "themadridzone": 31133,
   "FabrizioRomanoTG": 67236
  },
  "sent": [
@@ -1777,8 +1777,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 43,
-  "tokens": 69997
+  "calls": 44,
+  "tokens": 71651
  },
  "pending_fb": {},
  "feedback": [
@@ -2198,7 +2198,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 85,
+ "train_seq": 86,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2678,6 +2678,28 @@
    "reason": "Not Real Madrid specific news",
    "ch": [
     152
+   ]
+  },
+  "86": {
+   "t": "🚨 BREAKING: Bernardo Silva has practically DISAPPEARED from José Mourino's plans at Real Madrid.\n\nHe went from being a starter at the beginning of the season, to only playing a total of 8 minutes in the last month. @marca\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31133,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Zs_W4N2GFQQFTNDv-vgpC9gqd2mXxPGUpGPwoq0Uwk0OVyGwWLIyroIInZABzJEUnlH_otP9SEn5PMVYXWu5GINKnIcj-lYgNUrcXgM6c9sYPgSvHFXXFwV7gVyrCyPy-bwEpo8Iv6ZYftQTgUZ3qSeApSQ64uPou0VMzLwSxiATzBYC6qiz61SlbjMhY0A69Qlxf93SJL7hc6FDMhRxZdfUNtBBO7IpV1obqthGK7aU4C2b5bM8GShU8j2JIAORq0q62obRn1X3jjCDaLarxizxjPk-yq4zfquduADXpEuI3k7KUeW3-rX8L1U5LSanWxokX6JNiV5Czh94ENcUog.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/ifrwQMndJPgV4H1h72ygWqfq6Zz3r7xYEv8Ek9coHAD1vIWf-PaN6NjHQNtMir8uyYE2V-1pCjj0EpnYb9w_3mi28pIPVdFuz-7jOChx-r2aepei63BMjBpv1ZGLIDUCMdWtqM63DVjv5UeZLTUIt8P5LwUaNTzAt0x6bdHaQsMXlr_L69K3TgdjXL60GYdkdhAibFBQi-7I_0-vZm1HhNLgdlzDbDKEM8EhBwqQ1WsIQPeN6qSvwnAQf6LTTXKnr50oN3zIVymWueBWYf4f9slN2GhSXub-Qk3YUs_7HQOGsCZKP2h2qxHXm2rGCym-38Cxlv1ynYGLWKsd78pLHg.jpg"
+    ]
+   ],
+   "reason": "Not a Real Madrid player",
+   "ch": [
+    153
    ]
   }
  },
