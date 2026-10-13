@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59217,
-  "themadridzone": 31141,
+  "themadridzone": 31143,
   "FabrizioRomanoTG": 67244
  },
  "sent": [
@@ -659,8 +659,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 52,
-  "tokens": 84745
+  "calls": 53,
+  "tokens": 86396
  },
  "pending_fb": {},
  "feedback": [
@@ -882,23 +882,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31039,
-   "t": "🗣️ Cam Little after securing the win for Jaguars in NFL today:\n\n“Hey, I know y’all saw the BELLINGHAM celebration there too.”\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/e7Ooi1souoMCpPh-RqGl4pUqVbESMKQyBUvYJa0KKKORjBuvWO2p9EkbM11QBx9Jy5xIeD9Gz1CH5B20GM9mIV1NjJLLHLlCJZlWSrZ9gvJrWtDxGnVtV44clqhxOjV0mniliAFjrISY6GtAO9UMFGCnOMBd7ToeBgU-evpgsNEtRtB7HLJVlZiiBETu8dascRKXPKI94Hig8YxEDcuMzXFZj1PsNnGgsTSUx5Se4KqGgJADd_v9zNRMRfaqcsJgjvp9-AmSPSQ1hyRtn-2lhVyEgnCPqtZI9QxS_998QIfWsVI-uwVpkqOqofwTDNImInruIOQEuSryAF72LYOXwA.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/v4u3nuXFH-SYmMtBA2BTQn0eASCFoSSDfda-QhSBB84XtbVo-Q9byPk1_tjHVU7aHAyxNtnBQbdUQuNYUC9a3KMSOEbaoSg6Y4k0l4ZhnK20IfSoP2BqsP6WEhyyQTM7hs5lzFVjt3GO3aBYBKA2u7Hyq1h6Mhs-l9WOfvQ32Y97BXtTuWey2-n7DozqtuMyn_S1dRswTfH7WeSwBDgNr8XIelx5u6PFs95d1QaIPZxOyps-6q_BUiDs6AitRuWqolBEAnj6Vh8T4M9t_Dzqok7GLPIXSI8BDvQtV18JDi27ivOWgBx_U0wb_1mD9Bizo4EUBANaXT7guchdSyAGmg.jpg"
-    ]
-   ],
-   "r": "Irrelevant NFL mention",
-   "h": "🗣️ Cam Little after securing the win for Jaguars in NFL today:"
-  },
-  {
-   "src": "themadridzone",
    "id": 31041,
    "t": "Jude Bellingham with Yan Diomande and Vini Jr. 🫂🤍\n\n@TheMadridZone",
    "m": [
@@ -1094,6 +1077,19 @@
    ],
    "r": "Not relevant Real Madrid news",
    "h": "🗣️ Gian Piero Gasperini: “Real Madrid have top-class potential."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31143,
+   "t": "Vini Jr has arrived. ✈️🇮🇹\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/InX32YHDQBV-weZk_J_T6FUBdxNIWBiQjgPfQgYkYQzBE36kmMNlyk-6DsAhdsrwf2bBYtVvV0a_NxRbW38OwMV9SL-OHqnKrY6_Q-Apushrxf2Y00H8Ho3wZg8uIKnVPXi9giXDUM9SlrKriwDeMjSx_qk_1IiHy7j11lBODwYSwrXA-pF9ImwZmHNaMJwCac4B7pqK7miZoYCZQrvxfOYtd6ZFlTg2eqE4t3h_pavmD4tQS6OCCM3p2J7v2Ph00B3hLdSH4oj-bsbHF-NObTBtZLwTEAva5fPnpLg8_dvbrPBywJ3PoPXZlWne5DJLH5ZNWV-usj_tPpmpXU5q5g.jpg"
+    ]
+   ],
+   "r": "trivial arrival, no new info",
+   "h": "Vini Jr has arrived. ✈️🇮🇹"
   }
  ],
  "summary_date": "2026-10-12",
