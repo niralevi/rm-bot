@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59218,
-  "themadridzone": 31184,
+  "themadridzone": 31185,
   "FabrizioRomanoTG": 67252
  },
  "sent": [
@@ -924,6 +924,33 @@
    "status": "fact",
    "headline": "🚨🇧🇷 José Mourinho: “Endrick does NOT need to be loaned out, he will do great things and succeed here”.",
    "link": "https://t.me/RealMadridImportantOnly/167"
+  },
+  {
+   "ts": 1791914187.2685077,
+   "date": "2026-10-13",
+   "tokens": [
+    "because",
+    "don",
+    "jose",
+    "lie",
+    "mourinho",
+    "start",
+    "tell",
+    "tomorrow",
+    "vini",
+    "want",
+    "won"
+   ],
+   "names": [
+    "jose",
+    "mourinho",
+    "vini",
+    "will"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "fact",
+   "headline": "🚨 José Mourinho: \"Will Vini start tomorrow?",
+   "link": "https://t.me/RealMadridImportantOnly/168"
   }
  ],
  "offset": 769011995,
@@ -931,8 +958,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 97,
-  "tokens": 158739
+  "calls": 98,
+  "tokens": 160397
  },
  "pending_fb": {},
  "feedback": [
