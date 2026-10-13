@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59207,
+  "real_madrid": 59208,
   "themadridzone": 31111,
   "FabrizioRomanoTG": 67227
  },
@@ -1711,8 +1711,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 19,
-  "tokens": 31397
+  "calls": 20,
+  "tokens": 33033
  },
  "pending_fb": {},
  "feedback": [
@@ -2132,7 +2132,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 62,
+ "train_seq": 63,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2334,6 +2334,24 @@
    "reason": "Lifestyle/brand promotion, not relevant",
    "ch": [
     122
+   ]
+  },
+  "63": {
+   "t": "Yan Diomandé for Real Madrid x LV. 🔥",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "real_madrid",
+   "id": 59208,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/FhOlSJVxlfnZqyX5bU_lFT0bk0ScjLCTKHmJK5gx-3tepZay9VsTKea1usJIfNIb3bYUuPhzPu-dNrvNftWAm86OmIR5F-kJncYu7TeIW2z_E5tLqckHeT3huVAGxMYW_OmfRUtFySzpnPgB4amvgSd_q5tzZOdFD-8oOIyn4MP8ycWe3tKHoXfvgxnCAIjr5Ynqgu4Ns6pT1yllTR9wwo4QUSAUwOTluUmj3hA4IKrV3wa5ZhlI4Hig9T0wxUtx1jAxnxLjEqWI2DKt5eiWesUx5jBdWlp__s6WxFNt2SeyFMCZEuPEbLcuz2dwNmSj6Wn-GepPg6mtJvNFqQduAg.jpg"
+    ]
+   ],
+   "reason": "Lifestyle/brand content, not relevant",
+   "ch": [
+    124
    ]
   }
  },
