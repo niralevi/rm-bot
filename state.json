@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59218,
-  "themadridzone": 31168,
+  "themadridzone": 31170,
   "FabrizioRomanoTG": 67244
  },
  "sent": [
@@ -667,8 +667,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 78,
-  "tokens": 127261
+  "calls": 80,
+  "tokens": 130384
  },
  "pending_fb": {},
  "feedback": [
@@ -890,32 +890,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31151,
-   "t": "🚨 Aurélien Tchouaméni: \"Do I think the Tchouaméni-Valverde double pivot is enough in midfield?\n\nYou can ask that question to the president, or the coach.\n\nI have my own opinion, but I won't talk about that.\n\nI'll talk about tomorrow's game.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Mf6ORFmENeLvBPHj94KIBakDEL-U3dKdUCylAq3NcBsaDsgiIGkvNu1Fw8Vj0N-PVt3p4FdwODtV70ZeUskPVDW9ye-v17gmqkOEXduxiah82VawqqcN9AfGzrTMkzS_dDEVI3S2VvlbD4rsJCdH-fjnNb2aJGYtDFAnKM03AzsifurVfH37tKWNGK0pcMLzsO1E0b_h69MN4mXbrZRWUK5iw-zf71rijjcBzaynD5Hy1BhqTFq8Er4pS0BX4mP3EcbBR6_Z4uF_cweH26S_iER3yn1_QYbErcVJtl5ptHsJBG17_EoG0EDh5OKt95A6ctptmrv4I4gOH5Aoz-SV0Q.jpg"
-    ]
-   ],
-   "r": "no actionable news, just player comment",
-   "h": "🚨 Aurélien Tchouaméni: \"Do I think the Tchouaméni-Valverde double pivot is enou…"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31152,
-   "t": "🚨 Aurélien Tchouaméni: \"I watch Roma all the time, they are a FANTASTIC team.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Vb8mCrOar0o5DxaAKy7HOxu6lCHaqvrlx6hsQqom4X5YZQJhgO9D2cs-3D6qV_S9Xli0xzA2vCoSNtg2CCQjiqq9byNJaZagAXoG2D3oJVFuh7pZAMeyEfK5_svPulBQKG2jNLepOA_OFPkGUE5czLQ8-ES4x_e80tp8d2iXRPy2ADqKyQVr6bn2cA_1btQTfoy4Is8sZVILq3eRKeGLU8VEt8iCTPL-A4qR4lqRgS-zvYpXLT17iYd28o0_Ga82OqtOCIuvm6hEyv1RZWVVpHXQBy4W7f_o1mitaeyobfEbvXwNUnmXJgEnfQNcs-YM3ZH4PfDaULhqB5UeOXTGdg.jpg"
-    ]
-   ],
-   "r": "Irrelevant player quote, no news impact",
-   "h": "🚨 Aurélien Tchouaméni: \"I watch Roma all the time, they are a FANTASTIC team.\""
-  },
-  {
-   "src": "themadridzone",
    "id": 31153,
    "t": "🚨 Aurélien Tchouaméni: \"The team being criticized?\n\nWhen you play for Real Madrid, you'll always be criticized.\n\nWe need to focus on improving what we can improve, and trying to win titles.\"\n\n@TheMadridZone",
    "m": [
@@ -1086,6 +1060,32 @@
    ],
    "r": "Lifestyle/marketing, not relevant",
    "h": "Yan Diomandé arrives for his first ever away UCL game 🇮🇹💫"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31169,
+   "t": "Endrick in Roma 🇧🇷\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/sn5KPfDMdBt2D-l98eprLKVocwx8WCWzQyT_9x_Tw_pfac7gHGwR0Y5p8k5hkrt__yPsYwLO1ftYbvRn5L957mHgqTeTBn6GC9JpzrCK8dOXfeV5v8eN2Pmv7PMl_IUvd4rvgSdrC21WRoXm8haGAX0Tp5OM9xLGZmX78_XRAEwSHmDLQUsfgIgxGfsp0uRns_fyaAK7zOtJJI6kUOTr8cEebD19uY3k0ZX1zW2r8I5I78T_j7YHW0BDfGO754wsNZS5bPdtxZkIOC7_2oAqRnapiV7wdMjgq1_m2OPyk5hnNEKQcjwvM7NZTSkUPmwjspGQ3vQl-rNV_SzcMW5JvQ.jpg"
+    ]
+   ],
+   "r": "Not about Real Madrid",
+   "h": "Endrick in Roma 🇧🇷"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31170,
+   "t": "The best GK in the world is here 🦒\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/UcLDSA6DoWM7henMy1hLQj9HYZMbmR-O9kY4NU3njWxR4JuT-8ZrZ700cR3tnRsHNeJaIY6CjkYeO3td7-OdOxxvHUbTfeoul9HZHPFV9bCaJN9LSc291T5PHZJBan9l65XIcVGDtfws_AJTBplOL6HQKRsD58cE88ZKGeFikcKufNTFq_5pW8aCOdANNsOnre52soktzMy0s7hQNK_sHi-F7b7GvCtHPZMB6AmMLkQeQoT1KG0D8_g8FZGRBzBSmSx42-sZCpE3BYu1quceq-M1b5FzwQbEM7fHCGsEnJwfeP2UaJt8WJ_zTpWRC-4gaM6z21oGH273ViINFqveEQ.jpg"
+    ]
+   ],
+   "r": "No concrete Real Madrid news",
+   "h": "The best GK in the world is here 🦒"
   }
  ],
  "summary_date": "2026-10-12",
