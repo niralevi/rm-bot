@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59213,
-  "themadridzone": 31131,
+  "themadridzone": 31132,
   "FabrizioRomanoTG": 67236
  },
  "sent": [
@@ -1777,8 +1777,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 42,
-  "tokens": 68400
+  "calls": 43,
+  "tokens": 69997
  },
  "pending_fb": {},
  "feedback": [
@@ -2198,7 +2198,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 84,
+ "train_seq": 85,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2660,6 +2660,24 @@
    "reason": "Vague, no concrete info",
    "ch": [
     151
+   ]
+  },
+  "85": {
+   "t": "🚨 BREAKING: FINAL BALLON D'OR POWER RANKINGS. @Score90_\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31132,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Tf7G8RuCbrxA06qFKGHjTL_4zVvvLS4g57kKBhztObAaOAEHh-gKjpIEM1wl14LDPmNjVMbiyc__3b0dz7D9Ylbb1y5kRp_7oTdWG9-EkGZxcwSgPYcEjjgN3BE9Khp24NdbqAcTLHi1Yr1es70yh27cEC6KUuUUkgD0KOKKXLWUAmtlneSXdakmWC20264NINc7TQY5-C6osWg8wevjPKIUvSV_Ay9vPCFwSvjl7fdkmGn48iREfxsnclExtN4k2HVYbqqq9EKC9PRpdEpHIo7Flg1z3u5Xt7SheFeDgWmPcKtQR3OVOZPOQ927PRFLTDNNuKIkRLoGDymvEQ_pVQ.jpg"
+    ]
+   ],
+   "reason": "Not Real Madrid specific news",
+   "ch": [
+    152
    ]
   }
  },
