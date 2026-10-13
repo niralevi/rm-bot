@@ -6,53 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1791737133.730468,
-   "date": "2026-10-11",
-   "tokens": [
-    "1",
-    "11",
-    "31",
-    "4",
-    "5",
-    "8",
-    "94",
-    "99",
-    "accuracy",
-    "ball",
-    "big",
-    "carri",
-    "chance",
-    "clearanc",
-    "contribution",
-    "creat",
-    "defensive",
-    "duel",
-    "final",
-    "jacobo",
-    "last",
-    "long",
-    "man",
-    "match",
-    "pass",
-    "ramon",
-    "roma",
-    "tackl",
-    "tackle",
-    "third",
-    "touch",
-    "won"
-   ],
-   "names": [
-    "jacobo",
-    "ramon",
-    "roma"
-   ],
-   "cat": "⚽ Result",
-   "status": "fact",
-   "headline": "🚨 Jacobo Ramon vs As Roma:",
-   "link": "https://t.me/RealMadridImportantOnly/46"
-  },
-  {
    "ts": 1791738740.1241648,
    "date": "2026-10-11",
    "tokens": [
