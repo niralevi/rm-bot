@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59218,
-  "themadridzone": 31165,
+  "themadridzone": 31168,
   "FabrizioRomanoTG": 67244
  },
  "sent": [
@@ -667,8 +667,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 75,
-  "tokens": 122557
+  "calls": 78,
+  "tokens": 127261
  },
  "pending_fb": {},
  "feedback": [
@@ -890,45 +890,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31148,
-   "t": "🚨 Aurélien Tchouaméni: \"People comparing our midfield to Modric-Kroos and saying we need a creative midfielder?\n\nWe are ELITE players in the midfield, with different qualities.\n\nI have my own opinion about those comparisons, but I'll let you say whatever you guys want about what we need and everything.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Y8aAMsNZZDc0r6kTwLChHwuc1TnG18Wn3WjnPMBADOtYXYvlAgHN8XQ89BKbPp1V7AW524VqJLWQTq96Qx4qYku-t10FopVdRTOaWxoXB74ZdqXdfQVxyV7aK4irbAYk43CgUi0Oe8zcXIROH9SwL3s71yc-mlE3l-2UKsjDqKyyeEiQUuZYYiMzplSn363m8UqLwKYA4oB178KztWnP_sBe7wgOLKg9Evgw64JnAuNwzqfQByID5mpcH1D8flWpX6xHub02JqgrowKPHEr-RHBV7Hr6Woq3mxarspf5o8erzd7nzquj9R0ABnU5dBaAD1gxaqIh8EU6IrCq1HxfSA.jpg"
-    ]
-   ],
-   "r": "Just a quote, no actionable news",
-   "h": "🚨 Aurélien Tchouaméni: \"People comparing our midfield to Modric-Kroos and sayin…"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31149,
-   "t": "🚨 Aurélien Tchouaméni: \"The relationship between the squad is VERY good.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/R3O-PdwT7ceeO6r_TykqleTK7azQXDNQpEJwEA46yup2Ny-8c-FVey6nspls48PjxSdwG472BQ2_g-OOgAXhcZ8X3NiKxUrOfb-GVa2LlGPxoJUY39Sq2IgcHoVH_JILwQX34OIJFBHR3ay9u4W_6-NA8_JESd8FH1i7xGp6fkHIY0G5cfEsiabGK4SWmyYEoYmE46N6gi6Ho6ZySstbowRdPG2DCAgnLVJr0GW-aJWw6H1PCRnzLTmd4E0ZmzBBTqzyVeP49bcjM1VD-kYk2LbkaSXqBn8Zza4sqelfmPSPkb3LOcDG_cVHcTdnmcTKLRf09UewM0Iwir70jq9suw.jpg"
-    ]
-   ],
-   "r": "Minor squad morale quote, not essential",
-   "h": "🚨 Aurélien Tchouaméni: \"The relationship between the squad is VERY good.\""
-  },
-  {
-   "src": "themadridzone",
-   "id": 31150,
-   "t": "🚨 Aurélien Tchouaméni: \"Do I think the Tchouaméni-Valverde is enough?\n\nYou can ask that question to the president, or the coach.\n\nI have my own opinion, but I won't talk about that.\n\nI'll talk about tomorrow's game.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/aLXVI8CSS09Pevk2Mxh7TdHNxnD0zRHulfZBjyHCfpuWiEodEehjjABSHPJZ0h38v9AHyHqMfFlUPry2FOpb2NiuPnXYqLIv-RNk9MBTUZkHF0H1900NaZShQUZgUqDgFAgGl8PhqTUFvMuN0lK6sVHZOi0YQzoX4G6mMdwruTT0MwoVDSwnY5Kgq70bDPxZkUjWP85gSp8gORxS2-AS_UqmfPelSus3jKiSsRt8Z4eB9DFG6MTRznfnN7Q20x06AkXwV7_ZgO0uCh9EgqTtOAf7mwosUkcZyMhLAQ3ukV81SWQxN19-reb5p2937PZJGpxkHFkyi06gWYL8J_FOPw.jpg"
-    ]
-   ],
-   "r": "Just player quote, no news",
-   "h": "🚨 Aurélien Tchouaméni: \"Do I think the Tchouaméni-Valverde is enough?"
-  },
-  {
-   "src": "themadridzone",
    "id": 31151,
    "t": "🚨 Aurélien Tchouaméni: \"Do I think the Tchouaméni-Valverde double pivot is enough in midfield?\n\nYou can ask that question to the president, or the coach.\n\nI have my own opinion, but I won't talk about that.\n\nI'll talk about tomorrow's game.\"\n\n@TheMadridZone",
    "m": [
@@ -1086,6 +1047,45 @@
    ],
    "r": "coach quote, not essential news",
    "h": "🚨 José Mourinho: \"Do our players find it harder to make tackles in La Liga than…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31166,
+   "t": "Vini Jr with fans in Roma 🇮🇹\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/qXh6ABhU0rsU6KRG9fcPElE4gm-VKxFMjLXdb7hIBlt_QIu0VJT0jq5MUi6TcxgbuWjCSweRHpbw8qK9NPkcZLIwJJUuL4siVLmOiEO5lgklzJqOdzDCaXvxLJiOfbL3Mcas4stLiqCUrDCEJgL6bzHyyx2mSIuALuQVKACzjPs0ZDQ_Hb8OJu4qaQeFG8lAGV-dGYCAmGG0TxMRFUEaS7PQscSFZTAfIVCLaB5DGBSK9cn6hhwhFXecyrrE6OvEbPK8imfEXPZyTyE7BwAnWD-fW4rfByiygYS6WuKIeHaRd4PQfxWJyYOjy4EYb8wmnRN4FAbQw82vYK3vWGAfFQ.jpg"
+    ]
+   ],
+   "r": "Lifestyle, no news value",
+   "h": "Vini Jr with fans in Roma 🇮🇹"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31167,
+   "t": "Kylian Mbappé with fans in Italy 🇮🇹\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/VtWJSfsZ44uEFWFwhvdHfiKv3g9JERTezJ-iVuYUu1zFZ3bcKS4Kgn8i0_eSlkLsIiB5wL-m-kUPPNYw-K10pD1LE7Rzl5qfIvYVJzq3twS74Rr8dDhbHoOT6Fk2YSNmYBXURVZiCBz0gs3D_uAVqYBTGhzBry5ZsIiJWmYOcO0WQRVZRcD3Qivl58eD_5QAAJQ6hNIXPDo44NlKsjAJykxLUkGFZVSjHTmF8LYJIyD05xeOzyw6byh5r_c_X7L-e0Pwc3vX5IeTfjSbJAWlbv6njeZWVZVIC8PsvtKUU-px9g1gvttGzYZOP0DvGDlwUfMjCC4n3_VY5AP-Q4xjCw.jpg"
+    ]
+   ],
+   "r": "Irrelevant fan photo, no club news",
+   "h": "Kylian Mbappé with fans in Italy 🇮🇹"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31168,
+   "t": "Yan Diomandé arrives for his first ever away UCL game 🇮🇹💫\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/j0clwvt7lU_r5Yhsy_zYYGp9XhymhOWXVbYHcAOYryDWj_T0frSh8XtmtU6P3q8Yyqrg3zKe1VZczLLIM2bGI8ywbvqKbeWiC0p8uU1d4TOG9XlKgp3iFR21EPjAf-F6rIVk1mAOumgHczxzCoD6wL463krbMpV2W4A62KjDBExhy7J7oOcFN57ER4VV6A49lGTttBuDIvsGrkP55-z3M-kUNEd2ILVh3uMENM1t93D6Ix9CoNVaaIi3PWwgavI6GWyUeAYh8ddiKqLo-WmLiNvBRpI_AE51X4NuxKwUdqXvZMiUz5rZ_m0ME_DmHbPdT4gJWPmfSpOptmwuHDL63g.jpg"
+    ]
+   ],
+   "r": "Lifestyle/marketing, not relevant",
+   "h": "Yan Diomandé arrives for his first ever away UCL game 🇮🇹💫"
   }
  ],
  "summary_date": "2026-10-12",
