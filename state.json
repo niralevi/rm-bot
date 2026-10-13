@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59218,
-  "themadridzone": 31164,
+  "themadridzone": 31165,
   "FabrizioRomanoTG": 67244
  },
  "sent": [
@@ -631,6 +631,35 @@
    "status": "fact",
    "headline": "Mourinho says he tried Fede Valverde at right‑back",
    "link": "https://t.me/RealMadridImportantOnly/159"
+  },
+  {
+   "ts": 1791910231.0185575,
+   "date": "2026-10-13",
+   "tokens": [
+    "alway",
+    "amaz",
+    "angel",
+    "don",
+    "feel",
+    "game",
+    "how",
+    "jose",
+    "like",
+    "mourinho",
+    "sleep",
+    "then"
+   ],
+   "names": [
+    "amazing",
+    "how",
+    "jose",
+    "mourinho",
+    "then"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "fact",
+   "headline": "🚨 José Mourinho: \"How do I feel before the game?",
+   "link": "https://t.me/RealMadridImportantOnly/160"
   }
  ],
  "offset": 769011995,
@@ -638,8 +667,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 74,
-  "tokens": 120950
+  "calls": 75,
+  "tokens": 122557
  },
  "pending_fb": {},
  "feedback": [
