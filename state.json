@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59218,
-  "themadridzone": 31163,
+  "themadridzone": 31164,
   "FabrizioRomanoTG": 67244
  },
  "sent": [
@@ -621,6 +621,63 @@
    "status": "fact",
    "headline": "Mourinho warns tough challenge against Roma's unbeaten run",
    "link": "https://t.me/RealMadridImportantOnly/158"
+  },
+  {
+   "ts": 1791909809.272604,
+   "date": "2026-10-13",
+   "tokens": [
+    "3",
+    "4",
+    "against",
+    "bad",
+    "change",
+    "coach",
+    "did",
+    "didn",
+    "difference",
+    "dumfri",
+    "fed",
+    "fede",
+    "felt",
+    "game",
+    "jose",
+    "make",
+    "manager",
+    "midfield",
+    "mourinho",
+    "multiple",
+    "need",
+    "play",
+    "point",
+    "position",
+    "profile",
+    "sometim",
+    "sub",
+    "there",
+    "thing",
+    "time",
+    "trent",
+    "valverde",
+    "villarreal",
+    "want",
+    "well",
+    "work"
+   ],
+   "names": [
+    "dumfries",
+    "fede",
+    "fedes",
+    "jose",
+    "mourinho",
+    "playing",
+    "trent",
+    "valverde",
+    "villarreal"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "fact",
+   "headline": "Mourinho says he tried Fede Valverde at right‑back",
+   "link": "https://t.me/RealMadridImportantOnly/159"
   }
  ],
  "offset": 769011995,
@@ -628,8 +685,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 73,
-  "tokens": 119203
+  "calls": 74,
+  "tokens": 120950
  },
  "pending_fb": {},
  "feedback": [
