@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59218,
-  "themadridzone": 31180,
+  "themadridzone": 31183,
   "FabrizioRomanoTG": 67248
  },
  "sent": [
@@ -815,8 +815,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 91,
-  "tokens": 148695
+  "calls": 93,
+  "tokens": 151874
  },
  "pending_fb": {},
  "feedback": [
@@ -1037,32 +1037,6 @@
  ],
  "skipped": [
   {
-   "src": "real_madrid",
-   "id": 59218,
-   "t": "REAL MADRID x ROMA! 🤍🐺",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/X221MXOfbnTxwHKvNyLEA4DQzxvy374nRe1yg1fRl6yRETouziisesXbvLeS-fPoUlQiCVPxJaAb8HO4J4hYlbmoRgRvT1M-6yEovkdd6Rhbs_vI3JnjLQWcWVtVY9nDkoOZ2IfX1qjVqku5ikSprjPJUz8we_vGsEnGF-0XWNduOVR5Z_cGKyiIxdV7qk02oMEWiyQh0MjjNxapCm5pyUZGw6D362-TYsu3FvBR9Jzbe1l2cg-poLErxSWIpCilx7nS6QAc4mxyWgaiMvVDzA_FC5bwZoeLU95MU6V1x-4AAO0cDKDXkfZg09mzLA_k6yc0y6Qpj8ETpN5VZ-XgBQ.jpg"
-    ]
-   ],
-   "r": "No substantive news content",
-   "h": "REAL MADRID x ROMA! 🤍🐺"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31161,
-   "t": "🚨 José Mourinho: \"Referees?\n\nAll I will say is this:\n\n\"Go and watch the FIRST MINUTE of the game against Villarreal.\"\n\nJust the first minute.\n\nIf you watch the first minute, you will know what happened.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/atDJp36tsM4UT4eACgiai7MKkOO_2hhSQAh59W4Ok0qvxauj6lhxrdmQka4vTKJ4zck4rKW2_eBHQRJS6U4XD_9zYe16skNj2rTmBo5PYWg66LaCuFSFazcW7s7NOqwVWhlI27q5fcKjq44-9fMM2SKM-IhPnqQ2WPAAix7E83BJh3QpRvl1zQHA4FcQI_FdVTPEsgEI3qPuifo82rQbf8oW474J7f5iTfXYS_GMsJv2by1sEe6DG1FqTbU-JxO-RMgHjxpbx1rvf8s_sgJzN_5rFgSjoGtsrDImTfHu-y_KUsiuDq3PIkcU-uHsluUYCpyKltf_m6umnMxxCAeyTg.jpg"
-    ]
-   ],
-   "r": "trivial press‑conference quote",
-   "h": "🚨 José Mourinho: \"Referees?"
-  },
-  {
    "src": "themadridzone",
    "id": 31162,
    "t": "🚨 José Mourinho: \"It's very strange to me.\n\nUsually, BY LAW, the referee's name is known 24 hours before the game in La Liga.\n\nSo, why, for us, we always hear the name 3 weeks before?\n\nIT SMELLS STRANGE.\"\n\n@TheMadridZone",
@@ -1219,6 +1193,32 @@
    ],
    "r": "Speculative interest, no concrete move",
    "h": "🚨💣 BREAKING: Real Madrid are closely monitoring Erling Haaland's situation at M…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31182,
+   "t": "David Alaba made his debut Udinese. \n\nGood luck in Italy, legend 🇦🇹🤍\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/C6XDp0pCxmnFZiuMbT3K3zP6QO9YsCqzbKQFnI8E0qE6bCMsufXmsHv7dnzkkIs3xvoWCdP4Xtc8L3NplDcqkMcPYKdFcSVIZSL0XkwhaqXQBUxeqa_g65bmKfJ-_epXkEOithZilwGg9ifcKWLNe13-tUvyFY3X6QtOOKcHMwhAU2-sbZGe0_oRrL94IIJE0gyCgiIsy5fzp4ybq550JAWGIPGTc9QCqU177qhD4dr1wC07s1CizmGfgbTEB088swZvVgAZriCBJCub4GciPekoH3dUZG8N4zBI4jsfNbj-LnCBCA6EeZj7WSK_flnztHoL5Q1AXM2DaM6l5NQ2aQ.jpg"
+    ]
+   ],
+   "r": "Not about Real Madrid",
+   "h": "David Alaba made his debut Udinese."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31183,
+   "t": "David Alaba made his debut for Udinese. \n\nGood luck in Italy, legend 🇦🇹🤍\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Crr9pc5lerK6TvwY8lxX3kNUE30cNZQLOnTrJ2nhEuiqeqszzdOysXQEow7UfS5ZtyMExKICupC3FjToLwVgAvSSnpNAaEGS8zU87nAYslZI1no5cVlX6xzC-KWUGAv6K9pP5trdVpi-91qA2oGeQCrZNof-lbtfDKW5IJH2kWA_nR-0ogn3FapCF5L73-7d8pkIIoFPGEfGxuml-_Ch7bAHfpO7_8wBekpjP0DR8yvuDO71fzL678wigEjqZqDEEfr8sivSZge5UsVTodvxCrVhGwRILLhZ1PSVeVrYMHiFZ4-RTcW-2KtO6hWWPfk42NV7JjwGbYGR3bPZ_4Nwmw.jpg"
+    ]
+   ],
+   "r": "Not about Real Madrid",
+   "h": "David Alaba made his debut for Udinese."
   }
  ],
  "summary_date": "2026-10-12",
