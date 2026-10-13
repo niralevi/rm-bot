@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59218,
-  "themadridzone": 31174,
+  "themadridzone": 31177,
   "FabrizioRomanoTG": 67248
  },
  "sent": [
@@ -723,6 +723,57 @@
    "status": "fact",
    "headline": "🚨 José Mourinho: “There’s something that smells STRANGE to me”.",
    "link": "https://t.me/RealMadridImportantOnly/162"
+  },
+  {
+   "ts": 1791912699.450365,
+   "date": "2026-10-13",
+   "tokens": [
+    "absolute",
+    "adore",
+    "any",
+    "anyone",
+    "because",
+    "believe",
+    "better",
+    "club",
+    "does",
+    "down",
+    "endrick",
+    "exhaust",
+    "fight",
+    "forget",
+    "get",
+    "hard",
+    "here",
+    "him",
+    "huge",
+    "important",
+    "interest",
+    "january",
+    "jose",
+    "leav",
+    "loan",
+    "massive",
+    "mourinho",
+    "need",
+    "potential",
+    "sit",
+    "stand",
+    "succes",
+    "wait",
+    "who"
+   ],
+   "names": [
+    "anyone",
+    "endrick",
+    "january",
+    "jose",
+    "mourinho"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "fact",
+   "headline": "Mourinho says Endrick will not be loaned out",
+   "link": "https://t.me/RealMadridImportantOnly/163"
   }
  ],
  "offset": 769011995,
@@ -730,8 +781,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 87,
-  "tokens": 142045
+  "calls": 89,
+  "tokens": 145366
  },
  "pending_fb": {},
  "feedback": [
@@ -953,19 +1004,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31157,
-   "t": "🚨Aurélien Tchouaméni: \"What does José Mourinho ask me to do in midfield?\n\nHe asks me to be brave, to provide balance, especially with all the attacking players we have, and with the ball, to always look forward, and try to provide assists and score goals.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/VZkACUdHlW0CaJGnLhQT7xdCgNUzmJxXhq71NOb-pIlyP9UjOZ2BCdKsO7zGSmJ4v0R25m0GDZMDgfN4NeyrmjJHt3nahFWbhoFJ1zRRedDoSw2n4h-vp2uNMlOg67_2HxmduoC_Hn5DI7d5FLz1RXRnunqwnanNXnxfRYdRgazdMjl0h6tUa6sbZJfkO_ZJusii3ug39XNpzEowHoNEuUrWA8vvhRZ0cMCvMOobWdUoaf3M1A4-0G9CVHadyK7jvvnT--b8iM9vzrlPlCNcgiR-4JP-npu8gKd6fFYQQ8y4w_U2SmgJiopiFtmK1CGoN9xVNbivyxj9xy9roxU8gw.jpg"
-    ]
-   ],
-   "r": "Just a routine quote, not essential",
-   "h": "🚨Aurélien Tchouaméni: \"What does José Mourinho ask me to do in midfield?"
-  },
-  {
-   "src": "themadridzone",
    "id": 31158,
    "t": "🚨 Aurélien Tchouaméni: \"Who deserves the Ballon d'Or?\n\nTo me, KYLIAN MBAPPE.\n\nAnd if not Kylian, then another Frenchman, like Dembele or Olise.\"\n\n@TheMadridZone",
    "m": [
@@ -1134,6 +1172,19 @@
    "m": [],
    "r": "Just a casual quote, no actionable news",
    "h": "⚪️💤 José Mourinho when asked if the harmony is already over: “Before the games,…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31177,
+   "t": "Jose Mourinho 🧠\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/iihfBLNr01UTtDiplIOWq-X_hRfbbcVRUq9chrPz5ssRD6o7mSj3SyGcR17RGg-Bk0t9rFUFXZlqpkIMp9rw2wevBjMzv9uOObFU8MjWmAwEv3XD-UHnsaIndHp7LryJ5DpR3oiMGi2WJ7JOPsF8vcIsNIHCp3rn3hs36GABByJb8Q_w3DkItE7L-s1-SatPl0s42XJIXaCC6pkkpGSH-IbYrim7gGqzxlQmJm-ATz1DiiczeEBoKc_zAYnTazq17WDLPuI_NCryc1ZjZlxN7B4CnK8I4Bb3yRIDS5GcelzFm_ZdeG4z-0J1gL3ALVObpPmr93kr-nEGrl0itPVEkw.jpg"
+    ]
+   ],
+   "r": "No substantive news content",
+   "h": "Jose Mourinho 🧠"
   }
  ],
  "summary_date": "2026-10-12",
