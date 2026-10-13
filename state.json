@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59217,
-  "themadridzone": 31146,
+  "themadridzone": 31149,
   "FabrizioRomanoTG": 67244
  },
  "sent": [
@@ -581,8 +581,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 56,
-  "tokens": 91217
+  "calls": 59,
+  "tokens": 96157
  },
  "pending_fb": {},
  "feedback": [
@@ -804,45 +804,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31045,
-   "t": "📲 Jude Bellingham and Vini Jr. supporting Eriling Haaland on IG after his performance at Anfield yesterday.\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/av98s-DQdYcVybm4VSqxmvYwENKg7sYHrlLdTNOwthpOAxskJioxMaj2G99ShY1Umo4A4Zg4EY1MqntIZIz8f6hih0PvMpHoN4Z_E3wpST0bkt3qlcmBuXLqcAH5B3i-L8jAP8Rhha5VyDyaUw4spJfE8sJ8dVXC3WT0myrAvYGReM8SNJTkYDboAmksBaaR36xkjIEw9JZpMgl-TgxLh9UrKP_g1zPy4cqEdmhiLT2eoydYGJS2yQwCZSpPWfCA0FE2S83zHpq1hhul8-ZFN8Fwj5PhX-bIe4wiDCiYJRH0UnkDWutZwLOTRZB2QU_pWZG4e6x3MJM5yPNsksV4cg.jpg"
-    ]
-   ],
-   "r": "Lifestyle/social media, not news",
-   "h": "📲 Jude Bellingham and Vini Jr. supporting Eriling Haaland on IG after his perfo…"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31047,
-   "t": "All smiles. 🤍😁\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Tzml89UWyVvIT9KeMN3OvbOLkhEzdNyUcr8OvjMPqVJHcaK_5aOUQ9nDkHrNsYs-zySMCr6BBUpp47hcEw8qSa00FhYb-_-sqw_6_AOGaCbbe6YMh7bi1epA4l3bEfNd3UPA8XOz0QXhZyJPYfcbkzYuhsB961v4lt-0LUr7JEdtSQZ8HwP-3ql8Sq0PetnSqT3phdoQdfM0yanyEofDOKX8jIJ938e3owwg2516F2Ybupt4ovZ-dnVSAWJwSfbr3MSVVtH-Sb9tp2CwSUvDe0Q_VnkN40-0iZEzG_pKM-smiVBsbZjMmWcXBk_aH7MxrBHGV2-DqGIrJWsT3-PepA.jpg"
-    ]
-   ],
-   "r": "No relevant Real Madrid news",
-   "h": "All smiles. 🤍😁"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31048,
-   "t": "🚨 Marc Cucurella to referee after Vini Jr.’s red card: \n\n“Next time they touch one of my hair you better go off to check VAR.” @DAZN_ES\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/mfn8a0y01Bj6xrlDyMn-E_ob6_Xy2JGxYPE5otyrmKV4FB3YA_LgGHryT5HC47-hr8oAMvwxorVJmhZA59YA6LA59MC68TJMA2GJPopdGD6CmbMk9YJfAppLhXrWm5JxRFgWIQ3vGcU2Ufm_xVrWgQdQXtBMVrF_yLmngZETUdO8YnNtxxvfKULJtr0S4KxwX4wO0-JGcLeKysRBMjwPeAm96V8bn7kNZzz9irEwZ5_TiMT_GiF2os3UsCbGv5f-of4cYEMj3k5oMjh-CrUoD0AKGJkGVqPqXo0-w_2Q4nZ5koP7iUA0O-4FZnOw4BtH7k25J7yS6FgqaiMquwSumA.jpg"
-    ]
-   ],
-   "r": "Irrelevant joke, no real news",
-   "h": "🚨 Marc Cucurella to referee after Vini Jr.’s red card:"
-  },
-  {
-   "src": "themadridzone",
    "id": 31049,
    "t": "🚨 Thibaut Courtois has PURCHASED the GK gloves brand REAL. \n\nThe same brand that supported him at the very start of his career.\n\nHe debuted his own gloves against Villarreal.\n\nWHAT A STORY. 🧤\n\n@TheMadridZone",
    "m": [
@@ -1008,6 +969,45 @@
    ],
    "r": "Just a quote, no news value",
    "h": "🚨 Aurélien Tchouaméni: \"Tomorrow is a very important game for us."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31147,
+   "t": "🚨 Aurélien Tchouaméni: \"Villarreal?\n\nObviously we are very frustrated by the referee's decisions, but I don't want to talk about that.\n\nWe need to focus on tomorrow's game.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/hMZWEuTpwHwH2J9blh4SXvLUqAr4ca8JLWdQ4pl8pqS3L3lahs12C0Bb6Muei39xieVwkEnIW8BatWWRvJlsQca_JN5YugkL0iKc32LFutzZEodGV0P4fVYPkxlzkqffCqFzo4CRIP13_AZB_P_Ha2DhcROyGGkyWHA2mrXzvfceaYnL7yNh0ggm15tY8V2fKA3AebuPVNa_5sKrYLVKIMEg_RpWi9Q-MuTSWyV2loO-XK9-KfA8SqmLmL8dzqHehg9NnSvt_97SmuoPR0va3S4nVoJC79qWCBavBTTxwe03vJ2ghL-VnyGAhEJ8x4WDNQGVu1QJjAWHZfFiNiBFRQ.jpg"
+    ]
+   ],
+   "r": "Not essential club news",
+   "h": "🚨 Aurélien Tchouaméni: \"Villarreal?"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31148,
+   "t": "🚨 Aurélien Tchouaméni: \"People comparing our midfield to Modric-Kroos and saying we need a creative midfielder?\n\nWe are ELITE players in the midfield, with different qualities.\n\nI have my own opinion about those comparisons, but I'll let you say whatever you guys want about what we need and everything.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Y8aAMsNZZDc0r6kTwLChHwuc1TnG18Wn3WjnPMBADOtYXYvlAgHN8XQ89BKbPp1V7AW524VqJLWQTq96Qx4qYku-t10FopVdRTOaWxoXB74ZdqXdfQVxyV7aK4irbAYk43CgUi0Oe8zcXIROH9SwL3s71yc-mlE3l-2UKsjDqKyyeEiQUuZYYiMzplSn363m8UqLwKYA4oB178KztWnP_sBe7wgOLKg9Evgw64JnAuNwzqfQByID5mpcH1D8flWpX6xHub02JqgrowKPHEr-RHBV7Hr6Woq3mxarspf5o8erzd7nzquj9R0ABnU5dBaAD1gxaqIh8EU6IrCq1HxfSA.jpg"
+    ]
+   ],
+   "r": "Just a quote, no actionable news",
+   "h": "🚨 Aurélien Tchouaméni: \"People comparing our midfield to Modric-Kroos and sayin…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31149,
+   "t": "🚨 Aurélien Tchouaméni: \"The relationship between the squad is VERY good.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/R3O-PdwT7ceeO6r_TykqleTK7azQXDNQpEJwEA46yup2Ny-8c-FVey6nspls48PjxSdwG472BQ2_g-OOgAXhcZ8X3NiKxUrOfb-GVa2LlGPxoJUY39Sq2IgcHoVH_JILwQX34OIJFBHR3ay9u4W_6-NA8_JESd8FH1i7xGp6fkHIY0G5cfEsiabGK4SWmyYEoYmE46N6gi6Ho6ZySstbowRdPG2DCAgnLVJr0GW-aJWw6H1PCRnzLTmd4E0ZmzBBTqzyVeP49bcjM1VD-kYk2LbkaSXqBn8Zza4sqelfmPSPkb3LOcDG_cVHcTdnmcTKLRf09UewM0Iwir70jq9suw.jpg"
+    ]
+   ],
+   "r": "Minor squad morale quote, not essential",
+   "h": "🚨 Aurélien Tchouaméni: \"The relationship between the squad is VERY good.\""
   }
  ],
  "summary_date": "2026-10-12",
