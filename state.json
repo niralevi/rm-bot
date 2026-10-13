@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59217,
-  "themadridzone": 31145,
+  "themadridzone": 31146,
   "FabrizioRomanoTG": 67244
  },
  "sent": [
@@ -581,8 +581,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 55,
-  "tokens": 89603
+  "calls": 56,
+  "tokens": 91217
  },
  "pending_fb": {},
  "feedback": [
@@ -804,19 +804,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31044,
-   "t": "Jose Mourinho’s passion 🤍🔥\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/XCXTsRs8m3osWj5AAx3CkSkquAy0Eb-XusYwwsJtmg83cnVhTnmcERr-MwmyMhEZJ6LGNjP3dQYuukgPYKKhgGnblCUuuSmbgxYTU59IPYn_6qfs7PJkNUqM1PZDPKpYAC3AAw8LLF8eDP2J8QXjDqwLtv5oE3dcIrq8sGcNp5pzMlenz2Zi6OEVVAIbzd2_PwiQMtbQ9s2dTeX8Gj7eBFV2YSH-lPlg2uQgL_CT_R4F2jcqaq6oiTzC_koliU-_zW2Os7DAMAYIr3kUe7FT9_nCl0Jgx_WHwRsAXB058bSrMksmtNlTjle8CkVwgi8DNqbYv-yff4Yv3siaoafghA.jpg"
-    ]
-   ],
-   "r": "No news, just fan sentiment",
-   "h": "Jose Mourinho’s passion 🤍🔥"
-  },
-  {
-   "src": "themadridzone",
    "id": 31045,
    "t": "📲 Jude Bellingham and Vini Jr. supporting Eriling Haaland on IG after his performance at Anfield yesterday.\n\n@TheMadridZone",
    "m": [
@@ -1008,6 +995,19 @@
    ],
    "r": "Irrelevant personal social media post",
    "h": "📲 Ibrahima Konate on IG: “Very fresh” 😮‍💨"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31146,
+   "t": "🚨 Aurélien Tchouaméni: \"Tomorrow is a very important game for us.\n\nWe started well by beating Inter, so we need to continue winning tomorrow.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/qexAMbNrh4RtwU6VhiOn8XHDpdowamEGa8nVFuXel_BsCozUUXN5xFLpzm1k7jUPZOUXBMk47lVnvzUsg6qxPxNtMIbN5rS6TXvmIy2n15eZSM7WknD44yJobXCV_kHcCrnRhG9pAxuEQeZt4iS76TZsBeWjfWNY654y9gQhkXlH6d-MPp6ZhHN42TVUz_wPeLmM7qc7ooqmwb0WFyKsdwZlThfyeyVK6QMgCO65NC1LGFKSvkEn3HqBp1ghMUcxGWyGml0ELplGH1AbCkEo0WKOBT8VpVr58Xw0O4qEtnIGWKD_Q2VD13W6VHpAhiaDZcvq80XXGni7x8hvJdyLlw.jpg"
+    ]
+   ],
+   "r": "Just a quote, no news value",
+   "h": "🚨 Aurélien Tchouaméni: \"Tomorrow is a very important game for us."
   }
  ],
  "summary_date": "2026-10-12",
