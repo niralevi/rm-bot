@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59211,
-  "themadridzone": 31116,
+  "themadridzone": 31118,
   "FabrizioRomanoTG": 67227
  },
  "sent": [
@@ -1704,6 +1704,22 @@
    "status": "fact",
    "headline": "🚨 Real Madrid are training.",
    "link": "https://t.me/RealMadridImportantOnly/121"
+  },
+  {
+   "ts": 1791894441.0246,
+   "date": "2026-10-13",
+   "tokens": [
+    "official",
+    "roma",
+    "squad"
+   ],
+   "names": [
+    "roma"
+   ],
+   "cat": "📋 Lineup & Squad",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Real Madrid squad for Roma",
+   "link": "https://t.me/RealMadridImportantOnly/138"
   }
  ],
  "offset": 769011980,
@@ -1711,8 +1727,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 28,
-  "tokens": 46158
+  "calls": 29,
+  "tokens": 47800
  },
  "pending_fb": {},
  "feedback": [
@@ -2132,7 +2148,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 71,
+ "train_seq": 72,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2504,6 +2520,24 @@
    "reason": "Not about Real Madrid",
    "ch": [
     136
+   ]
+  },
+  "72": {
+   "t": "🚨 OFFICIAL: Real Madrid squad for Roma\n\n@TheMadridZone",
+   "ai": true,
+   "label": "📋 Lineup & Squad",
+   "status": "official",
+   "src": "themadridzone",
+   "id": 31118,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/GIX93NzHWI34pI6B5iy_UV9uDGfBor-WU4WQ_1g_yA254IAIMn9afwAb5wRVZTCFzTb9s4O4rC6OHD_-BrMX4gTPJiqPerlHqiMPGJ6E4NDqBuP0iuAlggDPEv4lMeXsVGh20WnPYSYuIJM4DnPruVvUgNhFQV_YrHhO-Wi5DOugiL4aJhSmIKsSmMThindTmyUgpEIND-3yuygd8rofmJhnCws3hwvF69J7KD9MMKxtG_ougvtn97V13DZ5USLlzVuZbyf7Bd09c3X2qlcl4XjdyPXTg55H7jSX7sc4KLnSGXGRSVbyLNjURM1ZHgpdkr6XiFSDuZe6o9zF8I8AJQ.jpg"
+    ]
+   ],
+   "reason": "official squad announcement for upcoming match",
+   "ch": [
+    138
    ]
   }
  },
