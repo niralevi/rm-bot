@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59210,
-  "themadridzone": 31115,
+  "themadridzone": 31116,
   "FabrizioRomanoTG": 67227
  },
  "sent": [
@@ -1711,8 +1711,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 26,
-  "tokens": 42857
+  "calls": 27,
+  "tokens": 44488
  },
  "pending_fb": {},
  "feedback": [
@@ -2132,7 +2132,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 69,
+ "train_seq": 70,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2460,6 +2460,28 @@
    "reason": "No substantive news content",
    "ch": [
     134
+   ]
+  },
+  "70": {
+   "t": "🚨💣 BREAKING: Netflix will BROADCAST 2030 FIFA World Cup in Spain.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31116,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/c9ZI6FV4z7z0PbrSs6fMlXigfUAJ2YL5ziZsHQPaBv5s1qOXN7KdcSQBoToBCZ3qBZISVAq8tcQk-YyPDjXDHfDIC2VpA-UrkY9XjRGN6SholQGaUjXnVQxzCBL-N34-SzwOyXdfrlNLWO3jPD79s2PtjAr2dfwIctiFlxhr8bETArRS0m7xec4k64JVwJNF57qd7DYNpLfOd8EWAoHifRN57ag6F2yX4KmFPemi7sV1UbX8KX-Gvj7m5Cb8Cj4HtCENxC9DQJubxc1UgBJ7doZhN1Pe1oqPebNB1O2IWtmizZpPe7UgzeIBPU6p-dIE59DBhmpOLPPve8sMlVpEBQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/jaErwTsSg6K-LTfr9JglBn-MX3_UnHKRqNs3pbwQ1BQnWLhSc21NSMH4ntEc95lLNSjQKwtKc8PM4T2XgLGGYp5nkzueAS63-_VlBpcl0qfm6VMl4-cBqjDv9RtFFpFwnFBAJLSRGxYiVp2CG9Tja5TLq3sdbeJdfcsWo-0O2-gsmBt7J1KEZqjx_QMmE8S5zbbozl_fwGWvRJLl-fTwx50sIs9ky80BsT__bxHpNfzq3Fkh3Ybn_TrVMazzb6E2SFo0cE5zktsRL7kSvYNOQhBjxdjhT2GWBxzyWmUBWUTlp2xkVgzvPrCkONJ_nkorWkyN3z1ddTdxxUArvy6nfw.jpg"
+    ]
+   ],
+   "reason": "Not about Real Madrid",
+   "ch": [
+    135
    ]
   }
  },
