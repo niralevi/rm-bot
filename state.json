@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59215,
+  "real_madrid": 59217,
   "themadridzone": 31137,
   "FabrizioRomanoTG": 67243
  },
@@ -659,8 +659,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 48,
-  "tokens": 78230
+  "calls": 49,
+  "tokens": 79816
  },
  "pending_fb": {},
  "feedback": [
@@ -882,19 +882,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31035,
-   "t": "🚨 Marc Cucurella to referee after Vini Jr.’s red card: “I HOPE YOU GIVE THEM RED CARD TOO IF THEY TOUCH ONE STRAND OF MY HAIR.” @MMajeedX @DAZN_ES\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/ZGzuF-Bant1yCPhZb1-1RVfzG0su74sRutHiOEU8Q-xRVpgqHYY-QlRUO26WmIHfgm3q2MJ2uE-qzYK-La-Ah4l1C7iaARX4k-W-tFG2Zkev_kQlj7llNXkM8ITlmA2AveZnHHcRPNZXUxunQmVtwISHRXBNAs850CsJExL131CqqG4wbW4U-l4IyFeGxrK_Fxkb3zS2u6NKnjX0uwrjynK6Hs5-diZn-LcAMfa5tfOdbuna218SqQnz8sl80MUxuex7H3ZcIgkQVLS8o8P-AYOou3UVvvG89C2bLSiM0Dpyqcw6Cv45SrCFr9Okj0nI9ANXJX6PfCLkfPbvhK3ZRw.jpg"
-    ]
-   ],
-   "r": "Irrelevant meme, no real news",
-   "h": "🚨 Marc Cucurella to referee after Vini Jr.’s red card: “I HOPE YOU GIVE THEM RE…"
-  },
-  {
-   "src": "themadridzone",
    "id": 31036,
    "t": "🚨 Official statement from Virginia's press office:\n\n\"Virginia and Vini Jr are no longer together. \n\nThere was no conflict and no fight, they simply agreed that they no longer want to continue as a couple.\" \n\n@UOL\n\n@TheMadridZone",
    "m": [
@@ -1081,6 +1068,19 @@
    ],
    "r": "Just player quote, no actionable news",
    "h": "🚨🗣️ Karim Benzema:"
+  },
+  {
+   "src": "real_madrid",
+   "id": 59217,
+   "t": "🚨 STAT: Real Madrid’s G+A leaders this season so far.",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/C-7fErKF385OhB0Xa1kpkSaOJjxxiMJoyk_5C9MAHxGS7AbAg1Lhd5VVZ82szD-WzvZuj_OGPfwBkNvZRHdzOeQR11h2hGunfmOsH-1bx6COWzTKeCIRcY9hYVuhAzM04DbrRjFzgwmdKqWN_jEbbRDAQQiF7N7JxtHUenes6Gsiu1UJEe3Cev1pfGAV68b2SJI9Hw9v2xM_Ngo_tRM8Zy1SfDjR4MR0thf3rmogm0OQmTJ37Al6HU2lb1L9V_OoGa6bmlF67CQaJ7Ks8q1MlInRMll2e8fNNVO7wfLtQxbUmjfH_YEyMlb_Ho9PI_EHqv0V2IlnB_ejcjuHkkCQww.jpg"
+    ]
+   ],
+   "r": "Pure statistical list, no news",
+   "h": "🚨 STAT: Real Madrid’s G+A leaders this season so far."
   }
  ],
  "summary_date": "2026-10-12",
