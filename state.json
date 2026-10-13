@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59204,
-  "themadridzone": 31110,
+  "themadridzone": 31111,
   "FabrizioRomanoTG": 67227
  },
  "sent": [
@@ -1694,8 +1694,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 16,
-  "tokens": 26388
+  "calls": 17,
+  "tokens": 28102
  },
  "pending_fb": {},
  "feedback": [
@@ -2115,7 +2115,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 59,
+ "train_seq": 60,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2263,6 +2263,24 @@
    "reason": "duplicate of already posted update",
    "ch": [
     77
+   ]
+  },
+  "60": {
+   "t": "🚨 OFFICIAL: Dani Carvajal joins Getafe ✍️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "✍️ Transfer & Contract",
+   "status": "official",
+   "src": "themadridzone",
+   "id": 31111,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/jTqOG2cOD4oRLbWGrR9T6G1K03QTyE_A7p2yLZVeq3vTeJYh6KRnHL8b7wcahVca5xbeGLZWRp0ILQue5RCJ4F9-vESqU84NkzuyTiNPIcpnsXrncXh3sxHY0TleunjaW3tvaQo3Ttb4m6-oZuH88nd71ZM-AO1ANPHcT5lMCkYedJQ9qoJoV6DcVMXk7qnRhUNzZc9jLaW8dKsiivW1itCj6ZiiG85MomJIoR7OwZtYujyFAdK3UEQVvzdCh7p418sP8OQEV_lqJEzxsrhQYRRiwOzqtLer3qUgHmalxvnDX4_LH0DghNzpMPiq4Tclx2SEQrQwryK0FU0vdLpPIw.jpg"
+    ]
+   ],
+   "reason": "duplicate of already sent official news",
+   "ch": [
+    120
    ]
   }
  },
