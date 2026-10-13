@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59218,
   "themadridzone": 31174,
-  "FabrizioRomanoTG": 67245
+  "FabrizioRomanoTG": 67248
  },
  "sent": [
   {
@@ -635,6 +635,94 @@
    "status": "fact",
    "headline": "🚨 José Mourinho: \"How do I feel before the game?",
    "link": "https://t.me/RealMadridImportantOnly/160"
+  },
+  {
+   "ts": 1791912566.558418,
+   "date": "2026-10-13",
+   "tokens": [
+    "13",
+    "2026",
+    "comment",
+    "even",
+    "fabrizio",
+    "first",
+    "game",
+    "jose",
+    "match",
+    "minute",
+    "mourinho",
+    "oct",
+    "one",
+    "only",
+    "part",
+    "please",
+    "question",
+    "referee",
+    "romano",
+    "say",
+    "someth",
+    "stop",
+    "villarreal",
+    "watch",
+    "your"
+   ],
+   "names": [
+    "even",
+    "fabrizio",
+    "jose",
+    "mourinho",
+    "oct",
+    "please",
+    "romano",
+    "villarreal"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "fact",
+   "headline": "🚨 José Mourinho on Villarreal game and the referee: “No comment. I will say something only to stop your quest…",
+   "link": "https://t.me/RealMadridImportantOnly/161"
+  },
+  {
+   "ts": 1791912569.564459,
+   "date": "2026-10-13",
+   "tokens": [
+    "13",
+    "2026",
+    "24",
+    "3",
+    "alway",
+    "fabrizio",
+    "game",
+    "hear",
+    "hour",
+    "jose",
+    "known",
+    "liga",
+    "mourinho",
+    "name",
+    "oct",
+    "referee",
+    "romano",
+    "smell",
+    "someth",
+    "strange",
+    "there",
+    "usual",
+    "week",
+    "why"
+   ],
+   "names": [
+    "fabrizio",
+    "jose",
+    "mourinho",
+    "oct",
+    "romano",
+    "there",
+    "usually"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "fact",
+   "headline": "🚨 José Mourinho: “There’s something that smells STRANGE to me”.",
+   "link": "https://t.me/RealMadridImportantOnly/162"
   }
  ],
  "offset": 769011995,
@@ -642,8 +730,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 84,
-  "tokens": 137081
+  "calls": 87,
+  "tokens": 142045
  },
  "pending_fb": {},
  "feedback": [
@@ -865,19 +953,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31156,
-   "t": "🚨 Aurélien Tchouaméni: \"We always run less than our opponents?\n\nIt's one thing to run, but the thing is, we have to run in the correct way.\n\nThere are games where we didn't run a lot, but we played very well.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/DFV38c3o1kbIGMBSdeXRj7VXnekX4A6l-OZEvVQz2N_N1Z9Cjx3qMPZVs6-jrwtwe9W24Sh_7iuIfoG4HA2MiJvjN9lA1QQXuVc4roCsd2R_lQ7hhJTHP8T0-uhs6SHkvgIYl4r8asg4_rBfK_4vEGnNo2Mu5oSq3FO05J4uoDno9ER3a99grBt9JRkhP-mlPHi_svWWz-UFBZdAUb1LO64sK5yNMqI6OKZHhoNZRO2j2SFWMFzWHd8J4jM3ILIFcWzEaAyHjZmrol-bi-8v557BkG-kMbvIoQjUrpNXSkl1Lo8GqnjIZtn36oF1P_M6zcjNx_8gzOFlBv0KwsQUQA.jpg"
-    ]
-   ],
-   "r": "Not significant club news",
-   "h": "🚨 Aurélien Tchouaméni: \"We always run less than our opponents?"
-  },
-  {
-   "src": "themadridzone",
    "id": 31157,
    "t": "🚨Aurélien Tchouaméni: \"What does José Mourinho ask me to do in midfield?\n\nHe asks me to be brave, to provide balance, especially with all the attacking players we have, and with the ball, to always look forward, and try to provide assists and score goals.\"\n\n@TheMadridZone",
    "m": [
@@ -1051,6 +1126,14 @@
    "m": [],
    "r": "Not club‑related news",
    "h": "🌕🫵🏾 Aurelien Tchouaméni on Ballon d’Or: “Kylian Mbappé”."
+  },
+  {
+   "src": "FabrizioRomanoTG",
+   "id": 67248,
+   "t": "⚪️💤 José Mourinho when asked if the harmony is already over: “Before the games, I sleep like an angel. After the match, as always, I don’t sleep”.\n\n“On Thursday morning, it’s a new day.” https://t.co/GWDC6uJ1Jc\n — Fabrizio Romano (@FabrizioRomano)\n Oct 13, 2026",
+   "m": [],
+   "r": "Just a casual quote, no actionable news",
+   "h": "⚪️💤 José Mourinho when asked if the harmony is already over: “Before the games,…"
   }
  ],
  "summary_date": "2026-10-12",
