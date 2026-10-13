@@ -1,30 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59217,
-  "themadridzone": 31143,
+  "themadridzone": 31144,
   "FabrizioRomanoTG": 67244
  },
  "sent": [
-  {
-   "ts": 1791734060.0002997,
-   "date": "2026-10-11",
-   "tokens": [
-    "confident",
-    "decision",
-    "final",
-    "gabriel",
-    "sign",
-    "wait"
-   ],
-   "names": [
-    "gabriel"
-   ],
-   "cat": "✍️ Transfer & Contract",
-   "status": "none",
-   "headline": "🚨💣 UPDATE: Real Madrid are now confident of SIGNING JJ Gabriel.",
-   "link": "https://t.me/RealMadridImportantOnly/43",
-   "superseded": true
-  },
   {
    "ts": 1791734238.2284644,
    "date": "2026-10-11",
@@ -659,8 +639,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 53,
-  "tokens": 86396
+  "calls": 54,
+  "tokens": 87994
  },
  "pending_fb": {},
  "feedback": [
@@ -882,23 +862,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31041,
-   "t": "Jude Bellingham with Yan Diomande and Vini Jr. 🫂🤍\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/DMSLacpKspO7BEoEV4Pd9FWIIgfLChfWIHExrEypxWWhxQEnqTYFAeCUCvF654KAU7_lUpCdMcLe3XpHQQa0269GeECC5658rBMJjDWMfFS7Y3UqbBtaj6neV5-cwy07AaYTHaSKhJYxXB3dYdgm5VO8abeL1dULi220RAUuwq7gH3M7qIEAJeqqd6iETdlUgXy6iAYjnbfrDqHptAt-pyfKlqoHpITo8WiVP1bdTSuIeyNaCCLKHI3xXrKS3rUTM-ayy3u0k-b0UlFNrQnQYTnC1NQNkOD8HNPssjjXLAT3wy-JycRCryPzas8HA7I58xZOpKKnfhwrK5n6AglOMg.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/l3vCPg_ZbE-shRqeo3kDWB3__PlDEFJf9B1Qcpxi7-1LxSCQq8RkVOFDUp4KKIhmOGp02JTny_kj5Gte3V8T_x2R9dwFJ04KCQKjIlvz_M5HoDLusoU_PDtPWmrZM8HhTfhgnsfgr5yk6E0p2ZaIkncxKY5nk5fKOYi4QSHqegnK27C15zW6qwFzMny14ncl0v7k8egl6TKeGreAieswU-NThvEEgYRFfOSSLmM8O0z9wbRxI4FfvrAgwN52aG_JfmoXo7eO4JfJQB2QQCGQ3UEyUo_VzS2G3x-l3r0gX17PWozFDOAnQ1vKMlQcNPudZnhlXguDPl-RVUBZMgYXvQ.jpg"
-    ]
-   ],
-   "r": "No substantive news, just a photo",
-   "h": "Jude Bellingham with Yan Diomande and Vini Jr. 🫂🤍"
-  },
-  {
-   "src": "themadridzone",
    "id": 31043,
    "t": "1️⃣5️⃣ —> 1️⃣5️⃣\n\n@TheMadridZone",
    "m": [
@@ -1090,6 +1053,19 @@
    ],
    "r": "trivial arrival, no new info",
    "h": "Vini Jr has arrived. ✈️🇮🇹"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31144,
+   "t": "Kylian Mbappé 🇮🇹✈️\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/l58r21ln6muTczWXlkr7-imqmtnyIzs0LypwRHhJDbz-l38xNfjmgMA5O-U2T-4iLtJtqhdUE34xfNv_d2nC6daAHopTFOTROciUAizljxPEk9DdMloELfAEtIq0DDEEM4NStf_R0niLP0CaKszI-JqF31LTQKlHlhzu8VUHFZyZ2EoeDrZ7YhazyKMzSufvGDfH_cOGv2Vz4BT0MczFGeuyj57BGkTJkS34901gkAtXoaaKIcIeytAWP_zp6rDLVkrr_atBbUd8qDPWoW2c6uJMBI2C6v5VMxSSZP1QNuayIrPVGgi4T5gJkqsk9MOSAwEMsX5mXTAf5IxoTFnCkA.jpg"
+    ]
+   ],
+   "r": "Irrelevant, no Real Madrid connection",
+   "h": "Kylian Mbappé 🇮🇹✈️"
   }
  ],
  "summary_date": "2026-10-12",
