@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59217,
-  "themadridzone": 31137,
+  "themadridzone": 31138,
   "FabrizioRomanoTG": 67244
  },
  "sent": [
@@ -659,8 +659,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 49,
-  "tokens": 79816
+  "calls": 50,
+  "tokens": 81507
  },
  "pending_fb": {},
  "feedback": [
@@ -882,19 +882,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31036,
-   "t": "🚨 Official statement from Virginia's press office:\n\n\"Virginia and Vini Jr are no longer together. \n\nThere was no conflict and no fight, they simply agreed that they no longer want to continue as a couple.\" \n\n@UOL\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/c0WL_518ZTjDDfO0ze4CB93aR08rnudfUnYCQjcFyn0edwYBNZabGEk_KCGQE2Sbvx_p-eSGgE76TauvqE2y1Ydhk59sTIavuOv5TvK_uKf4uNcIJd3SF_7OFB6brNz3VBFuKJnXDigZyyr8SWhbcGmE2c1Ja432v2TyTGe2sThI24Dbr7GZw7r2XBsTux9wShiryvA5SsYBiVDTg8MgauHL0mbecBeud3-nwlr0s-iACBl6nPSZhsH9WDDqHK_nsZ5GXkhihJ4lgEhdXAwVk6fAypfNHW6pkKP4PcT_OUxeudTn4nJpMSeU2jOVNj8wTKP_-trWd0REvj5ySK4tyQ.jpg"
-    ]
-   ],
-   "r": "Personal relationship, not relevant",
-   "h": "🚨 Official statement from Virginia's press office:"
-  },
-  {
-   "src": "themadridzone",
    "id": 31037,
    "t": "Jude Bellingham’s influence 😮‍💨\n\n@TheMadridZone",
    "m": [],
@@ -1081,6 +1068,19 @@
    ],
    "r": "Pure statistical list, no news",
    "h": "🚨 STAT: Real Madrid’s G+A leaders this season so far."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31138,
+   "t": "🚨 NEW: Thiago Pitarch could consider a LOAN in January. \n\nIt depends on playing time till then. @diarioas\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/RAQhQui-rC60co1Xb6jcPfF-lyr9sGTN9aKXgSemUDFxN050lVyIoWydFeatmk19QfI3irbXjPIp17K7NmiT4Egj_XRt0RvIHRhxLQmcMytO4CI6HpeaOw8KXc_0rBV4IhbcyAwiff2A4CkavcMZOhhAuDRYbCJH0XxHE917GfpVC8dPjYGUL5hT1yXfq83lVAITv6vzDupNsyS0aCkwZgqfTIIO22o5RwSNail3thfU61iX8VWKNC98hglqjWxSJvenOqU2zadUlULVGg_iZdBA14Zrx_4YRRmJxMwD05YLhlYZU6BS4p-FDgBA8yNZTeuKaomUUX1yEqe0sHMOPQ.jpg"
+    ]
+   ],
+   "r": "duplicate of recent post",
+   "h": "🚨 NEW: Thiago Pitarch could consider a LOAN in January."
   }
  ],
  "summary_date": "2026-10-12",
