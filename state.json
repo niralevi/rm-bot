@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59213,
-  "themadridzone": 31128,
+  "themadridzone": 31131,
   "FabrizioRomanoTG": 67236
  },
  "sent": [
@@ -1777,8 +1777,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 39,
-  "tokens": 63521
+  "calls": 42,
+  "tokens": 68400
  },
  "pending_fb": {},
  "feedback": [
@@ -2198,7 +2198,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 81,
+ "train_seq": 84,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2606,6 +2606,60 @@
    "reason": "Unclear relevance, likely trivial",
    "ch": [
     148
+   ]
+  },
+  "82": {
+   "t": "Carlos Espi ⭐️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31129,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Q-RTWMJBEW-TFCqtH-occXebEMvrnn3ma8bPgBQDYacSTUiJwMyD-Tc4j889Eio3AB2evhFNjaNydUxSt7SijRQrxIA8lhZsbDjaNxYzAsxr1dYVClAd4aS15SyWD-KFWNABjiZm-IHH8e01KqVMdcht4Wf2agTksr2Z8g8FToJI9wsu4gmJBELfztLUrdPHmMbutyQnT7-VihXDf-iFaj-NwTqYkPwegaO0EnsuUeA_52Y6Efsl3VpDWY_HSC9ZXngbPge6Nxk7IYRapglXht4mZP02cIm-xIW9q_sZCNgrgRMDZDRjEOepSRHAasa0UGDJNnr146nYaoBeuc7QAw.jpg"
+    ]
+   ],
+   "reason": "No relevant Real Madrid news",
+   "ch": [
+    149
+   ]
+  },
+  "83": {
+   "t": "Trent AA x Jude Bellingham! ⭐️⭐️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31130,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/WMXuNuvrpNWN7x5laavtbwsBXtUUv3BVQUjk3ybm4W22jrfUVcHlm77xF70oF6Vp11v1fpRF5vfSV6K9hZpA3mzmhXUTJTlP9TVEcT5SlogIog7TqEzIlvY6AeWctve-oU-duYa0m3VqPIgK1N5GDBztAbrB7fDbXXfwbqkJSuA1_t7L488kZRPFyZ-3iGmFrv04KbfBzdrKMJux9rapBgXOOsqeIWVZ09NEKM8Xg8qhFWN9jqWaL1YcN08zCx3ohKjOARUxMvaFxIPQjOtd6cDFbwAC36u6zc5PKWYRMVQdGGbOLYXJCHYHYxc54TYsahiMZBHRLrEOv4xb2Rj4jg.jpg"
+    ]
+   ],
+   "reason": "Irrelevant fan content, no news",
+   "ch": [
+    150
+   ]
+  },
+  "84": {
+   "t": "Aurelien Tchouameni ✈️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31131,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/rQgJnljnb7dJNDyeELJkvoGUQfw98vv-AO69LqNR4aZPesYisYrWoUvQ6-M-AAV0y_LSy1f5IiTfMYdqsvSywEpXdzJvUTBKIDdK3UFj9EyueNNn2JcCmCloBCURxl5xINBRxwI5IX2gYUefF3uZYI_sQ8RYPcd8rWk4w4Du8VHmuDxDf8VXCahNZoHRUO_3IhVaiEBLp4KffT9YiveLNNHMcyCbxWoc38-YNgg9RatwBBZCShtg8Fd5jpCmUwuBliOuGWEyjGQfhJZF4gGsmeh--ocKThd2JiBkILDixG__fR_5HQJGlqJ7oUJ607IvuVGG2FP2HCAhLlYiKW4Fwg.jpg"
+    ]
+   ],
+   "reason": "Vague, no concrete info",
+   "ch": [
+    151
    ]
   }
  },
