@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59204,
-  "themadridzone": 31095,
+  "themadridzone": 31096,
   "FabrizioRomanoTG": 67226
  },
  "sent": [
@@ -1621,8 +1621,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 1,
-  "tokens": 1674
+  "calls": 2,
+  "tokens": 3389
  },
  "pending_fb": {},
  "feedback": [
@@ -2018,7 +2018,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 46,
+ "train_seq": 47,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2282,6 +2282,28 @@
    "reason": "Social event, no club news",
    "ch": [
     106
+   ]
+  },
+  "47": {
+   "t": "🚨💣 JUST IN: Real Madrid’s players and coaches are SHOCKED by La Liga’s decision to schedule Valencia away on SATURDAY.\n\nIt gives them ONLY ONE DAY to recover after their UCL trip to Greece. @COPE\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31096,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Wb1NG7vlo8waaccp_Twb86vguroVkJ-fWZuox7J8yPn2B_pcFVx0dmnHk2D9N93OnbCNwZFru0Zz62oRe28a7VCXmQYjfxf6H-9J5S5sRwPNyg6qy3knNo0diaMRrajQacbn3_YujZWzxy7st9h0jqZi_hdXqYX_VybLE1EAtPJe8hJzj4eeb2sLCU9Pu5d-y1_ffH1lc6t6YNyeT8eQhqu8hyL-Lm8lPQixs2zuVVP3C-ms4sZFldTeC3-H-ZNZGJar9mMvkjuuVRJmBPA8Brpl-opYUvisaQPMr19fYHSR-5HnPYCbydI4Oz6DsFSlMLBL2A64wkiEK8Kh3RiEbw.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/YunKMo4Jvr5055_7dTkMUm8R0HSPTArT0_3477xJaNhj85NVie2NI6ec4yZfUSnDAVkfV01Rjm04QSyJO4bOUgQQ_eTnl2T58w-Kl_V89WoFb9bAUR6LJNmpUfjBrsptxtoffdfcyAlHSfkGmirqcwKaAx3Pli43bbCXf9UhnrWdjljv844YM6MnPCykBSwuFHsYEmfCgr-XMyY6_-uf7MiaG-axigw2C7IJ5gzzeidWDUYuJpHIDEBAGb4ZVhzI_zgwb_YwpD-BzvowOk03KRWM-_zLv7jesvnm1_AONXM_hxuAZcooDRXKCKvjkbWAAfUILQg4P2QWJfltedt9-w.jpg"
+    ]
+   ],
+   "reason": "Not directly about Real Madrid",
+   "ch": [
+    107
    ]
   }
  },
