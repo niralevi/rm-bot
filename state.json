@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59218,
+  "real_madrid": 59219,
   "themadridzone": 31194,
   "FabrizioRomanoTG": 67252
  },
@@ -958,8 +958,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 105,
-  "tokens": 171784
+  "calls": 106,
+  "tokens": 173576
  },
  "pending_fb": {},
  "feedback": [
@@ -1180,19 +1180,6 @@
  ],
  "skipped": [
   {
-   "src": "themadridzone",
-   "id": 31174,
-   "t": "🚨 CONFIRMED: Real Madrid are growing more and more CONFIDENT that JJ Gabriel will join them. @MailSport 💫\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/SEcBE3a7IZiXXU34YuqHEiSfR3OQZsd5x7TieMMu7kGvJZi9_yyrqNiYJfk1FG6pz6zlyYLNAR8gItQ9UJFtlNA0Pbt19IhE5YDIQ1DXJxzhKZZmthfF8_0syqsJGB5uskAGU5LqiMCN7CZ-WZgiBVGHAqswbZud_ZY91jC1vOugPAUQSf_meZOHFfV7rCzDH7T7v9rKh0COff7Ln5IwvnzxBEWMCnpu9cxcdmlLwnnhDuL6v0-zFrkiNYqKAGEFB0XuuhducOkDjcPlxzz1Vs4wIW0ttU_shuYLtFQlVQ8dENOKrH0Ra8351Yh4QMRviLEZ3W5dMEuXyFYgHZdvDQ.jpg"
-    ]
-   ],
-   "r": "duplicate of existing rumour",
-   "h": "🚨 CONFIRMED: Real Madrid are growing more and more CONFIDENT that JJ Gabriel wi…"
-  },
-  {
    "src": "FabrizioRomanoTG",
    "id": 67245,
    "t": "🌕🫵🏾 Aurelien Tchouaméni on Ballon d’Or: “Kylian Mbappé”.\n\n“If not him, still a French player like Olise or Dembélé”. https://t.co/XXR84u1VRl\n — Fabrizio Romano (@FabrizioRomano)\n Oct 13, 2026",
@@ -1371,6 +1358,23 @@
    ],
    "r": "No real Real Madrid news content",
    "h": "TRENT. 🚀"
+  },
+  {
+   "src": "real_madrid",
+   "id": 59219,
+   "t": "🚨🚨 José Mourinho: \"Endrick leaving on loan in January?\n\nNO, NO, FORGET IT.\n\nIf any interested clubs are waiting for him, they better SIT DOWN, because they'll get exhausted waiting standing up.\n\nEndrick is a player I ABSOLUTELY ADORE, a player I believe has HUGE POTENTIAL and who is VERY IMPORTANT to us. \n\nAnyone interested in him will have to FIGHT ME HARD, because I believe he does NOT need to go out on loan and that he'll have MASSIVE SUCCESS here.\"",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Kyl7deZn_-aLphBVq2vYLevP_B2HmUK9WfgUQqjk7dFMStZJH87SP-zuayDn-FQkbpdbZE8HWEo-uZ05lu0LUB29pRHk7wXTJ1ceqFv4wG4GC_R03E_nyNpnKkyP3Hzt8bMaQsOMA-6vFsDqWCPcxQt3x4fJlXbIxCdXtBrXS9-o4P4nmP5qCSE1fSRun_tFWCzw1SglPTPrmZTq1dsBpvSpV-frnNPMABBLBOGGCuGpKo1M9WvSeKao0FuHwODw751Br83t2WbSc6DQyNYi8JX9iSe14a9wEgIJAM4woraJvJILx2DINg0473v7Ino1KvGslxSiuZTnbxs4ZwO80g.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/loW-_yzzE0ddNgFweEQ7j4ctm3vyBcygHVcsGSAp7PkjYvwyfLPFkNeD97aMUra6-jmdRi2v5RqqA4Llp9QibcnPWF4EjI2ifOy7-BtyQ8hER6mjf1reTQIe4gO-dkWU1XK5WKja58If0ZBJKcNmCyJtC7rC3pINo9xger7uEEZA1TZIuJDDml3Bkzz10FPJG2yk-MtGpxZJ4ypCypcwa3fMKsiaSHOp4udnSoY0Tp6hQdNxpVXs3nZlczMics5XeaifL1dvSKHnvytBUH5jHYdJc0dBAp-0ZfBuOg-Ybqus7Rb4aAT7_YOgWOxfCV5NaflBxUF75-tnm1xj6noh4A.jpg"
+    ]
+   ],
+   "r": "duplicate of earlier quote",
+   "h": "🚨🚨 José Mourinho: \"Endrick leaving on loan in January?"
   }
  ],
  "summary_date": "2026-10-12",
