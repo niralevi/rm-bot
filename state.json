@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59218,
-  "themadridzone": 31158,
+  "themadridzone": 31162,
   "FabrizioRomanoTG": 67244
  },
  "sent": [
@@ -574,6 +574,53 @@
    "status": "rumour",
    "headline": "🚨 REMINDER: If Ibrahima Konaté receives a yellow card vs Sevilla this weekend, he will be SUSPENDED for El Cl…",
    "link": "https://t.me/RealMadridImportantOnly/156"
+  },
+  {
+   "ts": 1791909382.5308826,
+   "date": "2026-10-13",
+   "tokens": [
+    "2",
+    "again",
+    "best",
+    "come",
+    "difficult",
+    "don",
+    "end",
+    "europe",
+    "fans",
+    "first",
+    "gam",
+    "game",
+    "idea",
+    "jose",
+    "keys",
+    "motivat",
+    "mourinho",
+    "olimpico",
+    "play",
+    "roma",
+    "streak",
+    "strong",
+    "team",
+    "tomorrow",
+    "ucl",
+    "unbeaten",
+    "watch",
+    "well"
+   ],
+   "names": [
+    "europe",
+    "jose",
+    "keys",
+    "mourinho",
+    "olimpico",
+    "roma",
+    "their"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "fact",
+   "headline": "Mourinho warns tough challenge against Roma's unbeaten run",
+   "link": "https://t.me/RealMadridImportantOnly/158"
   }
  ],
  "offset": 769011995,
@@ -581,8 +628,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 69,
-  "tokens": 112504
+  "calls": 72,
+  "tokens": 117550
  },
  "pending_fb": {},
  "feedback": [
@@ -804,32 +851,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31145,
-   "t": "📲 Ibrahima Konate on IG: “Very fresh” 😮‍💨\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/dJG-P1kfJJsBaPvogvrI3QxD0Gw3TQorsWnJAk8f3IpC-9_skZSzUHSWSrVI17PxtjOWaGIskQaKaQOSrunNixitnrrE3gQKqeQrYRbgkSIZRlozcNctc8oBhJoqifhpnX7EE4vk03tdd_n7ZEGu4jBJG9ZDhmPrMoo7w2L10olMryOh54qqRjpVM2h-vdiGYZ7QX6mN-leTUC5THTZgEhl_Wy0agTYfVvduMmCDIeco89tpfyPs3JnlFSHHrF7Enh4XwQDZkvSXHXju0BDjbKRk4slLNIWynuLipcjGtCAqfiMG7IIRB5Z3nUZhzKo_ywwNLBXaadWZ0f1C4vqTEA.jpg"
-    ]
-   ],
-   "r": "Irrelevant personal social media post",
-   "h": "📲 Ibrahima Konate on IG: “Very fresh” 😮‍💨"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31146,
-   "t": "🚨 Aurélien Tchouaméni: \"Tomorrow is a very important game for us.\n\nWe started well by beating Inter, so we need to continue winning tomorrow.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/qexAMbNrh4RtwU6VhiOn8XHDpdowamEGa8nVFuXel_BsCozUUXN5xFLpzm1k7jUPZOUXBMk47lVnvzUsg6qxPxNtMIbN5rS6TXvmIy2n15eZSM7WknD44yJobXCV_kHcCrnRhG9pAxuEQeZt4iS76TZsBeWjfWNY654y9gQhkXlH6d-MPp6ZhHN42TVUz_wPeLmM7qc7ooqmwb0WFyKsdwZlThfyeyVK6QMgCO65NC1LGFKSvkEn3HqBp1ghMUcxGWyGml0ELplGH1AbCkEo0WKOBT8VpVr58Xw0O4qEtnIGWKD_Q2VD13W6VHpAhiaDZcvq80XXGni7x8hvJdyLlw.jpg"
-    ]
-   ],
-   "r": "Just a quote, no news value",
-   "h": "🚨 Aurélien Tchouaméni: \"Tomorrow is a very important game for us."
-  },
-  {
-   "src": "themadridzone",
    "id": 31147,
    "t": "🚨 Aurélien Tchouaméni: \"Villarreal?\n\nObviously we are very frustrated by the referee's decisions, but I don't want to talk about that.\n\nWe need to focus on tomorrow's game.\"\n\n@TheMadridZone",
    "m": [
@@ -1000,6 +1021,32 @@
    ],
    "r": "No substantive news content",
    "h": "REAL MADRID x ROMA! 🤍🐺"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31161,
+   "t": "🚨 José Mourinho: \"Referees?\n\nAll I will say is this:\n\n\"Go and watch the FIRST MINUTE of the game against Villarreal.\"\n\nJust the first minute.\n\nIf you watch the first minute, you will know what happened.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/atDJp36tsM4UT4eACgiai7MKkOO_2hhSQAh59W4Ok0qvxauj6lhxrdmQka4vTKJ4zck4rKW2_eBHQRJS6U4XD_9zYe16skNj2rTmBo5PYWg66LaCuFSFazcW7s7NOqwVWhlI27q5fcKjq44-9fMM2SKM-IhPnqQ2WPAAix7E83BJh3QpRvl1zQHA4FcQI_FdVTPEsgEI3qPuifo82rQbf8oW474J7f5iTfXYS_GMsJv2by1sEe6DG1FqTbU-JxO-RMgHjxpbx1rvf8s_sgJzN_5rFgSjoGtsrDImTfHu-y_KUsiuDq3PIkcU-uHsluUYCpyKltf_m6umnMxxCAeyTg.jpg"
+    ]
+   ],
+   "r": "trivial press‑conference quote",
+   "h": "🚨 José Mourinho: \"Referees?"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31162,
+   "t": "🚨 José Mourinho: \"It's very strange to me.\n\nUsually, BY LAW, the referee's name is known 24 hours before the game in La Liga.\n\nSo, why, for us, we always hear the name 3 weeks before?\n\nIT SMELLS STRANGE.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/AR7tHOVebxv7UFMqO0dmbfwGzlrhh0vV18GhUYE1E2jO5d5Wo7kL8-2lXX5kGIq9_5YzaJprYFcY7i8RqD7y-MpEE8ORV1FN_yTWHGs8YPDe8AXUexdc8YkMwT7MsMB8_dbNIGj1n-YK-RJMmv9cUIGT_GbApGc12lAQBxicwUOIvBJerpMNmLb9uBfu1yNraUw1C79sDrtJPnJaORlEg0rrbfNzK8EiB7lzRJ33mcMarFO-ZawBapUPbRkECuP3vQQ5E4iPIgvuMYrXpi1uio-CAJfNzdjdXzlQ_408WkQtM0RcCA9vNTpV3yF9DvHlH_ZoXmJy4J_LphWCSbq5eA.jpg"
+    ]
+   ],
+   "r": "trivial coach comment, not essential",
+   "h": "🚨 José Mourinho: \"It's very strange to me."
   }
  ],
  "summary_date": "2026-10-12",
