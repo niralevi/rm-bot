@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59217,
-  "themadridzone": 31138,
+  "themadridzone": 31141,
   "FabrizioRomanoTG": 67244
  },
  "sent": [
@@ -659,8 +659,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 50,
-  "tokens": 81507
+  "calls": 52,
+  "tokens": 84745
  },
  "pending_fb": {},
  "feedback": [
@@ -882,27 +882,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31037,
-   "t": "Jude Bellingham’s influence 😮‍💨\n\n@TheMadridZone",
-   "m": [],
-   "r": "No concrete news, just commentary",
-   "h": "Jude Bellingham’s influence 😮‍💨"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31038,
-   "t": "Cam Little 🤝 Jude Bellingham\n\nThe Jaguars kicker HAD to pull out the Real Madrid and England star's iconic celebration!\n\n@TheMadridZone",
-   "m": [
-    [
-     "video",
-     "https://cdn4.telesco.pe/file/07e7ee5079.mp4?token=t1mNeMxWuwfxBMcaS5rWRgIBs8YEyPo8J1tObwplcs62W7vn31rheZrh83BwgavwpZkC3RPCaj9uAktloPNhCuj098NldCosU6QB-ZuS1eIWNyr03-K1XHHYrI5h1I3ks2prz0oyxQcx0LW43Hei_APOOjs3Or1DdEvivs6Zep1CEW_SpS25b1eOiz_9nAaQzvN0-h5qT7YNEB-ZzGhhBEVzeycmTr9C619cOY5tBjAEQZkIarIRdG_snYbHC3JP71HVTPtC6SABgqAZgfDfMYXJg-e11HXR8FnllrUFdOjk4hgKi-VhtgSfkUey_dR22Nb8pmnOl87Pb2-jmSpbi4WOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8"
-    ]
-   ],
-   "r": "Irrelevant celebration meme",
-   "h": "Cam Little 🤝 Jude Bellingham"
-  },
-  {
-   "src": "themadridzone",
    "id": 31039,
    "t": "🗣️ Cam Little after securing the win for Jaguars in NFL today:\n\n“Hey, I know y’all saw the BELLINGHAM celebration there too.”\n\n@TheMadridZone",
    "m": [
@@ -1081,6 +1060,40 @@
    ],
    "r": "duplicate of recent post",
    "h": "🚨 NEW: Thiago Pitarch could consider a LOAN in January."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31139,
+   "t": "🗣️ Gian Piero Gasperini: “Real Madrid could need some time to regain their usual rhythm.”\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/SyTFMu5iWosjFD5WvxDnHWRTDsMGc23OCzTlG8n-chmlQ8LYGiWuoO0-lX1OxT-oeBfpPbyRtrhgDJV3T56_y10fVtoFZEdCDtyuN5eEQxMGfO4AOZyN2ZzlcuBzjEAh-lBDQZM46ox6yKaaUfDhofLPRqmKJJvINTVxGa7d_jQF8Brx5_nvbHpWBcYuh_oPfgQ8B_oA1XOX6W2I_FlystGZMCpcBAc_fdRKRZ71RlZR9F5Kx8bEfXzAaXQvqqK-x-a4I647SXdAviPHqRGr546H5-0GB3hgYYS3GDTxza3elpfUh6gDEEPDBu6RiRUMajlT1XfRWy93CSmtAUtnMQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/SLdPj9jc7v4afMvhtTPH7jhOu2SxfbZtc4a8lp7cwbWLBpq8WDlnJnWQOUlStiT0NlBrx2_Bar_Sqjkal_7O71a-ZPmWqr2lsRInnfflDemtabSUUC0-y3tACP808Dnv8nDNOlLgY1utGXnXh0KfexKB2kg8h_4wuncp2wtVxSQnXLwWCN36OIqDs9Dh0O2l-FzN53qA8AXo3SNQPHfjOX1ym4aKzOyhtHJZwVEC5cWzraRgeEf0bju16RZGLmQaGhF6zy12wELv14kjTtjGQKpG_PAahHMMBM-EbDt4SLyNqxQExevtLgoTFvoWiHb5gRbK7uXHo4OS70zSvF8dBA.jpg"
+    ]
+   ],
+   "r": "Not relevant Real Madrid news",
+   "h": "🗣️ Gian Piero Gasperini: “Real Madrid could need some time to regain their usua…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31141,
+   "t": "🗣️ Gian Piero Gasperini: “Real Madrid have top-class potential.\n\nThey are a team capable of winning any match. And from a purely football perspective, there is still room for improvement, and their level will develop for the better.”\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/ElUCG9yikGyL1ucd03sF50M6prhXLLaawjtUwxg1VppSEnCyqOB16cknu4t3bSye-BzWi6alTOX9WH9rlD0ZGZsE8eMRnDCJ4gjXSqh2t6ZNHJz6C4VLfyteSQCN-ZvZRxTuEs0pQPYWEktF7IKGyJoRxC1rbdQlYc1fOyVuoVKO_l_7iPFzs_EpnwWZqZetJ1H4miawUjst24hScwcG7Q0ZgMTATkPgCCJRn4eoHGZLdM9dpGbH3oV4ibm64Yi2e5sr6AGdBKrUe_zfLwy7cEurrGub33k4CL1aHa6RF_RyAq7cmwQwwR8SSy6IW074n6m1UjYaoQ6NZzXlF6WxIQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/PeyZyJgeZdP5Hh-W44bpz5uUONkad2hNX1kQj24Hw4G_cGdCR0Mwckywa_hWmMHTs34Rgb_2ZbrthTfqjTyGUYVUBx0oV2tryMx_9esCwC0ZiN8GetlLvX907SyLFCm3wvTTFQy2hy6LzOWl3oka2z4TLIGKGGPeZkEe081PF1ND7ZT8P-UMN4YbyBIcJ3KMZXcKmzXNuHxiZMDDnWppxT2Et9n7scWeXxNnEqWrcg1-AemJ3Vp9pB3TqTL98Cbg-uHY82Em2dRfdM9GW20k9XlPTK-yCSES6zidFZj-CjxvVqothl7rY0TSBz34DBJ-eNYMP_7KcH4vtMzvtngGrw.jpg"
+    ]
+   ],
+   "r": "Not relevant Real Madrid news",
+   "h": "🗣️ Gian Piero Gasperini: “Real Madrid have top-class potential."
   }
  ],
  "summary_date": "2026-10-12",
