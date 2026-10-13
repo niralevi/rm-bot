@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59218,
-  "themadridzone": 31173,
+  "themadridzone": 31174,
   "FabrizioRomanoTG": 67244
  },
  "sent": [
@@ -667,8 +667,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 82,
-  "tokens": 133832
+  "calls": 83,
+  "tokens": 135447
  },
  "pending_fb": {},
  "feedback": [
@@ -890,19 +890,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31154,
-   "t": "🚨 Aurélien Tchouaméni: \"We haven't played our best football yet, obviously, and there are many things we should improve, both on and off the ball.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/CsZ-4twSUHag07u1VpcnHHR_VxNsy4rWrAHiEvJAP-_u6j1et8lS69DT9308tPVIO42GzPYA27okJpKYmP6OhmTzzr_SB-7urOwfZ8WfPJkGQciIqytfnHKLTVpo5VwrI5UeGpAuRdZFx5cv-vf1O2GMNy5yxKREgrlfVAQo6bcNoUk3hjstT9bkKwP-2ZWSfU8Z5FtzziN2xe3GataiJ8czZByOVwM6zCBassQD_z9XG6PJtbUUblpfdEUTY3CRNSc1hsxMuUk3fkarJqZwEboO8Xn473OIleio7_Mz4u_BdZQuwIfXpDCzeQQ5WxU9UFkGdQ3-AcUEIEkQ4YggQA.jpg"
-    ]
-   ],
-   "r": "Just a generic quote, no news impact",
-   "h": "🚨 Aurélien Tchouaméni: \"We haven't played our best football yet, obviously, and…"
-  },
-  {
-   "src": "themadridzone",
    "id": 31155,
    "t": "📲 Eduardo Camavinga to Ibrahima Konate on IG: “The Terror.” 😂\n\n@TheMadridZone",
    "m": [
@@ -1081,6 +1068,19 @@
    "m": [],
    "r": "No actionable club news",
    "h": "📌 Charla interesantísima con Carlos Rodríguez:"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31174,
+   "t": "🚨 CONFIRMED: Real Madrid are growing more and more CONFIDENT that JJ Gabriel will join them. @MailSport 💫\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/SEcBE3a7IZiXXU34YuqHEiSfR3OQZsd5x7TieMMu7kGvJZi9_yyrqNiYJfk1FG6pz6zlyYLNAR8gItQ9UJFtlNA0Pbt19IhE5YDIQ1DXJxzhKZZmthfF8_0syqsJGB5uskAGU5LqiMCN7CZ-WZgiBVGHAqswbZud_ZY91jC1vOugPAUQSf_meZOHFfV7rCzDH7T7v9rKh0COff7Ln5IwvnzxBEWMCnpu9cxcdmlLwnnhDuL6v0-zFrkiNYqKAGEFB0XuuhducOkDjcPlxzz1Vs4wIW0ttU_shuYLtFQlVQ8dENOKrH0Ra8351Yh4QMRviLEZ3W5dMEuXyFYgHZdvDQ.jpg"
+    ]
+   ],
+   "r": "duplicate of existing rumour",
+   "h": "🚨 CONFIRMED: Real Madrid are growing more and more CONFIDENT that JJ Gabriel wi…"
   }
  ],
  "summary_date": "2026-10-12",
