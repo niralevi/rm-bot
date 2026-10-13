@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59215,
-  "themadridzone": 31136,
+  "themadridzone": 31137,
   "FabrizioRomanoTG": 67243
  },
  "sent": [
@@ -659,8 +659,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 47,
-  "tokens": 76595
+  "calls": 48,
+  "tokens": 78230
  },
  "pending_fb": {},
  "feedback": [
@@ -882,19 +882,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31034,
-   "t": "TIMELESS BALLER. 💎\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/X4nFGGG6aJol0LbnDe5GqXtxpbqOmlqulmezbZqn70Nn7bi-VwXRY0FBLwJhNI5U7cco6nCVUf-3AmPjqw6bJPyqRbnNsIs-CQ4BqtpUZbnVaeXTvh0mOZwp_DyWmFC_8V7709GhX2IoItoXyBMdBEsAjEltqs-nyWvGhYbD4IxVKGMdOeOSfkRDDAOnOksZxdzFlvoc_M0MTcWJySwjkYmalb0JQ-X50quYePxUpIjSsIKWXjTPLV7WTt9sOIn5Py42TfJUOGrqinoDxI8stBLx-yP9Xskd0hB196GL3O3mogCzG_oAB2GQD__AJMWfgkOK2vdcJ_rkB6K3FFeH3A.jpg"
-    ]
-   ],
-   "r": "No substantive Real Madrid news",
-   "h": "TIMELESS BALLER. 💎"
-  },
-  {
-   "src": "themadridzone",
    "id": 31035,
    "t": "🚨 Marc Cucurella to referee after Vini Jr.’s red card: “I HOPE YOU GIVE THEM RED CARD TOO IF THEY TOUCH ONE STRAND OF MY HAIR.” @MMajeedX @DAZN_ES\n\n@TheMadridZone",
    "m": [
@@ -1081,6 +1068,19 @@
    ],
    "r": "Not significant news for fan",
    "h": "🚨 Aurélien Tchouaméni will speak first during today's press conference."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31137,
+   "t": "🚨🗣️ Karim Benzema: \n\n“Toughest away atmosphere? Camp Nou. \n\nIdol growing up? Ronaldo Nazario.\n \nBest assist provider I have played with? Mesut Özil. \n\nGOAT? Ronaldo Nazario.”\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/jeIQCMQ_4QKQ4MNOpz0wpEh_uqvC_-vEFfJNsYZ27Kg22zRMZfUR8SKfcmwtooiR68qlpNWK6I7pfLy8b2U9Zvzi5vIyQ6D6r0120zEetI_YS8Oyk19dXhwWshFkCXX17WLmFIsbCHHfQHgv8nPFbe8UNP0Zsa_MVyculibB787lkTdDqi5X2EzuVmo2BaZnSdJsLqgUN0ehlJJliwzdfDtgWLd---TY8pgdVn4xJvLQmPdRPAYcmqTJgIQ1jzt_JJ-A1hKRTN5EmTAoRJw-_aGxr-wB5IPYYVKBXjMZhYjccc3zNQMPyrOORb6MLuw_-9iZTFLqW2Q6D6vQN82f_A.jpg"
+    ]
+   ],
+   "r": "Just player quote, no actionable news",
+   "h": "🚨🗣️ Karim Benzema:"
   }
  ],
  "summary_date": "2026-10-12",
