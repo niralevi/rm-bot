@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59211,
-  "themadridzone": 31118,
+  "themadridzone": 31119,
   "FabrizioRomanoTG": 67227
  },
  "sent": [
@@ -1720,58 +1720,68 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Real Madrid squad for Roma",
    "link": "https://t.me/RealMadridImportantOnly/138"
+  },
+  {
+   "ts": 1791894990.1738138,
+   "date": "2026-10-13",
+   "tokens": [
+    "ability",
+    "confidence",
+    "confident",
+    "cypriot",
+    "finalize",
+    "gabriel",
+    "grow",
+    "irish",
+    "obtain",
+    "passport",
+    "sign",
+    "there",
+    "within",
+    "work"
+   ],
+   "names": [
+    "cypriot",
+    "gabriel",
+    "irish",
+    "there"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "headline": "🚨💣 BREAKING: Real Madrid is now CONFIDENT to FINALIZE the signing of JJ Gabriel.",
+   "link": "https://t.me/RealMadridImportantOnly/139"
+  },
+  {
+   "ts": 1791895008.4289,
+   "date": "2026-10-13",
+   "tokens": [
+    "carvajal",
+    "dani",
+    "getafe",
+    "join",
+    "official"
+   ],
+   "names": [
+    "carvajal",
+    "dani",
+    "getafe"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Dani Carvajal joins Getafe ✍️",
+   "link": "https://t.me/RealMadridImportantOnly/128"
   }
  ],
- "offset": 769011980,
+ "offset": 769011992,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 29,
-  "tokens": 47800
+  "calls": 31,
+  "tokens": 50422
  },
  "pending_fb": {},
  "feedback": [
-  {
-   "t": "Yan Diomande and @Kylian_Mbappe all smiles. 🤍",
-   "v": "-",
-   "miss": false
-  },
-  {
-   "t": "🚨 CONFIRMED: Real Madrid will APPEAL for Vini Jr.’s red card and Ibrahima Konate’s yellow card. @COPE\n\n@TheMadridZone",
-   "v": "+",
-   "miss": false
-  },
-  {
-   "t": "Villarreal player pulling Mbappe down from his shirt as he takes a shot.\n\nNo penalty, no VAR intervention, not even a replay 🤣\n\n@TheMadridZone",
-   "v": "-",
-   "miss": false
-  },
-  {
-   "t": "🚨💣 BREAKING: Ferland Mendy is BACK in team training.",
-   "v": "+",
-   "miss": false
-  },
-  {
-   "t": "🚨💣 BREAKING: Dani Carvajal is JOINING Getafe. La Liga has said YES. @MatteMoretto ✍️\n\n@TheMadridZone",
-   "v": "+",
-   "miss": false
-  },
-  {
-   "t": "🚨 During Real Madrid's last 3 La Liga games:\n\n- Real Madrid committed 22 fouls, and received 9 yellow cards and 2 red cards.\n- Real Madrid's opponents in these games, committed 53 fouls, and received 8 yellow cards and 0 red cards.\n\n😂😂😂\n\n@TheMadridZone",
-   "v": "-",
-   "miss": false
-  },
-  {
-   "t": "🚨💣 Vini Jr went over to La Liga's match director after being sent off, and told him:\n\n\"THIS LEAGUE IS SH*T\" @DAZN_ES\n\n@TheMadridZone",
-   "v": "-",
-   "miss": false
-  },
-  {
-   "t": "🚨 UPDATE: Real Madrid have reached an AGREEMENT in principle to RENEW Thibaut Courtois. [FabrizioRomano] ✍️",
-   "v": "-",
-   "miss": false
-  },
   {
    "t": "RT @FabrizioRomano: 🚨🔵⚪️ Getafe have reached verbal agreement to sign Dani Carvajal, here we go!\n\nThe medical tests have been completed and the club is ready for announcement — only waiting for La Liga’s approval on Financial Fair Play limits.\n\nCarvajal said yes to Getafe — as ABC reported. https://t.co/mSabzHduvB\n — Fabrizio Romano (@FabrizioRomano)\n Oct 12, 2026",
    "v": "-",
@@ -1930,6 +1940,46 @@
   {
    "t": "🚨 CONFIRMED: Real Madrid will APPEAL for Vini Jr.’s red card and Ibrahima Konate’s yellow card. [COPE]",
    "v": "-",
+   "miss": false
+  },
+  {
+   "t": "🚨 OFFICIAL: Dani Carvajal joins Getafe ✍️",
+   "v": "+",
+   "miss": true
+  },
+  {
+   "t": "Jose Mourinho 🧠\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "Yan Diomande 💎\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "Vinicius Jr ⭐️\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "🚨💣 BREAKING: Netflix will BROADCAST 2030 FIFA World Cup in Spain.\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "🚨 NEW: Bernardo Silva has almost DISAPPEARED from Real Madrid’s plans under Mourinho.\n\nHe has played just EIGHT MINUTES since September 12. [marca]",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "🚨 OFFICIAL: Real Madrid squad for Roma\n\n@TheMadridZone",
+   "v": "+",
+   "miss": false
+  },
+  {
+   "t": "🚨💣 BREAKING: Real Madrid is now CONFIDENT to FINALIZE the signing of JJ Gabriel. \n\nThere is growing confidence within the club that their work with the player and in his ability to obtain an Irish or Cypriot passport. @Ramon_AlvarezMM 🇮🇪🇨🇾\n\n@TheMadridZone",
+   "v": "+",
    "miss": false
   }
  ],
@@ -2148,7 +2198,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 72,
+ "train_seq": 73,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2405,154 +2455,12 @@
    "ch": [
     127
    ]
-  },
-  "66": {
-   "t": "🚨 OFFICIAL: Dani Carvajal joins Getafe ✍️",
-   "ai": false,
-   "label": "✍️ Transfer & Contract",
-   "status": "official",
-   "src": "real_madrid",
-   "id": 59210,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/JqqOufzXH8Hu85KAk3xxciL5DFZf1feyHGA0DB3KFfm4ONjAdrQ7mEN0vnO3aQ8oRtGPIDlZeq31aSzy9GYE5N0x1bMcQikc9Edc1eFr_yCyiQXoDWh0zkpdAUIEMe_twwR_pWHkUOtRRxg9tFhCLnnbQ3126EBlJG1wBBOsb83PyufBR-yslk0a6F3gTjgpw44CdoFx0iBRLDVWzHhUTzbAz17aEIe8FqoJYnfV6O2fA0-813-fBSSU0t25IXvosUDLgEVNYCqxh4Z2mduG_4K7ITytBJHXbxym6coYDG9CoA_h36l5HzCFFKd1UwL9R4SYCPnDlC19T95Ei68yCw.jpg"
-    ]
-   ],
-   "reason": "duplicate of existing Carvajal signing",
-   "ch": [
-    128
-   ]
-  },
-  "67": {
-   "t": "Jose Mourinho 🧠\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "rumour",
-   "src": "themadridzone",
-   "id": 31113,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/WK69IShk6v9m5_ZD0UjBEFB8cWv7P2WjGnOZBThQ-0T11lfighbSJTFBUJ4CKfilvXFm0TlJs3QpktlpAOpmnh5q1dD7AE-q9EfFNAe7UR7-vo8bx3aakNfdts3KCKiTZQszPGzMvyBY2hLTp8Fspqya6SU05L91tnNkLykMSn9s_aKVVMl3YiKJoUrE9zKgXxMJ5JyNpugwpJZtej1J0uJY7J5gKnX2B9VYNbwM9PEHXeESfQIQ0EBwmK4ERvkFOpxsAqnSO19_exLJJcJ97LT1vUVXvXd4nNk1llgcrSPaUPp8pf3sEFGn--RZeZ-4IjIpkwlcpchdZCeSy0xbkg.jpg"
-    ]
-   ],
-   "reason": "No relevant Real Madrid news",
-   "ch": [
-    132
-   ]
-  },
-  "68": {
-   "t": "Yan Diomande 💎\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "none",
-   "src": "themadridzone",
-   "id": 31114,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/gk4i1EvSc7FmWfNX9LcOTjULPqB1W8XRZelARW1J-ZiCoKuQTKyhYS6N202GLknHjv9BGkYZZTX8MSSfbbFXS71DjLmtEXUFN8-wxDJlNCYARXAbXOh4JSjY06NvFW14hBGAv_C64hxutKJjmCrfLyWvKCS7PhvjyUjGic85weAqTLtHWyYfTsmg_9Oqu7sZ6uVer6OT6T1zwVln9GOkXxnqCundQPLTRiA2SSvC09ulqsqT8nFblKTbnwMDcAJ2-6VgKMIpFydjz2_47FC5Bp2rPmMe2srbKGI7_Wx8-Y5dfPDAmY6GHTlHfXGnbqxAHR-PkQ9zrqrfbwR8Mjjjrw.jpg"
-    ]
-   ],
-   "reason": "No substantive news content",
-   "ch": [
-    133
-   ]
-  },
-  "69": {
-   "t": "Vinicius Jr ⭐️\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "fact",
-   "src": "themadridzone",
-   "id": 31115,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/jM9HbRVs3aRq465HSA1adB1dScCAJR-aK-XPpAd4jtNMwyRkOVKqg3VSnAxgFLqSWAkDJg2Q6iF_LVHJDSsHLw-6n3C-gm7_jn1qtvSUJlPMkLKGFhCr0wMTOdGogKk7PalAUkYpl23j42E7lZfYcv5Q_czsleci5e1xrGd8taih_7VMfuaERQxHRlE5tjjGLhmPAeUKgEvRo8HEfiQ45KnMcD9zTK3RsvVHMqUchm2imeuDx-nQ5tc92mod6TzbpAPrNGbbEvuosKEPM3_UDVgOfMYL9690vWIzg1d-U4e6VpZnCoWYl5IzkHqv--2yCdHGBkD9EkjVOh13qYo-rQ.jpg"
-    ]
-   ],
-   "reason": "No substantive news content",
-   "ch": [
-    134
-   ]
-  },
-  "70": {
-   "t": "🚨💣 BREAKING: Netflix will BROADCAST 2030 FIFA World Cup in Spain.\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "rumour",
-   "src": "themadridzone",
-   "id": 31116,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/c9ZI6FV4z7z0PbrSs6fMlXigfUAJ2YL5ziZsHQPaBv5s1qOXN7KdcSQBoToBCZ3qBZISVAq8tcQk-YyPDjXDHfDIC2VpA-UrkY9XjRGN6SholQGaUjXnVQxzCBL-N34-SzwOyXdfrlNLWO3jPD79s2PtjAr2dfwIctiFlxhr8bETArRS0m7xec4k64JVwJNF57qd7DYNpLfOd8EWAoHifRN57ag6F2yX4KmFPemi7sV1UbX8KX-Gvj7m5Cb8Cj4HtCENxC9DQJubxc1UgBJ7doZhN1Pe1oqPebNB1O2IWtmizZpPe7UgzeIBPU6p-dIE59DBhmpOLPPve8sMlVpEBQ.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/jaErwTsSg6K-LTfr9JglBn-MX3_UnHKRqNs3pbwQ1BQnWLhSc21NSMH4ntEc95lLNSjQKwtKc8PM4T2XgLGGYp5nkzueAS63-_VlBpcl0qfm6VMl4-cBqjDv9RtFFpFwnFBAJLSRGxYiVp2CG9Tja5TLq3sdbeJdfcsWo-0O2-gsmBt7J1KEZqjx_QMmE8S5zbbozl_fwGWvRJLl-fTwx50sIs9ky80BsT__bxHpNfzq3Fkh3Ybn_TrVMazzb6E2SFo0cE5zktsRL7kSvYNOQhBjxdjhT2GWBxzyWmUBWUTlp2xkVgzvPrCkONJ_nkorWkyN3z1ddTdxxUArvy6nfw.jpg"
-    ]
-   ],
-   "reason": "Not about Real Madrid",
-   "ch": [
-    135
-   ]
-  },
-  "71": {
-   "t": "🚨 NEW: Bernardo Silva has almost DISAPPEARED from Real Madrid’s plans under Mourinho.\n\nHe has played just EIGHT MINUTES since September 12. [marca]",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "none",
-   "src": "real_madrid",
-   "id": 59211,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Z9uXWFPC6xYQ_H_7GkZHcAtR_w8GlUSuX-7nmJ16z3pER94dGvPbhnqcrHxswDZTuXoeUHmMjnqS2ORs32EiZOX2CveKip9i2KIWeU9U3FkkXTNplbVJBUcnuAD86E2iqqF6D-cuzzmgu0Iub-x-y7EJGfE1xwByzoH_mRv9t2-uW4iTCwrOiU41bawe7qAn8jyvqFDPpvHhAaP6cgCPJWuqMh42TLoYLU1GPsEqL4tKD0IVgswG5v5U9GWiuNu6XeALLMSE8waeHOmNDtEY39cyIqVupKfLg58Y89-nKOHKGMzLg8DxDg8hs0vAo2FtcCIGECf-RlmhTzfHql8a_w.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/g659QEpQGCixCwFHDcIz5aB7-z-mzQRZI9_-m7PSZw7UiuDw9wRxD3-t8sjSD_kfhfOhOsk72XKAbyMrGHij4Uzt1wiNL5TkHoKY-F2JsdiM7luSTYkoeVttQ6LP7dvuVdHQwFkvHUIgDW1vBY2Rrt3D5Q6Rf1tgNj3fE9fHW1s1IN12p5m1BZvY57LOVNIEO6aM1fzj2b9WAM9McjYhpAfCn_GFMoa_c9mtZ4wcvFfbY_iznKaw-VFecdL6mRy0P4qRKhuzIEoFrmmxvRir1TYJwOLAbZIUKZAMrxOGZg2m6qXmPl_8Ma4UxZnyXLIouqrTEYgUsvi6qHy2-EBtrw.jpg"
-    ]
-   ],
-   "reason": "Not about Real Madrid",
-   "ch": [
-    136
-   ]
-  },
-  "72": {
-   "t": "🚨 OFFICIAL: Real Madrid squad for Roma\n\n@TheMadridZone",
-   "ai": true,
-   "label": "📋 Lineup & Squad",
-   "status": "official",
-   "src": "themadridzone",
-   "id": 31118,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/GIX93NzHWI34pI6B5iy_UV9uDGfBor-WU4WQ_1g_yA254IAIMn9afwAb5wRVZTCFzTb9s4O4rC6OHD_-BrMX4gTPJiqPerlHqiMPGJ6E4NDqBuP0iuAlggDPEv4lMeXsVGh20WnPYSYuIJM4DnPruVvUgNhFQV_YrHhO-Wi5DOugiL4aJhSmIKsSmMThindTmyUgpEIND-3yuygd8rofmJhnCws3hwvF69J7KD9MMKxtG_ougvtn97V13DZ5USLlzVuZbyf7Bd09c3X2qlcl4XjdyPXTg55H7jSX7sc4KLnSGXGRSVbyLNjURM1ZHgpdkr6XiFSDuZe6o9zF8I8AJQ.jpg"
-    ]
-   ],
-   "reason": "official squad announcement for upcoming match",
-   "ch": [
-    138
-   ]
   }
  },
  "train_stats": {
-  "n": 51,
+  "n": 59,
   "recent": [
    1,
-   0,
-   0,
-   1,
-   1,
-   1,
-   1,
-   0,
-   1,
    1,
    1,
    1,
@@ -2587,6 +2495,14 @@
    1,
    1,
    1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   0,
    1,
    1,
    1,
