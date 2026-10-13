@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59218,
-  "themadridzone": 31193,
+  "themadridzone": 31194,
   "FabrizioRomanoTG": 67252
  },
  "sent": [
@@ -958,8 +958,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 104,
-  "tokens": 170184
+  "calls": 105,
+  "tokens": 171784
  },
  "pending_fb": {},
  "feedback": [
@@ -1181,14 +1181,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31173,
-   "t": "📌 Charla interesantísima con Carlos Rodríguez:\n\n▪︎ Grecia\n▪︎ La Fábrica\n▪︎ Pau Quesada\n▪︎ Kroos\n▪︎ Entrenar en el Bernabéu\n\n\"La capacidad de Modric para girarse con ambas piernas me parecía increíble\".\n\nY muchas cosas más en @RMadridistaReal.\n\n@TheMadridZone",
-   "m": [],
-   "r": "No actionable club news",
-   "h": "📌 Charla interesantísima con Carlos Rodríguez:"
-  },
-  {
-   "src": "themadridzone",
    "id": 31174,
    "t": "🚨 CONFIRMED: Real Madrid are growing more and more CONFIDENT that JJ Gabriel will join them. @MailSport 💫\n\n@TheMadridZone",
    "m": [
@@ -1366,6 +1358,19 @@
    ],
    "r": "duplicate of already sent official transfer",
    "h": "Getafe introducing Dani Carvajal 🥶🏆"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31194,
+   "t": "TRENT. 🚀\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/EIiy5mqB85zMr20vYjhRnwfiktyt5BzlR8Ah9fPwX33odePSpZnYG4JZvtxfYsll67VCsoKZmG0qUDKq4bA8JkHPG6te81jG2LM_5aA8KlRzozHeg7vyHO9Q89Y-tE7hHS6ic4-JFRvluGNFKl8s03IboGgMt7xh1-li5XGseZaCoEkysIskG9E_iM_Wpi16KaY359PqZa3dPvv5WBH4BYJpROfZ9jzWlth4GlCBY8g26B3Vfx2wv6ZVFMEe443ReYf-Wr7TewSU0tMG78ejmLlpwvGi2sEsa9qrEe9CLH8CHT-tQtU5al3CCDEIojiRvy0aldwwMbM0M6A3Uy4CqQ.jpg"
+    ]
+   ],
+   "r": "No real Real Madrid news content",
+   "h": "TRENT. 🚀"
   }
  ],
  "summary_date": "2026-10-12",
