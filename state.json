@@ -1,33 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59217,
-  "themadridzone": 31144,
+  "themadridzone": 31145,
   "FabrizioRomanoTG": 67244
  },
  "sent": [
-  {
-   "ts": 1791734238.2284644,
-   "date": "2026-10-11",
-   "tokens": [
-    "becom",
-    "clarence",
-    "congratulation",
-    "corinthian",
-    "manager",
-    "official",
-    "seedorf"
-   ],
-   "names": [
-    "clarence",
-    "congratulations",
-    "corinthians",
-    "seedorf"
-   ],
-   "cat": "👔 Coach & Board",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Clarence Seedorf becomes the new manager at Corinthians!",
-   "link": "https://t.me/RealMadridImportantOnly/44"
-  },
   {
    "ts": 1791734960.3461301,
    "date": "2026-10-11",
@@ -639,8 +616,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 54,
-  "tokens": 87994
+  "calls": 55,
+  "tokens": 89603
  },
  "pending_fb": {},
  "feedback": [
@@ -862,19 +839,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31043,
-   "t": "1️⃣5️⃣ —> 1️⃣5️⃣\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Fc93mo73hS2RycznfErrUzSaAoIJG-rvjf22NCibQvdWq-rm_YjcszGGmtX9e4atWOeBE4mXgXPk7s3MYrgY3Pj-DTihNxg0wkObF3ye4mzJt4khVoKUOWbpXlZI24JqQKylOLIBiUelE24NS1tVOQJfuqQlQFViyrBSwMf7OsJle3pMJT3d8cZMehcft1Q577A6c1ymvbKTjrz4eVf6uUWq8zuBNl5NuLv6_lHv2n2Vg4kPLrKe9fvUZfitA9aa1ON-sPYHVilMQNbjtL7y-YBW_U8m5_dC-t6ITN45U1Y6wSIelotks2ZJmJgY5BjP_OAqiX50HGCQ1oEPYWRcAQ.jpg"
-    ]
-   ],
-   "r": "No relevant Real Madrid news content",
-   "h": "1️⃣5️⃣ —> 1️⃣5️⃣"
-  },
-  {
-   "src": "themadridzone",
    "id": 31044,
    "t": "Jose Mourinho’s passion 🤍🔥\n\n@TheMadridZone",
    "m": [
@@ -1066,6 +1030,19 @@
    ],
    "r": "Irrelevant, no Real Madrid connection",
    "h": "Kylian Mbappé 🇮🇹✈️"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31145,
+   "t": "📲 Ibrahima Konate on IG: “Very fresh” 😮‍💨\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/dJG-P1kfJJsBaPvogvrI3QxD0Gw3TQorsWnJAk8f3IpC-9_skZSzUHSWSrVI17PxtjOWaGIskQaKaQOSrunNixitnrrE3gQKqeQrYRbgkSIZRlozcNctc8oBhJoqifhpnX7EE4vk03tdd_n7ZEGu4jBJG9ZDhmPrMoo7w2L10olMryOh54qqRjpVM2h-vdiGYZ7QX6mN-leTUC5THTZgEhl_Wy0agTYfVvduMmCDIeco89tpfyPs3JnlFSHHrF7Enh4XwQDZkvSXHXju0BDjbKRk4slLNIWynuLipcjGtCAqfiMG7IIRB5Z3nUZhzKo_ywwNLBXaadWZ0f1C4vqTEA.jpg"
+    ]
+   ],
+   "r": "Irrelevant personal social media post",
+   "h": "📲 Ibrahima Konate on IG: “Very fresh” 😮‍💨"
   }
  ],
  "summary_date": "2026-10-12",
