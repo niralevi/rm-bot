@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59215,
-  "themadridzone": 31135,
+  "themadridzone": 31136,
   "FabrizioRomanoTG": 67240
  },
  "sent": [
@@ -721,6 +721,32 @@
    "status": "rumour",
    "headline": "🚨 JUST IN: Thiago Pitarch could consider a LOAN in January depending on playing time. [diarioas]",
    "link": "https://t.me/RealMadridImportantOnly/154"
+  },
+  {
+   "ts": 1791903708.1717107,
+   "date": "2026-10-13",
+   "tokens": [
+    "card",
+    "clasico",
+    "ibrahima",
+    "konate",
+    "receiv",
+    "reminder",
+    "sevilla",
+    "suspend",
+    "weekend",
+    "yellow"
+   ],
+   "names": [
+    "clasico",
+    "ibrahima",
+    "konate",
+    "sevilla"
+   ],
+   "cat": "🟥 Discipline",
+   "status": "rumour",
+   "headline": "🚨 REMINDER: If Ibrahima Konaté receives a yellow card vs Sevilla this weekend, he will be SUSPENDED for El Cl…",
+   "link": "https://t.me/RealMadridImportantOnly/156"
   }
  ],
  "offset": 769011995,
@@ -728,8 +754,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 46,
-  "tokens": 74933
+  "calls": 47,
+  "tokens": 76595
  },
  "pending_fb": {},
  "feedback": [
