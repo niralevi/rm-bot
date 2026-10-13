@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59210,
+  "real_madrid": 59211,
   "themadridzone": 31116,
   "FabrizioRomanoTG": 67227
  },
@@ -1711,8 +1711,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 27,
-  "tokens": 44488
+  "calls": 28,
+  "tokens": 46158
  },
  "pending_fb": {},
  "feedback": [
@@ -2132,7 +2132,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 70,
+ "train_seq": 71,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2482,6 +2482,28 @@
    "reason": "Not about Real Madrid",
    "ch": [
     135
+   ]
+  },
+  "71": {
+   "t": "🚨 NEW: Bernardo Silva has almost DISAPPEARED from Real Madrid’s plans under Mourinho.\n\nHe has played just EIGHT MINUTES since September 12. [marca]",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "real_madrid",
+   "id": 59211,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Z9uXWFPC6xYQ_H_7GkZHcAtR_w8GlUSuX-7nmJ16z3pER94dGvPbhnqcrHxswDZTuXoeUHmMjnqS2ORs32EiZOX2CveKip9i2KIWeU9U3FkkXTNplbVJBUcnuAD86E2iqqF6D-cuzzmgu0Iub-x-y7EJGfE1xwByzoH_mRv9t2-uW4iTCwrOiU41bawe7qAn8jyvqFDPpvHhAaP6cgCPJWuqMh42TLoYLU1GPsEqL4tKD0IVgswG5v5U9GWiuNu6XeALLMSE8waeHOmNDtEY39cyIqVupKfLg58Y89-nKOHKGMzLg8DxDg8hs0vAo2FtcCIGECf-RlmhTzfHql8a_w.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/g659QEpQGCixCwFHDcIz5aB7-z-mzQRZI9_-m7PSZw7UiuDw9wRxD3-t8sjSD_kfhfOhOsk72XKAbyMrGHij4Uzt1wiNL5TkHoKY-F2JsdiM7luSTYkoeVttQ6LP7dvuVdHQwFkvHUIgDW1vBY2Rrt3D5Q6Rf1tgNj3fE9fHW1s1IN12p5m1BZvY57LOVNIEO6aM1fzj2b9WAM9McjYhpAfCn_GFMoa_c9mtZ4wcvFfbY_iznKaw-VFecdL6mRy0P4qRKhuzIEoFrmmxvRir1TYJwOLAbZIUKZAMrxOGZg2m6qXmPl_8Ma4UxZnyXLIouqrTEYgUsvi6qHy2-EBtrw.jpg"
+    ]
+   ],
+   "reason": "Not about Real Madrid",
+   "ch": [
+    136
    ]
   }
  },
