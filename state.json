@@ -1689,7 +1689,7 @@
    "link": "https://t.me/RealMadridImportantOnly/104"
   }
  ],
- "offset": 769011967,
+ "offset": 769011968,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
@@ -1699,11 +1699,6 @@
  },
  "pending_fb": {},
  "feedback": [
-  {
-   "t": "🚨💣 BREAKING: Éder Militão is BACK in team training.\n\n@TheMadridZone",
-   "v": "+",
-   "miss": true
-  },
   {
    "t": "🚨 Cristiano Ronaldo: “If you prefer Messi, Pelé or Maradona, I respect that. It’s personal preference.\n\nBut saying Cristiano Ronaldo is NOT a complete player is a LIE.\n\nI am the MOST COMPLETE PLAYER.” @CNN\n\n@TheMadridZone",
    "v": "+",
@@ -1896,6 +1891,11 @@
   },
   {
    "t": "🥶 Jude Bellingham for Real Madrid x LV.\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "Vini Jr. for Real Madrid x Louis Vuitton 🔥\n\n@TheMadridZone",
    "v": "-",
    "miss": false
   }
@@ -2286,28 +2286,10 @@
    "ch": [
     86
    ]
-  },
-  "52": {
-   "t": "Vini Jr. for Real Madrid x Louis Vuitton 🔥\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "fact",
-   "src": "themadridzone",
-   "id": 31102,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/WlFbUsfW3GzSFXcl1Ggn_5d7-2nBXHqCvQEVgJ9_EsoKST5Fpv7PLNeMPq3nKM-bq5avUJBameQEJZJNptUJ9K00kZc-qq6LQClnz3OYx_AYoVYBSZMGDVsLLZvaBvsIICgiQCW3q8aPQyQFuk7-hymrQoflHX393AgSDk_x_hP49XqEfYodfp9K3ZaqS3irPmzXoDOMScOsbEuR7PS5tZ0d0p2QEm-daFIGkFj7HYS4ppylhbGu3Oizvuf87JR267tJEptO-acsAGtlF_F-w_eOM4vgm59GjHfbYbz9jtMtxjb1KDOJ_ayBVwE6OD_7hEnafqu_cLEVD4KcvXS6Mw.jpg"
-    ]
-   ],
-   "reason": "Promotional, not news",
-   "ch": [
-    112
-   ]
   }
  },
  "train_stats": {
-  "n": 42,
+  "n": 43,
   "recent": [
    1,
    1,
@@ -2349,6 +2331,7 @@
    1,
    1,
    0,
+   1,
    1,
    1
   ]
