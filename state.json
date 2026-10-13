@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31200,
+  "themadridzone": 31201,
   "FabrizioRomanoTG": 67266
  },
  "sent": [
@@ -996,8 +996,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 5,
-  "tokens": 8200
+  "calls": 6,
+  "tokens": 9784
  },
  "pending_fb": {},
  "feedback": [
@@ -1219,19 +1219,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31183,
-   "t": "David Alaba made his debut for Udinese. \n\nGood luck in Italy, legend 🇦🇹🤍\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Crr9pc5lerK6TvwY8lxX3kNUE30cNZQLOnTrJ2nhEuiqeqszzdOysXQEow7UfS5ZtyMExKICupC3FjToLwVgAvSSnpNAaEGS8zU87nAYslZI1no5cVlX6xzC-KWUGAv6K9pP5trdVpi-91qA2oGeQCrZNof-lbtfDKW5IJH2kWA_nR-0ogn3FapCF5L73-7d8pkIIoFPGEfGxuml-_Ch7bAHfpO7_8wBekpjP0DR8yvuDO71fzL678wigEjqZqDEEfr8sivSZge5UsVTodvxCrVhGwRILLhZ1PSVeVrYMHiFZ4-RTcW-2KtO6hWWPfk42NV7JjwGbYGR3bPZ_4Nwmw.jpg"
-    ]
-   ],
-   "r": "Not about Real Madrid",
-   "h": "David Alaba made his debut for Udinese."
-  },
-  {
-   "src": "themadridzone",
    "id": 31184,
    "t": "Sergio Ramos x Maluma 🇪🇸🇨🇴\n\n@TheMadridZone",
    "m": [
@@ -1419,6 +1406,19 @@
    ],
    "r": "Not Real Madrid related",
    "h": "🚨 NOT A SINGLE Spanish referee has been selected to officiate ANY match in any …"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31201,
+   "t": "🚨 Luka Modrić supporting Real Madrid Basketball today. 🏀🤍\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/jfSzBY5si_2VPpHvy7dZ57u9Hh6QnPcCWpDbjXcOLeJusEmbqeyDLm4WCnetg1KWICcg0Q3JAtlmlznvHTeBhyoMZlgKAr5Aq47pCMGqhOAXAT8PqkNOyIDmtfFyyKVIYvShT3HIpblS2rcsmshI4-ZwVx93S7AwCKLDCM24WSNPevsSf_ERknNHgVl9lR8YcTLhMIlL-Q96dScNXrCosybSDe4gWnZUCZ772_9czLSXveqfNAtkN3H5s59z3edr2JltZRkYwcLuMQEZq0G6Ki-Af_IEgKjVIbEBfOSTMaFcQeJefV4DgrZ2ie4dxQFRvJZa38ccS7bTMxnz1veUkg.jpg"
+    ]
+   ],
+   "r": "Irrelevant lifestyle content",
+   "h": "🚨 Luka Modrić supporting Real Madrid Basketball today. 🏀🤍"
   }
  ],
  "summary_date": "2026-10-13",
