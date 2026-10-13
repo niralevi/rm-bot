@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31194,
+  "themadridzone": 31195,
   "FabrizioRomanoTG": 67263
  },
  "sent": [
@@ -957,9 +957,9 @@
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
-  "date": "2026-10-13",
-  "calls": 108,
-  "tokens": 177039
+  "date": "2026-10-14",
+  "calls": 1,
+  "tokens": 1603
  },
  "pending_fb": {},
  "feedback": [
@@ -1180,14 +1180,6 @@
  ],
  "skipped": [
   {
-   "src": "FabrizioRomanoTG",
-   "id": 67248,
-   "t": "⚪️💤 José Mourinho when asked if the harmony is already over: “Before the games, I sleep like an angel. After the match, as always, I don’t sleep”.\n\n“On Thursday morning, it’s a new day.” https://t.co/GWDC6uJ1Jc\n — Fabrizio Romano (@FabrizioRomano)\n Oct 13, 2026",
-   "m": [],
-   "r": "Just a casual quote, no actionable news",
-   "h": "⚪️💤 José Mourinho when asked if the harmony is already over: “Before the games,…"
-  },
-  {
    "src": "themadridzone",
    "id": 31177,
    "t": "Jose Mourinho 🧠\n\n@TheMadridZone",
@@ -1380,6 +1372,19 @@
    ],
    "r": "No Real Madrid specific news",
    "h": "@UEFA_Champ_League tomorrow. ⏳🌟"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31195,
+   "t": "Dani Carvajal on IG. 😂\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/X9SpnDePzxwhJEuVxWXyaRu3Ws-5Ta23BB-61To821aB68fSj8ebSABY6Ei1WRJ68aRT72ZfRRnTVP1DA7gwgxbvNtpjqNm3hqxeQYoqfSdnPsmxehY_ixYXPEvwF1P_qiJJIKr9NwzLUJXHzxfqkxRcOZbOuUhCHW6RxNb4IdFhaG7TzY9fpCu0NCTd9Iq-0ov8zvYUEEYaK-khr6SvpZkTbPB39Nbo4de-b4dwiaKyLr5XRWt2Otjb0dXhfNEx-YmBhBfxBKHMoKD1rkKnFIRsJxA2Wg-dL-Q4fbzjpzedmF5ZBG6bNgoFYEDFs3W20dyHyuzVTBMyXSqcUFdU5g.jpg"
+    ]
+   ],
+   "r": "Lifestyle content, no news value",
+   "h": "Dani Carvajal on IG. 😂"
   }
  ],
  "summary_date": "2026-10-13",
