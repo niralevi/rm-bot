@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31195,
+  "themadridzone": 31196,
   "FabrizioRomanoTG": 67263
  },
  "sent": [
@@ -958,8 +958,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 1,
-  "tokens": 1603
+  "calls": 2,
+  "tokens": 3319
  },
  "pending_fb": {},
  "feedback": [
@@ -1181,19 +1181,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31177,
-   "t": "Jose Mourinho 🧠\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/iihfBLNr01UTtDiplIOWq-X_hRfbbcVRUq9chrPz5ssRD6o7mSj3SyGcR17RGg-Bk0t9rFUFXZlqpkIMp9rw2wevBjMzv9uOObFU8MjWmAwEv3XD-UHnsaIndHp7LryJ5DpR3oiMGi2WJ7JOPsF8vcIsNIHCp3rn3hs36GABByJb8Q_w3DkItE7L-s1-SatPl0s42XJIXaCC6pkkpGSH-IbYrim7gGqzxlQmJm-ATz1DiiczeEBoKc_zAYnTazq17WDLPuI_NCryc1ZjZlxN7B4CnK8I4Bb3yRIDS5GcelzFm_ZdeG4z-0J1gL3ALVObpPmr93kr-nEGrl0itPVEkw.jpg"
-    ]
-   ],
-   "r": "No substantive news content",
-   "h": "Jose Mourinho 🧠"
-  },
-  {
-   "src": "themadridzone",
    "id": 31180,
    "t": "🚨💣 BREAKING: Real Madrid are closely monitoring Erling Haaland's situation at Manchester City, depending on what happens to the English club and potential sanctions against them.\n\nReal Madrid has an excellent relationship with Haaland's agents and family, and have maintained almost constant, direct communication with them for years. @elmundoes 🇳🇴✨\n\n@TheMadridZone",
    "m": [
@@ -1385,6 +1372,19 @@
    ],
    "r": "Lifestyle content, no news value",
    "h": "Dani Carvajal on IG. 😂"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31196,
+   "t": "🚨🚨 José Mourinho: \"Negreira case? \n\nI’ll just say one thing: congratulations to the Italians. \n\nDo you know why? Because it’s the only country where Calciopoli has TRULY been Calciopoli. \n\nBecause in Spain, with what’s happened—and everyone knows what happened—it still seems like… nothing has happened. Nothing at all.\n\nThe Negreira case wouldd be the BIGGEST CORRUPTION SCANDAL in world refereeing, if nothing is done about it.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/DYkpxqbm8MykpbrS0LuGMmmm_EmuTcwfDvZbkaRywxYVWz2FThveXd_hIxQQG41cpZZ5YI0ruah664zJ5tRuk__0lk4lv0zststHQzYxlF0qhbMGTa1Wd7CWc_XyeLWItwSnw2YZNGeDCLwkIChKvFNUeCdYOk4a9FM2QqB5VMqV_s3veU1Fj0N4k9yf48TZk82o1RA1kZyesijDlA9q_ChOmE3MafS1DeAoi_OKgWfwb2-9rr3qLfxJqJfN9-t_G-k0f6gLiJWECDSVI0eg4kZgXqNdT234xCc7A90OGlt3NKFBlOK4PhiYDdm5HC8LfRGB04AqYRXrLr3OkdThxw.jpg"
+    ]
+   ],
+   "r": "Not about Real Madrid news",
+   "h": "🚨🚨 José Mourinho: \"Negreira case?"
   }
  ],
  "summary_date": "2026-10-13",
