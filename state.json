@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59204,
-  "themadridzone": 31094,
+  "themadridzone": 31095,
   "FabrizioRomanoTG": 67226
  },
  "sent": [
@@ -1620,9 +1620,9 @@
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
-  "date": "2026-10-12",
-  "calls": 62,
-  "tokens": 97775
+  "date": "2026-10-13",
+  "calls": 1,
+  "tokens": 1674
  },
  "pending_fb": {},
  "feedback": [
@@ -2018,7 +2018,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 45,
+ "train_seq": 46,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2264,6 +2264,24 @@
    "reason": "No relevant Real Madrid news",
    "ch": [
     105
+   ]
+  },
+  "46": {
+   "t": "Vini Jr., Eduardo Camavinga and Yan Diomande at dinner. 🤝\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31095,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/GAKmaBuOV4S5CyJ-Hy1qElH8D_p9hFvkqQXV-JU6DU6EiLI1u867ekgysbfjySGw9dbf_qJjOaoeZ3O0q91FFRMBFIODKVhFAFVkMWe6eytULCO1VA1EWMxxWrWX3l51DlKGfZ8Lzq3H_5WMdddtN2gXOA1Ykn_lRK2DpTc0LhBuF2FcOUbXesUV3xDuieee7OTsKHM8-BitFg0SvwuvusxE-31PMTdEZVhU0lGrGlX1FUYjaEZjuC66Uz3P7j1fwwQuNjsjIBIommSwKKwxxkULOaXs8mM75VRh9ggBVvS1IvAVDkZzfEZ0p3z4V9aALHNyfs3CvarQKmlET4_3wg.jpg"
+    ]
+   ],
+   "reason": "Social event, no club news",
+   "ch": [
+    106
    ]
   }
  },
