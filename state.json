@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59204,
-  "themadridzone": 31098,
+  "themadridzone": 31102,
   "FabrizioRomanoTG": 67227
  },
  "sent": [
@@ -1672,40 +1672,33 @@
    "cat": "✍️ Transfer & Contract",
    "status": "rumour",
    "headline": "Yan Diomande for Real Madrid x Louis Vuitton 🥶",
-   "link": "https://t.me/RealMadridImportantOnly/109"
+   "link": "https://t.me/RealMadridImportantOnly/109",
+   "superseded": true
+  },
+  {
+   "ts": 1791874645.2073162,
+   "date": "2026-10-13",
+   "tokens": [
+    "981",
+    "goal"
+   ],
+   "names": [],
+   "cat": "📰 Other",
+   "status": "fact",
+   "headline": "981 GOALS. 🤯🤯🐐🐐",
+   "link": "https://t.me/RealMadridImportantOnly/104"
   }
  ],
- "offset": 769011957,
+ "offset": 769011966,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 4,
-  "tokens": 7051
+  "calls": 9,
+  "tokens": 14142
  },
  "pending_fb": {},
  "feedback": [
-  {
-   "t": "🚨 CONFIRMED: Vini Jr's relationship with Virginia is FULLY OVER.\n\nThey broke up on Friday and she left Madrid that same day. @CNNBrasil\n\n@TheMadridZone",
-   "v": "-"
-  },
-  {
-   "t": "🚨 JUST IN: Real Madrid players are VERY ANGRY at what the referees have been doing.\n\nSources inside the dressing room say:\n\n\"Sure, maybe what Vini did was a red card, but why does VAR ONLY intervene when it's something against us?\n\nWhy does it intervene for a Vini hair-pull, but it did NOT intervene for the tackle by Kang-In Lee on Valverde?\" \n\n@marca\n\n@TheMadridZone",
-   "v": "-"
-  },
-  {
-   "t": "🎥 Jose Mourinho leaving the Bernabéu last night. @DAZN_ES\n\n@TheMadridZone",
-   "v": "-"
-  },
-  {
-   "t": "Kylian Mbappé 🌪️\n\n@TheMadridZone",
-   "v": "-"
-  },
-  {
-   "t": "🚨 Bayern president Hainer on Olise: “On the rumours about Real Madrid over the summer, I can say that I'm convinced Bayern is a club that doesn't get forced to sell players”.\n\n“We make our decisions from a position of strength. Olise has a contract until 2029, and I hope he'll extend”, told BILD.\n — Fabrizio Romano (@FabrizioRomano)\n Oct 12, 2026",
-   "v": "-",
-   "miss": false
-  },
   {
    "t": "🗣️ Gary Lineker: “Can Jude Bellingham be one of the greatest of all time? \n\nYes, I’ve been saying it for a long time now. \n\nIf he avoids serious injury or falls of the rails which he won’t I’m sure. \n\nHe’s so good at football, he’s got everything.\n\nHe’s a superstar and carries himself like a superstar.” \n\n[wearetrackradio]",
    "v": "-",
@@ -1860,6 +1853,51 @@
    "t": "🤍 Toni Kroos on IG.\n\n@TheMadridZone",
    "v": "-",
    "miss": false
+  },
+  {
+   "t": "🗣️ Jude Bellingham to Fede Valverde after his incredible through ball: \n\n“Man, you are just absolutely brilliant. Brilliant at everything. You are the best.” @MMajeedX @MPlusDeportes\n\n@TheMadridZone",
+   "v": "+",
+   "miss": false
+  },
+  {
+   "t": "😅 Antonio Rüdiger kept looking at the stands when the referee was trying to talk to him. \n\n🗣️ Juan Foyth: “Look at him, see, he’s not even looking.”\n\n@MMajeedX @MPlusDeportes\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "981 GOALS. 🤯🤯🐐🐐\n\n@TheMadridZone",
+   "v": "+",
+   "miss": true
+  },
+  {
+   "t": "Only 29 goals to go….⏳⏳🔥🔥\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "Vini Jr., Eduardo Camavinga and Yan Diomande at dinner. 🤝\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "🚨💣 JUST IN: Real Madrid’s players and coaches are SHOCKED by La Liga’s decision to schedule Valencia away on SATURDAY.\n\nIt gives them ONLY ONE DAY to recover after their UCL trip to Greece. @COPE\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
+  },
+  {
+   "t": "🚨🔵 Dani Carvajal signs for Getafe today after the verbal agreement and the here we go from last week.\n\nDeal approved by La Liga, free move now confirmed. https://t.co/3V6Z1dkTbx\n — Fabrizio Romano (@FabrizioRomano)\n Oct 13, 2026",
+   "v": "+",
+   "miss": false
+  },
+  {
+   "t": "Yan Diomande for Real Madrid x Louis Vuitton 🥶\n\n@TheMadridZone",
+   "v": "-",
+   "miss": true
+  },
+  {
+   "t": "🤩 YEAR 2 OF REAL MADRID x LOUIS VUITTON. \n\n📸 @HYPEBEAST\n\n@TheMadridZone",
+   "v": "-",
+   "miss": false
   }
  ],
  "rules": [
@@ -1870,11 +1908,11 @@
   "Send suspensions, red cards, and disciplinary decisions",
   "Send Real Madrid coach, board, and press‑conference news",
   "Send official Real Madrid announcements",
-  "Skip pure statistical lists and ratings without contextual news",
+  "Send notable milestones, records, and achievement statistics for Real Madrid or its players",
+  "Skip pure statistical lists lacking news context",
   "Skip lifestyle, personal, fashion, family, and social‑media content",
-  "Skip news about former Real Madrid players at other clubs",
-  "Skip any news about non‑Real Madrid players or clubs",
-  "Send player statements or quotes about themselves or the club"
+  "Skip commercial endorsements, brand collaborations, and advertising content",
+  "Skip news about former Real Madrid players at other clubs"
  ],
  "skipped": [
   {
@@ -2077,7 +2115,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 49,
+ "train_seq": 52,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2249,156 +2287,45 @@
     86
    ]
   },
-  "42": {
-   "t": "🗣️ Jude Bellingham to Fede Valverde after his incredible through ball: \n\n“Man, you are just absolutely brilliant. Brilliant at everything. You are the best.” @MMajeedX @MPlusDeportes\n\n@TheMadridZone",
-   "ai": true,
-   "label": "📰 Other",
-   "status": "fact",
-   "src": "themadridzone",
-   "id": 31090,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/am3FsNn3QgrFB5cmn86WvJhOJs0ZZpjXBjtxT-0ru-YgbVUHo2DNU7qyptUNGh996TmO9vzqea7YZHLxIYxAaMfCp8-RSMINQ1CrW6KDON4qc8YAWJ-qKhzURJEDArOp1SQW0_sHj4T0PdyEJunb9Yxe2E5bJ9QPbu8NFKmJfM_0IVeJ0hMzjSHpn85W-96hZrCvy-RKT36zel1ruzmFzb0Wet9dWmnH5rtdGlMvJZScNvgdizcLsThERwpsDkAXNN4jVJescs3y-Ynp5EM1gzO2btdHameokM5Sb9AQLF1Kf_ysBfYTdh4fajyDChN9zbRJv8sql3M-u5FcZu97ew.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/b30tFOlUWDbzSCF-bJuQIV-un6KpVA-c4tPCey3QDbHmjMfaRRE7c9oRgF5ok1mPX31srgtLXI5zuTcBTIDqp3DDb9bfNad6Kk63yjlfybNLIR3rZDE-Wp4BBR_yCQtydO11Z7fuhTh7PQt0XoLvD_JQ35VQffoQOjtIqDr5Lq0vm0k1-_EXQEhRGSYS1cQsqhp67IPL-Z6j6QOFII18L1KAcfiy0N2v7WP7sEcCWkXsWVrWbZUZW9PHTD6ghrX1YFrTRjF8XGjwjT1dLHO08WKShjYqZZyDCLyKiwEcKXiaQSsYtQlCIEvlHOqnwkua5oc8MT8rJP9jPsCaZ20XdA.jpg"
-    ]
-   ],
-   "reason": "player praise quote",
-   "ch": [
-    102
-   ]
-  },
-  "43": {
-   "t": "😅 Antonio Rüdiger kept looking at the stands when the referee was trying to talk to him. \n\n🗣️ Juan Foyth: “Look at him, see, he’s not even looking.”\n\n@MMajeedX @MPlusDeportes\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "none",
-   "src": "themadridzone",
-   "id": 31092,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Hsa_Nir4mkSc6K2r7Cr3c8kCl6t58UbJ9Z4s6lWGn74FVOPx8eHr9Z2SPhkn2WXKJ8VpR0HwwiInkA3lgxtJc0twO3_K3q5sWsomORqSfT5uNb3HlwI1HFo2K2JT8JysWA7aZlCXlppvt5-k-T9tJKsjR4W-GKYJv7HEQslP5Rn5u4dx_1NUheII1Y46jUE3wX3wxaUm51FcB9ZbhUKyooSqE1VmibVOF2jJRZjM-Ln8XyP-21n2BA5Ad9Fp_LMVYJZtoCYxaEesT3L84mNJQzcJY8DP_UltzPDX7hcaaRmOcxwzFho-mTRLqoEoIQwOio4r7Dt8bAOA9qdgNQ1UCA.jpg"
-    ]
-   ],
-   "reason": "Not about Real Madrid",
-   "ch": [
-    103
-   ]
-  },
-  "44": {
-   "t": "981 GOALS. 🤯🤯🐐🐐\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "fact",
-   "src": "themadridzone",
-   "id": 31093,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/tWOOlKakFQnHZkstIW-NPmMLQDb6x7e6bwF67k5v4hKXeiFsJkXZSHkcpPzFgx_W2KEbVZpbiexkSLZvpP_IWoo0Nb6sLgDBoanxC2Osg6gotL49Qe39F8TS7X1EbVexvgF_zeZsFm4ZD1vW90EuF0YNOrbrrNVDOx-lnEeIhCjadFvJN2MU1whodCdiQnk0TnGK4FOckzLebCzrQFC8ozxhanWmn8hVLTVmACKC7sk62yItjZENLYz3X8Secl7GKRuxIQ-PacRTqSX6C4rxDJuR6pxU8e2NS748sJdwfWo3OGa20kLc6KiFFXfps_4GMbAxnBePjW6Y6FD6TsTOEQ.jpg"
-    ]
-   ],
-   "reason": "No relevant Real Madrid news",
-   "ch": [
-    104
-   ]
-  },
-  "45": {
-   "t": "Only 29 goals to go….⏳⏳🔥🔥\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "none",
-   "src": "themadridzone",
-   "id": 31094,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/YanQ9ct7O8TUQiQtZswv75GYRG220O7JGXFn9JXh8RnoKBZRE_v9xvtW1XnuDFfFUGBiyf9am7yRWrddv1zO058Q_H1FlWu-lBvxD_-1yqDlUHQnoQMmb69Hb5tGFBxVCimoAqlY8nBbx157m7O2XFAnqZc-6-6R3YdjAAG1NKU6le6oejyY4-euzUqIOuDYeCK1mqWZeq3T2aKv5EEDyjChcVLTIL8QSac587or-ZaaLOPuhpXLbr_GnYpVkTmLWAgGSm0oSrt7YsQC8AKJC4ygEr75BAGoxccfFP0tCSsQ5OdVbvhpDkAEdz3hjgkm1iN7vtyU0Snykn-uWpk9iw.jpg"
-    ]
-   ],
-   "reason": "No relevant Real Madrid news",
-   "ch": [
-    105
-   ]
-  },
-  "46": {
-   "t": "Vini Jr., Eduardo Camavinga and Yan Diomande at dinner. 🤝\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "fact",
-   "src": "themadridzone",
-   "id": 31095,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/GAKmaBuOV4S5CyJ-Hy1qElH8D_p9hFvkqQXV-JU6DU6EiLI1u867ekgysbfjySGw9dbf_qJjOaoeZ3O0q91FFRMBFIODKVhFAFVkMWe6eytULCO1VA1EWMxxWrWX3l51DlKGfZ8Lzq3H_5WMdddtN2gXOA1Ykn_lRK2DpTc0LhBuF2FcOUbXesUV3xDuieee7OTsKHM8-BitFg0SvwuvusxE-31PMTdEZVhU0lGrGlX1FUYjaEZjuC66Uz3P7j1fwwQuNjsjIBIommSwKKwxxkULOaXs8mM75VRh9ggBVvS1IvAVDkZzfEZ0p3z4V9aALHNyfs3CvarQKmlET4_3wg.jpg"
-    ]
-   ],
-   "reason": "Social event, no club news",
-   "ch": [
-    106
-   ]
-  },
-  "47": {
-   "t": "🚨💣 JUST IN: Real Madrid’s players and coaches are SHOCKED by La Liga’s decision to schedule Valencia away on SATURDAY.\n\nIt gives them ONLY ONE DAY to recover after their UCL trip to Greece. @COPE\n\n@TheMadridZone",
+  "51": {
+   "t": "🥶 Jude Bellingham for Real Madrid x LV.\n\n@TheMadridZone",
    "ai": false,
    "label": "📰 Other",
    "status": "rumour",
    "src": "themadridzone",
-   "id": 31096,
+   "id": 31101,
    "m": [
     [
      "photo",
-     "https://cdn4.telesco.pe/file/Wb1NG7vlo8waaccp_Twb86vguroVkJ-fWZuox7J8yPn2B_pcFVx0dmnHk2D9N93OnbCNwZFru0Zz62oRe28a7VCXmQYjfxf6H-9J5S5sRwPNyg6qy3knNo0diaMRrajQacbn3_YujZWzxy7st9h0jqZi_hdXqYX_VybLE1EAtPJe8hJzj4eeb2sLCU9Pu5d-y1_ffH1lc6t6YNyeT8eQhqu8hyL-Lm8lPQixs2zuVVP3C-ms4sZFldTeC3-H-ZNZGJar9mMvkjuuVRJmBPA8Brpl-opYUvisaQPMr19fYHSR-5HnPYCbydI4Oz6DsFSlMLBL2A64wkiEK8Kh3RiEbw.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/YunKMo4Jvr5055_7dTkMUm8R0HSPTArT0_3477xJaNhj85NVie2NI6ec4yZfUSnDAVkfV01Rjm04QSyJO4bOUgQQ_eTnl2T58w-Kl_V89WoFb9bAUR6LJNmpUfjBrsptxtoffdfcyAlHSfkGmirqcwKaAx3Pli43bbCXf9UhnrWdjljv844YM6MnPCykBSwuFHsYEmfCgr-XMyY6_-uf7MiaG-axigw2C7IJ5gzzeidWDUYuJpHIDEBAGb4ZVhzI_zgwb_YwpD-BzvowOk03KRWM-_zLv7jesvnm1_AONXM_hxuAZcooDRXKCKvjkbWAAfUILQg4P2QWJfltedt9-w.jpg"
+     "https://cdn4.telesco.pe/file/Ncdk-S2Uovv0is5bNNPp02d9GSWyjDnM72sPfzwox6uq7wZGrIKBSMkAhUINn17_y3IK3qJotl_lqFmLbE8fWRvPUq4cpZAt-N5yLRXaqilFJhjKmg3sp4wwLRtQVeUWUzxIFDNla-8ICS4_b9V4aA4PIfAubUioi2eAGyR4nOXadri0yljnPiAbI-Q_vcWacSxbxRqCc5IMl1qFuOjN9VT0Fvz1jfnY6baRttdLOnl_7ldVxji_jtGh_wqTAsXSWAsMS5eRppHYVEApI_pQ0qBpytUYlOLIj7ThaDpHjhUH8zWHw60tSk1kli3T6S88GcB5K8hYdcKjcUfdPwwWaA.jpg"
     ]
    ],
-   "reason": "Not directly about Real Madrid",
+   "reason": "Lifestyle/brand collab, not relevant",
    "ch": [
-    107
+    111
    ]
   },
-  "48": {
-   "t": "🚨🔵 Dani Carvajal signs for Getafe today after the verbal agreement and the here we go from last week.\n\nDeal approved by La Liga, free move now confirmed. https://t.co/3V6Z1dkTbx\n — Fabrizio Romano (@FabrizioRomano)\n Oct 13, 2026",
-   "ai": true,
-   "label": "✍️ Transfer & Contract",
-   "status": "official",
-   "src": "FabrizioRomanoTG",
-   "id": 67227,
-   "m": [],
-   "reason": "Carvajal departure confirmed",
-   "ch": [
-    108
-   ]
-  },
-  "49": {
-   "t": "Yan Diomande for Real Madrid x Louis Vuitton 🥶\n\n@TheMadridZone",
-   "ai": true,
-   "label": "✍️ Transfer & Contract",
-   "status": "rumour",
+  "52": {
+   "t": "Vini Jr. for Real Madrid x Louis Vuitton 🔥\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
    "src": "themadridzone",
-   "id": 31098,
+   "id": 31102,
    "m": [
     [
      "photo",
-     "https://cdn4.telesco.pe/file/VBq6rN7gMxippI1aeBkx0dwTI6DtoxC00ckJex1SlQ1BXATivY9pppWPwOScztri14J7WlIzehkI7McPHV3qlFUu_TTz9V5doCOG86FWFjSP4B6K63hA5oK0eH3OoFt7szWEYqJtBTj1qB5TJJgAaIznk6XTGHq8C_cFdryeU_7DJb5Vo0XYTYahCoWAZo64_QM90fIEQfrsB0JVpY37GX7zaaKUffyqSUeT8picAX1JmwMhto71VMDKr4EhuQRORXDCBUzssNrboe_eTxCEt9mvletDYk2EOd46SenGHhCNTBIJfO_pndoJWb-_s20muKBX7UXsKrxxDDFoqqrMoA.jpg"
+     "https://cdn4.telesco.pe/file/WlFbUsfW3GzSFXcl1Ggn_5d7-2nBXHqCvQEVgJ9_EsoKST5Fpv7PLNeMPq3nKM-bq5avUJBameQEJZJNptUJ9K00kZc-qq6LQClnz3OYx_AYoVYBSZMGDVsLLZvaBvsIICgiQCW3q8aPQyQFuk7-hymrQoflHX393AgSDk_x_hP49XqEfYodfp9K3ZaqS3irPmzXoDOMScOsbEuR7PS5tZ0d0p2QEm-daFIGkFj7HYS4ppylhbGu3Oizvuf87JR267tJEptO-acsAGtlF_F-w_eOM4vgm59GjHfbYbz9jtMtxjb1KDOJ_ayBVwE6OD_7hEnafqu_cLEVD4KcvXS6Mw.jpg"
     ]
    ],
-   "reason": "transfer rumor involving Real Madrid",
+   "reason": "Promotional, not news",
    "ch": [
-    109
+    112
    ]
   }
  },
  "train_stats": {
-  "n": 32,
+  "n": 41,
   "recent": [
    1,
    1,
@@ -2431,6 +2358,15 @@
    1,
    1,
    1,
+   1,
+   1,
+   1,
+   0,
+   1,
+   1,
+   1,
+   1,
+   0,
    1
   ]
  },
