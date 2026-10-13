@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31201,
+  "themadridzone": 31202,
   "FabrizioRomanoTG": 67268
  },
  "sent": [
@@ -989,6 +989,37 @@
    "status": "fact",
    "headline": "🚨 REAL MADRID EXPECTED XI VS ROMA:",
    "link": "https://t.me/RealMadridImportantOnly/171"
+  },
+  {
+   "ts": 1791932126.6019447,
+   "date": "2026-10-14",
+   "tokens": [
+    "confirm",
+    "day",
+    "erl",
+    "haaland",
+    "inside",
+    "interest",
+    "love",
+    "multiple",
+    "one",
+    "people",
+    "play",
+    "profile",
+    "sign",
+    "spain",
+    "want"
+   ],
+   "names": [
+    "erling",
+    "haaland",
+    "multiple",
+    "spain"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "headline": "🚨💣 CONFIRMED: Real Madrid are interested in signing Erling Haaland.",
+   "link": "https://t.me/RealMadridImportantOnly/173"
   }
  ],
  "offset": 769011995,
@@ -996,8 +1027,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 6,
-  "tokens": 9784
+  "calls": 7,
+  "tokens": 11470
  },
  "pending_fb": {},
  "feedback": [
