@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59204,
-  "themadridzone": 31102,
+  "themadridzone": 31107,
   "FabrizioRomanoTG": 67227
  },
  "sent": [
@@ -1694,8 +1694,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 9,
-  "tokens": 14142
+  "calls": 14,
+  "tokens": 22915
  },
  "pending_fb": {},
  "feedback": [
@@ -2115,7 +2115,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 52,
+ "train_seq": 57,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2285,6 +2285,91 @@
    "reason": "duplicate of existing post",
    "ch": [
     86
+   ]
+  },
+  "53": {
+   "t": "🚨✍️ JUST IN: Dani Carvajal is here to sign for Getafe. \n\n🎥 @noagperezz @COPE\n\n@TheMadridZone",
+   "ai": false,
+   "label": "✍️ Transfer & Contract",
+   "status": "official",
+   "src": "themadridzone",
+   "id": 31103,
+   "m": [],
+   "reason": "duplicate of recent official post",
+   "ch": [
+    113
+   ]
+  },
+  "54": {
+   "t": "Marc Cucurella for Real Madrid x LV 💼\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31104,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/HegMbF_Y-Zof-gf84vy1M9A8Ke9uQeu0mHceI0asYjlO0kZ_0DWT4sRULgm0miJn34jZ7ZlOmYWw0lMp9Ztp8V-zCBykv_zT2xsONS4hINydPW3zTAHfuONUSzG_xuFlSO5zWkH8X7J6X9rV5ZFswjmlmo0h0Juxvi3xqu31JhBSDmY10KvZ9p28R5tnFtIa_w7s9xfdP8E16KqLVc9m13-az2vHKwKtAfmAX6rXj3zLf4yZybA9N7Mam74dVTiMezAK-Hw2kLJv-8z8yd-Td9_vjszc9D8hJi9UjlEDM1GYui5UA96B6reWHXBF2j6xbCzEJm87okw3p-jW-5X0lg.jpg"
+    ]
+   ],
+   "reason": "Brand promotion, not relevant news",
+   "ch": [
+    114
+   ]
+  },
+  "55": {
+   "t": "Aurelien Tchouameni for Real Madrid x LV 💧\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31105,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/tgLFS1crW2ac0wp7wBGnSs6ZciIoBmd4GQjS_wBVg9--Cte6DKFcwlp1tMhvl2FcQ9wVTtRG-knWAnhaVQPPnsJ9aLhzMuYXpF6KdwRNwXJA5XoCbKwYEJ8NUjedY4fRxYPeTP_OLGAY9hdl60j0KNzqNPYfLxbJ4o7AJuH8A8qddCuqjXlC0XaE5An0582902V0Vlhn9qgtQUGrnNRO3Hb2BdRhAsMKvxjpL4ht1w3o7QlRiRBiBw7bB1W7W3DJT0opYi_nkQDDURMcUEmLSIbnCeKWDlG5ClM3B6HcwEX6x8WF-LkNpOUIGrLC1arqoTy0YZgrSXRLTGRanlCBTw.jpg"
+    ]
+   ],
+   "reason": "LV partnership, not news",
+   "ch": [
+    115
+   ]
+  },
+  "56": {
+   "t": "👔 Fede Valverde for Real Madrid x LV\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31106,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/o56wNVPT11_qF9cN_OGQuYR1dd1F1DsKiiQEITwrcVXgy-zS5xrkOlmnEixcxW9v7ll-qTJ0o-ATyLNGWYKpooeY8Bhl05Hf9frgIqAB0kEF9ENFg51wJtnKtzrqQICrR_vTbY6jFenUwIEwUySBPLByLvOxsYuE4hHs1JKBCLTGGZVLUv9mTeLkr_b934G5eB6CrpCGLkEEnPPeGn9fUkdvMDJF86h1AC6xR5n4K_DmuLDz8VY6nxvM-sO2HYzuvTQ532B-EgrX0wVO5ch5Gz7UZ2ULUYKhMwwG4AqqNcV7vCFsbGRkDvO9iM4__1POnRiiQcJ_CSFP_Rwd3VFFTw.jpg"
+    ]
+   ],
+   "reason": "brand promotion, not news",
+   "ch": [
+    116
+   ]
+  },
+  "57": {
+   "t": "Arda Güler x Aurelien Tchouameni for Real Madrid x LV 🔥\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31107,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/NyM-jCcMOl7EtvlXDYtazYLTptPf3vFDSXQmkil9agQilADH_NCUo2Svv2tKdgAIYCkFrdu2jg1TSp20jnF32FL2JVRAwtKaUYe-9UuwTPi5dRqCS4YO_7e-m7Yn9ab_QBmPHBFr95vlK1KzrVGx089VfkY-vF74dJD84EH-azn06_uuSHTPEhMsH7gITRYC7fdvVdgJCDs4GF5eJJMB3gI444UpFU-4NMnk0u1YBAmZvCGeNGrqDINMNt2Q2y1HA-AeJr1M1qo3l6zeVTOPlsWvAbacOmaYGP9FFklgdeB4vM-1A0AEp8aIDO3ccm4rlv9mEvsn2X2A6gmsW3vElg.jpg"
+    ]
+   ],
+   "reason": "LV promo, not relevant news",
+   "ch": [
+    117
    ]
   }
  },
