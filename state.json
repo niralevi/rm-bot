@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59213,
+  "real_madrid": 59215,
   "themadridzone": 31133,
   "FabrizioRomanoTG": 67236
  },
@@ -1770,6 +1770,31 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Dani Carvajal joins Getafe ✍️",
    "link": "https://t.me/RealMadridImportantOnly/128"
+  },
+  {
+   "ts": 1791900110.8773751,
+   "date": "2026-10-13",
+   "tokens": [
+    "consider",
+    "could",
+    "depend",
+    "diarioa",
+    "january",
+    "loan",
+    "pitarch",
+    "play",
+    "thiago",
+    "time"
+   ],
+   "names": [
+    "january",
+    "pitarch",
+    "thiago"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "headline": "🚨 JUST IN: Thiago Pitarch could consider a LOAN in January depending on playing time. [diarioas]",
+   "link": "https://t.me/RealMadridImportantOnly/154"
   }
  ],
  "offset": 769011992,
@@ -1777,8 +1802,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 44,
-  "tokens": 71651
+  "calls": 45,
+  "tokens": 73317
  },
  "pending_fb": {},
  "feedback": [
@@ -2198,7 +2223,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 86,
+ "train_seq": 87,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2700,6 +2725,28 @@
    "reason": "Not a Real Madrid player",
    "ch": [
     153
+   ]
+  },
+  "87": {
+   "t": "🚨 JUST IN: Thiago Pitarch could consider a LOAN in January depending on playing time. [diarioas]",
+   "ai": true,
+   "label": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "src": "real_madrid",
+   "id": 59215,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/OfuV5A3Y265VdZ29XaBTM6wpqgrZ8DIejudssi9ONvIHHSGb1o6dHxohcE36FK1gZphG_1KDODSwKoO8fdK13XhT0LFDFHoG5MSH7acfMJXjta0w2v38Yze09ana5UVLAhqbU5jhUrdP-pjDPf--5C18XH4P-YyvIKsI4cXl74lwqKABO86F-aBZS6pniWOZTtUncwu3YfQPHgwzssHYJ5o0kKpB4JxrnJGxm-PC1GsSbXgCg98VUQslbYQ9TJcKZmiAfkSsNYLMMhVWw14LVaWIaGR_DhZIfOcv0XczGrOD7ax0tMyAYQnSLyepPDAG1gdATNTrLd7BzRKeL1o4jg.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/sKEYQ_wlJsO4Hi1v81VdXbN0mmnqxPmQTSsrsbsLRSbZDphff9I2FgAta-Yxd6ivHESjk2B31j4YfJcWAjCErwlAFo_aWtXuhRiFNbWJnRrCDScUT7lnFeZOJEU7ttqnBfjggLhPr3Po_9Qd9fpShw6_ZtGHX9mV22rhprQLDjZpOX7eLueJvm6uAITYixTsypgiOTd10ZHGNbgDYgOKR51L5xT6p4Jwe8RJHx0eVS_aA4--qjhsqctEpNpiNxEUZT2IBtp6_mfVJLSU08LZdQJg7PEvbvqDlO7kMOmiAPbrXpjw0V3ooQeKtJUJQF6lSvQ96xM-yqoAouOTbCASQg.jpg"
+    ]
+   ],
+   "reason": "potential loan affects squad depth",
+   "ch": [
+    154
    ]
   }
  },
