@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59215,
-  "themadridzone": 31133,
+  "themadridzone": 31135,
   "FabrizioRomanoTG": 67236
  },
  "sent": [
@@ -1797,21 +1797,16 @@
    "link": "https://t.me/RealMadridImportantOnly/154"
   }
  ],
- "offset": 769011992,
+ "offset": 769011995,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 45,
-  "tokens": 73317
+  "calls": 46,
+  "tokens": 74933
  },
  "pending_fb": {},
  "feedback": [
-  {
-   "t": "RT @FabrizioRomano: 🚨🔵⚪️ Getafe have reached verbal agreement to sign Dani Carvajal, here we go!\n\nThe medical tests have been completed and the club is ready for announcement — only waiting for La Liga’s approval on Financial Fair Play limits.\n\nCarvajal said yes to Getafe — as ABC reported. https://t.co/mSabzHduvB\n — Fabrizio Romano (@FabrizioRomano)\n Oct 12, 2026",
-   "v": "-",
-   "miss": false
-  },
   {
    "t": "blacklist you, you're finished…\n\nDid Negreira have power and influence?\n\nOF COURSE he did. Ninety percent of the time, he was the one who told us at the end of the season which league we'd officiate in. In the physical tests, your main goal was to be told you were doing well. Because otherwise, you knew what was coming. \n\nNegreira was the one who greeted you, you stood in front of him, and with some notes he had, he'd tell you if you'd done better or worse in this match or another. And he'd tell you if you were in group 1, group 2, group 3… He definitely had the power because he was the one who told us.\n\nHe certainly had the power to promote and demote you. \n\nHe wasn't just some figurehead. He wielded considerable influence.\n\nThe Negreira scandal? \n\nI was SHOCKED, it's something unheard of. I didn't agree with that CTA at all, but it still surprised me. \n\nIt never crossed any of our minds that Negreira was being paid by a club. It's surreal, unbelievable. I couldn't believe it. \n\nBut that's the way it is, and little by little I've been coming to terms with it, with anger. I'm sure there have been many victims along the way to justify those payments.\n\nThe CTA trying to downplay the ",
    "v": "-",
@@ -2004,6 +1999,11 @@
   },
   {
    "t": "🚨💣 BREAKING: Real Madrid is now CONFIDENT to FINALIZE the signing of JJ Gabriel. \n\nThere is growing confidence within the club that their work with the player and in his ability to obtain an Irish or Cypriot passport. @Ramon_AlvarezMM 🇮🇪🇨🇾\n\n@TheMadridZone",
+   "v": "+",
+   "miss": false
+  },
+  {
+   "t": "🚨 JUST IN: Thiago Pitarch could consider a LOAN in January depending on playing time. [diarioas]",
    "v": "+",
    "miss": false
   }
@@ -2211,6 +2211,19 @@
    ],
    "r": "Just personal comment, no actionable news",
    "h": "🚨 Álvaro Arbeloa: “Can I handle this pressure? Maybe they don't know me, but I …"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31135,
+   "t": "🚨 Aurélien Tchouaméni will speak first during today's press conference.\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/rIBgPyE3wtt3lqU4TB_T_409vh6rZXQxOwEGtJPb7e2NrVoc2hQ7rrF_tNai1F-MALmxnC35icEA0UyNRmKIYE77P8MRMKq5zznMWIXRMTqf_f6mkQay5ixBmsBHHpJrRS2Pe1db2UN_mc-33Qbg98qXUkKay7YaiU-QUf4hBBRWqOYt11BGtAzyoCf3ZmpE53cHFGc8UBl_DHR2X66iQFXo-0xcv1Iz0JtmQM6BGwMD9YTRHW81lQm7BrMu9wf6Cns121UvM6G5tC5gVwiFoSHQZcyJuIzP5fT5CDSnDzgjjXZ5E3dEcWMk-MQuHAHSNq8OFIrKwpeQu21LWr18WA.jpg"
+    ]
+   ],
+   "r": "Not significant news for fan",
+   "h": "🚨 Aurélien Tchouaméni will speak first during today's press conference."
   }
  ],
  "summary_date": "2026-10-12",
@@ -2220,7 +2233,7 @@
   "send anything official about michael olise"
  ],
  "opts": {
-  "training": true
+  "training": false
  },
  "train_in_channel": true,
  "train_seq": 87,
@@ -2726,32 +2739,10 @@
    "ch": [
     153
    ]
-  },
-  "87": {
-   "t": "🚨 JUST IN: Thiago Pitarch could consider a LOAN in January depending on playing time. [diarioas]",
-   "ai": true,
-   "label": "✍️ Transfer & Contract",
-   "status": "rumour",
-   "src": "real_madrid",
-   "id": 59215,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/OfuV5A3Y265VdZ29XaBTM6wpqgrZ8DIejudssi9ONvIHHSGb1o6dHxohcE36FK1gZphG_1KDODSwKoO8fdK13XhT0LFDFHoG5MSH7acfMJXjta0w2v38Yze09ana5UVLAhqbU5jhUrdP-pjDPf--5C18XH4P-YyvIKsI4cXl74lwqKABO86F-aBZS6pniWOZTtUncwu3YfQPHgwzssHYJ5o0kKpB4JxrnJGxm-PC1GsSbXgCg98VUQslbYQ9TJcKZmiAfkSsNYLMMhVWw14LVaWIaGR_DhZIfOcv0XczGrOD7ax0tMyAYQnSLyepPDAG1gdATNTrLd7BzRKeL1o4jg.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/sKEYQ_wlJsO4Hi1v81VdXbN0mmnqxPmQTSsrsbsLRSbZDphff9I2FgAta-Yxd6ivHESjk2B31j4YfJcWAjCErwlAFo_aWtXuhRiFNbWJnRrCDScUT7lnFeZOJEU7ttqnBfjggLhPr3Po_9Qd9fpShw6_ZtGHX9mV22rhprQLDjZpOX7eLueJvm6uAITYixTsypgiOTd10ZHGNbgDYgOKR51L5xT6p4Jwe8RJHx0eVS_aA4--qjhsqctEpNpiNxEUZT2IBtp6_mfVJLSU08LZdQJg7PEvbvqDlO7kMOmiAPbrXpjw0V3ooQeKtJUJQF6lSvQ96xM-yqoAouOTbCASQg.jpg"
-    ]
-   ],
-   "reason": "potential loan affects squad depth",
-   "ch": [
-    154
-   ]
   }
  },
  "train_stats": {
-  "n": 59,
+  "n": 60,
   "recent": [
    1,
    1,
@@ -2777,7 +2768,6 @@
    1,
    1,
    1,
-   1,
    0,
    1,
    1,
@@ -2796,6 +2786,7 @@
    1,
    1,
    0,
+   1,
    1,
    1,
    1,
