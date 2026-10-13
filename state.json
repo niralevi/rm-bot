@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59218,
-  "themadridzone": 31162,
+  "themadridzone": 31163,
   "FabrizioRomanoTG": 67244
  },
  "sent": [
@@ -628,8 +628,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 72,
-  "tokens": 117550
+  "calls": 73,
+  "tokens": 119203
  },
  "pending_fb": {},
  "feedback": [
@@ -851,19 +851,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31147,
-   "t": "🚨 Aurélien Tchouaméni: \"Villarreal?\n\nObviously we are very frustrated by the referee's decisions, but I don't want to talk about that.\n\nWe need to focus on tomorrow's game.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/hMZWEuTpwHwH2J9blh4SXvLUqAr4ca8JLWdQ4pl8pqS3L3lahs12C0Bb6Muei39xieVwkEnIW8BatWWRvJlsQca_JN5YugkL0iKc32LFutzZEodGV0P4fVYPkxlzkqffCqFzo4CRIP13_AZB_P_Ha2DhcROyGGkyWHA2mrXzvfceaYnL7yNh0ggm15tY8V2fKA3AebuPVNa_5sKrYLVKIMEg_RpWi9Q-MuTSWyV2loO-XK9-KfA8SqmLmL8dzqHehg9NnSvt_97SmuoPR0va3S4nVoJC79qWCBavBTTxwe03vJ2ghL-VnyGAhEJ8x4WDNQGVu1QJjAWHZfFiNiBFRQ.jpg"
-    ]
-   ],
-   "r": "Not essential club news",
-   "h": "🚨 Aurélien Tchouaméni: \"Villarreal?"
-  },
-  {
-   "src": "themadridzone",
    "id": 31148,
    "t": "🚨 Aurélien Tchouaméni: \"People comparing our midfield to Modric-Kroos and saying we need a creative midfielder?\n\nWe are ELITE players in the midfield, with different qualities.\n\nI have my own opinion about those comparisons, but I'll let you say whatever you guys want about what we need and everything.\"\n\n@TheMadridZone",
    "m": [
@@ -1047,6 +1034,19 @@
    ],
    "r": "trivial coach comment, not essential",
    "h": "🚨 José Mourinho: \"It's very strange to me."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31163,
+   "t": "🚨 José Mourinho: \"Do our players find it harder to make tackles in La Liga than in other competitions like the UCL because of the refereeing?\n\nWhen you ask me that question, you know the answer.\n\nYou just don't want to say it.\n\nEveryone knows.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/vIwFXErj_HwQWr1x05dUKXgkvBmpJV7ucI70Vrz9aEJlyMDd1ksyUET_TkPY1k_m8pHVRYW0YXxdW43OZmCalSERGQaUX4zwVZaCti7N38sxkN-Ing1R4aBwjYiDNzQzYuJoEudG5PUNcW0VKBG9W0OhlaMw1qn9_-_-Td0JQ5RkTn8Li2RypXC-pBACl4NHVzuB-b4MAQilXASaAX0239zNYAI0QbJQXtVGFC3dsCTDkWLqASwUwREp_wrunUXCUhgaqdG91DUGWpd2uxtUg6zeGt-DzipgNvf58zSyWFj5DKwX9cZkDYMzDOq0MdSyJGi0UNZnadPBr5AF0jbXMA.jpg"
+    ]
+   ],
+   "r": "coach quote, not essential news",
+   "h": "🚨 José Mourinho: \"Do our players find it harder to make tackles in La Liga than…"
   }
  ],
  "summary_date": "2026-10-12",
