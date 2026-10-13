@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59217,
+  "real_madrid": 59218,
   "themadridzone": 31158,
   "FabrizioRomanoTG": 67244
  },
@@ -581,8 +581,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 68,
-  "tokens": 110914
+  "calls": 69,
+  "tokens": 112504
  },
  "pending_fb": {},
  "feedback": [
@@ -804,19 +804,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31144,
-   "t": "Kylian Mbappé 🇮🇹✈️\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/l58r21ln6muTczWXlkr7-imqmtnyIzs0LypwRHhJDbz-l38xNfjmgMA5O-U2T-4iLtJtqhdUE34xfNv_d2nC6daAHopTFOTROciUAizljxPEk9DdMloELfAEtIq0DDEEM4NStf_R0niLP0CaKszI-JqF31LTQKlHlhzu8VUHFZyZ2EoeDrZ7YhazyKMzSufvGDfH_cOGv2Vz4BT0MczFGeuyj57BGkTJkS34901gkAtXoaaKIcIeytAWP_zp6rDLVkrr_atBbUd8qDPWoW2c6uJMBI2C6v5VMxSSZP1QNuayIrPVGgi4T5gJkqsk9MOSAwEMsX5mXTAf5IxoTFnCkA.jpg"
-    ]
-   ],
-   "r": "Irrelevant, no Real Madrid connection",
-   "h": "Kylian Mbappé 🇮🇹✈️"
-  },
-  {
-   "src": "themadridzone",
    "id": 31145,
    "t": "📲 Ibrahima Konate on IG: “Very fresh” 😮‍💨\n\n@TheMadridZone",
    "m": [
@@ -1000,6 +987,19 @@
    ],
    "r": "Not relevant Real Madrid news",
    "h": "🚨 Aurélien Tchouaméni: \"Who deserves the Ballon d'Or?"
+  },
+  {
+   "src": "real_madrid",
+   "id": 59218,
+   "t": "REAL MADRID x ROMA! 🤍🐺",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/X221MXOfbnTxwHKvNyLEA4DQzxvy374nRe1yg1fRl6yRETouziisesXbvLeS-fPoUlQiCVPxJaAb8HO4J4hYlbmoRgRvT1M-6yEovkdd6Rhbs_vI3JnjLQWcWVtVY9nDkoOZ2IfX1qjVqku5ikSprjPJUz8we_vGsEnGF-0XWNduOVR5Z_cGKyiIxdV7qk02oMEWiyQh0MjjNxapCm5pyUZGw6D362-TYsu3FvBR9Jzbe1l2cg-poLErxSWIpCilx7nS6QAc4mxyWgaiMvVDzA_FC5bwZoeLU95MU6V1x-4AAO0cDKDXkfZg09mzLA_k6yc0y6Qpj8ETpN5VZ-XgBQ.jpg"
+    ]
+   ],
+   "r": "No substantive news content",
+   "h": "REAL MADRID x ROMA! 🤍🐺"
   }
  ],
  "summary_date": "2026-10-12",
