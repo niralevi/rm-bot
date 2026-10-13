@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59204,
+  "real_madrid": 59206,
   "themadridzone": 31111,
   "FabrizioRomanoTG": 67227
  },
@@ -1687,6 +1687,23 @@
    "status": "fact",
    "headline": "981 GOALS. 🤯🤯🐐🐐",
    "link": "https://t.me/RealMadridImportantOnly/104"
+  },
+  {
+   "ts": 1791882803.0798821,
+   "date": "2026-10-13",
+   "tokens": [
+    "asencio",
+    "rodrygo",
+    "train"
+   ],
+   "names": [
+    "asencio",
+    "rodrygo"
+   ],
+   "cat": "🚑 Injury",
+   "status": "fact",
+   "headline": "🚨 Real Madrid are training.",
+   "link": "https://t.me/RealMadridImportantOnly/121"
   }
  ],
  "offset": 769011980,
@@ -1694,8 +1711,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 17,
-  "tokens": 28102
+  "calls": 18,
+  "tokens": 29773
  },
  "pending_fb": {},
  "feedback": [
@@ -2115,7 +2132,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 60,
+ "train_seq": 61,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2281,6 +2298,24 @@
    "reason": "duplicate of already sent official news",
    "ch": [
     120
+   ]
+  },
+  "61": {
+   "t": "🚨 Real Madrid are training. \n\n❌ Rodrygo and Asencio.",
+   "ai": true,
+   "label": "🚑 Injury",
+   "status": "fact",
+   "src": "real_madrid",
+   "id": 59206,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/tj3P81TgPk9QSPU6Erqlt80olYjDuU6mbtef9wyUzMntFGjQhOjWYTeTEEzvkOCXwFxfQ2beg-jee2lZ6uJQy4bBVqK_04MaqlAYtODrrUDVUORxQirNwFrVURChGJ_IGrvMCnajzRoKgusSvFILFv38VJ49vIxRjS2ME_ZuCSBRrv1-II2nvdlpmtJiW6XJ5SS-hfmQ93I__i7qLTFTVjAGVerAXoQro3nIDtPeI_aYKJ_15C1JIi_3M5FH_pKLyJKbzklIVA7xkrnC1BknmDoCUEHxzyVOxyjQFi-d_UX1K6wx-m_3LQ4Yu-G8dRze3r0ENJSi_fGXrQ1aUc6Jzg.jpg"
+    ]
+   ],
+   "reason": "players omitted from training session",
+   "ch": [
+    121
    ]
   }
  },
