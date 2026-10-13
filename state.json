@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59210,
-  "themadridzone": 31112,
+  "themadridzone": 31115,
   "FabrizioRomanoTG": 67227
  },
  "sent": [
@@ -1711,8 +1711,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 23,
-  "tokens": 37993
+  "calls": 26,
+  "tokens": 42857
  },
  "pending_fb": {},
  "feedback": [
@@ -2132,7 +2132,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 66,
+ "train_seq": 69,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2406,6 +2406,60 @@
    "reason": "duplicate of existing Carvajal signing",
    "ch": [
     128
+   ]
+  },
+  "67": {
+   "t": "Jose Mourinho 🧠\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31113,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/WK69IShk6v9m5_ZD0UjBEFB8cWv7P2WjGnOZBThQ-0T11lfighbSJTFBUJ4CKfilvXFm0TlJs3QpktlpAOpmnh5q1dD7AE-q9EfFNAe7UR7-vo8bx3aakNfdts3KCKiTZQszPGzMvyBY2hLTp8Fspqya6SU05L91tnNkLykMSn9s_aKVVMl3YiKJoUrE9zKgXxMJ5JyNpugwpJZtej1J0uJY7J5gKnX2B9VYNbwM9PEHXeESfQIQ0EBwmK4ERvkFOpxsAqnSO19_exLJJcJ97LT1vUVXvXd4nNk1llgcrSPaUPp8pf3sEFGn--RZeZ-4IjIpkwlcpchdZCeSy0xbkg.jpg"
+    ]
+   ],
+   "reason": "No relevant Real Madrid news",
+   "ch": [
+    132
+   ]
+  },
+  "68": {
+   "t": "Yan Diomande 💎\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31114,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/gk4i1EvSc7FmWfNX9LcOTjULPqB1W8XRZelARW1J-ZiCoKuQTKyhYS6N202GLknHjv9BGkYZZTX8MSSfbbFXS71DjLmtEXUFN8-wxDJlNCYARXAbXOh4JSjY06NvFW14hBGAv_C64hxutKJjmCrfLyWvKCS7PhvjyUjGic85weAqTLtHWyYfTsmg_9Oqu7sZ6uVer6OT6T1zwVln9GOkXxnqCundQPLTRiA2SSvC09ulqsqT8nFblKTbnwMDcAJ2-6VgKMIpFydjz2_47FC5Bp2rPmMe2srbKGI7_Wx8-Y5dfPDAmY6GHTlHfXGnbqxAHR-PkQ9zrqrfbwR8Mjjjrw.jpg"
+    ]
+   ],
+   "reason": "No substantive news content",
+   "ch": [
+    133
+   ]
+  },
+  "69": {
+   "t": "Vinicius Jr ⭐️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31115,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/jM9HbRVs3aRq465HSA1adB1dScCAJR-aK-XPpAd4jtNMwyRkOVKqg3VSnAxgFLqSWAkDJg2Q6iF_LVHJDSsHLw-6n3C-gm7_jn1qtvSUJlPMkLKGFhCr0wMTOdGogKk7PalAUkYpl23j42E7lZfYcv5Q_czsleci5e1xrGd8taih_7VMfuaERQxHRlE5tjjGLhmPAeUKgEvRo8HEfiQ45KnMcD9zTK3RsvVHMqUchm2imeuDx-nQ5tc92mod6TzbpAPrNGbbEvuosKEPM3_UDVgOfMYL9690vWIzg1d-U4e6VpZnCoWYl5IzkHqv--2yCdHGBkD9EkjVOh13qYo-rQ.jpg"
+    ]
+   ],
+   "reason": "No substantive news content",
+   "ch": [
+    134
    ]
   }
  },
