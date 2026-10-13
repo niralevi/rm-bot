@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59218,
-  "themadridzone": 31177,
+  "themadridzone": 31180,
   "FabrizioRomanoTG": 67248
  },
  "sent": [
@@ -774,6 +774,40 @@
    "status": "fact",
    "headline": "Mourinho says Endrick will not be loaned out",
    "link": "https://t.me/RealMadridImportantOnly/163"
+  },
+  {
+   "ts": 1791913109.8507826,
+   "date": "2026-10-13",
+   "tokens": [
+    "10",
+    "bernardo",
+    "change",
+    "come",
+    "endrick",
+    "game",
+    "goal",
+    "jose",
+    "left",
+    "men",
+    "mourinho",
+    "natural",
+    "plan",
+    "right",
+    "scor",
+    "silva",
+    "then"
+   ],
+   "names": [
+    "bernardo",
+    "endrick",
+    "jose",
+    "mourinho",
+    "silva"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "fact",
+   "headline": "🚨 Jose Mourinho: \"Endrick and Bernardo Silva were about to come on, but we scored the goal right then. And we…",
+   "link": "https://t.me/RealMadridImportantOnly/164"
   }
  ],
  "offset": 769011995,
@@ -781,8 +815,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 89,
-  "tokens": 145366
+  "calls": 91,
+  "tokens": 148695
  },
  "pending_fb": {},
  "feedback": [
@@ -1003,23 +1037,6 @@
  ],
  "skipped": [
   {
-   "src": "themadridzone",
-   "id": 31158,
-   "t": "🚨 Aurélien Tchouaméni: \"Who deserves the Ballon d'Or?\n\nTo me, KYLIAN MBAPPE.\n\nAnd if not Kylian, then another Frenchman, like Dembele or Olise.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/GdlRNU-YsFXStijWYYY4gkRR2cG2GVN4VwMlFuNCxLTYPhYZLeTZC0UvOrXvWMtXop9L-1zPYY7iV8WjxxbEnFxmymiLfBnFRNTGznDZoLMEn-OwZfqqpPN1WXEV0mtY3RfppoZFvP2Gwb305f1fXzIFiw6EkM088d8Ehhs8R9r4MX1hO_KKPUn7EVA7GdKbD-UbYYESM4yt5dL5ptHWOMjVVVMGmMLgJWvBGdzox7jeQmCQA14Zu6B_9UgAxlXPZ_F48-6xsUnZd1z3Kfkza-jHOk7c1a8bhDQcFl0NoDM5a_w0aU-dqixlODrT8-tZ8J5hoJ1xmzY_lttHi_Q81A.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/e_JYz8R9CZESHOIpDAipa_K8J2xhlYzrr3NkNz0pGaDXk9EX4VTd_Kq8rtHBf_8CP9c2Nwjzeva1Us8g_QERR0faN-8VCG0rMbcAH0_sesEM0OgJyK5KA7DB4ChVAA7hGV0ZXn52z0Cb3ybjjb0uIvqoF8qOkuU6PhpsNLB1mFIp73oWhuTh8UFFPPbj8HUoQot-3fqO-QJTEEBCs45moWBpZehVLrZXykE4h3Fxy4SWCu_I-FYx-E5jK-gFXM_T7N6pjQs6Y3w9elaDpmbkegvfO5woCuwHNfmdEU0NeV60zCFAHDplYl6WqZw6fe9LyK0IVKIXGnnCKinauh6dBg.jpg"
-    ]
-   ],
-   "r": "Not relevant Real Madrid news",
-   "h": "🚨 Aurélien Tchouaméni: \"Who deserves the Ballon d'Or?"
-  },
-  {
    "src": "real_madrid",
    "id": 59218,
    "t": "REAL MADRID x ROMA! 🤍🐺",
@@ -1185,6 +1202,23 @@
    ],
    "r": "No substantive news content",
    "h": "Jose Mourinho 🧠"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31180,
+   "t": "🚨💣 BREAKING: Real Madrid are closely monitoring Erling Haaland's situation at Manchester City, depending on what happens to the English club and potential sanctions against them.\n\nReal Madrid has an excellent relationship with Haaland's agents and family, and have maintained almost constant, direct communication with them for years. @elmundoes 🇳🇴✨\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/akl4pPlqYu4pGXC3UPgZDcDPKB28y7RkiisV06ohc8p8Gszfsl_s5LRFnxgnIytCFJGqnQi-OP70Kq741ImjAtmdTkmS8V5CgTwFpFCMf6ykDhyhds8IMLFEadd5bYv31Biz_wFCjUiaFUdNzCnjMWCAkk2QKQKwATzwoFh4LQX7s4ZYbDMywgxQb5x083n4IhZN7gA0wOREOrAzZFNDvBgowf3578HJ0mVqbN1Y7JVDpTkbhYgI06y5-KyX22uNKKEsWfsAjul5q9YvwP_ZDI4C6cJD8pEOxxiCCoavmzqnGQLaKJ1pUOjuMegovBzImfxLl32WKod-E-GVU1-g_g.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Z1sayaxQyQJUwur1CUW70C7cT5L_2-fwV4HLXa4rMoly9lW4d-wlBBbu_MF8TFlM0wGCLDqglB7lnGrN3gUyRJueA4pHXZQM9C2TU4fzkBLk9Yc9Z5SmLqa4UDVKdbeNuK6eH0JwZA245Wjn12VQF1ZYOE-_qlqu-iyj_DE-d-IyFoyyDEgj5QkpEtdUNeL1ipzZDOkeqVI9gYo7YvOSr_lQTavK3qeSWjgI_M7dihVNI9zKs9mvnZayMWxoR12GGJUTRo_tRjaHkMvhHOhjx7XxvyHQ222CfOjcwg8rqXaufe-XzpewPZtvr47GMENPnl63ZEPbkuNxXt1pZR5tiw.jpg"
+    ]
+   ],
+   "r": "Speculative interest, no concrete move",
+   "h": "🚨💣 BREAKING: Real Madrid are closely monitoring Erling Haaland's situation at M…"
   }
  ],
  "summary_date": "2026-10-12",
