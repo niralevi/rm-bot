@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59213,
-  "themadridzone": 31123,
+  "themadridzone": 31125,
   "FabrizioRomanoTG": 67236
  },
  "sent": [
@@ -1777,8 +1777,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 34,
-  "tokens": 55425
+  "calls": 36,
+  "tokens": 58638
  },
  "pending_fb": {},
  "feedback": [
@@ -2198,7 +2198,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 76,
+ "train_seq": 78,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2516,6 +2516,42 @@
    "reason": "Pure statistical list, no news",
    "ch": [
     143
+   ]
+  },
+  "77": {
+   "t": "Vini Jr. off to Rome 🇮🇹✈️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31124,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/GKKs6wmCAbUf-jtfsEQQ8pmD6-mNu47X0F9H95qwc5ZxG9RUHOMps5qsUrbPC5JFEd7kReGLBByXHsqkmZfUrBm47pXynGYP_wQ1VNvscyCT3Y8AbGUjV7ZDBr8UdL1M8gVm5aYWFX1tnLNHwtbLPtP0YLKGR_bpHAXnznZnJA819Xk8-8OZpvoSG-X1lig6Z33LlKo7psFXS_ynNqd5Z7xthVT4O3-83_-BtRdQE3EC16ygYBlGiHNmjUK1BjoSSGv1mdJ2-7UvlZLRoy1suYLE6_qJqk4QEKMHFjiwoDaLFga6F_gdf6tFWBpDRK-T86fA5zHnCmO4MbXQeaDo1A.jpg"
+    ]
+   ],
+   "reason": "Not club‑relevant, just travel",
+   "ch": [
+    144
+   ]
+  },
+  "78": {
+   "t": "Yan Diomande off to Rome 🇮🇹✈️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31125,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/J2It9Ahr3VSMuycBC3UFPdtggJR8Z_FDuAFE1WqntOmCs40LZKsoOLanjd8BTXANW8wI3Iy-4wBR3-TLZclRs-sg3Re5Ew-yquL_jG-rHf6Zu33GxBvt7JNLEpbq9bFqWG_NdXuoILOCK5SjxTVTUWyOJjcXLlPxJv7You33YbETaKjTre3dw4M1cO1r3gT5EE_8GwlcSAkTMGHE5ZiyCVCG-1WTz5mvJ7jrP0has1L9AKdtHOHTvLrrAewe_KIaqWbRTeLzuSU1wcGzKvy3XX7p8EfTDFtmQWJsAHAQThgmiJc4ux_jnuBu8xrDzLXZfJRVrIM2rF1x-7HPDSNG0Q.jpg"
+    ]
+   ],
+   "reason": "Lifestyle/irrelevant transfer rumor",
+   "ch": [
+    145
    ]
   }
  },
