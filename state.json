@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59204,
-  "themadridzone": 31107,
+  "themadridzone": 31108,
   "FabrizioRomanoTG": 67227
  },
  "sent": [
@@ -1694,8 +1694,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 14,
-  "tokens": 22915
+  "calls": 15,
+  "tokens": 24643
  },
  "pending_fb": {},
  "feedback": [
@@ -2115,7 +2115,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 57,
+ "train_seq": 58,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2370,6 +2370,28 @@
    "reason": "LV promo, not relevant news",
    "ch": [
     117
+   ]
+  },
+  "58": {
+   "t": "Real Madrid x Louis Vuitton 🤩😮‍💨\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31108,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/KNowWL4TPx3C3T5CldBJ1ai8uvXxZisQWbw0oMugEjFM4hRxyDG9sTipdjsmwHOQJJc3ymgnbVGS_qIoII1EzFLrHK4056tjuaQcleVPMPUL_5UWbhN7HwIUYZ6TFpbbc8UloYFQwMagR4X_5duy49XpCQL8bjC8cIEfv7_M92rCmMUfFgsAyAsQIcyd-8uPzyEfOjq0m62AAFj8miyDbHr_57gOrX-bD6lEzo4-8iFVSgPp31eJTVo1zCFgA6LNW0LR2I9IwQv6Vfb0sLwu9pFcZhN54SdQPbnrrOqdMArSyBonR_UulFFFFmJo0AVmD_jI38jPS32rl2M122yxBA.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/lxOcYjlla8ww7e1MIztZOF9cK4f1Exvs7g-ysZQDRenpjjFVhMOWCBrkUqMmYLy6ly7WQuEV9Use-qx7SvxhIHr8V8PJj72f1CapTuBUgi4f1STTK-fv1M91iGJ4fHxXgm-ybbVOJAqVp4bhQsRllbVULuuk2FnxrJ5s7VMmAmEqLr6_7C4oM_zj7QuKwx_8BwjhoIEd8FicCW_6-NeaMGPV_LI_hqAG3tiB2hpZ4_zV737MKuFr2Jw9o_fD_P-juwYahoy52HSagI-KJylm1Wz8JEGHFJZN1hLomRxgNx8sNcAJENLrNIwvKDEzIn0Tc3Zf9LamRY3SL8krFIRxmQ.jpg"
+    ]
+   ],
+   "reason": "Promotional content, not news",
+   "ch": [
+    118
    ]
   }
  },
