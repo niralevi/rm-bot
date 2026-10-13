@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59204,
-  "themadridzone": 31096,
-  "FabrizioRomanoTG": 67226
+  "themadridzone": 31098,
+  "FabrizioRomanoTG": 67227
  },
  "sent": [
   {
@@ -1582,7 +1582,8 @@
    "cat": "✍️ Transfer & Contract",
    "status": "rumour",
    "headline": "🚨💣 BREAKING: Dani Carvajal is JOINING Getafe. La Liga has said YES. @MatteMoretto ✍️",
-   "link": "https://t.me/RealMadridImportantOnly/79"
+   "link": "https://t.me/RealMadridImportantOnly/79",
+   "superseded": true
   },
   {
    "ts": 1791834743.908323,
@@ -1614,6 +1615,64 @@
    "status": "fact",
    "headline": "🗣️ Jude Bellingham to Fede Valverde after his incredible through ball:",
    "link": "https://t.me/RealMadridImportantOnly/102"
+  },
+  {
+   "ts": 1791874460.469073,
+   "date": "2026-10-13",
+   "tokens": [
+    "13",
+    "2026",
+    "agreement",
+    "approv",
+    "carvajal",
+    "confirm",
+    "dani",
+    "deal",
+    "fabrizio",
+    "free",
+    "getafe",
+    "here",
+    "last",
+    "liga",
+    "move",
+    "oct",
+    "romano",
+    "sign",
+    "verbal",
+    "week"
+   ],
+   "names": [
+    "carvajal",
+    "dani",
+    "fabrizio",
+    "getafe",
+    "oct",
+    "romano"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "official",
+   "headline": "🚨🔵 Dani Carvajal signs for Getafe today after the verbal agreement and the here we go from last week.",
+   "link": "https://t.me/RealMadridImportantOnly/108"
+  },
+  {
+   "ts": 1791874588.835832,
+   "date": "2026-10-13",
+   "tokens": [
+    "diomande",
+    "loui",
+    "vuitton",
+    "yan"
+   ],
+   "names": [
+    "diomande",
+    "louis",
+    "vuitton",
+    "yan"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "headline": "Yan Diomande for Real Madrid x Louis Vuitton 🥶",
+   "link": "https://t.me/RealMadridImportantOnly/109"
   }
  ],
  "offset": 769011957,
@@ -1621,8 +1680,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 2,
-  "tokens": 3389
+  "calls": 4,
+  "tokens": 7051
  },
  "pending_fb": {},
  "feedback": [
@@ -2018,7 +2077,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 47,
+ "train_seq": 49,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2304,6 +2363,37 @@
    "reason": "Not directly about Real Madrid",
    "ch": [
     107
+   ]
+  },
+  "48": {
+   "t": "🚨🔵 Dani Carvajal signs for Getafe today after the verbal agreement and the here we go from last week.\n\nDeal approved by La Liga, free move now confirmed. https://t.co/3V6Z1dkTbx\n — Fabrizio Romano (@FabrizioRomano)\n Oct 13, 2026",
+   "ai": true,
+   "label": "✍️ Transfer & Contract",
+   "status": "official",
+   "src": "FabrizioRomanoTG",
+   "id": 67227,
+   "m": [],
+   "reason": "Carvajal departure confirmed",
+   "ch": [
+    108
+   ]
+  },
+  "49": {
+   "t": "Yan Diomande for Real Madrid x Louis Vuitton 🥶\n\n@TheMadridZone",
+   "ai": true,
+   "label": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31098,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/VBq6rN7gMxippI1aeBkx0dwTI6DtoxC00ckJex1SlQ1BXATivY9pppWPwOScztri14J7WlIzehkI7McPHV3qlFUu_TTz9V5doCOG86FWFjSP4B6K63hA5oK0eH3OoFt7szWEYqJtBTj1qB5TJJgAaIznk6XTGHq8C_cFdryeU_7DJb5Vo0XYTYahCoWAZo64_QM90fIEQfrsB0JVpY37GX7zaaKUffyqSUeT8picAX1JmwMhto71VMDKr4EhuQRORXDCBUzssNrboe_eTxCEt9mvletDYk2EOd46SenGHhCNTBIJfO_pndoJWb-_s20muKBX7UXsKrxxDDFoqqrMoA.jpg"
+    ]
+   ],
+   "reason": "transfer rumor involving Real Madrid",
+   "ch": [
+    109
    ]
   }
  },
