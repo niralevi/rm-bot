@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59218,
-  "themadridzone": 31170,
+  "themadridzone": 31173,
   "FabrizioRomanoTG": 67244
  },
  "sent": [
@@ -667,8 +667,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 80,
-  "tokens": 130384
+  "calls": 82,
+  "tokens": 133832
  },
  "pending_fb": {},
  "feedback": [
@@ -890,19 +890,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31153,
-   "t": "🚨 Aurélien Tchouaméni: \"The team being criticized?\n\nWhen you play for Real Madrid, you'll always be criticized.\n\nWe need to focus on improving what we can improve, and trying to win titles.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/svo6VmNBJP2IZLAZjuRHDlwnUzLUmdPJ-Bpmzxqx8cJyxgnkVkfQ5m6Civ_TiCnYy9d9FR-esS00bKQqkvCyFQlvJt5dWk4YUzpLEZSYGokwCf6TJjT5vrvEHK7eksnCRw6DwQp5qv34OFE3bY9tmt_r2fX2ah5eZpDYNA__lDX816qBboGr5QQRXD4JbR34VhRvHNj7SaUMUWlrQaDOY4vrrpDaIdqQxkcTvsVRk04cWM-ljH3wT8TTyoWP3tdpBSH9qiltCU3vXQ8YnMNYh9QEgYz7UATaXSPPNv8_aFKBqtP1kerrewLu89JNq-vNnyNR76f4la2v1nTMx1RFnQ.jpg"
-    ]
-   ],
-   "r": "Just a player quote, no actionable news",
-   "h": "🚨 Aurélien Tchouaméni: \"The team being criticized?"
-  },
-  {
-   "src": "themadridzone",
    "id": 31154,
    "t": "🚨 Aurélien Tchouaméni: \"We haven't played our best football yet, obviously, and there are many things we should improve, both on and off the ball.\"\n\n@TheMadridZone",
    "m": [
@@ -1086,6 +1073,14 @@
    ],
    "r": "No concrete Real Madrid news",
    "h": "The best GK in the world is here 🦒"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31173,
+   "t": "📌 Charla interesantísima con Carlos Rodríguez:\n\n▪︎ Grecia\n▪︎ La Fábrica\n▪︎ Pau Quesada\n▪︎ Kroos\n▪︎ Entrenar en el Bernabéu\n\n\"La capacidad de Modric para girarse con ambas piernas me parecía increíble\".\n\nY muchas cosas más en @RMadridistaReal.\n\n@TheMadridZone",
+   "m": [],
+   "r": "No actionable club news",
+   "h": "📌 Charla interesantísima con Carlos Rodríguez:"
   }
  ],
  "summary_date": "2026-10-12",
