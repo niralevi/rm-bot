@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59217,
-  "themadridzone": 31157,
+  "themadridzone": 31158,
   "FabrizioRomanoTG": 67244
  },
  "sent": [
@@ -581,8 +581,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 67,
-  "tokens": 109285
+  "calls": 68,
+  "tokens": 110914
  },
  "pending_fb": {},
  "feedback": [
@@ -804,19 +804,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31143,
-   "t": "Vini Jr has arrived. ✈️🇮🇹\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/InX32YHDQBV-weZk_J_T6FUBdxNIWBiQjgPfQgYkYQzBE36kmMNlyk-6DsAhdsrwf2bBYtVvV0a_NxRbW38OwMV9SL-OHqnKrY6_Q-Apushrxf2Y00H8Ho3wZg8uIKnVPXi9giXDUM9SlrKriwDeMjSx_qk_1IiHy7j11lBODwYSwrXA-pF9ImwZmHNaMJwCac4B7pqK7miZoYCZQrvxfOYtd6ZFlTg2eqE4t3h_pavmD4tQS6OCCM3p2J7v2Ph00B3hLdSH4oj-bsbHF-NObTBtZLwTEAva5fPnpLg8_dvbrPBywJ3PoPXZlWne5DJLH5ZNWV-usj_tPpmpXU5q5g.jpg"
-    ]
-   ],
-   "r": "trivial arrival, no new info",
-   "h": "Vini Jr has arrived. ✈️🇮🇹"
-  },
-  {
-   "src": "themadridzone",
    "id": 31144,
    "t": "Kylian Mbappé 🇮🇹✈️\n\n@TheMadridZone",
    "m": [
@@ -996,6 +983,23 @@
    ],
    "r": "Just a routine quote, not essential",
    "h": "🚨Aurélien Tchouaméni: \"What does José Mourinho ask me to do in midfield?"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31158,
+   "t": "🚨 Aurélien Tchouaméni: \"Who deserves the Ballon d'Or?\n\nTo me, KYLIAN MBAPPE.\n\nAnd if not Kylian, then another Frenchman, like Dembele or Olise.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/GdlRNU-YsFXStijWYYY4gkRR2cG2GVN4VwMlFuNCxLTYPhYZLeTZC0UvOrXvWMtXop9L-1zPYY7iV8WjxxbEnFxmymiLfBnFRNTGznDZoLMEn-OwZfqqpPN1WXEV0mtY3RfppoZFvP2Gwb305f1fXzIFiw6EkM088d8Ehhs8R9r4MX1hO_KKPUn7EVA7GdKbD-UbYYESM4yt5dL5ptHWOMjVVVMGmMLgJWvBGdzox7jeQmCQA14Zu6B_9UgAxlXPZ_F48-6xsUnZd1z3Kfkza-jHOk7c1a8bhDQcFl0NoDM5a_w0aU-dqixlODrT8-tZ8J5hoJ1xmzY_lttHi_Q81A.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/e_JYz8R9CZESHOIpDAipa_K8J2xhlYzrr3NkNz0pGaDXk9EX4VTd_Kq8rtHBf_8CP9c2Nwjzeva1Us8g_QERR0faN-8VCG0rMbcAH0_sesEM0OgJyK5KA7DB4ChVAA7hGV0ZXn52z0Cb3ybjjb0uIvqoF8qOkuU6PhpsNLB1mFIp73oWhuTh8UFFPPbj8HUoQot-3fqO-QJTEEBCs45moWBpZehVLrZXykE4h3Fxy4SWCu_I-FYx-E5jK-gFXM_T7N6pjQs6Y3w9elaDpmbkegvfO5woCuwHNfmdEU0NeV60zCFAHDplYl6WqZw6fe9LyK0IVKIXGnnCKinauh6dBg.jpg"
+    ]
+   ],
+   "r": "Not relevant Real Madrid news",
+   "h": "🚨 Aurélien Tchouaméni: \"Who deserves the Ballon d'Or?"
   }
  ],
  "summary_date": "2026-10-12",
