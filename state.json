@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59211,
+  "real_madrid": 59213,
   "themadridzone": 31119,
   "FabrizioRomanoTG": 67229
  },
@@ -1777,8 +1777,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 31,
-  "tokens": 50422
+  "calls": 32,
+  "tokens": 52116
  },
  "pending_fb": {},
  "feedback": [
@@ -2198,7 +2198,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 73,
+ "train_seq": 74,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2454,6 +2454,28 @@
    "reason": "Irrelevant, no Real Madrid news",
    "ch": [
     127
+   ]
+  },
+  "74": {
+   "t": "🚨🗣️ José Mourinho on Roma coach Gasperini: “He is the TOUGHEST coach I have ever faced. I changed formation FIVE TIMES and he countered them all.”\n\nThey meet AGAIN on Wednesday. [diarioas]",
+   "ai": false,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "real_madrid",
+   "id": 59213,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/H5WnsHDC9JRZAvKu0EncXY-jGTIrI8xfAb9ID5xbVtFEuesPFUZ1PZKOBv1DfXpEtMhZaLYffzK9VqC9uiXc1oWuIW_gchpKmiiulAcGWbNcqk3aLGUrUx0GNC_uvyMNw2HaUd5dFOYuwgmXYxU4FntWO2cXJlXVBLIKrwDxtMO705Hc5qE9leI53SBhRKnJ8QrnFcJe0MWZRtVSETu8mj5ydLPlUEg2suDBUYXHAmiQuENk7d7tQXdTiUFVIP0krSnYV_3O111lOWu0az4PWzXagvg_vX98JZKknCLaES3yDUzJmoGzefT3PMFIywOBY5WfQe8vLyAyeJrANhIwWg.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/oNV-Qr1FAMZG2H833zRcAXnsNaujgsgWX5p0gxTOSmC1XndMYtGKHo8F0-ngMHC8Br8xjbpPnPRoeEtnK4Mgi_1fmhfwz0iB2hwsr-3ScKGmQgFfG-9pPP9qYkbOc_qaod0iWx9igkgi7jIs0hI1Ey6pQ3kneGWh1UcdcY-byT_YEwtc277WDeYS4RvpW6u7wPJyoKRK8y4dYif6o9eUSmqqSH3ac574lPgCHYWDcAa8oYxydsmaOveNgLRlaCen-om9ar_G5V8z8AmRr-R6_v4z-07at91GJViwD2HmQswxtP2aE0AAC_StF2rgS4krGSpfRcZ-s9RNRSMKVIMlJw.jpg"
+    ]
+   ],
+   "reason": "coach quote, low relevance",
+   "ch": [
+    140
    ]
   }
  },
