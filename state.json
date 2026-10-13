@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59217,
-  "themadridzone": 31153,
+  "themadridzone": 31157,
   "FabrizioRomanoTG": 67244
  },
  "sent": [
@@ -581,8 +581,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 63,
-  "tokens": 102688
+  "calls": 67,
+  "tokens": 109285
  },
  "pending_fb": {},
  "feedback": [
@@ -803,66 +803,6 @@
  ],
  "skipped": [
   {
-   "src": "real_madrid",
-   "id": 59217,
-   "t": "🚨 STAT: Real Madrid’s G+A leaders this season so far.",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/C-7fErKF385OhB0Xa1kpkSaOJjxxiMJoyk_5C9MAHxGS7AbAg1Lhd5VVZ82szD-WzvZuj_OGPfwBkNvZRHdzOeQR11h2hGunfmOsH-1bx6COWzTKeCIRcY9hYVuhAzM04DbrRjFzgwmdKqWN_jEbbRDAQQiF7N7JxtHUenes6Gsiu1UJEe3Cev1pfGAV68b2SJI9Hw9v2xM_Ngo_tRM8Zy1SfDjR4MR0thf3rmogm0OQmTJ37Al6HU2lb1L9V_OoGa6bmlF67CQaJ7Ks8q1MlInRMll2e8fNNVO7wfLtQxbUmjfH_YEyMlb_Ho9PI_EHqv0V2IlnB_ejcjuHkkCQww.jpg"
-    ]
-   ],
-   "r": "Pure statistical list, no news",
-   "h": "🚨 STAT: Real Madrid’s G+A leaders this season so far."
-  },
-  {
-   "src": "themadridzone",
-   "id": 31138,
-   "t": "🚨 NEW: Thiago Pitarch could consider a LOAN in January. \n\nIt depends on playing time till then. @diarioas\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/RAQhQui-rC60co1Xb6jcPfF-lyr9sGTN9aKXgSemUDFxN050lVyIoWydFeatmk19QfI3irbXjPIp17K7NmiT4Egj_XRt0RvIHRhxLQmcMytO4CI6HpeaOw8KXc_0rBV4IhbcyAwiff2A4CkavcMZOhhAuDRYbCJH0XxHE917GfpVC8dPjYGUL5hT1yXfq83lVAITv6vzDupNsyS0aCkwZgqfTIIO22o5RwSNail3thfU61iX8VWKNC98hglqjWxSJvenOqU2zadUlULVGg_iZdBA14Zrx_4YRRmJxMwD05YLhlYZU6BS4p-FDgBA8yNZTeuKaomUUX1yEqe0sHMOPQ.jpg"
-    ]
-   ],
-   "r": "duplicate of recent post",
-   "h": "🚨 NEW: Thiago Pitarch could consider a LOAN in January."
-  },
-  {
-   "src": "themadridzone",
-   "id": 31139,
-   "t": "🗣️ Gian Piero Gasperini: “Real Madrid could need some time to regain their usual rhythm.”\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/SyTFMu5iWosjFD5WvxDnHWRTDsMGc23OCzTlG8n-chmlQ8LYGiWuoO0-lX1OxT-oeBfpPbyRtrhgDJV3T56_y10fVtoFZEdCDtyuN5eEQxMGfO4AOZyN2ZzlcuBzjEAh-lBDQZM46ox6yKaaUfDhofLPRqmKJJvINTVxGa7d_jQF8Brx5_nvbHpWBcYuh_oPfgQ8B_oA1XOX6W2I_FlystGZMCpcBAc_fdRKRZ71RlZR9F5Kx8bEfXzAaXQvqqK-x-a4I647SXdAviPHqRGr546H5-0GB3hgYYS3GDTxza3elpfUh6gDEEPDBu6RiRUMajlT1XfRWy93CSmtAUtnMQ.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/SLdPj9jc7v4afMvhtTPH7jhOu2SxfbZtc4a8lp7cwbWLBpq8WDlnJnWQOUlStiT0NlBrx2_Bar_Sqjkal_7O71a-ZPmWqr2lsRInnfflDemtabSUUC0-y3tACP808Dnv8nDNOlLgY1utGXnXh0KfexKB2kg8h_4wuncp2wtVxSQnXLwWCN36OIqDs9Dh0O2l-FzN53qA8AXo3SNQPHfjOX1ym4aKzOyhtHJZwVEC5cWzraRgeEf0bju16RZGLmQaGhF6zy12wELv14kjTtjGQKpG_PAahHMMBM-EbDt4SLyNqxQExevtLgoTFvoWiHb5gRbK7uXHo4OS70zSvF8dBA.jpg"
-    ]
-   ],
-   "r": "Not relevant Real Madrid news",
-   "h": "🗣️ Gian Piero Gasperini: “Real Madrid could need some time to regain their usua…"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31141,
-   "t": "🗣️ Gian Piero Gasperini: “Real Madrid have top-class potential.\n\nThey are a team capable of winning any match. And from a purely football perspective, there is still room for improvement, and their level will develop for the better.”\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/ElUCG9yikGyL1ucd03sF50M6prhXLLaawjtUwxg1VppSEnCyqOB16cknu4t3bSye-BzWi6alTOX9WH9rlD0ZGZsE8eMRnDCJ4gjXSqh2t6ZNHJz6C4VLfyteSQCN-ZvZRxTuEs0pQPYWEktF7IKGyJoRxC1rbdQlYc1fOyVuoVKO_l_7iPFzs_EpnwWZqZetJ1H4miawUjst24hScwcG7Q0ZgMTATkPgCCJRn4eoHGZLdM9dpGbH3oV4ibm64Yi2e5sr6AGdBKrUe_zfLwy7cEurrGub33k4CL1aHa6RF_RyAq7cmwQwwR8SSy6IW074n6m1UjYaoQ6NZzXlF6WxIQ.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/PeyZyJgeZdP5Hh-W44bpz5uUONkad2hNX1kQj24Hw4G_cGdCR0Mwckywa_hWmMHTs34Rgb_2ZbrthTfqjTyGUYVUBx0oV2tryMx_9esCwC0ZiN8GetlLvX907SyLFCm3wvTTFQy2hy6LzOWl3oka2z4TLIGKGGPeZkEe081PF1ND7ZT8P-UMN4YbyBIcJ3KMZXcKmzXNuHxiZMDDnWppxT2Et9n7scWeXxNnEqWrcg1-AemJ3Vp9pB3TqTL98Cbg-uHY82Em2dRfdM9GW20k9XlPTK-yCSES6zidFZj-CjxvVqothl7rY0TSBz34DBJ-eNYMP_7KcH4vtMzvtngGrw.jpg"
-    ]
-   ],
-   "r": "Not relevant Real Madrid news",
-   "h": "🗣️ Gian Piero Gasperini: “Real Madrid have top-class potential."
-  },
-  {
    "src": "themadridzone",
    "id": 31143,
    "t": "Vini Jr has arrived. ✈️🇮🇹\n\n@TheMadridZone",
@@ -1004,6 +944,58 @@
    ],
    "r": "Just a player quote, no actionable news",
    "h": "🚨 Aurélien Tchouaméni: \"The team being criticized?"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31154,
+   "t": "🚨 Aurélien Tchouaméni: \"We haven't played our best football yet, obviously, and there are many things we should improve, both on and off the ball.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/CsZ-4twSUHag07u1VpcnHHR_VxNsy4rWrAHiEvJAP-_u6j1et8lS69DT9308tPVIO42GzPYA27okJpKYmP6OhmTzzr_SB-7urOwfZ8WfPJkGQciIqytfnHKLTVpo5VwrI5UeGpAuRdZFx5cv-vf1O2GMNy5yxKREgrlfVAQo6bcNoUk3hjstT9bkKwP-2ZWSfU8Z5FtzziN2xe3GataiJ8czZByOVwM6zCBassQD_z9XG6PJtbUUblpfdEUTY3CRNSc1hsxMuUk3fkarJqZwEboO8Xn473OIleio7_Mz4u_BdZQuwIfXpDCzeQQ5WxU9UFkGdQ3-AcUEIEkQ4YggQA.jpg"
+    ]
+   ],
+   "r": "Just a generic quote, no news impact",
+   "h": "🚨 Aurélien Tchouaméni: \"We haven't played our best football yet, obviously, and…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31155,
+   "t": "📲 Eduardo Camavinga to Ibrahima Konate on IG: “The Terror.” 😂\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/eIYkZEf5yfK535Vr_JncppHIcEF6GiUg-LXR9cdrV5v-AfmOysy3LWaHo9ZXxVSFkV9c67Aexn23pQzAkmpCQrD9OCavmyFDYPA54xg3A_tBMqaYPP7_0eWmWahgSZUl2a1GDWT2GgAzyE-udx-1jSiSMSj7wi9bGDDaIiPN3JHt1JbzGJdXu5Tb8zi6h4963okNEMiAj5TlJ5YZdv-RY5Yj_9xx3jlbmpCCL5O77DBFCBfv4Q5bMoTSH9PRHPKXTkU4joWnuVONZtkYVx7rQJIdewtJa31U1ptz2Q7zFxPeY3fj5WzxN_SukxGEEPZaAmiZ6ZuNr8A384Pj8_TRZg.jpg"
+    ]
+   ],
+   "r": "Irrelevant social media banter",
+   "h": "📲 Eduardo Camavinga to Ibrahima Konate on IG: “The Terror.” 😂"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31156,
+   "t": "🚨 Aurélien Tchouaméni: \"We always run less than our opponents?\n\nIt's one thing to run, but the thing is, we have to run in the correct way.\n\nThere are games where we didn't run a lot, but we played very well.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/DFV38c3o1kbIGMBSdeXRj7VXnekX4A6l-OZEvVQz2N_N1Z9Cjx3qMPZVs6-jrwtwe9W24Sh_7iuIfoG4HA2MiJvjN9lA1QQXuVc4roCsd2R_lQ7hhJTHP8T0-uhs6SHkvgIYl4r8asg4_rBfK_4vEGnNo2Mu5oSq3FO05J4uoDno9ER3a99grBt9JRkhP-mlPHi_svWWz-UFBZdAUb1LO64sK5yNMqI6OKZHhoNZRO2j2SFWMFzWHd8J4jM3ILIFcWzEaAyHjZmrol-bi-8v557BkG-kMbvIoQjUrpNXSkl1Lo8GqnjIZtn36oF1P_M6zcjNx_8gzOFlBv0KwsQUQA.jpg"
+    ]
+   ],
+   "r": "Not significant club news",
+   "h": "🚨 Aurélien Tchouaméni: \"We always run less than our opponents?"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31157,
+   "t": "🚨Aurélien Tchouaméni: \"What does José Mourinho ask me to do in midfield?\n\nHe asks me to be brave, to provide balance, especially with all the attacking players we have, and with the ball, to always look forward, and try to provide assists and score goals.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/VZkACUdHlW0CaJGnLhQT7xdCgNUzmJxXhq71NOb-pIlyP9UjOZ2BCdKsO7zGSmJ4v0R25m0GDZMDgfN4NeyrmjJHt3nahFWbhoFJ1zRRedDoSw2n4h-vp2uNMlOg67_2HxmduoC_Hn5DI7d5FLz1RXRnunqwnanNXnxfRYdRgazdMjl0h6tUa6sbZJfkO_ZJusii3ug39XNpzEowHoNEuUrWA8vvhRZ0cMCvMOobWdUoaf3M1A4-0G9CVHadyK7jvvnT--b8iM9vzrlPlCNcgiR-4JP-npu8gKd6fFYQQ8y4w_U2SmgJiopiFtmK1CGoN9xVNbivyxj9xy9roxU8gw.jpg"
+    ]
+   ],
+   "r": "Just a routine quote, not essential",
+   "h": "🚨Aurélien Tchouaméni: \"What does José Mourinho ask me to do in midfield?"
   }
  ],
  "summary_date": "2026-10-12",
