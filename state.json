@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59221,
+  "real_madrid": 59223,
   "themadridzone": 31194,
   "FabrizioRomanoTG": 67252
  },
@@ -958,8 +958,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 107,
-  "tokens": 175439
+  "calls": 108,
+  "tokens": 177039
  },
  "pending_fb": {},
  "feedback": [
@@ -1181,14 +1181,6 @@
  "skipped": [
   {
    "src": "FabrizioRomanoTG",
-   "id": 67245,
-   "t": "🌕🫵🏾 Aurelien Tchouaméni on Ballon d’Or: “Kylian Mbappé”.\n\n“If not him, still a French player like Olise or Dembélé”. https://t.co/XXR84u1VRl\n — Fabrizio Romano (@FabrizioRomano)\n Oct 13, 2026",
-   "m": [],
-   "r": "Not club‑related news",
-   "h": "🌕🫵🏾 Aurelien Tchouaméni on Ballon d’Or: “Kylian Mbappé”."
-  },
-  {
-   "src": "FabrizioRomanoTG",
    "id": 67248,
    "t": "⚪️💤 José Mourinho when asked if the harmony is already over: “Before the games, I sleep like an angel. After the match, as always, I don’t sleep”.\n\n“On Thursday morning, it’s a new day.” https://t.co/GWDC6uJ1Jc\n — Fabrizio Romano (@FabrizioRomano)\n Oct 13, 2026",
    "m": [],
@@ -1375,6 +1367,19 @@
    ],
    "r": "duplicate of earlier quote",
    "h": "🚨🚨 José Mourinho: \"Endrick leaving on loan in January?"
+  },
+  {
+   "src": "real_madrid",
+   "id": 59223,
+   "t": "@UEFA_Champ_League tomorrow. ⏳🌟",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/MW17pO_X2Q_wOKwwxYQhOqG_BZPBTlPc_paxJ1Go0nmnbbqzk91yPIHeDuWeYBCsdj0Mky6-_lc5YxyLV6__SCFZiQlWT8_3Pq0SgLsCsd_PPKuoS_cr1Mi4G8qE8Vw6BuI1F7BAYhx0Ixfjbc4By5mcUQCGZXGdB-_DFj4UQlgSfiwlvLby0D730VmrACRXym_BpgYwrN9fUjVQuLOVAsSey0IHW6vB1fWxzmMCJDr7-DM-PW0hg5SpMlF7eqDn3XkTXY6E6ifX8xyT-Fc18eSRc_g7B3GF9Mw36P-SFXm3LEeIXZdOaTwwGBGa5OmDEEkNdKFKfwWRdgy2fxPKlw.jpg"
+    ]
+   ],
+   "r": "No Real Madrid specific news",
+   "h": "@UEFA_Champ_League tomorrow. ⏳🌟"
   }
  ],
  "summary_date": "2026-10-13",
