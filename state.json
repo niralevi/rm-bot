@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59218,
   "themadridzone": 31174,
-  "FabrizioRomanoTG": 67244
+  "FabrizioRomanoTG": 67245
  },
  "sent": [
   {
@@ -642,8 +642,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 83,
-  "tokens": 135447
+  "calls": 84,
+  "tokens": 137081
  },
  "pending_fb": {},
  "feedback": [
@@ -865,19 +865,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31155,
-   "t": "📲 Eduardo Camavinga to Ibrahima Konate on IG: “The Terror.” 😂\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/eIYkZEf5yfK535Vr_JncppHIcEF6GiUg-LXR9cdrV5v-AfmOysy3LWaHo9ZXxVSFkV9c67Aexn23pQzAkmpCQrD9OCavmyFDYPA54xg3A_tBMqaYPP7_0eWmWahgSZUl2a1GDWT2GgAzyE-udx-1jSiSMSj7wi9bGDDaIiPN3JHt1JbzGJdXu5Tb8zi6h4963okNEMiAj5TlJ5YZdv-RY5Yj_9xx3jlbmpCCL5O77DBFCBfv4Q5bMoTSH9PRHPKXTkU4joWnuVONZtkYVx7rQJIdewtJa31U1ptz2Q7zFxPeY3fj5WzxN_SukxGEEPZaAmiZ6ZuNr8A384Pj8_TRZg.jpg"
-    ]
-   ],
-   "r": "Irrelevant social media banter",
-   "h": "📲 Eduardo Camavinga to Ibrahima Konate on IG: “The Terror.” 😂"
-  },
-  {
-   "src": "themadridzone",
    "id": 31156,
    "t": "🚨 Aurélien Tchouaméni: \"We always run less than our opponents?\n\nIt's one thing to run, but the thing is, we have to run in the correct way.\n\nThere are games where we didn't run a lot, but we played very well.\"\n\n@TheMadridZone",
    "m": [
@@ -1056,6 +1043,14 @@
    ],
    "r": "duplicate of existing rumour",
    "h": "🚨 CONFIRMED: Real Madrid are growing more and more CONFIDENT that JJ Gabriel wi…"
+  },
+  {
+   "src": "FabrizioRomanoTG",
+   "id": 67245,
+   "t": "🌕🫵🏾 Aurelien Tchouaméni on Ballon d’Or: “Kylian Mbappé”.\n\n“If not him, still a French player like Olise or Dembélé”. https://t.co/XXR84u1VRl\n — Fabrizio Romano (@FabrizioRomano)\n Oct 13, 2026",
+   "m": [],
+   "r": "Not club‑related news",
+   "h": "🌕🫵🏾 Aurelien Tchouaméni on Ballon d’Or: “Kylian Mbappé”."
   }
  ],
  "summary_date": "2026-10-12",
