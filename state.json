@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59218,
-  "themadridzone": 31192,
+  "themadridzone": 31193,
   "FabrizioRomanoTG": 67252
  },
  "sent": [
@@ -958,8 +958,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 103,
-  "tokens": 168522
+  "calls": 104,
+  "tokens": 170184
  },
  "pending_fb": {},
  "feedback": [
@@ -1181,19 +1181,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31170,
-   "t": "The best GK in the world is here 🦒\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/UcLDSA6DoWM7henMy1hLQj9HYZMbmR-O9kY4NU3njWxR4JuT-8ZrZ700cR3tnRsHNeJaIY6CjkYeO3td7-OdOxxvHUbTfeoul9HZHPFV9bCaJN9LSc291T5PHZJBan9l65XIcVGDtfws_AJTBplOL6HQKRsD58cE88ZKGeFikcKufNTFq_5pW8aCOdANNsOnre52soktzMy0s7hQNK_sHi-F7b7GvCtHPZMB6AmMLkQeQoT1KG0D8_g8FZGRBzBSmSx42-sZCpE3BYu1quceq-M1b5FzwQbEM7fHCGsEnJwfeP2UaJt8WJ_zTpWRC-4gaM6z21oGH273ViINFqveEQ.jpg"
-    ]
-   ],
-   "r": "No concrete Real Madrid news",
-   "h": "The best GK in the world is here 🦒"
-  },
-  {
-   "src": "themadridzone",
    "id": 31173,
    "t": "📌 Charla interesantísima con Carlos Rodríguez:\n\n▪︎ Grecia\n▪︎ La Fábrica\n▪︎ Pau Quesada\n▪︎ Kroos\n▪︎ Entrenar en el Bernabéu\n\n\"La capacidad de Modric para girarse con ambas piernas me parecía increíble\".\n\nY muchas cosas más en @RMadridistaReal.\n\n@TheMadridZone",
    "m": [],
@@ -1366,6 +1353,19 @@
    ],
    "r": "Not about team news",
    "h": "🚨🏗️ The new logo at the Bernabéu. @diarioas"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31193,
+   "t": "Getafe introducing Dani Carvajal 🥶🏆\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/jU9BcRKyGLNnRQRw5AjcMvT-po6Fz6vRbZXPJ6_SVO0mv4qrap2Rv9wn_Ae0YlVAb3-PmM99o8n3nmJaME6aTKVw8fcak-MGc3zDNb9ugtRUGHJnmVFHteEgvjlaa5YV0vm4T1f1cRa1nH7kONXBV2CtniAalAOclvgjdQ6A2y9As41bmJLSznmSs4ni5VEF2je_hT_jRA9He4ruD5Y_LxZ4Rylm7OZfk2hjkHpN4z1p0hDE1LrPmtVs95l4-PHcxm2Dej8uPHJlwhBo2NUwRc5HGDEMgZkMPizo1AAspkLifSMLV9qEwKc6ZIM3xZXMMRSaz8sw6ffBwDw8YnLFPw.jpg"
+    ]
+   ],
+   "r": "duplicate of already sent official transfer",
+   "h": "Getafe introducing Dani Carvajal 🥶🏆"
   }
  ],
  "summary_date": "2026-10-12",
