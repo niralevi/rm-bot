@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31196,
-  "FabrizioRomanoTG": 67263
+  "themadridzone": 31197,
+  "FabrizioRomanoTG": 67264
  },
  "sent": [
   {
@@ -951,6 +951,44 @@
    "status": "fact",
    "headline": "🚨 José Mourinho: \"Will Vini start tomorrow?",
    "link": "https://t.me/RealMadridImportantOnly/168"
+  },
+  {
+   "ts": 1791928230.6188052,
+   "date": "2026-10-14",
+   "tokens": [
+    "bellingham",
+    "courtoi",
+    "cucurella",
+    "dumfri",
+    "expect",
+    "guler",
+    "huijsen",
+    "konate",
+    "kylian",
+    "mbappe",
+    "roma",
+    "tchouameni",
+    "valverde",
+    "vini"
+   ],
+   "names": [
+    "bellingham",
+    "courtois",
+    "cucurella",
+    "dumfries",
+    "guler",
+    "huijsen",
+    "konate",
+    "kylian",
+    "mbappe",
+    "tchouameni",
+    "valverde",
+    "vini"
+   ],
+   "cat": "📋 Lineup & Squad",
+   "status": "fact",
+   "headline": "🚨 REAL MADRID EXPECTED XI VS ROMA:",
+   "link": "https://t.me/RealMadridImportantOnly/171"
   }
  ],
  "offset": 769011995,
@@ -958,8 +996,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 2,
-  "tokens": 3319
+  "calls": 3,
+  "tokens": 5004
  },
  "pending_fb": {},
  "feedback": [
