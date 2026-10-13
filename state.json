@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59217,
-  "themadridzone": 31149,
+  "themadridzone": 31153,
   "FabrizioRomanoTG": 67244
  },
  "sent": [
@@ -581,8 +581,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-13",
-  "calls": 59,
-  "tokens": 96157
+  "calls": 63,
+  "tokens": 102688
  },
  "pending_fb": {},
  "feedback": [
@@ -803,62 +803,6 @@
  ],
  "skipped": [
   {
-   "src": "themadridzone",
-   "id": 31049,
-   "t": "🚨 Thibaut Courtois has PURCHASED the GK gloves brand REAL. \n\nThe same brand that supported him at the very start of his career.\n\nHe debuted his own gloves against Villarreal.\n\nWHAT A STORY. 🧤\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/lOXYseY-x8_8JJfafudTFw2io_wuz1RRUtdtzuWNoT3f5nQkQZaC3sPuKCrKcLxC-CQUDsinX7gIqUot51U_geCIhkEqNUfJBuiI8HFwv9rDwPv9U_4djbA8Se5Eamdr1xCkjok_tp6moqs4NaAh2u77dTvKp3Hki_YgXmMnGBGOpWUP7Ehqv00Teq6zBsNqmeMvCD6sBoTxdxsDKLz2V0x6MSB0rBvQkGbDIHfJIjnkJu3NebwshiswNcziXEiLfXyq6zmikG2u_e4fUsqQwRJ8jIt_VYs86Nu3qQRsMKdYPUR6zYua_jWgY7c6gnC6bDTYMkhciaS9F2vkeSR_1w.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/qpOYRQdGcVUbU16LmquXUjGIh_VIWXLu4o6wr3fz6mvPXUy6FjdXCV6OgfYKITHuMZ7ljUQJB3CDDTxmRh0HREBHTR4TCODBdZe894Ucv4kzPz9YQbhgj5Sr7rx0w39qXCqw6YMm2ymMIUNL6XrE23-OUwSN_nd4n-w7V6Lg2CNUsfQFajAD0M8GeP3qVVbGbqZebnJinD3wyYZgIcThAmTuZ2Ys2yceOPFjxJkp30ru-Zzmev8UBjc6h5ck2hR7-E3pBCQZgbYtKY5q3hEPLumO24qDhpXa9vPmXX2y756UzD9tXWf876a5n26oXxX5ByyT0DvnUHrdzm76UwMazQ.jpg"
-    ]
-   ],
-   "r": "Lifestyle/brand news, not relevant",
-   "h": "🚨 Thibaut Courtois has PURCHASED the GK gloves brand REAL."
-  },
-  {
-   "src": "themadridzone",
-   "id": 31051,
-   "t": "🚨 Álvaro Arbeloa: “Can I handle this pressure? Maybe they don't know me, but I played for the best team in the world. \n\nI've coached the best team in the world. \n\nMaybe they don't know it, but just so they know, pressure has been part of my life since I was a kid.\n\nI never worry about my position. I don't feel fear. \n\nYou can't be a coach if you feel it. You have to work, make decisions, and show confidence to the players. \n\nI'm very happy with many of the things the team is doing. I know it's not easy for them.”\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/JrT0Sw1Awx4iL_6HKl-wmstzJ-KHfac1E8QhHv2g5psbtYYhOJlbhnM5fy2EJbghi9qCzDYR2PiMHacbcScY_wR1JPj7qDG1O7PblD8sBtmPFkHySOA5ILHE5fUKFuNluPuU9Cv13ecahi4r9Yd0FdpFoBuuZO9IJ082AOxms2SRon27a9Z47rx8SG1nYMkutRvyC9gu487iPOZV3IAEP8Z8sKWDgJ6YjLLzaRQvPIKnCC9bD8S-qzxHZFs-uqwHwwk515sSsJjRTP9MtYN_YN8Q5eowZmfWjzagfPiazIXjkpnyPpiPw64Wc3CWlgZ06rEquRIYg20ys9i9nn54Hw.jpg"
-    ]
-   ],
-   "r": "Just personal comment, no actionable news",
-   "h": "🚨 Álvaro Arbeloa: “Can I handle this pressure? Maybe they don't know me, but I …"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31135,
-   "t": "🚨 Aurélien Tchouaméni will speak first during today's press conference.\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/rIBgPyE3wtt3lqU4TB_T_409vh6rZXQxOwEGtJPb7e2NrVoc2hQ7rrF_tNai1F-MALmxnC35icEA0UyNRmKIYE77P8MRMKq5zznMWIXRMTqf_f6mkQay5ixBmsBHHpJrRS2Pe1db2UN_mc-33Qbg98qXUkKay7YaiU-QUf4hBBRWqOYt11BGtAzyoCf3ZmpE53cHFGc8UBl_DHR2X66iQFXo-0xcv1Iz0JtmQM6BGwMD9YTRHW81lQm7BrMu9wf6Cns121UvM6G5tC5gVwiFoSHQZcyJuIzP5fT5CDSnDzgjjXZ5E3dEcWMk-MQuHAHSNq8OFIrKwpeQu21LWr18WA.jpg"
-    ]
-   ],
-   "r": "Not significant news for fan",
-   "h": "🚨 Aurélien Tchouaméni will speak first during today's press conference."
-  },
-  {
-   "src": "themadridzone",
-   "id": 31137,
-   "t": "🚨🗣️ Karim Benzema: \n\n“Toughest away atmosphere? Camp Nou. \n\nIdol growing up? Ronaldo Nazario.\n \nBest assist provider I have played with? Mesut Özil. \n\nGOAT? Ronaldo Nazario.”\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/jeIQCMQ_4QKQ4MNOpz0wpEh_uqvC_-vEFfJNsYZ27Kg22zRMZfUR8SKfcmwtooiR68qlpNWK6I7pfLy8b2U9Zvzi5vIyQ6D6r0120zEetI_YS8Oyk19dXhwWshFkCXX17WLmFIsbCHHfQHgv8nPFbe8UNP0Zsa_MVyculibB787lkTdDqi5X2EzuVmo2BaZnSdJsLqgUN0ehlJJliwzdfDtgWLd---TY8pgdVn4xJvLQmPdRPAYcmqTJgIQ1jzt_JJ-A1hKRTN5EmTAoRJw-_aGxr-wB5IPYYVKBXjMZhYjccc3zNQMPyrOORb6MLuw_-9iZTFLqW2Q6D6vQN82f_A.jpg"
-    ]
-   ],
-   "r": "Just player quote, no actionable news",
-   "h": "🚨🗣️ Karim Benzema:"
-  },
-  {
    "src": "real_madrid",
    "id": 59217,
    "t": "🚨 STAT: Real Madrid’s G+A leaders this season so far.",
@@ -1008,6 +952,58 @@
    ],
    "r": "Minor squad morale quote, not essential",
    "h": "🚨 Aurélien Tchouaméni: \"The relationship between the squad is VERY good.\""
+  },
+  {
+   "src": "themadridzone",
+   "id": 31150,
+   "t": "🚨 Aurélien Tchouaméni: \"Do I think the Tchouaméni-Valverde is enough?\n\nYou can ask that question to the president, or the coach.\n\nI have my own opinion, but I won't talk about that.\n\nI'll talk about tomorrow's game.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/aLXVI8CSS09Pevk2Mxh7TdHNxnD0zRHulfZBjyHCfpuWiEodEehjjABSHPJZ0h38v9AHyHqMfFlUPry2FOpb2NiuPnXYqLIv-RNk9MBTUZkHF0H1900NaZShQUZgUqDgFAgGl8PhqTUFvMuN0lK6sVHZOi0YQzoX4G6mMdwruTT0MwoVDSwnY5Kgq70bDPxZkUjWP85gSp8gORxS2-AS_UqmfPelSus3jKiSsRt8Z4eB9DFG6MTRznfnN7Q20x06AkXwV7_ZgO0uCh9EgqTtOAf7mwosUkcZyMhLAQ3ukV81SWQxN19-reb5p2937PZJGpxkHFkyi06gWYL8J_FOPw.jpg"
+    ]
+   ],
+   "r": "Just player quote, no news",
+   "h": "🚨 Aurélien Tchouaméni: \"Do I think the Tchouaméni-Valverde is enough?"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31151,
+   "t": "🚨 Aurélien Tchouaméni: \"Do I think the Tchouaméni-Valverde double pivot is enough in midfield?\n\nYou can ask that question to the president, or the coach.\n\nI have my own opinion, but I won't talk about that.\n\nI'll talk about tomorrow's game.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Mf6ORFmENeLvBPHj94KIBakDEL-U3dKdUCylAq3NcBsaDsgiIGkvNu1Fw8Vj0N-PVt3p4FdwODtV70ZeUskPVDW9ye-v17gmqkOEXduxiah82VawqqcN9AfGzrTMkzS_dDEVI3S2VvlbD4rsJCdH-fjnNb2aJGYtDFAnKM03AzsifurVfH37tKWNGK0pcMLzsO1E0b_h69MN4mXbrZRWUK5iw-zf71rijjcBzaynD5Hy1BhqTFq8Er4pS0BX4mP3EcbBR6_Z4uF_cweH26S_iER3yn1_QYbErcVJtl5ptHsJBG17_EoG0EDh5OKt95A6ctptmrv4I4gOH5Aoz-SV0Q.jpg"
+    ]
+   ],
+   "r": "no actionable news, just player comment",
+   "h": "🚨 Aurélien Tchouaméni: \"Do I think the Tchouaméni-Valverde double pivot is enou…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31152,
+   "t": "🚨 Aurélien Tchouaméni: \"I watch Roma all the time, they are a FANTASTIC team.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Vb8mCrOar0o5DxaAKy7HOxu6lCHaqvrlx6hsQqom4X5YZQJhgO9D2cs-3D6qV_S9Xli0xzA2vCoSNtg2CCQjiqq9byNJaZagAXoG2D3oJVFuh7pZAMeyEfK5_svPulBQKG2jNLepOA_OFPkGUE5czLQ8-ES4x_e80tp8d2iXRPy2ADqKyQVr6bn2cA_1btQTfoy4Is8sZVILq3eRKeGLU8VEt8iCTPL-A4qR4lqRgS-zvYpXLT17iYd28o0_Ga82OqtOCIuvm6hEyv1RZWVVpHXQBy4W7f_o1mitaeyobfEbvXwNUnmXJgEnfQNcs-YM3ZH4PfDaULhqB5UeOXTGdg.jpg"
+    ]
+   ],
+   "r": "Irrelevant player quote, no news impact",
+   "h": "🚨 Aurélien Tchouaméni: \"I watch Roma all the time, they are a FANTASTIC team.\""
+  },
+  {
+   "src": "themadridzone",
+   "id": 31153,
+   "t": "🚨 Aurélien Tchouaméni: \"The team being criticized?\n\nWhen you play for Real Madrid, you'll always be criticized.\n\nWe need to focus on improving what we can improve, and trying to win titles.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/svo6VmNBJP2IZLAZjuRHDlwnUzLUmdPJ-Bpmzxqx8cJyxgnkVkfQ5m6Civ_TiCnYy9d9FR-esS00bKQqkvCyFQlvJt5dWk4YUzpLEZSYGokwCf6TJjT5vrvEHK7eksnCRw6DwQp5qv34OFE3bY9tmt_r2fX2ah5eZpDYNA__lDX816qBboGr5QQRXD4JbR34VhRvHNj7SaUMUWlrQaDOY4vrrpDaIdqQxkcTvsVRk04cWM-ljH3wT8TTyoWP3tdpBSH9qiltCU3vXQ8YnMNYh9QEgYz7UATaXSPPNv8_aFKBqtP1kerrewLu89JNq-vNnyNR76f4la2v1nTMx1RFnQ.jpg"
+    ]
+   ],
+   "r": "Just a player quote, no actionable news",
+   "h": "🚨 Aurélien Tchouaméni: \"The team being criticized?"
   }
  ],
  "summary_date": "2026-10-12",
