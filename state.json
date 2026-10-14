@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59225,
+  "real_madrid": 59226,
   "themadridzone": 31277,
   "FabrizioRomanoTG": 67293
  },
@@ -913,8 +913,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 65,
-  "tokens": 107778
+  "calls": 66,
+  "tokens": 109440
  },
  "pending_fb": {},
  "feedback": [
@@ -1136,19 +1136,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31262,
-   "t": "📲 Ibrahima Konate on IG. ⚔️\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/tEvPI8qI4Dtx_Qv-NNMDjsYje6IPwKedJMEcyIZq0wEmAFke5wVvZdflvBE8XyAnIU1JFBFRW8nW8E2grCMzquz1r8_LplPuETtxHWiAU-iZBwOBEw5Kof1J3TztooBeJMByqjs93prKERTnWS956WjYeAPD-uMONmafPaVRQX8a-FaCKMAuenVyXy2HkDYlML4UydW13VW3tQW3IRyOpOtEKYLYQf7GKwQy50YOboOkjO9xSvfpmDwMs4R8CWKtAApeIMwnIReMJz1kfSKNurzMoOVyP6kMUGgC4y-9_IcqmfUyNmm1EHYqyQaELJHZGfJ_ZxDjwpXUZ4XRZlCTgg.jpg"
-    ]
-   ],
-   "r": "Irrelevant lifestyle content",
-   "h": "📲 Ibrahima Konate on IG. ⚔️"
-  },
-  {
-   "src": "themadridzone",
    "id": 31263,
    "t": "🚨💰 JUST IN: FIFA is proposing to INVEST over $6 BILLION into football between 2027 and 2030.\n\nEach member nation could receive up to $25 MILLION, compared to $1M in 2016.\n\nOver $3.5 BILLION would come from FIFA’s financial reserves. @TheAthleticFC\n\n@TheMadridZone",
    "m": [
@@ -1335,6 +1322,19 @@
    ],
    "r": "Pure statistic, no relevant news",
    "h": "🚨 STAT: Jose Mourinho has faced a team he formerly managed 27 times so far."
+  },
+  {
+   "src": "real_madrid",
+   "id": 59226,
+   "t": "🚨 STAT: Out of the 5 matches in which Real Madrid have received the most cards since 15/16, 4 have been in the last 2 years. [Sofascore] 😬",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Avu9NpIWwxCWHmyTcG4AFksXWZZlZwlxB7fr9Yb8LYTulAMPh2tqbRo2BNGo1vtOdNtliYnSwjcr60h7k_yLZws0QPvu663mcpKBOQbxAbwRwvWu4n2rVTAQlk6S3r2GRs2sLqRD2MjuL0zh4aFw0cNcjxk_irureqUHUjPA8sgIHiYv4lv89eL_d7n9OHm4ObtlJ7q_saL5Akj-CCnfDCXBenosh-oMiz5nZljcOuuzjl3OmB1kAxyI0zj0KocElGLNbMVlQAoqOXd1fS9_xBFmwNwbC9QHV6m0hxIWTY6inTWUznMQasW3RkSsKCC31uwCqBRKc7bK_wVwzj5pNg.jpg"
+    ]
+   ],
+   "r": "Pure statistical list, no news",
+   "h": "🚨 STAT: Out of the 5 matches in which Real Madrid have received the most cards …"
   }
  ],
  "summary_date": "2026-10-13",
