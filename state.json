@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59234,
-  "themadridzone": 31321,
+  "themadridzone": 31323,
   "FabrizioRomanoTG": 67301
  },
  "sent": [
@@ -1561,7 +1561,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 96,
+ "train_seq": 98,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2208,6 +2208,42 @@
    "ch": [
     196
    ]
+  },
+  "97": {
+   "t": "Vinicius Jr 🚀\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31322,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/ZhEuZCCPgzsxFQ-U782ZFYQQmQIJuYaHSVOu0kPQ4hTBNaqoTmRVYFSVemSoNoJlfXuezJ7fktl1Ruu8tllMBXul_TVsJhAPOQ9bvflP-tSvJuuwhTbDzlSAVCGs1LJsykw-CBziEUC3EDtf8-LTXytmKdRBTnLAQUNOno8Bfi6vmSYJcsGwS6ktltfrNdUMCRR0XelfCc-uEAq39CMtnKVcOdLHjWi2A6c17pzLaPGdXk_fXvNem7u0rmdpPC7IC6ymPqeFp3YqNLEMgM60zmHebmXuOK9y_mpxCH-WdFopZF_xdMWhFDf3L0lJPs7s6b64FSagL-ebkKR1VVhK8A.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    197
+   ]
+  },
+  "98": {
+   "t": "Yan Diomande 💎\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31323,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/b67iGM3_81i__wHMKP72hvSNkf50K3bouqjs-PiZNp5-IuCYpTmdMB_xJ7J-Im07q_709cB3tYyehMv__Txr7_a2CsI-2zXxOiFxBOVIBceqLI2cgY4seHoX66pCZd4l9zsEYVcsz-_9zIjoa8C0VS2l1XN1C7ExfQN-D2cbhedVTzUNOFXKRZjRpLm856H_m_Vn-weUsr6F_bHO7eS8Lz3hfA7iDhW1XzYHnlDSjD-wmKwtv-Cvw2aZdmiJm_M2zJYg2LU6VUIThtwVdfM8dtPO_6e1lKSavUntYxcyraTAFSEW1Othl4sQWdHoxpD-MzNtis25A831oWW8ii1Mhw.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    198
+   ]
   }
  },
  "train_stats": {
@@ -2275,5 +2311,6 @@
   "📢 Official": true,
   "📰 Other": false
  },
- "health": {}
+ "health": {},
+ "limit_alert": "2026-10-14"
 }
