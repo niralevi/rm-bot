@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59228,
-  "themadridzone": 31286,
+  "themadridzone": 31287,
   "FabrizioRomanoTG": 67293
  },
  "sent": [
@@ -1000,8 +1000,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 73,
-  "tokens": 121318
+  "calls": 74,
+  "tokens": 122913
  },
  "pending_fb": {},
  "feedback": [
@@ -1223,19 +1223,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31269,
-   "t": "Back in action tonight. 🔜\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Gpp7BgyLnhbTsLCM7BmSL4XbEzCuW9S8b6CZhnuUgYbQzzZ4a-AEQNF5Dg1FVSrlIRm1yxPmQQKNPYQnpfS7kW7P9YGMkG2tbeD03fQDX06h8wF9ZBUSPjtFBCpceD-GQAeGs1hSNZYxhMKkOMi3ps0Gd8HKPdCT20ENUwkl52sA1GzAcUtf0CtJez3CVWv-5Dfn0nWEt7JjIFMEB_re6EUaxqAglvq1J9Reby7Jjgdoeqrd3FW8WVRdT88vQLtxNiM31JtrmbpH92FLHJvnXG2KEIiGHCvk20n2WPxKoD7ut_8V8KHdDwMKyXZb3KRTYBXMhKkTVdCI1DRUUDqbPA.jpg"
-    ]
-   ],
-   "r": "No substantive news content",
-   "h": "Back in action tonight. 🔜"
-  },
-  {
-   "src": "themadridzone",
    "id": 31270,
    "t": "🚨 Most valuable players by birth year. @Transfermarkt\n\n@TheMadridZone",
    "m": [
@@ -1418,6 +1405,19 @@
    ],
    "r": "Minor anecdote, not newsworthy",
    "h": "🚨 NEW: Vini Jr told people close to him that he did NOT intend to grab Saliba's…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31287,
+   "t": "🔙 Real Madrid vs Roma, 2016.\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/aB0x2gZA32ZInKAMeuuR3XK_zeu480dBYNe7van6N8JQXj3ByRIh4xZ3OUfuy-46_yu8FYz_VXJVZY0dorZ9eAiVaOc55Wak8yVocNddtZtuPWWBfhptr_iTtzUI9-fFPKtBSDNy8Hn9RbehZfcxUEJw1iWLHFvufrZDPeS8iPXFWU64Rg0FxpLLjePjqkvhlmFfMm9piI_A6y12lGIkdPmke2eNNDVDvooJHh3rKCMstGS0do-08pJhFwduXw8xFTEtnKgICXFL2zq5znB5dX8esCkSqPeP7j6NGo4iL-AAGvVPUe9BBMMU1pND85aprhFBGQFtc59ByiQ31GPptw.jpg"
+    ]
+   ],
+   "r": "Throwback, no new info",
+   "h": "🔙 Real Madrid vs Roma, 2016."
   }
  ],
  "summary_date": "2026-10-13",
