@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59262,
   "themadridzone": 31471,
-  "FabrizioRomanoTG": 67320
+  "FabrizioRomanoTG": 67321
  },
  "sent": [
   {
@@ -1767,8 +1767,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 78,
-  "tokens": 122540
+  "calls": 79,
+  "tokens": 124230
  },
  "pending_fb": {},
  "feedback": [
@@ -2195,7 +2195,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 256,
+ "train_seq": 257,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5519,6 +5519,19 @@
    "reason": "Just a motivational quote, no new info",
    "ch": [
     402
+   ]
+  },
+  "257": {
+   "t": "🚨 Vinicius Jr: “It was normal [to be unhappy with the change]. I want to play all minutes and help the team, but it’s not possible”.\n\n“Endrick came on and changed the match. He was the best player in the 2nd half”.\n\n“We hope he continues to develop, Espí too”. https://t.co/WnuGjsTMZa\n — Fabrizio Romano (@FabrizioRomano)\n Oct 14, 2026",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "FabrizioRomanoTG",
+   "id": 67321,
+   "m": [],
+   "reason": "Just player quote, no news impact",
+   "ch": [
+    404
    ]
   }
  },
