@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31263,
+  "themadridzone": 31265,
   "FabrizioRomanoTG": 67285
  },
  "sent": [
@@ -930,8 +930,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 50,
-  "tokens": 82871
+  "calls": 51,
+  "tokens": 84560
  },
  "pending_fb": {},
  "feedback": [
@@ -1153,23 +1153,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31238,
-   "t": "Trent x Aurelien Tchouaméni for Adidas x FARM Rio. 🌟\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/XGHUXGLSFuOXqvVjbHCO73zJfuTAKCJGxh7dGtd0yw-_H8nrcwRY2QVJSO5gt8mNZip6KA-6AgYF_DQV-oILw34cl0nu0ZmgiAJgiMss5667L9DKlA_R0274y7CB3cdEOMeu0KYPrhibO-MFsb_rkrLkUhg_rkLqjuNVTGZc2WDw4_1d0CveTu-Zt7dF_SbEdonV6gBLRq-GevEYzs_SseJVlYQfo2VgWfGWVcwbhnw1L1VTQujXlWOHBx46qVy30bvrnBwRWXJ1axX6es7DQ7Ky71uSjcnhwUxQqoxGF5_Xe-GZxja5jGGGoAl4EffFi4ywABNZj1b39z69bN_shw.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/K-5Fgp9gWkDuC0R9G5XfGDG9HSGsqrL__acewEqwMkXuPPOxQ2TEOziWvgVGuuPci5hX5Ko8eau-ozoEWplfjHutCVJdNTuY4dY_mkcEGmkcIrDCvNtekUYeB6Q1a971VMLBqp1cNaqymJQ4E0ST0ziJepT0EO1_buB0RnX4Vuwnat4K0N9lb05lyrUWL4sUaFMtXxX51Xc_XtyxveR3v8-g6swI0h6H2K2-OYiOVaCcFXvU50rQU0Xe7lj87ku_RmRm0ZlWcYiXm0sXzqK2vVRwo1P4kwzbZZdbDvGjDm97agxHkExfGUZBv0Dt7k6dRrx4T1mUDjDaHYMfFI1rRQ.jpg"
-    ]
-   ],
-   "r": "Lifestyle/advertising content, not relevant",
-   "h": "Trent x Aurelien Tchouaméni for Adidas x FARM Rio. 🌟"
-  },
-  {
-   "src": "themadridzone",
    "id": 31240,
    "t": "📸 Jude Bellingham x Adidas x FARM Rio. 🥶\n\n@TheMadridZone",
    "m": [
@@ -1389,6 +1372,23 @@
    ],
    "r": "Not about Real Madrid",
    "h": "🚨💰 JUST IN: FIFA is proposing to INVEST over $6 BILLION into football between 2…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31265,
+   "t": "🚨 Antonio Rüdiger, Dean Huijsen and Jose Mourinho RETURN to play against their former team AS Roma in UCL tonight. \n\nReal Madrid have a 50% chance of winning on @PolymarketSport\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/PzDCThRdDreIERQ7fU61idSmrpmsj4FzF3XL0Wil1u8rGYRh6YlqzqrUMsmbRkRpqQcb_f2QbexIuC5tpSSOb_g1UR1zefMw31tcSV4RN7LmYZTkY1aGf1jlzMOtKFk9X7mboBAKFp6lGQEZ7l1iIKd08BDhEQbIeqM0iKjBn9lQ04VxPccIB0G8uIYGhBYrTRcPoKb49pk14R-6QlugibhFUVKjyIUxkygwZ5F4OV1kyS1VzJqWnZx1DvnL2fFgGVQsIFjLjerLEX994YU1XHg_UtjHLIQGNVRF1mErFHGBkVhwpkn8o5iLEfk7_-dM9KIJnh56MyWl30Gr8Rk42A.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/fGJkFzbcPoh7CJflW27_KB0iqRY_HA3qfHqy65PNnRqTA2kQkFIfbworcM6C8mz-kcMrUNcQn-KqpZU-6ZXTNKFoT0Ou0Qsei2fq-5Enb_O9Nf-JdBEKP2lViAVDGhxDswRTibbOGAOQMb2Y3z56-IcqmdeKzzyoBgkaIHB5pqD8UjeED4SSAED_Qcw88imp2yzuAMywnuW3NbpDn9MgElji4D2vJE6wBfLCai4Qk94qFsfnl2v2RvLtkek28TvDGAE7Yx2JHe1jeXVucGaR6KFtc-mPoVlW3KSdkaHiuys8dqvYLj-Cjo9PlvO_9BDVhbYiLwB6iHkLArat0ZKd2w.jpg"
+    ]
+   ],
+   "r": "Unverified lineup rumor, not official",
+   "h": "🚨 Antonio Rüdiger, Dean Huijsen and Jose Mourinho RETURN to play against their …"
   }
  ],
  "summary_date": "2026-10-13",
