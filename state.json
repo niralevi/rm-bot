@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59228,
-  "themadridzone": 31287,
+  "themadridzone": 31288,
   "FabrizioRomanoTG": 67293
  },
  "sent": [
@@ -1000,8 +1000,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 74,
-  "tokens": 122913
+  "calls": 75,
+  "tokens": 124503
  },
  "pending_fb": {},
  "feedback": [
@@ -1223,19 +1223,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31270,
-   "t": "🚨 Most valuable players by birth year. @Transfermarkt\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/FVwemt0JpIBiWgEtsVWMrfdZjnBti1ppSBU9WoI1-_tNgevZo8tQHiN0dR94RcsLuYmUnIePdFiN5ZZjUtITwsMJtrs65C3QKYjYwm_EV2h8S4i6aYkyh6P2D6KXwBhnUMX4MwXOvNiEuO_STZhQPI_gmCX7We_4atnI8AXl7whdNxDNCI_tqA1lW_1WgPYkWZ13qk4iy_TlIuC-IiSJtQDt5RZJzyTgeagNBBeAd60FYF-0DzXD3163ippQpgrBFxIzTwIKLh2-J0mn6wv_Bwn8dGCqwKJ2E8YKT6RGz6OQ1arYchTe7pH-AdSQUjV8CvEEGbdzjOUF7PaArd-p-Q.jpg"
-    ]
-   ],
-   "r": "Pure statistical list, no news",
-   "h": "🚨 Most valuable players by birth year. @Transfermarkt"
-  },
-  {
-   "src": "themadridzone",
    "id": 31271,
    "t": "🚨 STAT: Kylian Mbappé will make his 100th Champions League appearance tonight! \n\nHe has scored 72 goals and provided 25 assists in the competition so far.\n\n97 G/A in 99 games. 🤯\n\n@TheMadridZone",
    "m": [
@@ -1418,6 +1405,19 @@
    ],
    "r": "Throwback, no new info",
    "h": "🔙 Real Madrid vs Roma, 2016."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31288,
+   "t": "📸 Screenshot your predictions.\n\n@TheMadridZone",
+   "m": [
+    [
+     "video",
+     "https://cdn4.telesco.pe/file/206acf8566.mp4?token=J_p4sA1LNLxsgYGmgjZgp7Ne3yGbl1cfrrkTogu9FHHfkiOWPNm86ZegEjRGszvRYjK1sRla-XsN6u1DQ8o7mFB3ZHQQQ7KYuZ3cIx9pKtxsJGltXDPw97B5vokJQ4PwFXO6jjXBBqt30WLdxfON5MZ8nMmZWlUdYJlYrKeVayx_Jt3Bs1kZ25ljxp9KFlXGwH4ggbUa0gHOOx0_n9YsQ4vdGg-fqC-SImQ-mDCLBG1azmiOKe-YK_c7MbMZz3GgsfdHf4DsVEMGWXjmqjNS7rrfbV6GlfatSUmv9S8iq7lzXoFwhNaxxFnofHjBwE2UycxkvKOzHjaYzwxvzokJ9w"
+    ]
+   ],
+   "r": "No Real Madrid news content",
+   "h": "📸 Screenshot your predictions."
   }
  ],
  "summary_date": "2026-10-13",
