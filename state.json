@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31259,
+  "themadridzone": 31260,
   "FabrizioRomanoTG": 67285
  },
  "sent": [
@@ -1069,8 +1069,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 47,
-  "tokens": 77804
+  "calls": 48,
+  "tokens": 79579
  },
  "pending_fb": {},
  "feedback": [
@@ -1292,19 +1292,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31234,
-   "t": "🚨📸 Real Madrid in Adidas’ new FARM Rio collection. 💧\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/afdyvgo6PlrPOiftyNCs24AHMfYOhOm3-0QFpzOK1kKv4YFPswqq4_xanZw4vAh8gFRrqTLZtxbU-9DYQLasZT-jddQff8DvYL_NTPk3dP5S6IO7Hc25KGdHZjxzheHgotg1E-gYut_JjFodk96ySnEcNthzUYSsBaaOC6vZ-muOgH4dL8MTCwbT7GWHIyj9sszPZX33A8K1vdKJWQxEHp169MRnJqpA5R1DIihV9CObSXxQAcIit5Wgm9tvgBN0iCT-HKTPRpdEHjN1F9Dxtn0KcXTQSzJRK0RszvZM_kVmAXFXLHx-S9Rd9ox7CxUw02xAQ8mjlAHqg9_C7S21hg.jpg"
-    ]
-   ],
-   "r": "Lifestyle promotion, not relevant",
-   "h": "🚨📸 Real Madrid in Adidas’ new FARM Rio collection. 💧"
-  },
-  {
-   "src": "themadridzone",
    "id": 31235,
    "t": "Viní Jr. in the FARM Rio collection. 🥶\n\n@TheMadridZone",
    "m": [
@@ -1524,6 +1511,23 @@
    ],
    "r": "duplicate of existing fitness update",
    "h": "🚨 NEW: The coaching staff think Bernardo Silva is doing well, but is not fully …"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31260,
+   "t": "🚨🗣️ @AbrahamPRomero: “When things between Xabi Alonso and Viní Jr. went bad, people spoke about how Alonso had to do anything Viní Jr. wanted, but it was NOT that. \n\nIt was about the most important player in the group leading them emotionally. This is key, and Jose Mourinho, just like Carlo Ancelotti and Alvaro Arbeloa focused on having a good relation with him, and getting the best out of him and the group.” Via @Ramon_AlvarezMM\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/hYia0fDugvl8kLSYT3Ygp0YVKTguh0k2MJDf7oDyNUutOJRrrn-yZr6ZsoBhHwKy9qb-72v2C3cmNuqcD-UOKpbQHS-0zFj-K6k0nB4kYggutu6IfW3XUCk6rh9guhuTGsjdjGerwYMF3aglHzl846OpJsrRg0n_9Xm7HNQvOedXwcLRsJCUbCz05rlb1iz4ax-ysStZbQflgPYxIQl-6M9Hs74B6dOM3xsK1p7JPbNx-1fAj2LZBmuAjw3NSabJf6av9qLE0ld7rZtfsV075lelwA8wSAdSN2nVqiBXae8cGo83BVb7cg8UPaPaRyGGGVTWDRydAZw9pTJgQmKEHg.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/PNZAkD13WUa2VXrNeX-egnJqH_sw6VNuPcgtm9PQxMlVbbzzq3bKQ1M9mWCCz27bpm43LwWsoddZm0VfEfvnYd5QBTIrKhBayjCup8z2aWjNKK2Vo925wFsmf_l9M-YJeI3rIbEXKeaOvYSKYBa3ZtdFCSmSd5-mRRSY0737JFPhSeW3l8MC_4l99E5qPybV5oz3bvyVGx2kldnfi_RmEW2KoAmqrA-xOqaMz-YXBLTGvoNUxHGLWdAFSxN2UzQ52P1WwjV9Bm83hg_KIdkCcjnGQtgDFewtT5bkt-n6iTQaTqBt5gpksur9manR31tfIo_0FtYnX2uVpsRKWvptsA.jpg"
+    ]
+   ],
+   "r": "No concrete news, just speculation",
+   "h": "🚨🗣️ @AbrahamPRomero: “When things between Xabi Alonso and Viní Jr. went bad, pe…"
   }
  ],
  "summary_date": "2026-10-13",
