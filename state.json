@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59262,
-  "themadridzone": 31404,
-  "FabrizioRomanoTG": 67305
+  "themadridzone": 31412,
+  "FabrizioRomanoTG": 67308
  },
  "sent": [
   {
@@ -1435,6 +1435,38 @@
    "status": "fact",
    "headline": "AS Roma 1-1 Real Madrid",
    "link": "https://t.me/RealMadridImportantOnly/313"
+  },
+  {
+   "ts": 1792012001.5828688,
+   "date": "2026-10-15",
+   "tokens": [
+    "14",
+    "2026",
+    "against",
+    "comeback",
+    "fabrizio",
+    "man",
+    "match",
+    "oct",
+    "roma",
+    "romano",
+    "who",
+    "win",
+    "your"
+   ],
+   "names": [
+    "fabrizio",
+    "man",
+    "match",
+    "oct",
+    "roma",
+    "romano",
+    "who"
+   ],
+   "cat": "⚽ Result",
+   "status": "fact",
+   "headline": "🍿💥 Real Madrid comeback win against AS Roma!",
+   "link": "https://t.me/RealMadridImportantOnly/333"
   }
  ],
  "offset": 769011999,
@@ -1442,8 +1474,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 6,
-  "tokens": 9271
+  "calls": 15,
+  "tokens": 23097
  },
  "pending_fb": {},
  "feedback": [
@@ -1870,7 +1902,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 185,
+ "train_seq": 194,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -3939,6 +3971,163 @@
    "reason": "no substantive news content",
    "ch": [
     315
+   ]
+  },
+  "186": {
+   "t": "The future is NOW! 🔥\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31405,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/B0qoaj-I5NoUIcVcAUL9YyzAZ8pdy-F8xBIgLn9gakG4Y7-yqmMHLLGCYBHUEZ_qAuHw5vZ8cfhmwynnUKO8fSfFso4UzMMSGrQFQ4XkIx6fB3qxAuNwh7gcS8ecTplmUbvYdsyN3csqRlE_YkxIkqXky17YBXAKPDTb2tLXuPC4HzMH8RSAIEQ1Lfk0MYcdEDSASEhz1LHRRzYkaivRWZpcc-dBaHPjJOxSwOBuCVqk1fBMvGbMS43PRMJzdbcIxZYOjcIGf5ddPi35fw6FSoPvFJDj5jFiNQkbocBJZQDVrWs0JUz-oF_8K3PrIaF76gxdtX5SACXQqLYv_mYibw.jpg"
+    ]
+   ],
+   "reason": "No substantive Real Madrid news",
+   "ch": [
+    327
+   ]
+  },
+  "187": {
+   "t": "Your thoughts on the game?\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31406,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/B5ITJ2OIwvu-iho90Un057LkP7io3lrxWSay3-0a1hhgUGZsZ-e3zlkKDyrTS7QRzU7PN307tX2iEJ2H-03h2Xq9_4uQxG5fowVnUoRW01tkLviKfy6tAvtWTJfk_KEKTVbQwqVUQYYYk1IOtMcn8ZICarGMVjlidiEbm3oRwE1REV6e02hm4iWJmBrTKLtlpaIEGlNx29nm0A7lHM1EKxA-afBDNMLPkizbSu_U5djKP1_yBq_KqI_ml-8TLq04HEcbUSvjzWYSN285AjFMk6ACEG2B5HBWuSzvrTET-AUZvKtGgxJqFAvrr89zsvtWScD132EhJitBrqCX9x0YQA.jpg"
+    ]
+   ],
+   "reason": "No news content",
+   "ch": [
+    328
+   ]
+  },
+  "188": {
+   "t": "The winning moment. 🤍\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31407,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/hJnWli80lyj-ClXQIMSG8mCXIN0FX581IhxqNbdTb8R4KjnoYt3kfsKjILn1zCf814F5UaSA5FQryYhQFszwmGD26G7A2EAe4QVkWpaxf0WFfvsLnP4i9eZa_z8jXC6De8SKc0tyQ3sS58lNCeUukhqjl5urm6etXuNLboR908aHj9t06HHSoOe8yF0H3JWEVtLRZJdZKaJZE3kGDwcP9b-F8jx4lHe6SJWRhUiVhJQPH_6kJ3QTokue4UypafiN8rzMRZzJy02fpw8a_I3_ZpIqaR87JdLJ-kTfFOgaytlyvSgckaAupr3GPS14sBH9wF7881K-nruiJ1Rncbo9xg.jpg"
+    ]
+   ],
+   "reason": "No news content, just a vague caption",
+   "ch": [
+    329
+   ]
+  },
+  "189": {
+   "t": "No celebration from Antonio Rüdiger. ❌\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31408,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Fv-7mwjNMqT5L8yhOabZzWx9Vk1yBYFj4tl2c6I0-fhez2r_1ASEu4qjDnWy4Up7P6clrNtHvclDi98TeGa_izSTfZFKISov9MjHJTKQHSB5qtS_XudRjhEBk-M0xUGfmOPpIx8hOEED7ZjyFE9EiOYKmM7xBp5vcheXzIxSm3VuwFIcuWJgGIcxmiICEzhfMgnLwnCsmhhfv0v6gttGk258IjEGdtT52Ez466OOYaauFVtQ279aCBrlJYarre1-7N1h6v-prgIIZchVRI6UQJVjEYuFzWM6CxzL4Gi2P0aVqN30mkXdIdV2rFa328j6caVHOYchQML1cN_t1GzMBw.jpg"
+    ]
+   ],
+   "reason": "Not about Real Madrid",
+   "ch": [
+    330
+   ]
+  },
+  "190": {
+   "t": "Another game that showed why Endrick deserves FAR more chances, and Arda Güler should be an undisputed STARTER. \n\nSimply brilliant tonight. ⭐️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31409,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/jFxRzgeDPX5nmicOxhJrw-CvD5v_es3Z8nExBMnbauShXG9K5dpshdOISgF6Q8Wj0YjWITevpv5DFv3ho6IuEZUgJ2XXqvfeU7aChrHP3CfJI4hRLJJtaXErUoE_qHXfogvDuCaTDsPEliRbMhwNYfCUx8Md9a1072-TuQ8AKeCe30A1Ah_vBDYdW5xvYET1V0BRVPrG2_ZJAKWT8yzJAOwgrUt9vUqFXJqjJyNOjl9DrGbz_S9m-QX_i1tRCafayQ82IlQ_OJ3c6Qz9BInVC0KS_m01Zh1LeJctBjEa7BgaCZyP25Ta9yoZTA8sAUouDK6GrZpAFk7sojnQKV_JHg.jpg"
+    ]
+   ],
+   "reason": "Opinion, no factual news",
+   "ch": [
+    331
+   ]
+  },
+  "191": {
+   "t": "TEAM.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31410,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/h03dkTbOghgl7bI9vA2R_05_mdeNyAbx0Gbi4JNrxW25MbzcMhLFq7HEmFrhoFlRwMhIc_yjYD-FThSGN7D8cWBscQ54gYaCPublEYq74m1HSztGgt3_hXfM8W-Xv_d-bebATWNsDxrybMijAEWoUnWN5rInWnlJHxeDnTIpnXSTvJqySARZLnRrsBN3RqwngQgogncNn_q8ZTt9sttVZ7XdRjBHcsEig7OqSe58DNQwRtdtXca21OzH2q51GcB26GgnMgN5oLSfsaZRZpca-ywfWhb1wFAE4pvc1yVR63_IiQZIw1OX8yW3dXtgXATQhucT-IRktkF_epoxv6RFgQ.jpg"
+    ]
+   ],
+   "reason": "No relevant news content",
+   "ch": [
+    332
+   ]
+  },
+  "192": {
+   "t": "🍿💥 Real Madrid comeback win against AS Roma!\n\nWho’s your Man of the Match? https://t.co/ymjB3jmEO4\n — Fabrizio Romano (@FabrizioRomano)\n Oct 14, 2026",
+   "ai": true,
+   "label": "⚽ Result",
+   "status": "fact",
+   "src": "FabrizioRomanoTG",
+   "id": 67307,
+   "m": [],
+   "reason": "official match result",
+   "ch": [
+    333
+   ]
+  },
+  "193": {
+   "t": "🚨 OFFICIAL: ENDRICK IS MAN OF THE MATCH!\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "official",
+   "src": "themadridzone",
+   "id": 31411,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/lFh_czZSjPSXW4hWoism_2dBoT8LlFpLQuaH0YUYbcdH8Q8avH20r7YVNdVdbIo8yY2nMAbnPB_eTe3kzm4V9bhKkkcmk4gq8WBFXp_kNYVfvrkL-8FYqykUHzqF50yolY42dG0tV9AGzGFBdonWHJUqTejyMgmVAISlofInvtcVqs-S542q6w-zWZ0PcxBCgdnj921WHUaXnMHpT0kj5crBAUl34JDOky0GJb-vGFkve3R9A-S6uv7rbW9XWhZf3mzTmDoE40s-IJj41RXZl0kuQ3xetJFaUYijEb9WZ0EqKD66Xf7fD36fZaINQqJJoM36rplpqAe6KIHY8ex1pQ.jpg"
+    ]
+   ],
+   "reason": "Man of the match not relevant",
+   "ch": [
+    334
+   ]
+  },
+  "194": {
+   "t": "Antonio Rüdiger not celebrating against his former team 👏\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31412,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/HlK21WYTLDb34rILdPCngxyqRUKDoq3ZCaYuVThDoguGmD83tG18MERySX3ZQnn5vgVnIm4ejxmhJlIWXW6idI8VQ7zX8lMN6bi3E15iHksGE8HppOQohaYfsdDhviep76L8b6Skum913IZyYG2Tm5t-r6VxxPT6tA3EoQSNoXxCpdRuVm_jn7izoSfailILCuCpYk8-SYIRdh-RPi39EpKEWbGaoKXX9fj8hKK_tAD8OaYrt2Gw0XIdoZXftvzeuUmGTc39vFiOfH8Y_UpJOoAu3NGNnVfCGvjjZlMKf4ouxVGhDFL3Tyv-ASo8aeOmtmaPxCqkhljNtvjbjxRUWg.jpg"
+    ]
+   ],
+   "reason": "Irrelevant to Real Madrid news",
+   "ch": [
+    335
    ]
   }
  },
