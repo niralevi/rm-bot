@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31260,
+  "themadridzone": 31262,
   "FabrizioRomanoTG": 67285
  },
  "sent": [
@@ -1069,8 +1069,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 48,
-  "tokens": 79579
+  "calls": 49,
+  "tokens": 81199
  },
  "pending_fb": {},
  "feedback": [
@@ -1290,19 +1290,6 @@
   "Skip news about former Real Madrid players at other clubs"
  ],
  "skipped": [
-  {
-   "src": "themadridzone",
-   "id": 31235,
-   "t": "Viní Jr. in the FARM Rio collection. 🥶\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/HMHhXzZdaIblyI90e7f22jODMixe7daC0tcw9Ql20ybS4jkgRCMX4ruScAY6e6mi4l5MBoFAnTMeD8sUJA-qL7F-BzwhOIpgnTan5Jh45_WdxL3yiWNRzDBsvgd61DANudJ4Ono_AdFe2vqk9TrvJHtViNllrau5Jlpo2ruLyGbvMoc1BQNETEjAzdp1ex7j2hXJXMFT4_PRRzGYzBPHNytX8GOJj_0vdfyLJ4mNvfftsiB1kbXXVR-JpfCRSJMDGvMxycw5wAGAGJ9mYmIBdyoT4P_wQJYkWBoNql1skqyB3Hey41YofT0vAXqo8TOSTwCrgjWKJZjuZu4grZeCCQ.jpg"
-    ]
-   ],
-   "r": "Lifestyle content, not relevant",
-   "h": "Viní Jr. in the FARM Rio collection. 🥶"
-  },
   {
    "src": "themadridzone",
    "id": 31236,
@@ -1528,6 +1515,19 @@
    ],
    "r": "No concrete news, just speculation",
    "h": "🚨🗣️ @AbrahamPRomero: “When things between Xabi Alonso and Viní Jr. went bad, pe…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31262,
+   "t": "📲 Ibrahima Konate on IG. ⚔️\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/tEvPI8qI4Dtx_Qv-NNMDjsYje6IPwKedJMEcyIZq0wEmAFke5wVvZdflvBE8XyAnIU1JFBFRW8nW8E2grCMzquz1r8_LplPuETtxHWiAU-iZBwOBEw5Kof1J3TztooBeJMByqjs93prKERTnWS956WjYeAPD-uMONmafPaVRQX8a-FaCKMAuenVyXy2HkDYlML4UydW13VW3tQW3IRyOpOtEKYLYQf7GKwQy50YOboOkjO9xSvfpmDwMs4R8CWKtAApeIMwnIReMJz1kfSKNurzMoOVyP6kMUGgC4y-9_IcqmfUyNmm1EHYqyQaELJHZGfJ_ZxDjwpXUZ4XRZlCTgg.jpg"
+    ]
+   ],
+   "r": "Irrelevant lifestyle content",
+   "h": "📲 Ibrahima Konate on IG. ⚔️"
   }
  ],
  "summary_date": "2026-10-13",
