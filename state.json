@@ -1106,23 +1106,38 @@
    "status": "official",
    "headline": "🚨💣 BREAKING: Real Madrid have decided to APPEAL Vini Jr's 4-match ban. @GuillermoRai_",
    "link": "https://t.me/RealMadridImportantOnly/187"
+  },
+  {
+   "ts": 1792003760.821054,
+   "date": "2026-10-14",
+   "tokens": [
+    "100th",
+    "appearance",
+    "kylian",
+    "mbappe",
+    "ucl",
+    "warm"
+   ],
+   "names": [
+    "kylian",
+    "mbappe"
+   ],
+   "cat": "📰 Other",
+   "status": "fact",
+   "headline": "Kylian Mbappé warming up for his 100th UCL appearance! 🇫🇷✨",
+   "link": "https://t.me/RealMadridImportantOnly/188"
   }
  ],
- "offset": 769011998,
+ "offset": 769011999,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 111,
-  "tokens": 183780
+  "calls": 112,
+  "tokens": 184867
  },
  "pending_fb": {},
  "feedback": [
-  {
-   "t": "blacklist you, you're finished…\n\nDid Negreira have power and influence?\n\nOF COURSE he did. Ninety percent of the time, he was the one who told us at the end of the season which league we'd officiate in. In the physical tests, your main goal was to be told you were doing well. Because otherwise, you knew what was coming. \n\nNegreira was the one who greeted you, you stood in front of him, and with some notes he had, he'd tell you if you'd done better or worse in this match or another. And he'd tell you if you were in group 1, group 2, group 3… He definitely had the power because he was the one who told us.\n\nHe certainly had the power to promote and demote you. \n\nHe wasn't just some figurehead. He wielded considerable influence.\n\nThe Negreira scandal? \n\nI was SHOCKED, it's something unheard of. I didn't agree with that CTA at all, but it still surprised me. \n\nIt never crossed any of our minds that Negreira was being paid by a club. It's surreal, unbelievable. I couldn't believe it. \n\nBut that's the way it is, and little by little I've been coming to terms with it, with anger. I'm sure there have been many victims along the way to justify those payments.\n\nThe CTA trying to downplay the ",
-   "v": "-",
-   "miss": false
-  },
   {
    "t": "🔵🔴 Pau Cubarsí when asked about Real Madrid and the referees: “It’s not a topic for me. I don't pay attention to that”.\n\n“I focus on what I can actually influence: my club and what we can give to our fans”. https://t.co/z5Y4fPPSi9\n — Fabrizio Romano (@FabrizioRomano)\n Oct 12, 2026",
    "v": "-",
@@ -1317,6 +1332,11 @@
    "t": "🚨 JUST IN: Thiago Pitarch could consider a LOAN in January depending on playing time. [diarioas]",
    "v": "+",
    "miss": false
+  },
+  {
+   "t": "Kylian Mbappé warming up for his 100th UCL appearance! 🇫🇷✨\n\n@TheMadridZone",
+   "v": "+",
+   "miss": true
   }
  ],
  "rules": [
@@ -1327,7 +1347,7 @@
   "Send suspensions, red cards, and disciplinary decisions",
   "Send Real Madrid coach, board, and press‑conference news",
   "Send official Real Madrid announcements",
-  "Send notable milestones, records, and achievement statistics for Real Madrid or its players",
+  "Send notable milestones, records, and achievements for any player",
   "Skip pure statistical lists lacking news context",
   "Skip lifestyle, personal, fashion, family, and social‑media content",
   "Skip commercial endorsements, brand collaborations, and advertising content",
@@ -2045,24 +2065,6 @@
     153
    ]
   },
-  "88": {
-   "t": "Kylian Mbappé warming up for his 100th UCL appearance! 🇫🇷✨\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "fact",
-   "src": "themadridzone",
-   "id": 31313,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/nP4LkejEiN1Js1VTtwgB2gwmPPaWZM03dH6PD9y10OXa9wm3ZthmP6ENGk0DyA6vh1mEQvghqVZlC-XBQJF-ey4zTDIO1BeEA2YkUjo_C8_nID4So4zaBUjEfvTc0zRiPe-wXpsZF8xztzCgU9RIdcY5f3wP4c3PC92Ssv3RhgZwD5Co7VbXosZ0uyQnnN--_K9jHEZA8yA86Nw7kk5C93nXr84diUSLVUByomAjeeIoGtWn3QbhIpdhzHISWj-hSoQFyUneFJ5Km45uBHLdX4MeiPuxl0_BC7LcuqkmNOs1wq1Yz4_fI8Z1GLI9SOWxlooPRIdsLPZpJY-7YpjiQw.jpg"
-    ]
-   ],
-   "reason": "Not related to Real Madrid",
-   "ch": [
-    188
-   ]
-  },
   "89": {
    "t": "Jude Bellingham 🔥\n\n@TheMadridZone",
    "ai": false,
@@ -2191,7 +2193,7 @@
   }
  },
  "train_stats": {
-  "n": 60,
+  "n": 61,
   "recent": [
    1,
    1,
@@ -2216,7 +2218,6 @@
    1,
    1,
    1,
-   1,
    0,
    1,
    1,
@@ -2242,7 +2243,8 @@
    1,
    1,
    1,
-   1
+   1,
+   0
   ]
  },
  "enabled": {
