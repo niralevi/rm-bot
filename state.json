@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59233,
   "themadridzone": 31299,
-  "FabrizioRomanoTG": 67294
+  "FabrizioRomanoTG": 67295
  },
  "sent": [
   {
@@ -1113,8 +1113,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 89,
-  "tokens": 147664
+  "calls": 90,
+  "tokens": 149371
  },
  "pending_fb": {},
  "feedback": [
@@ -1335,14 +1335,6 @@
  ],
  "skipped": [
   {
-   "src": "FabrizioRomanoTG",
-   "id": 67292,
-   "t": "⚪️🇺🇾 José Mourinho: “If we had 3 or 4 Fede Valverdes, we'd play a Fede in multiple positions!”.\n\n“We'd have a midfield Fede, a RB Fede... all of them starting in different positions”. https://t.co/4tHR8YyAVL\n — Fabrizio Romano (@FabrizioRomano)\n Oct 14, 2026",
-   "m": [],
-   "r": "Just a speculative quote, no actionable news",
-   "h": "⚪️🇺🇾 José Mourinho: “If we had 3 or 4 Fede Valverdes, we'd play a Fede in multi…"
-  },
-  {
    "src": "themadridzone",
    "id": 31277,
    "t": "🚨 STAT: Jose Mourinho has faced a team he formerly managed 27 times so far.\n\nHis record:\n\n• 6 wins \n• 7 draws \n• 14 losses\n\n😬\n\n@TheMadridZone",
@@ -1527,6 +1519,14 @@
    ],
    "r": "Irrelevant, no Real Madrid connection",
    "h": "Kylian Mbappé 🥶"
+  },
+  {
+   "src": "FabrizioRomanoTG",
+   "id": 67295,
+   "t": "🚨 BREAKING: Vinicius Jr has been suspended for 4 La Liga games — out for El Clásico.\n\nThe Brazilian will miss the following games.\n\n- Sevilla (H)\n- Barcelona (A)\n- Racing Club (A)\n- Valencia (A) https://t.co/QxC1RuJ5ew\n — Fabrizio Romano (@FabrizioRomano)\n Oct 14, 2026",
+   "m": [],
+   "r": "already notified, same suspension",
+   "h": "🚨 BREAKING: Vinicius Jr has been suspended for 4 La Liga games — out for El Clá…"
   }
  ],
  "summary_date": "2026-10-13",
