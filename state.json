@@ -1,29 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31244,
+  "themadridzone": 31246,
   "FabrizioRomanoTG": 67285
  },
  "sent": [
-  {
-   "ts": 1791800969.606899,
-   "date": "2026-10-12",
-   "tokens": [
-    "back",
-    "eder",
-    "militao",
-    "team",
-    "train"
-   ],
-   "names": [
-    "eder",
-    "militao"
-   ],
-   "cat": "🚑 Injury",
-   "status": "rumour",
-   "headline": "🚨💣 BREAKING: Éder Militão is BACK in team training.",
-   "link": "https://t.me/RealMadridImportantOnly/60"
-  },
   {
    "ts": 1791802466.693111,
    "date": "2026-10-12",
@@ -1057,8 +1038,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 39,
-  "tokens": 64127
+  "calls": 40,
+  "tokens": 65805
  },
  "pending_fb": {},
  "feedback": [
@@ -1280,23 +1261,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31222,
-   "t": "🚨 JUST IN: Real Madrid are OBSESSED with getting Viní Jr. back to his best.\n\nThe dressing room NEEDS it as he is the emotional core of the team. @elmundoes\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/CbsW8krDbvQFqfXQfixGVsoxPrB3ZFL2mbGO63EsNJd3d1TZ6KNrWDXYklL1RyNbIbyvSojuIOV42rJHPXvohgubqH93qpOP8j5NI7Iec9RAHHXebLQgJrG1JeWYb3oJy9FvhwnpxgRfaCSQFGxAgx5Brb6vLp78946c19k7A4m-FjIhLqoeYqpQ-l_p1lfdAVt3zLYfVm_GN4DToJDVGLA8g7IdSVaBcHvoM91VtFSCSC3V9UJgzLlaopluTXnhUzW-yvaSKCwMgLqK6TyfhoQMpGsUwmHHhqx4NDWila2GGtX6f8V6OweJF5XhlRBqCVV1BWp6Ip2c5R4fR02CiQ.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/GI4QbRk0dqQKTAug2ozkl3ZzzI2S7drg575N4TGYfLOtIFACQCyb2ozcuwWSyfvPXm1kYXohk1bs2MO_N_55kWyk48TsOHg13XcOgVrSun9lk_CiIQMK2rluRIpSd8VD3E73n1tqD-X6IQ3AIJJb9-hhd8K7RzhsIFXOp-X2YBbs6ofNXxuCne-J66pMOuJxvbKo1uoNojH12vbsHbsEhwmvUlTIx1Qv-zOoHqz9qE-3HWMWAm6JGU7r2bHexNaWO_PZIi8mGB2HGDy7Qy3O_akCFW8VAxT_uZXYIQ1pQA-M7WRv_kucKS-AYopGhJYlmvlK2xm7YtB08IrybYPU7Q.jpg"
-    ]
-   ],
-   "r": "Motivational, no concrete news",
-   "h": "🚨 JUST IN: Real Madrid are OBSESSED with getting Viní Jr. back to his best."
-  },
-  {
-   "src": "themadridzone",
    "id": 31224,
    "t": "🚨 NEW: In the Real Madrid dressing room, Viní Jr. is the emotional core who holds the different groups TOGETHER. \n\nAntonio Rüdiger and Thibaut Courtois are the team’s professional “fathers”, who lead football discussions, but Viní Jr. is the GLUE. @elmundoes\n\n@TheMadridZone",
    "m": [
@@ -1508,6 +1472,23 @@
    ],
    "r": "Lifestyle promotion, not news",
    "h": "📸 Viní Jr. & Arda Güler in the Adidas x FARM Rio collection. ✨"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31246,
+   "t": "🚨 Viní Jr. is the MOST important player in the Real Madrid locker room, in terms of emotion and relations between the players. \n\nJose Mourinho realized this from the first moment, just like Carlo Ancelotti and Alvaro Arbeloa, and focused on having good relations with him. @AbrahamPRomero via @Ramon_AlvarezMM\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/FK0p0COFqm2v9cfnT08lTbfXi5DsdROHLsC6J1-Wfpxaq4eTzGAy1NOCpzKd7ZMk3VnoeiY6eWU7rCsttJryZuG27cSuUOeMh6PHyvWgkijCu-TQ516s02FDPvJh60BxpkLrjx_SQS2WTfnmBSw-rP37qd7L0oqqUfhr2CJQV7T3seRdyjC5RoaJakzqDPySZzfxE_dT0QnXepM-vW8fXfytHwXWwW--QKQGOwoTbC713voN1306f_VMvMNRi0yXoJY8qgwfdgE1gOdJzPOiLIPIj_yd5oA7g7Sc_FZqm1x3bPynuXYI6Otyi-LxQa5lUzQakerJ-3EV12rjIIlNBw.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/B7m6S9kFHSkHEu-e_U-fSlwLd6XR3ZOcOYgJBGgGOMBXMAHiOVAxQlbD6fjsFuar9QdhC4Yc7c5jxFJAU9701XVyEIrFhQ2QaBbwgYk1KQYI0h1OLRUMRfyo7hj30MTwsTyiPMCnvxTBm7QKdGB3Xyyofn_udSzxhRe8kUe0GKba5V---VtSSgJ4Xa5cYmaCEgydPN5gVf2LTmGdCQ3qbhbg2zGOMjiAHs85yv71Ng5yp_ULmdybruxmbiZE1tECpOvIvCD0xyP19VBjgFHfBGiXyvZ8SeltVk_Yvf7P3kgvqg8veLYQvLbeq0nApF43cl2BwYUFdUGqq7XOQT4aMg.jpg"
+    ]
+   ],
+   "r": "Opinion, no factual news",
+   "h": "🚨 Viní Jr. is the MOST important player in the Real Madrid locker room, in term…"
   }
  ],
  "summary_date": "2026-10-13",
