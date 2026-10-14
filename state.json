@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59256,
-  "themadridzone": 31388,
+  "real_madrid": 59258,
+  "themadridzone": 31394,
   "FabrizioRomanoTG": 67304
  },
  "sent": [
@@ -1399,6 +1399,21 @@
    "status": "fact",
    "headline": "🚨 GOAL! ESPI!",
    "link": "https://t.me/RealMadridImportantOnly/284"
+  },
+  {
+   "ts": 1792011324.276421,
+   "date": "2026-10-14",
+   "tokens": [
+    "comeback",
+    "full",
+    "time",
+    "what"
+   ],
+   "names": [],
+   "cat": "⚽ Result",
+   "status": "fact",
+   "headline": "🚨 FULL TIME.",
+   "link": "https://t.me/RealMadridImportantOnly/296"
   }
  ],
  "offset": 769011999,
@@ -1834,7 +1849,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 164,
+ "train_seq": 172,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -3545,6 +3560,135 @@
    "reason": "no important keywords",
    "ch": [
     294
+   ]
+  },
+  "165": {
+   "t": "🚨 Jose Mourinho's substitutions:\n\n🇧🇷 Endrick: 1 goal\n🇪🇸 Espi: 1 goal \n🇹🇷 Güler: 2 assists\n\nTHE SPECIAL ONE.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31389,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/YpO4nOgJBDLRZmLUWN-gT5RKh2o23xZgDjTXfjWa-czJGLuqAKuaQZky7__QF2ugCm-Le8Ph3Fijixoc_ISVqkcVl3BmQtWb_ROdri-1IGVRcJlvbVtgbYqfjTr1sI29Gs2A5eVVEzTgJfHglyozkmyHSnGgTH0UmCiREMIUXyrITP9tcq0eBqeADMDgW4FLEg69Vvhuw2QszSNYEV6F4A09Wg8RHX5JFVFwCnvx-H3SMzyP6fuKsYDSuEsYZcLMJKo-gk8FCLEskK1CLmpcDvyGB1AZ__ldzCPA8Ga06dfX2puHp1jmXCsT3CbEoIQIZUd0Y4nYri2NRggPZm7ojQ.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    295
+   ]
+  },
+  "166": {
+   "t": "🚨 FULL TIME.\n\nWHAT A COMEBACK! 🔥\n\n@TheMadridZone",
+   "ai": true,
+   "label": "⚽ Result",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31390,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/d7c-cqB-fRZ4r6gUMZYmztxhliGs74gXSjM0JWU8pknzWssjH-kcy3-aUmt9-Ty6_QIVLDg26j6iG5b6yHVhM6rJce6HdO1sjM10L4teSB4z1ETzWrlnVy1r_Ct6elRLyBrR1rBz_JxnAGJjbhXvureGb5oImixWkCeoWI47fy8sZsLrViNtNBrKMQjhJ51AHilQePA2qkQakqVgvjSI2fKbt5cycS8tn919toilNWbdb87cZ3nF2hOToa9pKgqIcTK4ohhtfrAZDKoiJttHRnuQwKeR9X6rHVOaq9JPcrM25LufDRmqQKiqmgGj9oGLhA6f9TtYO6LowJc8PQnqUA.jpg"
+    ]
+   ],
+   "reason": "important keywords",
+   "ch": [
+    296
+   ]
+  },
+  "167": {
+   "t": "🚨 Vini Jr was frustrated after being subbed out, and said:\n\n\"Why did he sub me out?\" \n\n@JosePadi_\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31391,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/iaiMI8v-Mp6Sc0Exvo7Q4UfDmScuJdvtXVwhZiR74i3f6E6N8ZwfdOePvtWrhZM7pL6pfiEUvfUsSvBkGLUoQ6d4v62x6vuRVAews0giVa1612SWgcZ2dZLcIgbC6RwHBCzszH6ufz8frzXIXat66tHN-fumELk9EyBamBUUeh_U8EXQtcMTNV6lIC7_kmaffXEfrXX9CQryMFulIps9Wr64DDqZBM0SvbfufS-oi5TUO1--2Rjevo8rkZNJyRAtSsrYdlpTMbUt_7uKjV7GBWJcY9yXyGlDoZvDFJVLzwr5b3NpVT1OaBTqWzs2ltQNwwy2ejqrG87Vlv0oWM699A.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    297
+   ]
+  },
+  "168": {
+   "t": "Guter came on and provided 2 assists",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "real_madrid",
+   "id": 59257,
+   "m": [],
+   "reason": "no important keywords",
+   "ch": [
+    298
+   ]
+  },
+  "169": {
+   "t": "This defender is very shaky",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "real_madrid",
+   "id": 59258,
+   "m": [],
+   "reason": "no important keywords",
+   "ch": [
+    299
+   ]
+  },
+  "170": {
+   "t": "REAL MADRID COMEBACKS HAVE RETURNED.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31392,
+   "m": [],
+   "reason": "no important keywords",
+   "ch": [
+    300
+   ]
+  },
+  "171": {
+   "t": "WHAT A COMEBACK! 🤯\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31393,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/a6Lr3F3rKIELap9dGOelmVbATt_ARgGyim-4kO72q_iSa-119ybzvxH4TrsYD5cfqWSHPMCZVwBdYyEJd_Ob47PQKjMu3w2CkA8B3oB8OQBE2IfnUBVybGQ9rED6Nm5ktYKa3GBsBiYfrnq65CmTtPKbk0yvHgHmZGqT7INkgeEmW92F1THPRPvVJlz2umw14Wk45X3zZpNSPxgb98_FTsCkbRShYM36GKZUHKmaIHgLNkk-v2-9qRlICQwnwSNXTKNMT08PRtLQ7memn2n59bW4j2-K9zDQZtc1QvDv_gOL1KgpRo6cqu8d5QmN0bFRQPP3yalzGjD7gcOagvZ9aA.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    301
+   ]
+  },
+  "172": {
+   "t": "🚨 Antonio Rüdiger’s winner. 🔥\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31394,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/B6a85ouNkfpM83nltEC_TShqmM9jr7wCLDIDsDzoupf6R68QpGwREKrNyNACdd-JNWXHJX8Ygdv9VXCkczQEllrFAg6Yp2ZXIjjUCE-74BdJyhT3vz8bMp1xjTQ_qhArTqywwRkXG_1puXYqyFd-CjXCqYsuPG2TlYVyU58FMYNe0PJ3DFnXKNhif4S1s9xSt8474YXTVFpZLkBFPZiyo9ot1bpbPquueJt0THAz2-N556-b8eoLtJ3AGJVEQBOTn8HOLLTJjwgZ_qFUCst8-2Lpau7zgRMLgfsgj19GbZyfX6yGPIemycHgw8IcEogMSPK26wTIE9ePx3ON-mY13Q.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    302
    ]
   }
  },
