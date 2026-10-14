@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59261,
-  "themadridzone": 31399,
+  "real_madrid": 59262,
+  "themadridzone": 31404,
   "FabrizioRomanoTG": 67305
  },
  "sent": [
@@ -1414,15 +1414,36 @@
    "status": "fact",
    "headline": "🚨 FULL TIME.",
    "link": "https://t.me/RealMadridImportantOnly/296"
+  },
+  {
+   "ts": 1792011707.7161374,
+   "date": "2026-10-15",
+   "tokens": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "comeback",
+    "game",
+    "roma",
+    "what"
+   ],
+   "names": [
+    "roma"
+   ],
+   "cat": "⚽ Result",
+   "status": "fact",
+   "headline": "AS Roma 1-1 Real Madrid",
+   "link": "https://t.me/RealMadridImportantOnly/313"
   }
  ],
  "offset": 769011999,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
-  "date": "2026-10-14",
-  "calls": 113,
-  "tokens": 186436
+  "date": "2026-10-15",
+  "calls": 6,
+  "tokens": 9271
  },
  "pending_fb": {},
  "feedback": [
@@ -1849,7 +1870,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 179,
+ "train_seq": 185,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -3815,6 +3836,109 @@
    "reason": "no important keywords",
    "ch": [
     309
+   ]
+  },
+  "180": {
+   "t": "So Roma thought they won 😂",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "real_madrid",
+   "id": 59262,
+   "m": [],
+   "reason": "No real news, just a meme comment",
+   "ch": [
+    310
+   ]
+  },
+  "181": {
+   "t": "Another game changed by Arda Güler’s brilliance. ✨\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31400,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/u6cbmeOPKJ6Q3vfox4iW13nX3cg_-Qx4Nz3VzmR3dN_gTwt5ukcvjgXQ-CqlLPk00RkfZFpjJNBH90KugKY6s8SL9hdqh0P7xeDU2vPdhPLAPvvQ8zroPOk2hbn_YZroxb4POXTFj_XyPZp-CU_KJ3CKhmTV7QCtwrH0mQ6GTbROHUv5N-RZr49TAw-f9ne-WmrL10r6W7T8WM5JHnIA5Yw0E7RBdZ7weqjQafF-AaEEADdn-Or-_Lg478CriZFpaEFuZQOI-OzfqjfdZ9SYYwN_bICpUzDQX-jDuW6HiStPyz4DVCU8px2jEN0dw8pL__ucvtpkATaVHCP6WES0uw.jpg"
+    ]
+   ],
+   "reason": "Irrelevant to Real Madrid",
+   "ch": [
+    311
+   ]
+  },
+  "182": {
+   "t": "THIS. IS. REAL. MADRID. 🤍\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31401,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/R9ukSoZwIt_aVHwUvZ1ODbDsUiC6BzSw8i64FIW8OK6C8OpTziSU-EYeAz0lOcWflmB7R3X7wlOAy99j3NrA4VsKsGrVybdW3oK0IxsbJVYnt-rOGlzhAeNaEk5ErZjXJ2azvYhPVF5bqbjEb_zPnVfReeYVxuumzc-nTHIX_Vxx9XOJDW81mSOpF2zfcIcmKK8EoGfj6fYY2BFtfIoJJxIujZm0WcAKruoE-jG447jaVYv4WdJkv4b4vp1RWdK5xw_Fzv0DJV6XdjwmHw4M8-sdP-8iQ2PtqzuQXRLQ5cq_JlSXLGQH0TVVLvCkXb3LVdyjhFPBWgybz-j9ED-MSA.jpg"
+    ]
+   ],
+   "reason": "No substantive news content",
+   "ch": [
+    312
+   ]
+  },
+  "183": {
+   "t": "AS Roma 1-1 Real Madrid \nAS Roma 2-1 Real Madrid \nAS Roma 3-1 Real Madrid \nAS Roma 3-2 Real Madrid \nAS Roma 3-3 Real Madrid \nAS Roma 3-4 Real Madrid \n\nWHAT A GAME! \nWHAT A COMEBACK!\n\n@TheMadridZone",
+   "ai": true,
+   "label": "⚽ Result",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31402,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/eBExIPn9Bq02-AarJJdkcEHOrHGmNJrtGcH6MhH16uYXnMCGXp-Edu4OUGk8aRTCM4zYISN9LybG6T25vTF_1Bitj9EyRuD2be_ET4HfTKw9JjeyWQzI_X4jilSJm7KAwGXo6CporQ1isbuO76EHzMw-fkM8HzgQG7fG6wQbMXHH_oFqW-_Dq3tbUzBEHgGJz-SDgiG34tRw_nG-SGw-JuQOE_estp2F8M5CgFOpTwJ7PHo_ns6r_NIWBmg8tYVO_FhgHCAcC7UplA0VjXs-TaKGOVb4cGDXkEwoaTluSKtEsJCOh1ycMnPcl40MK3oWp4DfeUPrY5FG6494v2qopw.jpg"
+    ]
+   ],
+   "reason": "match result update",
+   "ch": [
+    313
+   ]
+  },
+  "184": {
+   "t": "CARLOS ESPI.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31403,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/q-66SP0gGootzNMYN9GFsMkfAuv6An-mCqNg54RlppN8kPNF7viAwJawYBTd5jTDnUgrYuJscwt3BYtaNLrWXE4K6FvCpdSHr0UVo8Wyz6ylBtoDWksuJvbI_vuL_SqzOIkgtdQuGsY2qSJGTBHTMzz6pUrQU-98fDnwNpE9mHRYQikCN1G6XC-8KmgXPEdyQzqAxE9j9b738TQ12G3zPfmpe1ZXHTI296HCygtolugwoUiPyY7WTDn2nX4pLIiYMgxvUQjfVurHNl8M_EyyRNt7llk6G6Y8B3G5WaeCyHIvTPUqFzcrvTIriAR3MAiBFcEZ07zoK7cF1jC15wr3WA.jpg"
+    ]
+   ],
+   "reason": "No substantive news content",
+   "ch": [
+    314
+   ]
+  },
+  "185": {
+   "t": "Endrick and Antonio Rüdiger. 🔥\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31404,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/rUZhbfDTknPWvbz_qEocFrxGEhDptsWu4UWZyqF5XydJgMXyWywyq_8RF45ExXP-btPw4PPP5FNzb1gVQdvF7T2SX1P91IlvGFIgD2CDo7hs8rIvjYU0uUK4n7C2M6nTeS-M26yNZ9dAD9U4v8pe23eQ9FvR2_tps29NKpOPFvEOLUvAaUKC17sxkcClwlwhQB9Brwzf7_QEnL5gh8y3UaFuqzpB_0v4v22tBEvaV8d-7WOj3IAj1oeqL6V0uZw12Obb2oXlYNS-V3IOBwQsz6OJn_7psTl5GwPun-s9Bdbsub94KwT3veh2rk1JUfuRoVcHJuiwP23oftSUlRkIqA.jpg"
+    ]
+   ],
+   "reason": "no substantive news content",
+   "ch": [
+    315
    ]
   }
  },
