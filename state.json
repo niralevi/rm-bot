@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31233,
+  "themadridzone": 31234,
   "FabrizioRomanoTG": 67284
  },
  "sent": [
@@ -1057,8 +1057,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 31,
-  "tokens": 51112
+  "calls": 32,
+  "tokens": 52736
  },
  "pending_fb": {},
  "feedback": [
@@ -1280,19 +1280,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31212,
-   "t": "Jose Mourinho returns to Champions League with Real Madrid tonight. ⌛️\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/gh7vinqsjtoKEadtN5wbkDdrWVoVqdP7nFfpMqg7zNssMBudH3kuyX14X1pfA2UI35gFQLVGsB8ktzocPnSgdT-oCmQnMAQBPKLDmnnNi22r8wVjLNBYGUBUXh5PIziMtJeJvYz-D9Ntj4LcFs4LhgBknOI-BHaEnf8Xh-w2lUA9xBhWE6n_BgeqXbtANlfU8XvW-7E-JwcnMDzCBYMjIA6Wa0Zz_GnX1x9ZQ7oaP6fCRShl0ilbOpoMQSQ1cJdWTOQPyBpB08x9UPTPwlIakEn7lI3zS0sddIZIoLwljdfk2sAiUSSUArPlIXNo5xHrm1XJ0qTVt0iRH7O8thBhQQ.jpg"
-    ]
-   ],
-   "r": "No new actionable info",
-   "h": "Jose Mourinho returns to Champions League with Real Madrid tonight. ⌛️"
-  },
-  {
-   "src": "themadridzone",
    "id": 31213,
    "t": "🚨 Real Madrid player market values in 2026. @Score90_\n\n@TheMadridZone",
    "m": [
@@ -1496,6 +1483,19 @@
    ],
    "r": "Lifestyle/advertising content, not relevant",
    "h": "New FARM Rio collection by Real Madrid x Adidas 🤩"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31234,
+   "t": "🚨📸 Real Madrid in Adidas’ new FARM Rio collection. 💧\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/afdyvgo6PlrPOiftyNCs24AHMfYOhOm3-0QFpzOK1kKv4YFPswqq4_xanZw4vAh8gFRrqTLZtxbU-9DYQLasZT-jddQff8DvYL_NTPk3dP5S6IO7Hc25KGdHZjxzheHgotg1E-gYut_JjFodk96ySnEcNthzUYSsBaaOC6vZ-muOgH4dL8MTCwbT7GWHIyj9sszPZX33A8K1vdKJWQxEHp169MRnJqpA5R1DIihV9CObSXxQAcIit5Wgm9tvgBN0iCT-HKTPRpdEHjN1F9Dxtn0KcXTQSzJRK0RszvZM_kVmAXFXLHx-S9Rd9ox7CxUw02xAQ8mjlAHqg9_C7S21hg.jpg"
+    ]
+   ],
+   "r": "Lifestyle promotion, not relevant",
+   "h": "🚨📸 Real Madrid in Adidas’ new FARM Rio collection. 💧"
   }
  ],
  "summary_date": "2026-10-13",
