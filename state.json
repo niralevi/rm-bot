@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59234,
-  "themadridzone": 31309,
+  "themadridzone": 31312,
   "FabrizioRomanoTG": 67298
  },
  "sent": [
@@ -1113,8 +1113,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 100,
-  "tokens": 165854
+  "calls": 102,
+  "tokens": 169325
  },
  "pending_fb": {},
  "feedback": [
@@ -1335,32 +1335,6 @@
  ],
  "skipped": [
   {
-   "src": "themadridzone",
-   "id": 31294,
-   "t": "Vinicius Jr ⭐️\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/EqEXIzyDxQTzHSKH-AbxgQ4g5MgIJCym9IfZ_4ECr27CuK1LVuEfzjg2Estqt8tpq0J3Ya5sJLAVc1HmjU-Xpu5yX6KHEVm0AQQTPZWc9P706sR8j_yi8FSTCqDX4384Qwls55NW92kXcQ07add5_2jQ252TmPviTRtgoGxXjk6wP8ebtu-7YURmXKAg3gl51fP42K5MZOWA_PwTvGtmHJal7Rg1TeLkz7o_8EOEVTFll79AnslUNLIiXNgU_xnOm7Ts5_IyoGD2oQ-5dZwTSuWmz8gxMgggQIKf__-AqcpZ7gvetW_gGSDSzB-v8MnZCpkeqZ51Jx942ozHt9w8Cw.jpg"
-    ]
-   ],
-   "r": "No substantive news content",
-   "h": "Vinicius Jr ⭐️"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31295,
-   "t": "Kylian Mbappé is HERE! 🔥\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/HKjlLFLoDaelyH2JNeUPrRK5RShulb4OqZB_7hE7qGspDBxL-n3lfmaexRmk3RGEa_K1MJ9KW9qP0FRgcHmR4NpKVTX3jYZonh0LzzGvFVmalXrriJoAtuYmW-U1TLBxQQ2g8Zx8iASoxZIsRf9bdVB4xESZWLwH68ojsr0tpKyMpHQLqNPuDTaCfC7p0_KD-ZmOyk7QF3Jdjo2B88Zx-XOgl9Tp1HDor0g194crQ_DOiqo4Gg0Owit1wKrp-Gi5C7oR-m6_VWzS25xVtdAAnuyItCu4dk0LX_h0lZRRECVA4GdjZ_SvCusxA00oa5lPe-yjbYmvKSw8h8g86bbHng.jpg"
-    ]
-   ],
-   "r": "Not Real Madrid related",
-   "h": "Kylian Mbappé is HERE! 🔥"
-  },
-  {
    "src": "real_madrid",
    "id": 59232,
    "t": "🚨 STAT: Jose Mourinho has faced a team he formerly managed 27 times so far.\n\nHis record:\n\n• 6 wins \n• 7 draws \n• 14 losses\n\n😬",
@@ -1534,6 +1508,32 @@
    ],
    "r": "Not relevant match preview",
    "h": "🚨 Real Madrid meet a familiar face tonight: La Fabrica's Mario Hermoso!"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31311,
+   "t": "🚨 José Mourinho: \"Vini Jr 4-match ban in La Liga?\n\nI think you need to go ask the Spanish Refereeing Committee WHY did they decide to publish the news about Vini's ban MINUTES BEFORE he plays an important UCL game.\n\nReal Madrid is a Spanish club, so why do they publish that news now?\n\nWhy not this morning? Why not tomorrow morning? Why an hour before the match?\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/pswzvdUCNf0qEtMdejaA_qJ8R7PI3BWQbALrkMRuOoN7l0-aAvyouUZS8CZ3n5Csz8Qt_rVHVrxJvqmGp7YgxMkvAp7-C3_Njxdhm9hrEKy2OPA_HAHNzwklY8-7g7dCCR5rE4-PghQr7PjmA9WbTvcVVM4jgVMNxPdE8r-dSMxsu_CuneruyeRy1Q-Vu4OLFFC3ljP45ruff-9cL7SpT676U9mSm6gXN38SaARENrBN5xYvge7tAtaP6UZOueCOJfS6VvRtCJSTWj_ci4xmUfZV3m1MGlfqfcl0oh4GvNbFiK9YL4Epfa3dcG4CepH0aGxutFScIM3eZLmxydUjBw.jpg"
+    ]
+   ],
+   "r": "already covered ban news",
+   "h": "🚨 José Mourinho: \"Vini Jr 4-match ban in La Liga?"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31312,
+   "t": "🚨 José Mourinho: \"Rudiger-Konaté CB duo tonight?\n\nI liked this duo vs Villarreal, how they protected the team when we were down to 10 men.\n\nI trusted them tonight, taking into account the intense atmosphere that Roma fans will put on.\n\nI'm not saying Huijsen would've done badly, but I think Rudiger's experience will be useful tonight.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/qop90cPzE8qN_Bsq-RRyle3wd8ljA7rB2MLDFS2rjgFMBO_P9wZi0lg1NNzPkVZWSqKpf1Eq1g10tZf1UCFHnCVRjbvpZIgWX29PlhvBBFB-cko-6ic8yFt35y7nWuzls-LDnYswUIuvldBWDP1HPsqodQCkwX7EbUwrwnFOjulUm1kQu9YQ6fLKFieGI74H5BXtG6C71rSUYBKYarHw0P8GCva_d6d3jilOD61TOBuifqz77snJxpUTJ07eYnkOMKLkaQm267Vbd_8FtJ4RkPAEdl6s1NTr6w31L7Oekz5wFxJpMP3mJzvSbquAzV2Qbh-qpxVlCL_MrlLK6kzkaQ.jpg"
+    ]
+   ],
+   "r": "speculative lineup comment",
+   "h": "🚨 José Mourinho: \"Rudiger-Konaté CB duo tonight?"
   }
  ],
  "summary_date": "2026-10-13",
