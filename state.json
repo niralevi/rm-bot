@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59262,
-  "themadridzone": 31457,
+  "themadridzone": 31461,
   "FabrizioRomanoTG": 67318
  },
  "sent": [
@@ -1727,8 +1727,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 62,
-  "tokens": 96968
+  "calls": 66,
+  "tokens": 103219
  },
  "pending_fb": {},
  "feedback": [
@@ -2155,7 +2155,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 240,
+ "train_seq": 244,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5201,6 +5201,78 @@
    "reason": "coach comment on player minutes",
    "ch": [
     381
+   ]
+  },
+  "241": {
+   "t": "🚨🚨 Vini Jr: \"I am ANGRY at myself, because I am NOT playing my best football, I know it.\n\nPeople booing me does NOT help.\n\nI'd rather if they SUPPORTED ME.\n\nBut then again, I'd rather they boo me than booing the youngsters.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31458,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/NtI8Szs1bvR0yqh6M8O9n2gfcK0N43z0XmV0UFoJJu-DWeuaKb5SYHF6jHr8UimdvRbaDz9BzRifVgv-tCqbMuH0kabcX-Cp9Ff8arnFxZgOcn5KmvTNbSYzPN-KBVezrQOV4fL2oDwHFfFRLQ7_jJm2bTax_JmlPyuVb_A2uYdn3tH1YtYqqSb8cztwnsMhJ1lNAsGLfto88t_ab9-4NEiTyWND4Q57y4C7Mlhye9MRc-g1b-BaokrP3xMoOoNuKGL6UqD0eoEk-ITMz8oIhJn0Omi3C4UuWz2tAjtX7jFb1q-vhirom6SrlHyPflgHBPAAnb11wvipo9i-sbZs0Q.jpg"
+    ]
+   ],
+   "reason": "Player quote, not essential news",
+   "ch": [
+    382
+   ]
+  },
+  "242": {
+   "t": "📲 Arda Güler on IG: “Never count Real Madrid for dead.” 🔥\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31459,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/rv_kDNPTja7-T4YhC4oZsBlfeMZ01SWlxTaWooOdraUMU8lFpn0TjjOCsBmuJB15XrMsIeDLLJAj7kdDUjMzzIFVPZMp_FSASiCRz9AKNWpCXWouLrgLsZXdL0_28nar1oSC2qEZ_37d5eaOFdr2dD3jhydF4d4uhKYdxBMi629HY1bgquwdF3d7W1wf6HOOzZL3OEr6VWHaNCmIwrWFKCVFw4YcChr1jsjnYNjO3EwMHopvkhyiv-yv_iqCVI8-4_epU6ZPOri4MN_mE9-kZNg4mBEXL0SbzZ83AG1_1qhaDhQAQp2yKvPuzPx_XDC1-fdz0peQHmXYcXvvE0QRrw.jpg"
+    ]
+   ],
+   "reason": "Just a social media quote, no news",
+   "ch": [
+    383
+   ]
+  },
+  "243": {
+   "t": "Arda Güler on corners: one of the deadliest sights in football. 🥶\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31460,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/uCu03XPCfQKQXKrB0CElF1-cKFh5fVfFbERtQfYMDkHDPQpE8o6eIkukIfsnXk3cK0HCYi52p1SFRlZ3fkBfvFXTxNH67SBBnyHZYTVEwxUlyItmSYoQO6kPh-zHwo6EFHFIHIvu0Z2hf_0TnfHzSPs5VblSdeSXWnSk7Gx4arCqwF3xNlY7h1Sp4eiln5UiVRj02UobRW3N5v8LiiQUuP-YCtR6yFc0LiskQexSwbZ98Iq8HDSTT67ZEkFU3wyufCc05Idqt_m8wJVDevDlFgYtsxRadYcsebZfd23OqjO81Ze2aRkV6Tw0-xOQhzWi14KauRhYl_tMfTaF6vtvqw.jpg"
+    ]
+   ],
+   "reason": "No relevant Real Madrid news",
+   "ch": [
+    384
+   ]
+  },
+  "244": {
+   "t": "📲 Ibrahima Konate on IG: “Madrid things 🤣”\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31461,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/uyvomb6eAbBqzvrGZKwB6FHXeTMfA_H26ZoQtOF0yVVxCUT7_OI7qMylFw_TSCDy4aj4rPfcxSIqAiZGkP6q39xzuiMt4BCTcrZtkq2gFzNSR3CtkJj3EM0Di18eBJeyKwVp-Z-Nw_6OOB0X9nAPPLIFKABiklFaK4KtRVr-RgXiPOZ59L1JrZAiuuXw4b1C8VTDhhy0azLzSWxXW3w8SfzvAE-avM_bh-ax3MfZYseo-Z0WrHtIBv8lXnyRKIsixAkzfgppV1U7tSJa_Fz4yjN2QoLrJ25CcfFcoVoD-GA4eCeZvzGzgrzNHS0-_eIH3fRqKJeCp3A6liTKd-pDrA.jpg"
+    ]
+   ],
+   "reason": "Just a meme, no real news",
+   "ch": [
+    385
    ]
   }
  },
