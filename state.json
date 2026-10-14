@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31208,
+  "themadridzone": 31210,
   "FabrizioRomanoTG": 67275
  },
  "sent": [
@@ -1004,6 +1004,27 @@
    "status": "rumour",
    "headline": "🚨💣 CONFIRMED: Real Madrid are interested in signing Erling Haaland.",
    "link": "https://t.me/RealMadridImportantOnly/173"
+  },
+  {
+   "ts": 1791950507.5044172,
+   "date": "2026-10-14",
+   "tokens": [
+    "arda",
+    "expect",
+    "guler",
+    "right",
+    "roma",
+    "start"
+   ],
+   "names": [
+    "arda",
+    "guler",
+    "roma"
+   ],
+   "cat": "📋 Lineup & Squad",
+   "status": "rumour",
+   "headline": "🚨 NEW: Arda Güler is expected to START on the right vs Roma. @marca 👀",
+   "link": "https://t.me/RealMadridImportantOnly/174"
   }
  ],
  "offset": 769011995,
@@ -1011,8 +1032,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 12,
-  "tokens": 19561
+  "calls": 14,
+  "tokens": 22837
  },
  "pending_fb": {},
  "feedback": [
@@ -1234,19 +1255,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31192,
-   "t": "🚨🏗️ The new logo at the Bernabéu. @diarioas\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/uce_HSLDfTvko-3V8yhSccW6WeP8bRLOjEfpBqtTD-W_nKvEkDwX1dsTybo1v04kH9VoxiyXQCfF807QfgHQVDPVs5iI2LOlIxEV9tStR2hN41vOUHaHg_oI-Z2Rv7F55M1I5snMF8cbU5DKi2N3sIWnJJpt_GlvvFvepkyKz0WCXSO8ldz2zFOJbG8PAp-QxZJVq3h-qKRZg9hZtXxwgKuQjFDynZwXMv_gHGQrA9DavVpIL85KL0gqV410lMoQckINXulJFR5K9fgDqGXSUMBScEy5ljPly0m-IQ1a1scW-CpFRrAWzL_rqiZ-i3g6XN3fCShEnwd0yaa_a4ROvA.jpg"
-    ]
-   ],
-   "r": "Not about team news",
-   "h": "🚨🏗️ The new logo at the Bernabéu. @diarioas"
-  },
-  {
-   "src": "themadridzone",
    "id": 31193,
    "t": "Getafe introducing Dani Carvajal 🥶🏆\n\n@TheMadridZone",
    "m": [
@@ -1430,6 +1438,19 @@
    ],
    "r": "Irrelevant meme, no real news",
    "h": "Sergio Ramos x Francesco Totti. 🔙🔥"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31209,
+   "t": "🚨 STAT: Out of the 5 matches in which Real Madrid have received the most cards since 15/16, 4 have been in the last 2 years. @Sofascore 😬\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/sBFuC3GtlcI7vm1Fwvs0T3CIqrB8in_z7Vv86HJgE9vMEcXTH60cYH9YFB6g-QB7FEt82Ft3QnluiZMcWNfWM__O4Qw6HAdr79zEG2bxX6flFVG1nritJpTdO6d6ijmRjlKC9Yg4-OAxSHbI2hR0m5gCSYp39g9OFUCKo2v-HutfeALKYGFeLg0XFUoiGNv-gFQJMIBCEwzpNSm5YmuyuXXx_N5E9jSX8W3WSTwmbBxPEbMTRZRwrvM2zFT1EWq-F138abGK2ATEElMp7Srmj7PmvaAjSMEvUuH0nUx0HBJcBfWjPkNdGk11z9PftcveX_0PXrk-BsGdqM3Imwh6bQ.jpg"
+    ]
+   ],
+   "r": "Pure statistical trivia, no actionable news",
+   "h": "🚨 STAT: Out of the 5 matches in which Real Madrid have received the most cards …"
   }
  ],
  "summary_date": "2026-10-13",
