@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59262,
   "themadridzone": 31412,
-  "FabrizioRomanoTG": 67315
+  "FabrizioRomanoTG": 67316
  },
  "sent": [
   {
@@ -1506,8 +1506,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 18,
-  "tokens": 27994
+  "calls": 19,
+  "tokens": 29575
  },
  "pending_fb": {},
  "feedback": [
@@ -1934,7 +1934,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 196,
+ "train_seq": 197,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -4186,6 +4186,19 @@
    "reason": "Coach quote about defensive lapse",
    "ch": [
     337
+   ]
+  },
+  "197": {
+   "t": "🚨 José Mourinho: “After Roma scored 3-1, they thought the match was DEAD… but it was Roma's players who were DEAD”. https://t.co/sLJr5XrjwW\n — Fabrizio Romano (@FabrizioRomano)\n Oct 14, 2026",
+   "ai": false,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "FabrizioRomanoTG",
+   "id": 67316,
+   "m": [],
+   "reason": "duplicate of earlier Mourinho quote",
+   "ch": [
+    338
    ]
   }
  },
