@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59234,
-  "themadridzone": 31307,
+  "themadridzone": 31309,
   "FabrizioRomanoTG": 67297
  },
  "sent": [
@@ -1113,8 +1113,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 99,
-  "tokens": 164247
+  "calls": 100,
+  "tokens": 165854
  },
  "pending_fb": {},
  "feedback": [
@@ -1335,19 +1335,6 @@
  ],
  "skipped": [
   {
-   "src": "real_madrid",
-   "id": 59231,
-   "t": "🚨 𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆: 𝐕𝐈𝐍𝐈 𝐒𝐔𝐒𝐏𝐄𝐍𝐃𝐄𝐃 𝐅𝐎𝐑 𝟒 𝐆𝐀𝐌𝐄𝐒 — 𝐌𝐈𝐒𝐒𝐄𝐒 𝐄𝐋 𝐂𝐋𝐀𝐒𝐈𝐂𝐎 😲\n\nVinícius Jr has been handed a four-game suspension by La Liga and will miss:\n\n❌ vs @Sevilla\n❌ vs @Barcelonaen\n❌ vs Racing\n❌ vs Valencia\n\nHe received two games for hair-pulling and another two for aggressive behaviour towards the referee.",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/qyPPSCIdGTRIG-E7m-BjD9LAaFCb8H-02_v6ZkJJIQvgkZcwoLOjcneAx5cF1JDOfAOkYBxQEb40xJGVqYpCcowKygrGvejatFdVM5t_ROqFUA5526CSrzRLqm0aM1CL4x3j24v1mf7zEF1D0XH3t0GyObiUdpYjUI_ozfBmtkSLz1pX1ARTh7iowbjD0HYLQl6Ut7nBew2EoOfjTv88e37N95yob569_ah_uZNjmwPOFfURMDNbKzjwF9riLb2GSg1aaFISLtUCGaxUOIpoThN-poOTIEWP8cIR-iWmfGqYblGJIVv2oLExc-Sg29IXbAtEdDI2Vr_6hzcKbQRRng.jpg"
-    ]
-   ],
-   "r": "already posted official suspension",
-   "h": "🚨 𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆: 𝐕𝐈𝐍𝐈 𝐒𝐔𝐒𝐏𝐄𝐍𝐃𝐄𝐃 𝐅𝐎𝐑 𝟒 𝐆𝐀𝐌𝐄𝐒 — 𝐌𝐈𝐒𝐒𝐄𝐒 𝐄𝐋 𝐂𝐋𝐀𝐒𝐈𝐂𝐎 😲"
-  },
-  {
    "src": "themadridzone",
    "id": 31294,
    "t": "Vinicius Jr ⭐️\n\n@TheMadridZone",
@@ -1530,6 +1517,23 @@
    ],
    "r": "already posted as item 12",
    "h": "🚨💣 BREAKING: Real Madrid have decided to APPEAL Vini Jr's 4-match ban. @Guiller…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31309,
+   "t": "🚨 Real Madrid meet a familiar face tonight: La Fabrica's Mario Hermoso!\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/dCSeJ37_mQKlYjItfnXsHps014KD6RdS7flck6K5UcuJ25DN9pMHAtQ7qbdScCrZ6KcXlJYxJ2KVoKfLbS6GLntCDP9j-z7RJc1Hc6foqX0IRFRoc54HfKQW_puwiL4UlLCWW6sPGS4v_DHb4rODVF2pUYzAT7osG0O7VrG8VF698i4FYAow8f54QUXZnW_oukNqVx9wquyD8rlOPLxEIyBXuPROSqzHT7geQPrOrm3oZbY7buw1Vs8Wca5edFR75b02siLjhDd0Cdmca3XQdC_xrpOPdO8kM97ggArtoCMDDOxGoCIxqFAggcAiLJ7XlCEYG7AAmK8PnboB6TXsYA.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/ZYViZgRHBZBqC3rAEKAIdfDfNGMq6XN1TsC8doKaCTpwZjY_5j7H75G69lkU3KTnPUF2lUJHIdijIUNqCL_Llvwxqi4Jj_NbugqlkBEeo6nnOptYi5stuRkc4S_dpX5XqDKgUnOTWs-CaAcPfg_q6BCQf7TMR6F9R3kUH3cr-FC-xVNCTCp65xewORdEcvDFsG2xB_srI7Oq44lUDoiYnSsZ61rwYajqBCZW4uoA4u47DCxY52RYHKI4shrDM-IwzsIedSlizxhQdWcgEn908wXO_K08hW2a55ULgb-AWT8YACbzwZbbJ3jRkWE3wKNKiFIcfLTPDB0tZV4Bm9seNw.jpg"
+    ]
+   ],
+   "r": "Not relevant match preview",
+   "h": "🚨 Real Madrid meet a familiar face tonight: La Fabrica's Mario Hermoso!"
   }
  ],
  "summary_date": "2026-10-13",
