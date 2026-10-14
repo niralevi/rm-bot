@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59229,
-  "themadridzone": 31288,
+  "themadridzone": 31289,
   "FabrizioRomanoTG": 67293
  },
  "sent": [
@@ -993,6 +993,23 @@
    "status": "fact",
    "headline": "Mourinho says Vini Jr. showed improvement after derby",
    "link": "https://t.me/RealMadridImportantOnly/181"
+  },
+  {
+   "ts": 1791998548.372394,
+   "date": "2026-10-14",
+   "tokens": [
+    "4",
+    "match",
+    "suspend",
+    "viniciu"
+   ],
+   "names": [
+    "vinicius"
+   ],
+   "cat": "🟥 Discipline",
+   "status": "fact",
+   "headline": "🚨💣 BREAKING: Vinicius Jr SUSPENDED FOR 4 MATCHES.",
+   "link": "https://t.me/RealMadridImportantOnly/182"
   }
  ],
  "offset": 769011995,
@@ -1000,8 +1017,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 76,
-  "tokens": 126295
+  "calls": 77,
+  "tokens": 127965
  },
  "pending_fb": {},
  "feedback": [
