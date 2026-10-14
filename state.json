@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59234,
-  "themadridzone": 31305,
+  "themadridzone": 31307,
   "FabrizioRomanoTG": 67297
  },
  "sent": [
@@ -1113,8 +1113,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 98,
-  "tokens": 162590
+  "calls": 99,
+  "tokens": 164247
  },
  "pending_fb": {},
  "feedback": [
@@ -1335,19 +1335,6 @@
  ],
  "skipped": [
   {
-   "src": "themadridzone",
-   "id": 31291,
-   "t": "🚨 Vinicius Jr IS SUSPENDED and will NOT PLAY against:\n\n• Sevilla\n• Barcelona\n• Racing Club\n• Valencia\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Xs3Pmx2utKFUFuPqku1iJax2b2W-a9nfDcl8RLaW2ZMQStKauipbqcyimukGPfdejVuxN05I1e-bcILx3fZNCSCYhajFu8i1io6uQ9UQC6KWQNP2k9JTDDYIhTKFlNK8gAUZAki12k4vbVc8t_RubseE7mBaqi1g3h_hq7Ith9SxVCUq-nA5cSBtMuh0y37lXVkTXYK_r_utncJ1WFwrkRxnJsm1PadmdYAisEI_5x0ndCTdT4YWUusP6nXY4rD9RQxQlE6aE_BufP5NBzjhsS_4wawFwK2c1KlguQjbzl8-O7rzx19UUfXAQWQVULQWvtpbQS1NN7IiOLLxE5YBfg.jpg"
-    ]
-   ],
-   "r": "already announced suspension",
-   "h": "🚨 Vinicius Jr IS SUSPENDED and will NOT PLAY against:"
-  },
-  {
    "src": "real_madrid",
    "id": 59231,
    "t": "🚨 𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆: 𝐕𝐈𝐍𝐈 𝐒𝐔𝐒𝐏𝐄𝐍𝐃𝐄𝐃 𝐅𝐎𝐑 𝟒 𝐆𝐀𝐌𝐄𝐒 — 𝐌𝐈𝐒𝐒𝐄𝐒 𝐄𝐋 𝐂𝐋𝐀𝐒𝐈𝐂𝐎 😲\n\nVinícius Jr has been handed a four-game suspension by La Liga and will miss:\n\n❌ vs @Sevilla\n❌ vs @Barcelonaen\n❌ vs Racing\n❌ vs Valencia\n\nHe received two games for hair-pulling and another two for aggressive behaviour towards the referee.",
@@ -1526,6 +1513,23 @@
    ],
    "r": "Opponent coach comment, no club news",
    "h": "🚨 Gian Piero Gasperini: \"Real Madrid have the best players in the world, especi…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31307,
+   "t": "🚨💣 BREAKING: Real Madrid have decided to APPEAL Vini Jr's 4-match ban. @GuillermoRai_ @MarioCortegana\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/TLeLEc6MEEYxmGS8fxiYCgjAM2rhptBiw1OkFnZZQoXw_vxwpPzgo3NHX1Om3vxIJhrAlnflK3SbqwfhMorBaSQ0DOZFc_0HuhfZwXp9HluNM_4ylNfcPsTwfyXR27EnxdCYSPmaYnmK71x1p9EZ1V6uFere7jD3O7Ss-fStRGUKpNvvJB_fsV1PNJ76yaeqA8HzIpBbM5vIfuqxpP1PfMzo12llKTlOGyzjXx022kxjkm6xBFNmWv7qUYU3GdKEwi5ny-jxqOSFuJSjUZ8W1buiLxqACF4rj4nqDHk2y9xyk31cskEtY4MVoWIjdBiko-EWjw9kXzXGO6T4-hdAXQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/bvGQUzRXar__DE5COZE0OyxnLsaE9QHeW-5DVR8IOEVNpM8OFrH-Z-ougD_TWAB0JtzLNtp6V1V186HwmnT2Ql-bpGJsm2afedBMlNYPAWVTEbIFgCK1LbCsOEVmm0POh6nGOomLoRCWglFBg7o4o9hnAoju_esueM3BI_YoOs-NMltsqN43lW8N8s3qEhCrEQ1_TUrL-bxKn6rONBcamAGwo_xx6cyy0LjMTPnZSg6eywSoex0vMzmKt3ZB9-KlmV4e68Mi4fCx_TKZ6Gby6AQat20yUWYlsThCwUO3buCu2iw_xNRTJDTLkEtjbvFPi8XF9eZqycgfTHQ3I2223w.jpg"
+    ]
+   ],
+   "r": "already posted as item 12",
+   "h": "🚨💣 BREAKING: Real Madrid have decided to APPEAL Vini Jr's 4-match ban. @Guiller…"
   }
  ],
  "summary_date": "2026-10-13",
