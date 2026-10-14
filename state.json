@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59262,
-  "themadridzone": 31464,
+  "themadridzone": 31465,
   "FabrizioRomanoTG": 67318
  },
  "sent": [
@@ -1727,8 +1727,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 69,
-  "tokens": 107950
+  "calls": 70,
+  "tokens": 109605
  },
  "pending_fb": {},
  "feedback": [
@@ -2155,7 +2155,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 247,
+ "train_seq": 248,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5327,6 +5327,24 @@
    "reason": "Just a motivational quote, no news",
    "ch": [
     393
+   ]
+  },
+  "248": {
+   "t": "🚨 Vini Jr: \"They had ALL DAY to announce the 4-match ban, yet I only got the news when I arrived at the stadium.\n\nWHY? I DONT UNDERSTAND.\n\nI have NEVER been violent towards any player.\n\nThey always kick me and hit me, yet I'm the one who gets booked and sent off.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "🟥 Discipline",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31465,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/YTGfh_9eSUxQqXA9PkckK_Fj9k2DVQm8wIEoaS_5aR7M0yB9UK9gRk37BQClxLX18QcMxnqUU2C76hR1gLWNZ3PphLiLKt4aUNg43eeIhXR3GCLzDVPmKHOVBsd1bznjwx_nOQVxbtehf8lliykVHJHMIIGZ-o29r8ywWHdM27ypmKGdC1kKLJOSqNG2bTQXnqoJK9YutqDNkwyE4dQDdbhiv3nYm-r2_tAz-QsZqwlEAtWLwa_C-eBxoy6-1bvuAwaLYm7GkzgoCZJVKf0ZQkoJD8ljI6PIqFAbSNBj8fc9UQ2fTAyuJ4bwXVvsu5emyEuSyd7RitLvUb5-Messqg.jpg"
+    ]
+   ],
+   "reason": "duplicate of earlier Vini ban comment",
+   "ch": [
+    394
    ]
   }
  },
