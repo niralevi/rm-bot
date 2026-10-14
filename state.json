@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59262,
   "themadridzone": 31412,
-  "FabrizioRomanoTG": 67312
+  "FabrizioRomanoTG": 67314
  },
  "sent": [
   {
@@ -1467,6 +1467,38 @@
    "status": "fact",
    "headline": "🍿💥 Real Madrid comeback win against AS Roma!",
    "link": "https://t.me/RealMadridImportantOnly/333"
+  },
+  {
+   "ts": 1792013437.9033008,
+   "date": "2026-10-15",
+   "tokens": [
+    "14",
+    "2026",
+    "3rd",
+    "cannot",
+    "conced",
+    "concede",
+    "fabrizio",
+    "goal",
+    "jose",
+    "level",
+    "like",
+    "mourinho",
+    "oct",
+    "ridiculou",
+    "romano"
+   ],
+   "names": [
+    "fabrizio",
+    "jose",
+    "mourinho",
+    "oct",
+    "romano"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "fact",
+   "headline": "🚨 José Mourinho: “The 3rd goal we conceded was ridiculous”.",
+   "link": "https://t.me/RealMadridImportantOnly/337"
   }
  ],
  "offset": 769011999,
@@ -1474,8 +1506,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 16,
-  "tokens": 24769
+  "calls": 17,
+  "tokens": 26359
  },
  "pending_fb": {},
  "feedback": [
@@ -1902,7 +1934,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 195,
+ "train_seq": 196,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -4141,6 +4173,19 @@
    "reason": "📰 Other is turned off",
    "ch": [
     336
+   ]
+  },
+  "196": {
+   "t": "🚨 José Mourinho: “The 3rd goal we conceded was ridiculous”.\n\n“We cannot concede a goal like this at this level”. https://t.co/ygak28TWKJ\n — Fabrizio Romano (@FabrizioRomano)\n Oct 14, 2026",
+   "ai": true,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "FabrizioRomanoTG",
+   "id": 67314,
+   "m": [],
+   "reason": "Coach quote about defensive lapse",
+   "ch": [
+    337
    ]
   }
  },
