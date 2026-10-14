@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31218,
+  "themadridzone": 31219,
   "FabrizioRomanoTG": 67278
  },
  "sent": [
@@ -1057,8 +1057,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 21,
-  "tokens": 34335
+  "calls": 22,
+  "tokens": 36058
  },
  "pending_fb": {},
  "feedback": [
@@ -1280,19 +1280,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31199,
-   "t": "🚨 𝐈𝐓’𝐒 𝐌𝐀𝐓𝐂𝐇𝐃𝐀𝐘! 🚨\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/DjUcLnokwcfOcgujMz0_WKe-Nb5Pm7YwnajpdPyZoYr6tAJWlcThD3s1n3El3cWZQFYsDIxDvYQ7Ulimi_APUXTmJJOJY7hgfLHLEIIeAFZfxhW3cT8grTK2fRt1E-PVk_d0DVjHjK0FFDNgKDwg8V7jATLuTCy-_iLOQROAWHHaKVdJBIbRqcsfhsM9gxED-KOxeYymSWh9MhXrlbewGBRKigZWFE_obcC0rKdALMUY68qEXGiB4lPkI0S0iyM_erQeLg5Zd_gs06VsXUQ13BZs3t4VpjQ9oogKu1vvLpULFGqkb-EyaOVb3b6eQagMchCk13kOiflfopemUOPWLw.jpg"
-    ]
-   ],
-   "r": "No substantive Real Madrid information",
-   "h": "🚨 𝐈𝐓’𝐒 𝐌𝐀𝐓𝐂𝐇𝐃𝐀𝐘! 🚨"
-  },
-  {
-   "src": "themadridzone",
    "id": 31200,
    "t": "🚨 NOT A SINGLE Spanish referee has been selected to officiate ANY match in any European competition this week:\n\n❌ Champions League\n❌ Europa League\n❌ Conference League\n\n@TheMadridZone",
    "m": [
@@ -1476,6 +1463,19 @@
    ],
    "r": "Not about Real Madrid",
    "h": "🚨 Roma are currently unbeaten in 7 games this season. @diarioas"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31219,
+   "t": "🔙🔥 Cristiano Ronaldo’s 11 game scoring streak in the UCL: \n\n⚽️⚽️ vs Juventus\n⚽️⚽️ vs Apoel \n⚽️⚽️ vs Dortmund \n⚽️ vs Tottenham \n⚽️ vs Tottenham \n⚽️⚽️ vs Apoel \n⚽️ vs Dortmund \n⚽️⚽️ vs PSG \n⚽️ vs PSG \n⚽️⚽️ vs Juventus \n⚽️ vs Juventus \n\nLEGENDARY. 🐐\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/u8Pfvs2TkSZiP4OkIjaE_lNr3rnIyrUsVZdJEQ-2jTIU-dafmAMcQj1tR7a5gQa9k7UnWZLewrApOqAcK7-576-AbwNr5DFFJrQbvvpaHdcD5tssRr4XZJTWuJ358iYfCRXXoMW4VgnjEDYseIEuXzit9sAOTSAEID_AcsLgSu70qN0HJgoudMi8HYWK8IrsL5yGFrPJZzM9AjyByqtCrpH9PbGJmpLJguonLfMWyAqOPTQL6EXYiGpU8K-ZAHVAHezuqSt_jRiBSVHaZz0apUdiZ8xfwbobfPIScYp8T4q2tKcML06uiVJf2JrMDJNes0lZ9kuFOP_qH26yxd3uRw.jpg"
+    ]
+   ],
+   "r": "No new factual club news",
+   "h": "🔙🔥 Cristiano Ronaldo’s 11 game scoring streak in the UCL:"
   }
  ],
  "summary_date": "2026-10-13",
