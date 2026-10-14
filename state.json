@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59254,
-  "themadridzone": 31383,
+  "real_madrid": 59256,
+  "themadridzone": 31388,
   "FabrizioRomanoTG": 67304
  },
  "sent": [
@@ -1834,7 +1834,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 157,
+ "train_seq": 164,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -3434,6 +3434,117 @@
    "reason": "no important keywords",
    "ch": [
     287
+   ]
+  },
+  "158": {
+   "t": "GOALLLL RUDI!!!!!!",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "real_madrid",
+   "id": 59255,
+   "m": [],
+   "reason": "no important keywords",
+   "ch": [
+    288
+   ]
+  },
+  "159": {
+   "t": "GOALLLL RUDI!!!!!!",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "real_madrid",
+   "id": 59256,
+   "m": [],
+   "reason": "no important keywords",
+   "ch": [
+    289
+   ]
+  },
+  "160": {
+   "t": "🚨 GOOOAAAL ANTONIO RÜDIGER! WHAT A COMEBACK!!!\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31384,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/AmcYkWgnV1r-uePC6Obr8n_fvD6jbZOMUwKKHyXkce46spQU7iqQp0YG4iSuZLXxHjL1raN-5IYHctkgvohLYs6OHx83Ky0ibpTi4xCTGROaINHJIMi4PyiEBLKhC9QtAPzdNoaR-nszSOK8zsEaiLAhJK13fvwrMe5fevtmsOEgFbI2A1gWBGYYejMLhECbMC8jbAnaotYNf_XXFsaIratbQPqB5WqPyTHleOYqboexVSnGnRTTPGfgvhgA3BG_xhPgMNkdglSiTpXz6OqcLCnXUwCJFywhfiG5JlvvKlA79iTvjKmcigJDYAPdd2Kx5iQBl0u1nUsc0_Kn9Gvzmg.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    290
+   ]
+  },
+  "161": {
+   "t": "🚨 ANOTHER ASSIST FROM ARDA GÜLER!\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31385,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/rndnrVWIZWGnpk6hW-RNt2BWsfm1uvMHmvk5u11sTV_UvSmtOACIG6LV8bhN1k-nCGzqHaW5EOdiSH2XICsE0bdDZ2K0r_nNtcq5TweC3Gr2R2TiN-pGl75En2NLyM0L119BfcALbq_c2_R4cxlqL2drSWoe8FgKuNjTz75r9zTl1iprMlFrRACs7fSIIOurUTpKkC1cRuWeD5N3hY3oN5f4oIYjGDEBmItsdkNPW8YhxNh0Kl9CLVr0gZJpTJSwca5kOeNK4Ar3HKaXRdHlkiEfEJK1ZC0shB3ArbdQTGq0Kdv8548tKhQhlGe8t6QRFDExuZ6LAHUsdtSf3YHVUw.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    291
+   ]
+  },
+  "162": {
+   "t": "Air Endrick ✈️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31386,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/CQvugMmCdrFG5m6XFxk3Fnl74yVEIKzdbjPIezKR7XoKyUb0nuuw7ghqVCoPf46X8pbFTzBOgUI59AgIVLQ3YJu0r_Yy8XdOigKeGQxj0-ieyWX8qFvbYTIL_BXCfaloFtym7PB3IQuLtQ903y6Lg2WA9rLqCBWKVfWhzKoljuMjKT8XZsMx-OdM82GN6BcGA7ACvZ28cIXqxvXhxVvTaemQuD1XL-quzqHWDNusq2NP_kqhHMMSlqO4osQihfSxcUSxpKMcBpBVDyJ_darai6qRjMQZNZadPWJunS-mRBIrvdeT7JYbn3tHuUdM8VaJahxRrbc52vrFUMc-yViVrg.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    292
+   ]
+  },
+  "163": {
+   "t": "And yet another assist. 🔥\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31387,
+   "m": [],
+   "reason": "no important keywords",
+   "ch": [
+    293
+   ]
+  },
+  "164": {
+   "t": "Another game, another assist for Arda Güler. 🔥\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31388,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/jmphs5HAGlPdjYzv5rQ4E2iIl3-fkYPkVgmmqDwtrjmFbHLc_TpuF28DtrGdM3_1vOv0_4VjR4YzKhDPVnoGnfoxQol9Gm9hVKkJboI9VAtir9IGwwJBT2d45kpu8MxznFD6UWPtqHKcY44hG5fMwtuTaKRa69o6yqv2Pdbpf9vjsRgUnEKNOtYLIaABKUCRdAW2HWkGV95raDPdPTkgNWMfgAANOhNmLV2C3-vHBWBFlqkqPKv5R3Z_NLsJUnXW_nO_iC-a8USQcmkyTPa7rhhFfq2fUeG4qYpC3ls0ou0Co1FdZ8M8Y8G7JzFAQn3Tdwni1ohsfB9PTEQyO1ZNrA.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    294
    ]
   }
  },
