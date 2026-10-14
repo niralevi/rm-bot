@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31234,
+  "themadridzone": 31238,
   "FabrizioRomanoTG": 67284
  },
  "sent": [
@@ -1057,8 +1057,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 32,
-  "tokens": 52736
+  "calls": 35,
+  "tokens": 57622
  },
  "pending_fb": {},
  "feedback": [
@@ -1280,45 +1280,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31213,
-   "t": "🚨 Real Madrid player market values in 2026. @Score90_\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/jfNVW2P_vC31mlDiDTBoawIiM4qnhtSnYunjDSnDzKR2barOV3N8Z87c57yIWfItaG_xEhk0zVHzLv2_lXR4S0A7wzz7EX1w9PDRJf2GpHi7Q_6xdU04S-aWilKKhQIIZJZltU4GUhf-jHFRt8N6Jn4pSomeszrh4boFyi3d090rDlef_CcC0wrETa4BINn8jByMr-O_58YBBeqEBk4ZgDs0h8O9PDUY7OIhsbAR7n6pf4yk9NWkNk6gTYqGrly2SbMB9wPpzkJ4WqSwHp2V_3z74pg5U8TuM1H3mrVGfXy4c2O1tys78FMGlq9-gi4eWDpH89tty6mSQRpfRgKoWA.jpg"
-    ]
-   ],
-   "r": "Pure statistical list, no news",
-   "h": "🚨 Real Madrid player market values in 2026. @Score90_"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31214,
-   "t": "🚨 Real Madrid vs Roma expected XIs. @diarioas\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/IkqZrHz2xQP9sD5rRW9p4bog8A4Yj4kOHCx6c5kEA-9cXCtjbOcJt0eNe9uC5Ti-jmzcTJ0QixsZhiG3ISDDH8At0rb1WvwdeFWvPIDyg4cgcF1js9AbK7ufE6uaU1N9A-vOXVm1lGVobZbGpli2jF3wvUR_XciW-zKihuywdDqBsMw1xRSPIB1emAYLIYGZ5fcDDM8lWKlCoyuHZhIcXwCcCAf9gUhSnvSGjAZiSh7tO4ET_uzjUzCGzP9-Z1VIkkXyfBHZphCj5Ai35fCqR2r9PQf2C5a5sdFiRbBkn5HM8hU_Da7p8PO_sfZ3bkeKMn78t23GyDsvJm_wf4XiPA.jpg"
-    ]
-   ],
-   "r": "duplicate of earlier expected XI post",
-   "h": "🚨 Real Madrid vs Roma expected XIs. @diarioas"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31215,
-   "t": "🚨 CONFIRMED: Arda Güler is expected to start on the right vs Roma. @diarioas\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/R06OIW3WuX3PuO-yxuURfAO0G1Iv-SbqjQ2nEvAXwrKgzMda2g0ToNU28cQYp_6x9oEy3x5nRdQpATIMVCFDjmc_5k8PCMLR38c-7bRO5mP7A5MBflezYXijYeDdWjm_frY_JGOOJMpRta0ebCRhzhbraKr9X5VfwIHlGUbfyDTBC6-MIgrH9JENCdc1-G04G1a5m8tU9ABOMISLsrUGDzb2UTLUWPCaNeM2Xpg0D1mAcgEeam6JzVHLCwwTeT3YoUZKAyAEHHaY0jrPY5yYHxXhn-4c1Ld2BkNJ0VSvuDeWhU_tGv5B9UIpoP7MNQHObeAzbN3Jxo_F6Ilvkj4wGQ.jpg"
-    ]
-   ],
-   "r": "duplicate of existing lineup rumor",
-   "h": "🚨 CONFIRMED: Arda Güler is expected to start on the right vs Roma. @diarioas"
-  },
-  {
-   "src": "themadridzone",
    "id": 31216,
    "t": "🚨 Roma are currently unbeaten in 7 games this season. @diarioas\n\n@TheMadridZone",
    "m": [
@@ -1496,6 +1457,53 @@
    ],
    "r": "Lifestyle promotion, not relevant",
    "h": "🚨📸 Real Madrid in Adidas’ new FARM Rio collection. 💧"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31235,
+   "t": "Viní Jr. in the FARM Rio collection. 🥶\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/HMHhXzZdaIblyI90e7f22jODMixe7daC0tcw9Ql20ybS4jkgRCMX4ruScAY6e6mi4l5MBoFAnTMeD8sUJA-qL7F-BzwhOIpgnTan5Jh45_WdxL3yiWNRzDBsvgd61DANudJ4Ono_AdFe2vqk9TrvJHtViNllrau5Jlpo2ruLyGbvMoc1BQNETEjAzdp1ex7j2hXJXMFT4_PRRzGYzBPHNytX8GOJj_0vdfyLJ4mNvfftsiB1kbXXVR-JpfCRSJMDGvMxycw5wAGAGJ9mYmIBdyoT4P_wQJYkWBoNql1skqyB3Hey41YofT0vAXqo8TOSTwCrgjWKJZjuZu4grZeCCQ.jpg"
+    ]
+   ],
+   "r": "Lifestyle content, not relevant",
+   "h": "Viní Jr. in the FARM Rio collection. 🥶"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31236,
+   "t": "📸 Linda Caicedo and Bella Andersson in the Adidas x FARM Rio collection. ⭐️\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/b1sSf_ejs_1Jwg0hwZmdS9zaiaOebam_U9EkWM7GkmFxNRRy1nLWUSS60y4uk5Srfn4SZjcyncuj92mEu43SP6jyQxKgSFotVN2htQP47EYRET9JSnyQwjCq-mZ9rY6gLv7MC4LzRshOsMetNF14R-93eqdyqK_ktLDTDk4_gqJz1q_Bnn8nJsk5ipHkk-aFYXZnbEbJLGFvEWCbl3-n4zg5s_VlYfqYNikEfpjTSXvJ1oI2mxWVisQAMjeYqr7D1c-Uh1UvuOKIEyCqet7YdTxH360Y_LzJ70qAFGdndIulU5uu9XFR3STJsqPGThANkrYD0exOC-FyTRugDeQnvQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/I2AQhdR79g3aKEZRN1_LsDWQVrpUsU6BE_OkAID-e-b-1cpTbbeVsKUTdQXyJE5owiDfPFQrrfoiysxcYA_AZCXgoH7yacwj3oJdXyclj-ZEX2gUdVfylBYFyeU7xqznjua87zm13h9vK1AtV1wmhT3F9pPV8sR_qxwCvr41W2BQaFxF8gPSoD9_J1UC2q_Eg5i-Ci2W0SHw8oCJ7-vGXIK6s6WMrYddXifRmyt47HJV0em9JGmPu1xWIOaqFkvq6B7fQAphlHgsPPn72ZbkmS2Gq6gZRxzG5BPc7q3oQN2_K6txGF9sasK5yNW5Xhio_fUatgdAIt3lVeITWHeTPw.jpg"
+    ]
+   ],
+   "r": "Lifestyle/fashion, not club news",
+   "h": "📸 Linda Caicedo and Bella Andersson in the Adidas x FARM Rio collection. ⭐️"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31238,
+   "t": "Trent x Aurelien Tchouaméni for Adidas x FARM Rio. 🌟\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/XGHUXGLSFuOXqvVjbHCO73zJfuTAKCJGxh7dGtd0yw-_H8nrcwRY2QVJSO5gt8mNZip6KA-6AgYF_DQV-oILw34cl0nu0ZmgiAJgiMss5667L9DKlA_R0274y7CB3cdEOMeu0KYPrhibO-MFsb_rkrLkUhg_rkLqjuNVTGZc2WDw4_1d0CveTu-Zt7dF_SbEdonV6gBLRq-GevEYzs_SseJVlYQfo2VgWfGWVcwbhnw1L1VTQujXlWOHBx46qVy30bvrnBwRWXJ1axX6es7DQ7Ky71uSjcnhwUxQqoxGF5_Xe-GZxja5jGGGoAl4EffFi4ywABNZj1b39z69bN_shw.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/K-5Fgp9gWkDuC0R9G5XfGDG9HSGsqrL__acewEqwMkXuPPOxQ2TEOziWvgVGuuPci5hX5Ko8eau-ozoEWplfjHutCVJdNTuY4dY_mkcEGmkcIrDCvNtekUYeB6Q1a971VMLBqp1cNaqymJQ4E0ST0ziJepT0EO1_buB0RnX4Vuwnat4K0N9lb05lyrUWL4sUaFMtXxX51Xc_XtyxveR3v8-g6swI0h6H2K2-OYiOVaCcFXvU50rQU0Xe7lj87ku_RmRm0ZlWcYiXm0sXzqK2vVRwo1P4kwzbZZdbDvGjDm97agxHkExfGUZBv0Dt7k6dRrx4T1mUDjDaHYMfFI1rRQ.jpg"
+    ]
+   ],
+   "r": "Lifestyle/advertising content, not relevant",
+   "h": "Trent x Aurelien Tchouaméni for Adidas x FARM Rio. 🌟"
   }
  ],
  "summary_date": "2026-10-13",
