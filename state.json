@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59262,
-  "themadridzone": 31454,
+  "themadridzone": 31456,
   "FabrizioRomanoTG": 67318
  },
  "sent": [
@@ -1693,8 +1693,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 59,
-  "tokens": 92119
+  "calls": 61,
+  "tokens": 95337
  },
  "pending_fb": {},
  "feedback": [
@@ -2121,7 +2121,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 237,
+ "train_seq": 239,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5113,6 +5113,42 @@
    "reason": "No substantive Real Madrid news",
    "ch": [
     378
+   ]
+  },
+  "238": {
+   "t": "🚨 José Mourinho: \"Did the CTA just declare war on us by announcing the Vini ban right before the game?\n\nIt's DISRESPECT, to say the least.\n\nHere's another one: WE PLAY IN ATHENS ON WEDNESDAY, THEN IN VALENCIA ON SATURDAY.\n\nIt is NOT INNOCENT.\n\nENOUGH EXCUSES.\n\nTHIS IS NOT NORMAL.\n\nWE ARE NOT STUPID.\n\nI WILL DO EVERYTHING TO OPEN PEOPLE'S EYES.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31455,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/pCslrgT5ifPO34Ew4coYJKSp33ZOyt2tmpEmimwrKHFSNDdqVbjk_tP1laMWFP9UBx3jS-66eT6_LoC9WkjtBdMwqMLtVsilrXy_ZSZe0bWYACyGsVWUaMXzFW9wOGu7Crf9H0tctKgIoxfZQvEEIS1Bj4g-kkgkLfCbSsB3Gm-z7DnLFkgykOs07DR1hOv6GB6XhopRDvOdEsOhI6vt2cLC34TWqOd-N_lJt8Bma_fbBGhrqzjXeBSrSoWhkAd89XC6Ff2NEWEjYoxm2ThD7tlVAfXPEYjFlON8VaE0sgysewc1x9HLcVIZ4NLQImaVYja9O9dMbxay0f4G0ZVmMQ.jpg"
+    ]
+   ],
+   "reason": "already posted similar quote",
+   "ch": [
+    379
+   ]
+  },
+  "239": {
+   "t": "José Mourinho: \"Espi scoring goals but not starting?\n\nHe is growing, he's growing.\n\nI really liked Gonzalo, but when the opportunity for him to leave came, Real Madrid brought me a list of 3 names to replace him.\n\nOne of them was Espi, and I said \"I WANT HIM\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31456,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/LQtrM7cV4u1LsKvW4UO5aIKiviaF0Rc2BDwkgKtZOZpaUveJhcLVsiMNv5xm2XzhaoXNmovQPa_SWQNyDlvxjNGAP77l1QI2nQPINuQZn14ruRV5fanInrxJYPLpBpsDXW5SPRb5DbMnMzXoW3XHZKlY0hvHVySPRP7nYBi2pnzXA3spYSaOuoiequcalbZ2pLGNCu9knehAq_Y-2lAKo8JO_8C7CEHCg_W-IWeHl2GWWhbbTObUaM4iOscjFR-fhkfJ6FZ19RSLp2_fX4bfvPVjJJbnRQh0klFEQ3Tg-S3p5MHk673-x_hRYkiL40fRi9huXm-hDHweigUJ9K02iQ.jpg"
+    ]
+   ],
+   "reason": "Not newsworthy, just a quote",
+   "ch": [
+    380
    ]
   }
  },
