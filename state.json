@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59262,
-  "themadridzone": 31456,
+  "themadridzone": 31457,
   "FabrizioRomanoTG": 67318
  },
  "sent": [
@@ -1686,6 +1686,40 @@
    "status": "fact",
    "headline": "🚨 José Mourinho: \"I think Vini did very well in forgetting about the 4-game ban.",
    "link": "https://t.me/RealMadridImportantOnly/376"
+  },
+  {
+   "ts": 1792015105.4968019,
+   "date": "2026-10-15",
+   "tokens": [
+    "because",
+    "difficult",
+    "espi",
+    "impossible",
+    "jose",
+    "kylian",
+    "lot",
+    "mbappe",
+    "minut",
+    "mourinho",
+    "play",
+    "quality",
+    "say",
+    "statu",
+    "sub",
+    "won"
+   ],
+   "names": [
+    "espi",
+    "jose",
+    "kylian",
+    "mbappe",
+    "mourinho",
+    "not"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "fact",
+   "headline": "🚨 José Mourinho: \"It's difficult for Espi to play a lot of minutes, because it's very difficult to sub out Ky…",
+   "link": "https://t.me/RealMadridImportantOnly/381"
   }
  ],
  "offset": 769011999,
@@ -1693,8 +1727,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 61,
-  "tokens": 95337
+  "calls": 62,
+  "tokens": 96968
  },
  "pending_fb": {},
  "feedback": [
@@ -2121,7 +2155,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 239,
+ "train_seq": 240,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5149,6 +5183,24 @@
    "reason": "Not newsworthy, just a quote",
    "ch": [
     380
+   ]
+  },
+  "240": {
+   "t": "🚨 José Mourinho: \"It's difficult for Espi to play a lot of minutes, because it's very difficult to sub out Kylian Mbappé.\n\nNot because of Mbappé's status, but because of his quality.\n\nIt's impossible for me to say \"I won't play Mbappé today, I'll play Espi.\"\n\n@TheMadridZone",
+   "ai": true,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31457,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/XJ4y9yru1ZLJwT7xs6r2MA0LALpssTvdofimCpdDcWbGSy7dOwpFWgxrMP8NNjjQYUbIXPz_9p8yf9TyS1ng2U91-9No_Cbyd8mLLtV7ycG7PX1ZoBMe0whT2y-8Ff1Sp3V6HwcR6_njFRxcv80MJK8l-_e_Y5ZoSlwTV_vw7G4Xdw0P2Pc8h9dGqkasUjtQD8mFtnZjtkNPi_uOZGfPkmHvnYGw9ciyDPnoi5MyJ3RJx40ga8ySAwpVLBAQpyfqrNxGyGLyVfQ3P6UoNy0irWMgH_lvxHY0GoojTHPSWJqX9U60LUegPOPWes_OCjWV6kUIZJdRlJvEYu3wMWpFug.jpg"
+    ]
+   ],
+   "reason": "coach comment on player minutes",
+   "ch": [
+    381
    ]
   }
  },
