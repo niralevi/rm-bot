@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31242,
+  "themadridzone": 31243,
   "FabrizioRomanoTG": 67284
  },
  "sent": [
@@ -1057,8 +1057,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 37,
-  "tokens": 60883
+  "calls": 38,
+  "tokens": 62506
  },
  "pending_fb": {},
  "feedback": [
@@ -1280,19 +1280,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31220,
-   "t": "📲 Joselu, Marcelo and Alvaro Carreras supporting David Alaba. 🤍\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/DK279ugWi-JIeIHMIZUbi8vXqDgWxOVE9diuFBUs-C7PZD9Bl80mLA9SLshqxzlIGpnNSaVhLrHG0lsX0G5QrkNvB0VESyCLYke2c5I3WBIv634iCcr8BrVOm2MEJ3ntAsRDLFGzS8BE-nbFaY3pAzjt_4rWf8zOfVVfgY1uJEzKvgZuJY86clWooKM9hD4RWgOCQ9GQIFaNXJYKAIzoJlM1S1ISLq9PwTv1dRkQW7Jef8Afc02ZorKV-hIfvrVyZZPM-3gDBNfxcJNhjgtB7Zh8zNp69tJ19t316QvZHalmGzikGs8BoWCVc8lBfOTlf-l3OcukqFHVp62XOpTdvA.jpg"
-    ]
-   ],
-   "r": "Lifestyle, not news",
-   "h": "📲 Joselu, Marcelo and Alvaro Carreras supporting David Alaba. 🤍"
-  },
-  {
-   "src": "themadridzone",
    "id": 31221,
    "t": "Carlo Ancelotti, AS Roma. 🔙🐺\n\n@TheMadridZone",
    "m": [
@@ -1504,6 +1491,19 @@
    ],
    "r": "Lifestyle/advertising, not relevant",
    "h": "Arda Güler x Adidas x FARM Rio. 💫"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31243,
+   "t": "Jude Bellingham. 💧\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/YvtIVNRjWVROh36IWTWhRPlBzgXZTQXflHGbjnWw1APLKPX5-SfwNLtcS9cN0ytgwm5Vr7c6WM42RAsIWys4eEei_EJS1uZ4_Z5Ay0XNXvBQTVh25qTP78bU_fNTxK-hIEZWH6o49CPEu1JYfYOKSkwduqByZtZD9k8xlhLqSKTlk5JdrZgz00fvk3svly4Jgz7m4C3-AAdvkdQ9XRV1LMXwfyOmrdEf1DOkBPxjqms9Gz-agFNmQtGlH-jcKpTzghFvVZNauSMpawWljRZ1v--FOp0sI56nZBgXoCYJwcH9ClXDiI1O5jXDNwaBgzSrKadwaSEkxZZgThT-cwEvcQ.jpg"
+    ]
+   ],
+   "r": "No substantive Real Madrid news",
+   "h": "Jude Bellingham. 💧"
   }
  ],
  "summary_date": "2026-10-13",
