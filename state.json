@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59262,
-  "themadridzone": 31472,
+  "themadridzone": 31473,
   "FabrizioRomanoTG": 67321
  },
  "sent": [
@@ -1767,8 +1767,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 80,
-  "tokens": 126057
+  "calls": 81,
+  "tokens": 127705
  },
  "pending_fb": {},
  "feedback": [
@@ -2195,7 +2195,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 258,
+ "train_seq": 259,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5550,6 +5550,24 @@
    "reason": "pure stats, no news",
    "ch": [
     405
+   ]
+  },
+  "259": {
+   "t": "🚨 Gasperini: \"Real Madrid were NOT AT OUR LEVEL.\n\nThey were SUBPAR.\n\nWe were better than them at EVERYTHING.\n\nWe could've scored MORE GOALS.\n\nThey scored the goals, and rightly so, and they succeeded at bringing physicality to the table, but that's pretty much it.\n\nMourinho said we ran out of fuel at the end? I think if anyone was COOKED, it was THEM, not us.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31473,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/iFHfWaEVJxCs-GvrkFzPKRt2Z-zA_kf6jgWFsLXxg3Cd9onp59jL7qgK2bGB0cogTPbPhYpPGHQYJVnqcw0e4rjdtsh2dqYbzAJOszwa32PfA-d4UTFDID8xBSqBSh7uu1drnDuUWqlFdBe663S3OPo4otoKAf-ezGu8iUwjacAO07g3bcw_A6onSMuRg1bCysD4w73EuYyz-_hDCQ0o1tWtCSedJqYCWiPIM_FpnCBIypgsMfGse5AAkAaImVo6go--emr9I_k4rEw1M27bTbmy96eKv9n6HPNMZqOW0taF_Xvg6GrYFjzOs4pXT5_gtGpSw41mJn_I0b4Xwu0VQw.jpg"
+    ]
+   ],
+   "reason": "Not relevant Real Madrid news",
+   "ch": [
+    406
    ]
   }
  },
