@@ -1,33 +1,10 @@
 {
  "last_post": {
-  "real_madrid": 59224,
-  "themadridzone": 31273,
+  "real_madrid": 59225,
+  "themadridzone": 31275,
   "FabrizioRomanoTG": 67289
  },
  "sent": [
-  {
-   "ts": 1791813644.4303732,
-   "date": "2026-10-12",
-   "tokens": [
-    "carvajal",
-    "dani",
-    "getafe",
-    "join",
-    "liga",
-    "said",
-    "yes"
-   ],
-   "names": [
-    "carvajal",
-    "dani",
-    "getafe"
-   ],
-   "cat": "✍️ Transfer & Contract",
-   "status": "rumour",
-   "headline": "🚨💣 BREAKING: Dani Carvajal is JOINING Getafe. La Liga has said YES. @MatteMoretto ✍️",
-   "link": "https://t.me/RealMadridImportantOnly/79",
-   "superseded": true
-  },
   {
    "ts": 1791834743.908323,
    "date": "2026-10-12",
@@ -866,8 +843,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 59,
-  "tokens": 97594
+  "calls": 61,
+  "tokens": 100942
  },
  "pending_fb": {},
  "feedback": [
@@ -1089,40 +1066,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31254,
-   "t": "🚨 NEW: Jose Mourinho spoke to Viní Jr. and made it clear that what Viní did at Valdebebas was just as important as what he did at home, in terms of recovery and PEACE of mind. \n\nThat is why he made changes to the players routine. @AbrahamPRomero via @Ramon_AlvarezMM\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/HwyBEKsVXeXp_1EHpYBh_f97OKxdD8E4sWLGyjTMLSt0-Zbs6Ha09_zbyr5Lw-laLbPZiw5S0XDXbIgAJ4Iz18gwY_6pgJF5rMC0xArJ6rUPbzMmIlXsFGyhJGv7htm21HDPZ0TmhO9-HjLjB_VuFU8KZdTVQlP9g449XJ5uDciUhWGslW0-XCWOYwTEt2ffrO-8TUweHd1VfMcbJFmrbQybNGC5yNVgLlEPAI4LQq7XlejLQeWvVFCqAPyYYHf-HUkcnU9MZs5Sr02lMKyiRwoo0GhVcty4dZgXSAHP6ViAkBR1YRaHSpTYlpZH56eWmef_LCQ0AsnXpli6meAerw.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/rghD8wAENTiDLorEJeC8fKQCAzKbcjWc3hIn2XFGiP6GgRc42BDIMmcLXdnxkJxLXtHv_OY5udAqlTCxIvBR4OgKDkJtlqlw0Xk8Hed2WwLtegWMR8SSwoQo4h01uIJd8DfkVShSZPE4Dbavn9teE35mK9P8PJhpO1GxjIXD9XtEhRBcG77hGTwVgGjCm7ySXcTO_tud6cYCmPHfhQLVEyVvMxO2FtZG8E3y4724j8V263oRMJGju77zTa7KmVQXfTfaxhTjioEP2hSATIl88c_OBiZJfrKs5CHVOlo6iEoPT7HcxgXmacgZ5ftcKCEh3twhwMtCky9Madk3aYKIHQ.jpg"
-    ]
-   ],
-   "r": "Minor routine comment, not essential",
-   "h": "🚨 NEW: Jose Mourinho spoke to Viní Jr. and made it clear that what Viní did at …"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31256,
-   "t": "🚨 Viní Jr. knows better than anyone that he is NOT at his best level, and is fully aligned with the club to get back to his best. \n\nHe understands that the situation is not the same as it was when he was benched under Xabi Alonso, and he is not at the same level he was.\n\nHe knows he has to change things to recover his form. @AbrahamPRomero via @Ramon_AlvarezMM\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/DGekDXpBPk7j2FT974Sm3V3hAUTyi2xp9gPNGz_t2p9-FYbPQIqpechjky3WbVu7TpOytwjOJj9gG2MZtelIcDOI65FXBzDS1qEFnZL7YR_LW6o0iRrBE1LkBfiCclWcY3nlKBFe14v7MaeNwx2h8E2yln3N21cCxd4RsULBylO2lWdb9fcI6zaPxd20uaMqLH4AaEpHwKT1S3yWfjKkVnOOQ_RpRYpznqWR7H1cI_e_3E2iGnHQ59b7AI5sF6xvMlbhNjpa-zrKubmsEHskqm3ekHl9wPiK_iNmU7bd-e_wSkGewLm0WMjKiuP-0to8X0WrAkMjcGFZY0jno_7zLQ.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/sB27n53y7SoQZraUdz-wKsWjjgggfZEyPlaw-hnCMIQdOtbtYH4T9p3T7Q78E4qU8opKQij5ZVIuuRF9k4t3fZn5HtHL_44dkYnh3gKpVg_dKZp9cjV62QtcGbUOj522CfLArxeyNxj63JSwECgk3DuJwZm_Mc_cdJUzMtQQe5kxZhDMBrG-5YAZCD7n958GOhY6DrAx6rMHL6uz6-wfx-U6bXAcLoKFbnlTxSk0jlpGOccqnbpDjRv6IspvVFZx86Jb5oCY8_w55F-gQ7dTw5-DnK-g2E-svuBZPv43WRcUk9l4HbQ00bS1yR9tdoKRNBb0spaGrijXdlGTf9xBJg.jpg"
-    ]
-   ],
-   "r": "Not newsworthy, just player comment",
-   "h": "🚨 Viní Jr. knows better than anyone that he is NOT at his best level, and is fu…"
-  },
-  {
-   "src": "themadridzone",
    "id": 31259,
    "t": "🚨 NEW: The coaching staff think Bernardo Silva is doing well, but is not fully ready physically to play long minutes.\n\nThey are taking it slow. @AbrahamPRomero via @Ramon_AlvarezMM\n\n@TheMadridZone",
    "m": [
@@ -1305,6 +1248,32 @@
    ],
    "r": "No substantive Real Madrid news",
    "h": "⌚ IT'S CHAMPIONS LEAGUE TIME!"
+  },
+  {
+   "src": "real_madrid",
+   "id": 59225,
+   "t": "🚨 UPDATE: Viní Jr.’s ban is expected to be AT LEAST 2 games, with a possible third because of his “aggressive attitude” in his reaction. [MarioCortegana]",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/GY07NVoHK37ng_vAURyAIAlmRdMuPqOJz_iD-UKhn6trkYSfcImz9uzLI4U1QhUrWzOgCf16OkdMIgUQqKViypSUF-24Il-NButnkuk-EMs0muSSBuuExStrHQgwOCOY5pW9lbJn6tKFXFd6BagcvH1HcOO0d1B8LFY3e4d_pryatNGOnoYqEXLXyd1QeT6dBaeruVaYXXHwSBxp4NK2ZgDI-1Xg7fl4f60ycmQQqpbsigDVoIn4CGRNGDsoun5OOrxs5udDeNUuqTxNVQakvvD6980s2XQxXl2zdGp4S8toe0MpwmbHF7Goie78C6HSIVgUYVPMKRmKJdYJeM-ZgA.jpg"
+    ]
+   ],
+   "r": "duplicate of existing ban rumor",
+   "h": "🚨 UPDATE: Viní Jr.’s ban is expected to be AT LEAST 2 games, with a possible th…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31275,
+   "t": "🚨 FT: Real Madrid beat AS Roma by 1-0 in UEFA Youth League.\n\nCarlos Díez scored the winner.\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/TxZCdL69GbKk8TlAdzYyCmtZcObUHNIy8-fSUVA4-rlLMxgiF8Z-n8cXKhN8LMwaOKLSOlCjzRnxBiyzb90PrIy_dPDnbasAVS6ktjJvm0M62KyMFU0cQX7ugu20OsRi0DjuJ7nTO7nc3s3-R0T5ReAzEflptXhdudXYCGpgjxaOCvWiUoyd849HZf64O5xnyHWldjzEYAFAilLRw8TGMyvBOnteavOBX1Qa0N8Yd2VMeR-t-rfI7sS2oF_XLrNHpKClur_iwOkua-5jbGbdszPVbG4fNTHpiLUfNg7P1YH5jYUTteoILu3f_rtAmL4TLi6APt_RSgUo6lB5N-31lg.jpg"
+    ]
+   ],
+   "r": "Youth league not first‑team news",
+   "h": "🚨 FT: Real Madrid beat AS Roma by 1-0 in UEFA Youth League."
   }
  ],
  "summary_date": "2026-10-13",
