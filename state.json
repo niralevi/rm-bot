@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31206,
+  "themadridzone": 31208,
   "FabrizioRomanoTG": 67275
  },
  "sent": [
@@ -1027,8 +1027,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 10,
-  "tokens": 16270
+  "calls": 12,
+  "tokens": 19561
  },
  "pending_fb": {},
  "feedback": [
@@ -1250,32 +1250,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31190,
-   "t": "🚨 Aurélien Tchouaméni: \"Preparing for El Clasico?\n\nEl Clasico is a different match.\n\nWhether you win 15 games in a row or lose 2 in a row, El Clasico is completely different.\n\nIt's a game that requires special things to win it.\n\nWe'll do our best to prepare during these games, and we'll be READY for it.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/qBl-4MFM4wj7xbFNX-5pduY20krSuExNadTaHl9g3E7VEE7QF8q0g9jRwozULnKRVAtg2d0GvIYS2Hx5MWoL1HTEUwNCinyjIqWeu5bHm3I1GpaNvnhT43si8K5SIJjnbCSxI7gCtVR6acPCSJKxGf9OQe2k-_igW0ZnjfcoWgRYzfunLoKCeDl1621ytUKhSGVsiKn5flRCC0LK44G29v01K-kegPWllcTdu02M4rugtLqXCpDopWvtaO-OhUpfITszPeQYDxr4JhXpRHb9yQlZrAsNhadv8RaZR45aP-oHVrrevIBMi4Sy5bMc8TmiL-ruUUJNL8bol-4rCaBA1A.jpg"
-    ]
-   ],
-   "r": "generic quote, no actionable news",
-   "h": "🚨 Aurélien Tchouaméni: \"Preparing for El Clasico?"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31191,
-   "t": "🏗️ Real Madrid logo before it was installed on the Bernabéu today. @diarioas\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/U0jG5Idaf-V2b-fOxLn2I0AwkkFtCdGKuffVn9hYzByrhCUd1IJMPjZ1HeiuwkAGfR0vmFaRNSe__8YHJm4FdY_S9MZn1KgZVA279ASxV4M1HS6l1pzphnGfLQCTf9vHZQUFKlig5eHfDNTR-jsTUEQygCwYuRxA6aYfVWcVAYbHTfMqKuOTu1qTeWmZ_JaRa5Uv9U0eRkT4wFbHGg8-8E3pfitqC6ciC2B6XZQHEJInVtCOBV0mjH1-BsBULe8HuuDPLVCUvMlOCGdBotPnWCB56bFnRg56UqqvWqfabyrqKAVF36VVLPZButMWqXqEA7CRnVyjA-PJpQ3dsiWatA.jpg"
-    ]
-   ],
-   "r": "Not relevant club news",
-   "h": "🏗️ Real Madrid logo before it was installed on the Bernabéu today. @diarioas"
-  },
-  {
-   "src": "themadridzone",
    "id": 31192,
    "t": "🚨🏗️ The new logo at the Bernabéu. @diarioas\n\n@TheMadridZone",
    "m": [
@@ -1446,6 +1420,32 @@
    ],
    "r": "Pure statistical record, no news",
    "h": "🚨 Real Madrid record vs Roma last 10 UCL games:"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31207,
+   "t": "🚨 Real Madrid are currently on a 4 game winning streak vs Roma.\n\nThe club also kept a clean sheet in all 4 games, and scored 9 in total. 🔥\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/i0-aQ3JHP19zhhv7xWD8EHyS5mI2EYEzYV3qDJ65S3IUuuolfxHs2NReZnF7ELNn7NYmyR0fHLVN1Fcg8biaA3_xsQDCFIwLrsmFvIC6fo9TYcoDaFSWjgtAZSjUqaIMjLFKuG2WI6Z1jE_Zgj6TlW_C_HIzhLFeZ5dCSIXOOmECY_0DQIz9PmUCEcpke6wzm9ZhyTjbbkuUuDzy_YF56nr4aJWMLYcbXETFR4iWflTVOio5KUgXSW72YZnSYLiEAoBc9xOHt24rIK-ka-NfxaxKtXdQ6hpXqdC_0D4rxFG3MJExXT01bH6tyIjCSaGM2DiHLAavArjPVfYPWEICWA.jpg"
+    ]
+   ],
+   "r": "generic streak summary, not essential",
+   "h": "🚨 Real Madrid are currently on a 4 game winning streak vs Roma."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31208,
+   "t": "Sergio Ramos x Francesco Totti. 🔙🔥\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/GiQLzzgTnHyChvIyCthI9ilfrHaTw3fQT7F0n34IplQ1MLBDw3uNqdLzYNZxXi_4dIqrp-m6DG-vAuBtxHcDjpmRsUZU-O5M-yvFDX1Fhy8rto-Vs1_AaKEfw4uJ3LC0BYRyp_z59MhvWQjoguVRFzn_T5r0i7Bbyq8v8kxFDpYKV4RwcXMq-Xrwnj9O9SyI1yhGYoiJNbhUfnN2MF3sGBee6Mb9adjJuucpYkW62RRNdnf4x6RBlYVN2cK9N1lTxgOTOqoyqvJkmQUhtfJDnWEh9Q7erTo79gYfuMSF4BAR0z6EG5izgOjinQwlRcO2-uIpE7-GVsSB-jBkCEP9ZA.jpg"
+    ]
+   ],
+   "r": "Irrelevant meme, no real news",
+   "h": "Sergio Ramos x Francesco Totti. 🔙🔥"
   }
  ],
  "summary_date": "2026-10-13",
