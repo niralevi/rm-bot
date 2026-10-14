@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31221,
-  "FabrizioRomanoTG": 67278
+  "themadridzone": 31222,
+  "FabrizioRomanoTG": 67279
  },
  "sent": [
   {
@@ -1057,8 +1057,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 24,
-  "tokens": 39336
+  "calls": 25,
+  "tokens": 40990
  },
  "pending_fb": {},
  "feedback": [
@@ -1280,19 +1280,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31204,
-   "t": "🔙 Cristiano Ronaldo vs Milan, 2010. 🔥\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/A1Ug6wChw93kB94CFuejW8_Bot7pSvrM7zc469lbqZABkEv51H7uDWBBMmiXMxwf9xW8gANpPvP7whr2hgTvnFJ8F7jdfLfSCCkkbyq1Fi_CtQiJjX9cJ2ATkG1KMOu8O3RnKpzVqW3gE9MOSO7SBmIE28DO0Qb4q4hxZuRENXA6gN09bF60lB1xB8ob2JXIuIWwqNtR-IDWK2_wo2N_AvFUy9mPlMhlyfcbAnQ9aSx-h4KLh0S1_LR-6LlAovKV19u0e63F_QYnoe3HyEtw9lCXCL__Sx8B7O4pbp4o93x29iC3sq4RvcLzmpgWhRSnkfNo1hbDtytyBrTZbKVa3A.jpg"
-    ]
-   ],
-   "r": "nostalgic content, no news",
-   "h": "🔙 Cristiano Ronaldo vs Milan, 2010. 🔥"
-  },
-  {
-   "src": "themadridzone",
    "id": 31205,
    "t": "🔙 When Mariano Diaz scored this insane golazo vs Roma. 🤯🚀\n\n@TheMadridZone",
    "m": [
@@ -1476,6 +1463,23 @@
    ],
    "r": "Not about Real Madrid",
    "h": "Carlo Ancelotti, AS Roma. 🔙🐺"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31222,
+   "t": "🚨 JUST IN: Real Madrid are OBSESSED with getting Viní Jr. back to his best.\n\nThe dressing room NEEDS it as he is the emotional core of the team. @elmundoes\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/CbsW8krDbvQFqfXQfixGVsoxPrB3ZFL2mbGO63EsNJd3d1TZ6KNrWDXYklL1RyNbIbyvSojuIOV42rJHPXvohgubqH93qpOP8j5NI7Iec9RAHHXebLQgJrG1JeWYb3oJy9FvhwnpxgRfaCSQFGxAgx5Brb6vLp78946c19k7A4m-FjIhLqoeYqpQ-l_p1lfdAVt3zLYfVm_GN4DToJDVGLA8g7IdSVaBcHvoM91VtFSCSC3V9UJgzLlaopluTXnhUzW-yvaSKCwMgLqK6TyfhoQMpGsUwmHHhqx4NDWila2GGtX6f8V6OweJF5XhlRBqCVV1BWp6Ip2c5R4fR02CiQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/GI4QbRk0dqQKTAug2ozkl3ZzzI2S7drg575N4TGYfLOtIFACQCyb2ozcuwWSyfvPXm1kYXohk1bs2MO_N_55kWyk48TsOHg13XcOgVrSun9lk_CiIQMK2rluRIpSd8VD3E73n1tqD-X6IQ3AIJJb9-hhd8K7RzhsIFXOp-X2YBbs6ofNXxuCne-J66pMOuJxvbKo1uoNojH12vbsHbsEhwmvUlTIx1Qv-zOoHqz9qE-3HWMWAm6JGU7r2bHexNaWO_PZIi8mGB2HGDy7Qy3O_akCFW8VAxT_uZXYIQ1pQA-M7WRv_kucKS-AYopGhJYlmvlK2xm7YtB08IrybYPU7Q.jpg"
+    ]
+   ],
+   "r": "Motivational, no concrete news",
+   "h": "🚨 JUST IN: Real Madrid are OBSESSED with getting Viní Jr. back to his best."
   }
  ],
  "summary_date": "2026-10-13",
