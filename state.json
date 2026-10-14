@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31211,
+  "themadridzone": 31212,
   "FabrizioRomanoTG": 67276
  },
  "sent": [
@@ -1032,8 +1032,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 15,
-  "tokens": 24466
+  "calls": 16,
+  "tokens": 26094
  },
  "pending_fb": {},
  "feedback": [
@@ -1254,19 +1254,6 @@
  ],
  "skipped": [
   {
-   "src": "themadridzone",
-   "id": 31194,
-   "t": "TRENT. 🚀\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/EIiy5mqB85zMr20vYjhRnwfiktyt5BzlR8Ah9fPwX33odePSpZnYG4JZvtxfYsll67VCsoKZmG0qUDKq4bA8JkHPG6te81jG2LM_5aA8KlRzozHeg7vyHO9Q89Y-tE7hHS6ic4-JFRvluGNFKl8s03IboGgMt7xh1-li5XGseZaCoEkysIskG9E_iM_Wpi16KaY359PqZa3dPvv5WBH4BYJpROfZ9jzWlth4GlCBY8g26B3Vfx2wv6ZVFMEe443ReYf-Wr7TewSU0tMG78ejmLlpwvGi2sEsa9qrEe9CLH8CHT-tQtU5al3CCDEIojiRvy0aldwwMbM0M6A3Uy4CqQ.jpg"
-    ]
-   ],
-   "r": "No real Real Madrid news content",
-   "h": "TRENT. 🚀"
-  },
-  {
    "src": "real_madrid",
    "id": 59219,
    "t": "🚨🚨 José Mourinho: \"Endrick leaving on loan in January?\n\nNO, NO, FORGET IT.\n\nIf any interested clubs are waiting for him, they better SIT DOWN, because they'll get exhausted waiting standing up.\n\nEndrick is a player I ABSOLUTELY ADORE, a player I believe has HUGE POTENTIAL and who is VERY IMPORTANT to us. \n\nAnyone interested in him will have to FIGHT ME HARD, because I believe he does NOT need to go out on loan and that he'll have MASSIVE SUCCESS here.\"",
@@ -1451,6 +1438,19 @@
    ],
    "r": "Pure trivia, no club‑relevant news",
    "h": "🚨 Only 3 players have scored in 9 Champions League games straight."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31212,
+   "t": "Jose Mourinho returns to Champions League with Real Madrid tonight. ⌛️\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/gh7vinqsjtoKEadtN5wbkDdrWVoVqdP7nFfpMqg7zNssMBudH3kuyX14X1pfA2UI35gFQLVGsB8ktzocPnSgdT-oCmQnMAQBPKLDmnnNi22r8wVjLNBYGUBUXh5PIziMtJeJvYz-D9Ntj4LcFs4LhgBknOI-BHaEnf8Xh-w2lUA9xBhWE6n_BgeqXbtANlfU8XvW-7E-JwcnMDzCBYMjIA6Wa0Zz_GnX1x9ZQ7oaP6fCRShl0ilbOpoMQSQ1cJdWTOQPyBpB08x9UPTPwlIakEn7lI3zS0sddIZIoLwljdfk2sAiUSSUArPlIXNo5xHrm1XJ0qTVt0iRH7O8thBhQQ.jpg"
+    ]
+   ],
+   "r": "No new actionable info",
+   "h": "Jose Mourinho returns to Champions League with Real Madrid tonight. ⌛️"
   }
  ],
  "summary_date": "2026-10-13",
