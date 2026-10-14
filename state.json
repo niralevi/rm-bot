@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59229,
-  "themadridzone": 31289,
+  "themadridzone": 31291,
   "FabrizioRomanoTG": 67293
  },
  "sent": [
@@ -1009,7 +1009,34 @@
    "cat": "🟥 Discipline",
    "status": "fact",
    "headline": "🚨💣 BREAKING: Vinicius Jr SUSPENDED FOR 4 MATCHES.",
-   "link": "https://t.me/RealMadridImportantOnly/182"
+   "link": "https://t.me/RealMadridImportantOnly/182",
+   "superseded": true
+  },
+  {
+   "ts": 1791998663.048246,
+   "date": "2026-10-14",
+   "tokens": [
+    "2",
+    "4",
+    "ban",
+    "card",
+    "decision",
+    "match",
+    "official",
+    "protest",
+    "red",
+    "serve",
+    "straight",
+    "total",
+    "viniciu"
+   ],
+   "names": [
+    "vinicius"
+   ],
+   "cat": "🟥 Discipline",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Vinicius Jr will serve a TOTAL of a 4 MATCH BAN.",
+   "link": "https://t.me/RealMadridImportantOnly/183"
   }
  ],
  "offset": 769011995,
@@ -1017,8 +1044,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 77,
-  "tokens": 127965
+  "calls": 79,
+  "tokens": 131305
  },
  "pending_fb": {},
  "feedback": [
@@ -1240,19 +1267,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31271,
-   "t": "🚨 STAT: Kylian Mbappé will make his 100th Champions League appearance tonight! \n\nHe has scored 72 goals and provided 25 assists in the competition so far.\n\n97 G/A in 99 games. 🤯\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/uADnJnZ4RocumXrR0DQSwM_PF0_3X3NZwb9LKlGxEJtVWjrXe_n5XBpTdKK6AfSMf-0KtLmgQTlPgMkMK_9X6XwBXrTjwhZS7OZFZEDkIWj8HPCfWTkuSGGl1-kwDK9SAxaNWj22anxRc7p-nm0UQCevUhIXM7-E6UZpZAv8FJo-0s-VgAj_feIYL0-06vVXkUF5NZwqb-rz-eCoyv_-KWvnL-a5rj1z9xAZ0IvmUsPipzVBDj_ljdEQjuDge6_2MBjbPFn2T6flFwM4LyimSeaUm3UBnKMF4cfMqizGpPCGzv2JtQGlUynQQpik6GEXtDvVr76dR7ZTLghvC6T9Zg.jpg"
-    ]
-   ],
-   "r": "Not about Real Madrid",
-   "h": "🚨 STAT: Kylian Mbappé will make his 100th Champions League appearance tonight!"
-  },
-  {
-   "src": "themadridzone",
    "id": 31272,
    "t": "🔙 Real Madrid’s XI the last time they faced Roma in the Champions League. \n\nMariano, Fede Valverde and Marco Asensio came off the bench. ⭐️\n\n@TheMadridZone",
    "m": [
@@ -1435,6 +1449,19 @@
    ],
    "r": "No Real Madrid news content",
    "h": "📸 Screenshot your predictions."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31291,
+   "t": "🚨 Vinicius Jr IS SUSPENDED and will NOT PLAY against:\n\n• Sevilla\n• Barcelona\n• Racing Club\n• Valencia\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Xs3Pmx2utKFUFuPqku1iJax2b2W-a9nfDcl8RLaW2ZMQStKauipbqcyimukGPfdejVuxN05I1e-bcILx3fZNCSCYhajFu8i1io6uQ9UQC6KWQNP2k9JTDDYIhTKFlNK8gAUZAki12k4vbVc8t_RubseE7mBaqi1g3h_hq7Ith9SxVCUq-nA5cSBtMuh0y37lXVkTXYK_r_utncJ1WFwrkRxnJsm1PadmdYAisEI_5x0ndCTdT4YWUusP6nXY4rD9RQxQlE6aE_BufP5NBzjhsS_4wawFwK2c1KlguQjbzl8-O7rzx19UUfXAQWQVULQWvtpbQS1NN7IiOLLxE5YBfg.jpg"
+    ]
+   ],
+   "r": "already announced suspension",
+   "h": "🚨 Vinicius Jr IS SUSPENDED and will NOT PLAY against:"
   }
  ],
  "summary_date": "2026-10-13",
