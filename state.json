@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31220,
+  "themadridzone": 31221,
   "FabrizioRomanoTG": 67278
  },
  "sent": [
@@ -1057,8 +1057,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 23,
-  "tokens": 37689
+  "calls": 24,
+  "tokens": 39336
  },
  "pending_fb": {},
  "feedback": [
@@ -1280,19 +1280,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31201,
-   "t": "🚨 Luka Modrić supporting Real Madrid Basketball today. 🏀🤍\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/jfSzBY5si_2VPpHvy7dZ57u9Hh6QnPcCWpDbjXcOLeJusEmbqeyDLm4WCnetg1KWICcg0Q3JAtlmlznvHTeBhyoMZlgKAr5Aq47pCMGqhOAXAT8PqkNOyIDmtfFyyKVIYvShT3HIpblS2rcsmshI4-ZwVx93S7AwCKLDCM24WSNPevsSf_ERknNHgVl9lR8YcTLhMIlL-Q96dScNXrCosybSDe4gWnZUCZ772_9czLSXveqfNAtkN3H5s59z3edr2JltZRkYwcLuMQEZq0G6Ki-Af_IEgKjVIbEBfOSTMaFcQeJefV4DgrZ2ie4dxQFRvJZa38ccS7bTMxnz1veUkg.jpg"
-    ]
-   ],
-   "r": "Irrelevant lifestyle content",
-   "h": "🚨 Luka Modrić supporting Real Madrid Basketball today. 🏀🤍"
-  },
-  {
-   "src": "themadridzone",
    "id": 31204,
    "t": "🔙 Cristiano Ronaldo vs Milan, 2010. 🔥\n\n@TheMadridZone",
    "m": [
@@ -1476,6 +1463,19 @@
    ],
    "r": "Lifestyle, not news",
    "h": "📲 Joselu, Marcelo and Alvaro Carreras supporting David Alaba. 🤍"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31221,
+   "t": "Carlo Ancelotti, AS Roma. 🔙🐺\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/YE8UlejEC1NxuMM2hivXUKEUNS8h1682LgMkOSJhLfLd2BvLVTE3UlQ5BqIhVzdyuMpahR2f7VZmi12od1d3znMZI-isYckdzfJZo8rzUTXTkn-aCmSmxsY-riV6uGOS88V8JT13VOzi5hSrANsc3f_wgIKbwPeFacykvwvf1ws7RkNIWccj6huQs1DX0obWXyPIWEu8OICs9uGSt0DBZyD094ckFHT36IexoC6M7kBU4XOzLcAY2sK_wwkPIhhXKQgE3fMIVc_o1AraOs3me2ZOi9zcfjPCso2YDbiQtnOtQxK47BdrGuU8xHq4DcDF6j6TBS3MAM_k0nxmHYhowQ.jpg"
+    ]
+   ],
+   "r": "Not about Real Madrid",
+   "h": "Carlo Ancelotti, AS Roma. 🔙🐺"
   }
  ],
  "summary_date": "2026-10-13",
