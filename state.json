@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59234,
-  "themadridzone": 31323,
+  "themadridzone": 31324,
   "FabrizioRomanoTG": 67301
  },
  "sent": [
@@ -1551,7 +1551,7 @@
    "h": "🚨 José Mourinho: “Ask Spanish Refereeing Committee why they published the news …"
   }
  ],
- "summary_date": "2026-10-13",
+ "summary_date": "2026-10-14",
  "prefs": [
   "Dont send anything about vacations",
   "keep thing about ronaldo if its important",
@@ -1561,7 +1561,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 98,
+ "train_seq": 99,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2243,6 +2243,24 @@
    "reason": "no important keywords",
    "ch": [
     198
+   ]
+  },
+  "99": {
+   "t": "🚨 KICK-OFF!!! \n\nHALA MADRID Y NADA MAS 🤍\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31324,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/vBSyvCdCjU1nU-YU6z8W3ZLCRUxSZqI4Dbig7uzuX9EMBLeawTpW2FajW4iSvacO9f2lsL-BLMo3Nx-e5Cd_umDUbhsmd-T0gU9EiyI0BMenzrvp5X0fcu9-ajnZQ9p2IGN-DLS-H06xgg5xwBHTbIjeFb6FtkybSyiYECth7JFX57p4t67lQM5Nl22r0slxtH5i45FLoWVR0usCYYEgj_Z43HeKxFrA0GEum4K7d5kQKxMCs0DmU9f3kKG_JhaHEtwGkvUwHtVBfI6ZoybanQpIisorTdu66FPPPMM096UOlIyqvPOhuJqRRQweHvN6I_-JTUOxyRFgrDXji72R2w.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    200
    ]
   }
  },
