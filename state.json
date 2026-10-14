@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59248,
-  "themadridzone": 31378,
+  "real_madrid": 59254,
+  "themadridzone": 31381,
   "FabrizioRomanoTG": 67304
  },
  "sent": [
@@ -1370,6 +1370,35 @@
    "status": "none",
    "headline": "🚨 Carlos Espí scores but it is ruled out for offside.",
    "link": "https://t.me/RealMadridImportantOnly/281"
+  },
+  {
+   "ts": 1792010725.2619302,
+   "date": "2026-10-14",
+   "tokens": [
+    "3",
+    "endrick",
+    "scor"
+   ],
+   "names": [],
+   "cat": "⚽ Result",
+   "status": "fact",
+   "headline": "🚨 ENDRICK SCORES! 3-3!!!",
+   "link": "https://t.me/RealMadridImportantOnly/283"
+  },
+  {
+   "ts": 1792010788.4371521,
+   "date": "2026-10-14",
+   "tokens": [
+    "2",
+    "3",
+    "espi",
+    "goal"
+   ],
+   "names": [],
+   "cat": "⚽ Result",
+   "status": "fact",
+   "headline": "🚨 GOAL! ESPI!",
+   "link": "https://t.me/RealMadridImportantOnly/284"
   }
  ],
  "offset": 769011999,
@@ -1805,7 +1834,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 152,
+ "train_seq": 156,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -3320,6 +3349,73 @@
    "reason": "no important keywords",
    "ch": [
     282
+   ]
+  },
+  "153": {
+   "t": "🚨 ENDRICK SCORES! 3-3!!!\n\n@TheMadridZone",
+   "ai": true,
+   "label": "⚽ Result",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31379,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/CjzL0nQMK6TlUCGZGidrggZCjO0Lj8_I3_c4I9ET_W1RpiH9W0p0Uv4XqtLBal1_bof10VF5pGKX1mRe_wLgokbrw0ZySpGzIjevmc0c3m5ZAl8_bj6vhOQ-pq4bosGHhF3cDI8xG3zt7EMzJuZem5FTgYrKqSvYzapM1iEIhHvehTeG5OzXA412XX_VCvTT1QQhuEJGw89hZfhXuY07Zd-WCk4S6Mr_Hvvp4PCvmqKrTLvRM1XgBVvHua7FbFPNAPgAUZgz2HnoyXidYL7q_u1Qk3qpfkEGkple2ke5qVWKLZkhAw9NQSGGS_ypx-wcmfyGqni64gldGGyDyO-emQ.jpg"
+    ]
+   ],
+   "reason": "important keywords",
+   "ch": [
+    283
+   ]
+  },
+  "154": {
+   "t": "🚨 GOAL! ESPI!\n\n3-2",
+   "ai": true,
+   "label": "⚽ Result",
+   "status": "fact",
+   "src": "real_madrid",
+   "id": 59251,
+   "m": [],
+   "reason": "important keywords",
+   "ch": [
+    284
+   ]
+  },
+  "155": {
+   "t": "🚨 ARDA GÜLER WITH THE ASSIST!\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31380,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/W2ZHAWWrvp9Nf8aabKWna2JjqlLKqtn3MLKGJ2eFUIemTVfBGEyc7yb80LddbtKLMTKUPuFC1bLEuynr_nekxdQs1swiVVvlBIPh7sYg4DeKXt-w9FkipJ_mXph1kRH68ZHvaosP838_PJoHA9NYxyFMGQiMZFjXfQ1xQwS5rHn1G21C0kWNV7DtXXjKJE2CrTBd7r8pPgdClxn-HFStnM_spBqHuVHTZ_-47aooXXyncRhGe2nj-Vm8aLync_uU_EO7HnSgK2yutmORwKARjYA9cCBwUeZ8Ou3Ap2ls-vxjg_DgmcU2vGix7cHSu_spMtvNiAO5s9u5__ScTa0Vbg.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    285
+   ]
+  },
+  "156": {
+   "t": "WHAT A TALENT, ENDRICK 💎💎💎\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31381,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/pZs_8GyM3eTHH2cl16AX8yLVVmlN3TXdI1PrVGKTlb7iudzsFFGf8Hhe7bMYyyl_lfb3M2_Q9Nt21QOZg0XWiteCAUNfujsrV-N7nZM7CBXMEzNBqO0vgy6I2wuQDdm5IIRT-8hNGyX8G5-3WpRLtmqnetIVqyfzRDeawEZ3a7bvUFhqv82KulFPfCLJMYWExG_5dDKF6yw5b5jBYFxnpURepfm7vvz-QPnov5xGCG_rrvKUij01blcwkzvdAdzZdJdGqCfQYTfQV_e0na0i2fYi2zMb2dbCiUzFgFWsnnc1UskVi2WBPXM-uACLke5D_ZBT9MIFfrWA8MPqLYw8_Q.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    286
    ]
   }
  },
