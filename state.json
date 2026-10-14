@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31222,
+  "themadridzone": 31224,
   "FabrizioRomanoTG": 67279
  },
  "sent": [
@@ -1057,8 +1057,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 25,
-  "tokens": 40990
+  "calls": 26,
+  "tokens": 42671
  },
  "pending_fb": {},
  "feedback": [
@@ -1280,19 +1280,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31205,
-   "t": "🔙 When Mariano Diaz scored this insane golazo vs Roma. 🤯🚀\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/kGydF1u0o1jE8zNtrbRzTfsemMr64d5JP6eeryvqPTYedPQk-cLknJkWktSZO5KyjShkXIuah6GAnaAoyd_IQ2opOahLaFbZGp5MMlHxDXl1A2Dvp8Gob9q2ZsMbMjtURMFz_Im9sVqB9EgKT15FzmGxrF95Qo42WOsg1XLYtNTS0301pppFfJLpNsHY7dHR2KYfwkGo5h8AlQQQoxevZ-U9bqHPtGRfrSUpDx92p1HMvuy7h0IoFv894E4f7Fmasd7D1lnR49o0Zxzsj0H_rYcnJkUY-et7BOE-xqb1kigR1L6x9tLzEC1kWtk68GIggkD3VUSX_C5kIV8a2gTWIA.jpg"
-    ]
-   ],
-   "r": "no new relevant Real Madrid news",
-   "h": "🔙 When Mariano Diaz scored this insane golazo vs Roma. 🤯🚀"
-  },
-  {
-   "src": "themadridzone",
    "id": 31206,
    "t": "🚨 Real Madrid record vs Roma last 10 UCL games:\n\n• 8 wins \n• 2 losses \n• 22 scored \n• 6 conceded \n• 7 clean sheets \n\n⚔️\n\n@TheMadridZone",
    "m": [
@@ -1480,6 +1467,23 @@
    ],
    "r": "Motivational, no concrete news",
    "h": "🚨 JUST IN: Real Madrid are OBSESSED with getting Viní Jr. back to his best."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31224,
+   "t": "🚨 NEW: In the Real Madrid dressing room, Viní Jr. is the emotional core who holds the different groups TOGETHER. \n\nAntonio Rüdiger and Thibaut Courtois are the team’s professional “fathers”, who lead football discussions, but Viní Jr. is the GLUE. @elmundoes\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/U56jsJn6hS732qtYIBmrkyWPOQPNS0P_I-qR4XVIg9b6nZ3LKm43UMVL4YSzb62C3BIeQWqAA3rL33GRP653LH5bFIC7bIPsNotW_cBCmxCOmkyHkP0kvcWD9Heu_eDTPly9QK9EGcd4n_LM8IO3QwvW3HQ_bnD1nw96SYs4aSG1_tvV1HTXIm9KQ0U_DY77K3JxHNcvT5VXxadBcR-fZ09q99hU00EbNnIfnfu6B3DWLJiSQOEHbn0Jco89czJSHK65NjLnqthz1LSwZzJDvPH5Y5PGVGov22c2vc9MU_3ZNwDKNjzBhk6yJtFl0U5H-bLtXyciarNJZ5DtExKPhA.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/EgweGH-HvpohY5uWe7sOa-fl_vK9ir8QEogkJUeYfAExsCrrZ8tcs6eQneLdBso3CPcu0By9sxu0aI-sxTFOT58gKuny9MRsZR3xViFRPgAwwbsgcFolhYFuxMEQMUbuIdJyQ36LAF1Iw-DKYv9UyVwzjMuN8ZluADuFjwRWvW6PxOL-7t_orAdD8h1peY5RDV2tQIkntKryH8sJYqt-xIotnnadgeJJi2By3LmXDYPGq4VBbNHY3cLKHUxL3YQpU9nzWGfWvmWzvGqjFvIo-wssrJpbWX7lYavk1OqbQo8oHnSQXQWichmmuCKXtTGMmHS6lg1Y0CutdzOEU0I6gA.jpg"
+    ]
+   ],
+   "r": "Lifestyle/team chemistry, not essential news",
+   "h": "🚨 NEW: In the Real Madrid dressing room, Viní Jr. is the emotional core who hol…"
   }
  ],
  "summary_date": "2026-10-13",
