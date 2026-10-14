@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59234,
-  "themadridzone": 31312,
+  "themadridzone": 31319,
   "FabrizioRomanoTG": 67299
  },
  "sent": [
@@ -1113,8 +1113,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 103,
-  "tokens": 171016
+  "calls": 110,
+  "tokens": 182191
  },
  "pending_fb": {},
  "feedback": [
@@ -1541,7 +1541,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 87,
+ "train_seq": 94,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2043,6 +2043,132 @@
    "reason": "Not a Real Madrid player",
    "ch": [
     153
+   ]
+  },
+  "88": {
+   "t": "Kylian Mbappé warming up for his 100th UCL appearance! 🇫🇷✨\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31313,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/nP4LkejEiN1Js1VTtwgB2gwmPPaWZM03dH6PD9y10OXa9wm3ZthmP6ENGk0DyA6vh1mEQvghqVZlC-XBQJF-ey4zTDIO1BeEA2YkUjo_C8_nID4So4zaBUjEfvTc0zRiPe-wXpsZF8xztzCgU9RIdcY5f3wP4c3PC92Ssv3RhgZwD5Co7VbXosZ0uyQnnN--_K9jHEZA8yA86Nw7kk5C93nXr84diUSLVUByomAjeeIoGtWn3QbhIpdhzHISWj-hSoQFyUneFJ5Km45uBHLdX4MeiPuxl0_BC7LcuqkmNOs1wq1Yz4_fI8Z1GLI9SOWxlooPRIdsLPZpJY-7YpjiQw.jpg"
+    ]
+   ],
+   "reason": "Not related to Real Madrid",
+   "ch": [
+    188
+   ]
+  },
+  "89": {
+   "t": "Jude Bellingham 🔥\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31314,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/qhufMccaP-Lji6zA5mjx1WbmUmfWAt7tKrnrI-yhgTs_kb7XXKXhVYRJBmT5x7gStVWWWcH1p-qF3iQuoNAFPiaDA9iGi05ZtA-peUv818mvZQznsyLX__ZyZebskC_Xuwc2-I7joBZDfid__9v6sXCDzRMy5pNPUElwi1sWLKWa-O1-WA82pdhxMnkO3yaFjeGwoV3UAFh6aQf62eIds-AtdYFWaMIc8vJGCm7EHM74f75Jp4ZS2oc3MiepsqrN4oOsEnaF9MWj8d2zf8kL0P9bIRLGAm58TuNsBJnBZObsR8GalTvwpiDYecG7mGqFoyS2d2gTU5alamoiKg08dg.jpg"
+    ]
+   ],
+   "reason": "Not Real Madrid related",
+   "ch": [
+    189
+   ]
+  },
+  "90": {
+   "t": "The best midfielder in the world is here! 🏴󠁧󠁢󠁥󠁮󠁧󠁿⚡️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31315,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/bJcbowWI_mu9g1T0utGgfmlEAyt_ELwdLoq4ocwW2uKS_LdJRlofsnfibiPPCaLm0eJ0YiqKpf7GLY_gWmwO-8xE8o-uNTk9aG6ib0xws58uATo0MN2V5tv419CMqmHBl-SLFb55dUYwKhsBQK03UOjWEP8L_5LADdhvt45G8wPaak4fg_onYr2Nnm2d3Q4rJDXNT4N9kZIknpK0iRAZaLn8u9Ge6EM5vGXd0TQSq9oo1ouFRsL6DBnlLjJoixaR-h-3ppMZU6-9l9mE1b1GYnn7-RN_MRrV9nML7IYgCAXdcnM5cZAIhzZ-8IP8jonRM7oukud-NZWkrz-ufBl7Tg.jpg"
+    ]
+   ],
+   "reason": "No concrete Real Madrid news",
+   "ch": [
+    190
+   ]
+  },
+  "91": {
+   "t": "Kylian Mbappé 💫\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31316,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/i5nI2dbiD6JEcPNjQzPEdIwweJu0_NM2CDRFYsntNJZTTHZMwyhrOeb_zpGDAJP0ISuKo2YQSeUDn3rJdzqCtbvMDHE21RKFmGU2E3YFgq_Es82yBM_0A-FOImtmU_JkZQzKH7EERcEVgnE3G59aAasPHqwmuQLJx7FHal4vE1wsfWRLZjxue-Pm0ietuFQ_ushKL3juwvoWyXlTAI3H7ZzYorq_bsRuU3LN6VRbhKpn2CLlnYo_Elu_wDJdJmA_1-b1MepcYbzJg8C22P3elrFZnzZboLJyDRHlRYBXGrvbTJieeOKS63BBd5KiOwQgyBl6AQEQF9XQOVLBKB7RFA.jpg"
+    ]
+   ],
+   "reason": "No relevant Real Madrid news",
+   "ch": [
+    191
+   ]
+  },
+  "92": {
+   "t": "Denzel Dumfries is back to Italy 🇮🇹🔙\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31317,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/nZWChLF_CYabmg7ySsJ-a08uEbrYamf4wVt8JWE0Xbben6wbbSHHSbrp6Ol5Jigk4LHHlU3_Z8bhm7SDEAWkj3BdrnNXSu5LITFk4M0Kmla25K26dnk_wyfI3ZyAlMu9xygG4sjRH5U_KpmUNImZ8qQd-lqAkcR-uJidaQL3D2fCyV-a7rZ96jTT9Cnf60WSAbQhAFF3TLt7oA_g0-4JRIwdY9ZIcu1g8f93NrwlFQsoMoIDSFif4EFdImtaVHMuRY19r_HCQCST7BQx836HOkA_rMGWbXiNWKjrYtNQoaHWTqTfJblm_OsE7UrZKhvhCV9jg-XK2qhl0fLOt00mNA.jpg"
+    ]
+   ],
+   "reason": "Not Real Madrid related",
+   "ch": [
+    192
+   ]
+  },
+  "93": {
+   "t": "Aurélien Tchouaméni 🇫🇷\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31318,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/oJ1XA3JfWaRfhtX6nFFLe3gmCXMYSNWO99UDBW61CuOampUUoEjAhxpxc2pbniBz2sf4-6UAC34dn5yQzNk5T6Ws_LH9K20_u-Ioa2pyT5gUtgzmZvV5CsYaXu7qKathDAOfRq7uptfuBfust7EzM-ljblrd6vI3P4bQ2F12XK5cKPgQq1KYSwUyE5-zLRV7vOGwCOY4wyuwYnrnNVwMNWit5juZ0n6lLgeUM7mdwLTM8r9mZFb7UqX1lNzFoGSYoBmxhbKfneat-H2dkBigPqde-t_wYUOn-qonqJNm58mJd8q2Nn_rR6jWz12xzog5KAqglz-qe_LeHwOY9kKcMg.jpg"
+    ]
+   ],
+   "reason": "No substantive news content",
+   "ch": [
+    193
+   ]
+  },
+  "94": {
+   "t": "Aurelien Tchouameni ⭐️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31319,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/D8lSibMFaqZ4QB3uwNvpa5FrlvmvI8B68jq0iH64iTtypVHG5uoUDfOnBXzaRAUW2SRSu77fDI32zfSoNj1-k4fT0KZrWrfUY9ZUkEsIK9Li4v2DdUiBcnESieINA_QuOyuGkt9zMHDAzVBjqz0ig0QLnarVCUOfFozUG4__Cg4iOCpMUKIeYUuLDT8pmQBVBsvO4h0QbX1yES3z_NzqRh-C_D6n_kaRVvj1m3Qrvgl6iPBdKo3Mg5VTFCoMqBQIhlEL-xuLsVUI1SiOETWeWicaFOnYR2dqwbcRO0ubPF04wtb5LUlSvNBbwzBrrO3jc9S3GgegS5YpY61T5i7Otg.jpg"
+    ]
+   ],
+   "reason": "No substantive news content",
+   "ch": [
+    194
    ]
   }
  },
