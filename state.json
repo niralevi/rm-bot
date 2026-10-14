@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31238,
+  "themadridzone": 31242,
   "FabrizioRomanoTG": 67284
  },
  "sent": [
@@ -1057,8 +1057,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 35,
-  "tokens": 57622
+  "calls": 37,
+  "tokens": 60883
  },
  "pending_fb": {},
  "feedback": [
@@ -1280,36 +1280,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31216,
-   "t": "🚨 Roma are currently unbeaten in 7 games this season. @diarioas\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/K2wDt7jN95srJZTGeT1_UHzhHVfvI41dHQlCnEYRpHeGFkxlTIbFx3fAUT3rqBhtS20i0Ibbv7a6Yn-06t4gGJTGrRULPayVdvoQ6e4EPdtQtE_YjJv93jzocD-hDc_CFYvYpdVjtrC_E0GcizevKklnhpDau84Gxh4_0AYV_MZoh_nskAe1Fx_QU4QBQphpyFsmQouwRVTASGF0Ph18J5GHx8LYxlHiwYgvydhY4C1w_s2wO_Cf0KOGlNi8p_RUrPio_bUSoOYKwYS7ko53iZB0--G7DbXSpmI_NYYj8K70GjGUqa5JFZcMRbc8tBqsIjXH1kP86dA2xnoL80G05w.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/fn7TXR4fn3BLWJU4fvMMAf4vtPexuZVXvPQnKtsBi607qQCa9FV6VUZqOQqKzuK4mGxye0X2nhza1D41S9fuXiPHYaPTU8Nc0arJfAKicZDxIHSUMxFBff1vXpcFYftCpYZuKT2a6afzd5T-N5j5WN8I-EH5Z44f2wqYV0B17ZMI8rcf4kWuNr2R8BVrgWIhzXbMlXAbVQgGTrnITE9DmYTVpg-PjCeklGZnDQfZ9xHbQYA_wuouUOIQ6rfCleLg5oyd2zCAFMHKp_aId2OhEP6RjcBL18wAIxY9iGUK-37TvDudK99juRVKgYbSheOi15QnmXzA6MOf0h9N__OHYQ.jpg"
-    ]
-   ],
-   "r": "Not about Real Madrid",
-   "h": "🚨 Roma are currently unbeaten in 7 games this season. @diarioas"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31219,
-   "t": "🔙🔥 Cristiano Ronaldo’s 11 game scoring streak in the UCL: \n\n⚽️⚽️ vs Juventus\n⚽️⚽️ vs Apoel \n⚽️⚽️ vs Dortmund \n⚽️ vs Tottenham \n⚽️ vs Tottenham \n⚽️⚽️ vs Apoel \n⚽️ vs Dortmund \n⚽️⚽️ vs PSG \n⚽️ vs PSG \n⚽️⚽️ vs Juventus \n⚽️ vs Juventus \n\nLEGENDARY. 🐐\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/u8Pfvs2TkSZiP4OkIjaE_lNr3rnIyrUsVZdJEQ-2jTIU-dafmAMcQj1tR7a5gQa9k7UnWZLewrApOqAcK7-576-AbwNr5DFFJrQbvvpaHdcD5tssRr4XZJTWuJ358iYfCRXXoMW4VgnjEDYseIEuXzit9sAOTSAEID_AcsLgSu70qN0HJgoudMi8HYWK8IrsL5yGFrPJZzM9AjyByqtCrpH9PbGJmpLJguonLfMWyAqOPTQL6EXYiGpU8K-ZAHVAHezuqSt_jRiBSVHaZz0apUdiZ8xfwbobfPIScYp8T4q2tKcML06uiVJf2JrMDJNes0lZ9kuFOP_qH26yxd3uRw.jpg"
-    ]
-   ],
-   "r": "No new factual club news",
-   "h": "🔙🔥 Cristiano Ronaldo’s 11 game scoring streak in the UCL:"
-  },
-  {
-   "src": "themadridzone",
    "id": 31220,
    "t": "📲 Joselu, Marcelo and Alvaro Carreras supporting David Alaba. 🤍\n\n@TheMadridZone",
    "m": [
@@ -1504,6 +1474,36 @@
    ],
    "r": "Lifestyle/advertising content, not relevant",
    "h": "Trent x Aurelien Tchouaméni for Adidas x FARM Rio. 🌟"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31240,
+   "t": "📸 Jude Bellingham x Adidas x FARM Rio. 🥶\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/BPEICGVe_8qEBoAhvs8GqZbAbnvNsL9z770homXQe4PFxdYKVUfFbK25ARlhodOhoTDmA_x3qRuODQJh-HdcfihX9mmmVkI2bf8CtJRyoKzZcVx76esD7tYzY0TmDrQHCwq60sehxKiXN6g8mKCHhqbsA68vSYtR78ZUpneHa7XWS3cP3Wu_kDHZHW8w0PcrK5ZIFNKpeeY3JEYu4oj9wwx0cWCiV9nShWh2iS-IoRvUPPmwO7DEEMHabQjOFFE0ipmi4E8FL7zu-EMX9VvwD1Uhp7GuE47qsl25G707QyNCPVUUk482sZjlL-o088RxJp5bUEfWqDoeMyFGvHgoJw.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/gHyx8-fAzcy5fRHRXCbxIuzuGCt-5hbIInQmcSHF6sOtNWR9cZwHtyZ_FWhUtyF5lUyDGsvsaSguDUD6qdWXq0-n_jh8A5AeAOSDM9VS1u0646baGlP2b9XfmLmEVTxe3dGrF7w7sFLTaJn__rYWMkeHP7eAtfTBDX-KpBUyszoZfSiSpPN-TdTEl7haQWq6XyNHn6OOE4NMtzggp5n_-SGOqNz9TrLVQNYAZQjBxisHE-QRycSx_ezfYEoCbIkLMZGbBIqvtc5zS4kleuJjeKnYxy89m28Z8zngiCvMNePAe-PMO1Pgh9tnyJ1m9wQZ610KKjxVHpmQ3SVUhk-W3A.jpg"
+    ]
+   ],
+   "r": "Lifestyle promotion, not relevant",
+   "h": "📸 Jude Bellingham x Adidas x FARM Rio. 🥶"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31242,
+   "t": "Arda Güler x Adidas x FARM Rio. 💫\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/cwao__4YsmJ66IXZzBujqKEbRH9TGht-QwAlfxm_5bEQQBwA1yd007590N4gTl1XzB_v6hkG4eI915653XiDauSwo2PR9I8ta9cSYJkddahPqBcekvz8Vj-vCPC3Ou3GRoRIFvMexn_C59PMxQJoBbPjbta4pMPuNB1QGmNmmccVlDOB3h-cxkFoacu3JDmDX5J8XxdFdfQ3QjGwcyoZ72GghCKklDseuY8b6bO0m1SOP1ThRZnvp9gdEon1VvAALTushnzhOkdY_Cdl071bSYI7NOj5N9-hYwdR0mTwj4kmoiwzJ3s5V1_B0BOjGHxnOnvQ35c8sJzQZz4cXl_VoQ.jpg"
+    ]
+   ],
+   "r": "Lifestyle/advertising, not relevant",
+   "h": "Arda Güler x Adidas x FARM Rio. 💫"
   }
  ],
  "summary_date": "2026-10-13",
