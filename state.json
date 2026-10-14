@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31212,
+  "themadridzone": 31213,
   "FabrizioRomanoTG": 67276
  },
  "sent": [
@@ -1032,8 +1032,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 16,
-  "tokens": 26094
+  "calls": 17,
+  "tokens": 27702
  },
  "pending_fb": {},
  "feedback": [
@@ -1255,23 +1255,6 @@
  "skipped": [
   {
    "src": "real_madrid",
-   "id": 59219,
-   "t": "🚨🚨 José Mourinho: \"Endrick leaving on loan in January?\n\nNO, NO, FORGET IT.\n\nIf any interested clubs are waiting for him, they better SIT DOWN, because they'll get exhausted waiting standing up.\n\nEndrick is a player I ABSOLUTELY ADORE, a player I believe has HUGE POTENTIAL and who is VERY IMPORTANT to us. \n\nAnyone interested in him will have to FIGHT ME HARD, because I believe he does NOT need to go out on loan and that he'll have MASSIVE SUCCESS here.\"",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Kyl7deZn_-aLphBVq2vYLevP_B2HmUK9WfgUQqjk7dFMStZJH87SP-zuayDn-FQkbpdbZE8HWEo-uZ05lu0LUB29pRHk7wXTJ1ceqFv4wG4GC_R03E_nyNpnKkyP3Hzt8bMaQsOMA-6vFsDqWCPcxQt3x4fJlXbIxCdXtBrXS9-o4P4nmP5qCSE1fSRun_tFWCzw1SglPTPrmZTq1dsBpvSpV-frnNPMABBLBOGGCuGpKo1M9WvSeKao0FuHwODw751Br83t2WbSc6DQyNYi8JX9iSe14a9wEgIJAM4woraJvJILx2DINg0473v7Ino1KvGslxSiuZTnbxs4ZwO80g.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/loW-_yzzE0ddNgFweEQ7j4ctm3vyBcygHVcsGSAp7PkjYvwyfLPFkNeD97aMUra6-jmdRi2v5RqqA4Llp9QibcnPWF4EjI2ifOy7-BtyQ8hER6mjf1reTQIe4gO-dkWU1XK5WKja58If0ZBJKcNmCyJtC7rC3pINo9xger7uEEZA1TZIuJDDml3Bkzz10FPJG2yk-MtGpxZJ4ypCypcwa3fMKsiaSHOp4udnSoY0Tp6hQdNxpVXs3nZlczMics5XeaifL1dvSKHnvytBUH5jHYdJc0dBAp-0ZfBuOg-Ybqus7Rb4aAT7_YOgWOxfCV5NaflBxUF75-tnm1xj6noh4A.jpg"
-    ]
-   ],
-   "r": "duplicate of earlier quote",
-   "h": "🚨🚨 José Mourinho: \"Endrick leaving on loan in January?"
-  },
-  {
-   "src": "real_madrid",
    "id": 59223,
    "t": "@UEFA_Champ_League tomorrow. ⏳🌟",
    "m": [
@@ -1451,6 +1434,19 @@
    ],
    "r": "No new actionable info",
    "h": "Jose Mourinho returns to Champions League with Real Madrid tonight. ⌛️"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31213,
+   "t": "🚨 Real Madrid player market values in 2026. @Score90_\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/jfNVW2P_vC31mlDiDTBoawIiM4qnhtSnYunjDSnDzKR2barOV3N8Z87c57yIWfItaG_xEhk0zVHzLv2_lXR4S0A7wzz7EX1w9PDRJf2GpHi7Q_6xdU04S-aWilKKhQIIZJZltU4GUhf-jHFRt8N6Jn4pSomeszrh4boFyi3d090rDlef_CcC0wrETa4BINn8jByMr-O_58YBBeqEBk4ZgDs0h8O9PDUY7OIhsbAR7n6pf4yk9NWkNk6gTYqGrly2SbMB9wPpzkJ4WqSwHp2V_3z74pg5U8TuM1H3mrVGfXy4c2O1tys78FMGlq9-gi4eWDpH89tty6mSQRpfRgKoWA.jpg"
+    ]
+   ],
+   "r": "Pure statistical list, no news",
+   "h": "🚨 Real Madrid player market values in 2026. @Score90_"
   }
  ],
  "summary_date": "2026-10-13",
