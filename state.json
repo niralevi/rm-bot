@@ -6,29 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1791811162.6554263,
-   "date": "2026-10-12",
-   "tokens": [
-    "appeal",
-    "card",
-    "confirm",
-    "ibrahima",
-    "konate",
-    "red",
-    "vini",
-    "yellow"
-   ],
-   "names": [
-    "ibrahima",
-    "konate",
-    "vini"
-   ],
-   "cat": "🟥 Discipline",
-   "status": "official",
-   "headline": "🚨 CONFIRMED: Real Madrid will APPEAL for Vini Jr.’s red card and Ibrahima Konate’s yellow card. @COPE",
-   "link": "https://t.me/RealMadridImportantOnly/72"
-  },
-  {
    "ts": 1791812880.8609073,
    "date": "2026-10-12",
    "tokens": [
