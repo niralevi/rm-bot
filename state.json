@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59262,
-  "themadridzone": 31462,
+  "themadridzone": 31464,
   "FabrizioRomanoTG": 67318
  },
  "sent": [
@@ -1727,8 +1727,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 67,
-  "tokens": 104781
+  "calls": 69,
+  "tokens": 107950
  },
  "pending_fb": {},
  "feedback": [
@@ -2155,7 +2155,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 245,
+ "train_seq": 247,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5291,6 +5291,42 @@
    "reason": "No news, just a meme/speculation",
    "ch": [
     391
+   ]
+  },
+  "246": {
+   "t": "🚨 Vini Jr: \"When I arrived here, at only 18 years old, people LAUGHED at me, and said I wouldn't score any goals.\n\nNow I've scored over 100 goals, and I've won many titles for this club, I don't need to count or name them.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31463,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/iV2sfJNdRNhpjzXGehL3WQ1daIhZkqrzbS4-2r9vGdE-zwJ_utg6T77VbM3h_7tde7h8BCAEY2cKb1DLqsTRiAkSBLOO2RXTVnGULjSS2geooyxp22DrZ6eS3CYZlfMBe8fmHLeQA9Z4KbrtF9FKhpdFCzFnufwJFH7QLLk7k9zmmO2d7f6ewTZ9bAo1tY7UazGXJ4DbsjtIqLgNtaZaycJTey90PgqhnO1debcyuxFbwB5TzovvQd6Hj66tMj6ysjd-oDDCQskxIAXOq-BX-7qyhYUCjepN85bFlTSbgAV14pHBxs15xj2YNDJV4H4wpEnNkL9hatlZ_JQqMBNg6A.jpg"
+    ]
+   ],
+   "reason": "Just a player quote, no new info",
+   "ch": [
+    392
+   ]
+  },
+  "247": {
+   "t": "🚨🚨 Vini Jr: \"I WILL BE BACK.\n\nI AM CERTAIN OF IT.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31464,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Me54gOCsdZ3O0GtM7w-4S24YMHUPUNfic00oq7st6yJptSUVYGVJGoWlfGn0eLfLtM63xEhoQTs7YJnUXr_0xGTsgqtYIcv5XuslzyY6whxSa0n2BDu89uvUI26SmyG9BdgNDcXPluEl3jkk4vmhhOmz3tPDmOymGhKxGb2zZPgit3cBpgJEvpL8r4yxgl7ifmNrLp_Rhk6iJWQzoYQ9KKveeG9USJJqtRdTlifaCFIeFdNB5Ph-Vi0DW0neKze0uNCvtcn5BxvmFIOgRCwy7P1IvbibeE1tp8LDZawLxNgUeWA_3R6zU5UDnGzx-qqVa7B47raz3PLt1umuqekovQ.jpg"
+    ]
+   ],
+   "reason": "Just a motivational quote, no news",
+   "ch": [
+    393
    ]
   }
  },
