@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59262,
   "themadridzone": 31471,
-  "FabrizioRomanoTG": 67319
+  "FabrizioRomanoTG": 67320
  },
  "sent": [
   {
@@ -1767,8 +1767,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 77,
-  "tokens": 120873
+  "calls": 78,
+  "tokens": 122540
  },
  "pending_fb": {},
  "feedback": [
@@ -2195,7 +2195,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 255,
+ "train_seq": 256,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5506,6 +5506,19 @@
    "reason": "Not relevant news for fan",
    "ch": [
     401
+   ]
+  },
+  "256": {
+   "t": "🚨 Vinicius Jr: “I will be back. For SURE”.\n\n“My moment now is bad but I will be back, Vini always comes back!”. 🔙 https://t.co/prCk8sGuSo\n — Fabrizio Romano (@FabrizioRomano)\n Oct 14, 2026",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "FabrizioRomanoTG",
+   "id": 67320,
+   "m": [],
+   "reason": "Just a motivational quote, no new info",
+   "ch": [
+    402
    ]
   }
  },
