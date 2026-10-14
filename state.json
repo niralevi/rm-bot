@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31270,
+  "themadridzone": 31272,
   "FabrizioRomanoTG": 67289
  },
  "sent": [
@@ -908,8 +908,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 55,
-  "tokens": 91022
+  "calls": 57,
+  "tokens": 94341
  },
  "pending_fb": {},
  "feedback": [
@@ -1131,40 +1131,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31246,
-   "t": "🚨 Viní Jr. is the MOST important player in the Real Madrid locker room, in terms of emotion and relations between the players. \n\nJose Mourinho realized this from the first moment, just like Carlo Ancelotti and Alvaro Arbeloa, and focused on having good relations with him. @AbrahamPRomero via @Ramon_AlvarezMM\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/FK0p0COFqm2v9cfnT08lTbfXi5DsdROHLsC6J1-Wfpxaq4eTzGAy1NOCpzKd7ZMk3VnoeiY6eWU7rCsttJryZuG27cSuUOeMh6PHyvWgkijCu-TQ516s02FDPvJh60BxpkLrjx_SQS2WTfnmBSw-rP37qd7L0oqqUfhr2CJQV7T3seRdyjC5RoaJakzqDPySZzfxE_dT0QnXepM-vW8fXfytHwXWwW--QKQGOwoTbC713voN1306f_VMvMNRi0yXoJY8qgwfdgE1gOdJzPOiLIPIj_yd5oA7g7Sc_FZqm1x3bPynuXYI6Otyi-LxQa5lUzQakerJ-3EV12rjIIlNBw.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/B7m6S9kFHSkHEu-e_U-fSlwLd6XR3ZOcOYgJBGgGOMBXMAHiOVAxQlbD6fjsFuar9QdhC4Yc7c5jxFJAU9701XVyEIrFhQ2QaBbwgYk1KQYI0h1OLRUMRfyo7hj30MTwsTyiPMCnvxTBm7QKdGB3Xyyofn_udSzxhRe8kUe0GKba5V---VtSSgJ4Xa5cYmaCEgydPN5gVf2LTmGdCQ3qbhbg2zGOMjiAHs85yv71Ng5yp_ULmdybruxmbiZE1tECpOvIvCD0xyP19VBjgFHfBGiXyvZ8SeltVk_Yvf7P3kgvqg8veLYQvLbeq0nApF43cl2BwYUFdUGqq7XOQT4aMg.jpg"
-    ]
-   ],
-   "r": "Opinion, no factual news",
-   "h": "🚨 Viní Jr. is the MOST important player in the Real Madrid locker room, in term…"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31248,
-   "t": "🚨 JUST IN: Several times in the first few weeks of the season, Viní Jr. stayed LATE at Valdebebas instead of going home. \n\nHe did it because he found Valdebebas to have the peace that he did NOT have at home. @AbrahamPRomero via @Ramon_AlvarezMM\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/HAnS9m9LeisaJSUHMVnGO_3lKp_wpngBxvzdULUfmVYoEu9e1Tj9di342TAKZVI0fljl08u7lvVr6d9OA3sB72xVNiime_hys518hK3p8MTyXOH21S1APAmgCbItQ0KJ2b-AyCg2hiKQ4nFIjbuHndXjnB9SrMDiLM6fajq1x8Z3R8o7Mmbk2bSM0sizEDVmfP1NB0Igp6BTUKaEy7PX-uDjShHv2lpWo6evb9RYrgQZUr39RM1O46iOU53oepFS-jgL3DkHFaArCGdslRj7mxq4_B_O7apdIuQoP2169HFY8BVbtkOqIHAt6g7Pya3-D0WZ0EIdEaZ5NYQXq_YkjA.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/mGv9XwG0RUAE6rxnd5l4N-H7uUnKYJPiR5qs9DJ6FEjFh9c-VuAiiQ0xhINVaRvbzD3DslzrSw_Lu9WlGOyDcBGAu2gPFLdlbOE0lU2JJCbg7JOInvsmRCozWJ6WC7db9SYOnjajr0EYdWp1WoYcu17VMBsgqORZdfcokhmW7O3NfuIehSRlauoG0ikS-iW_oNTPfB-_9hNPOqwLerFEKk0DIc5pIL5EuIf0e-PshXmNUtaO-0pjOW0ARQPSOrvry2IR-NDYI5R_l06t9NEiGa0eW-dGvZdoV5Cmq-v7QvwoXojnasGAtY6pbRTShUx-T1R9WtqXpBKG-A3-6teSgA.jpg"
-    ]
-   ],
-   "r": "personal lifestyle, not relevant",
-   "h": "🚨 JUST IN: Several times in the first few weeks of the season, Viní Jr. stayed …"
-  },
-  {
-   "src": "themadridzone",
    "id": 31250,
    "t": "🚨 Viní Jr. has ALWAYS been an impeccable professional and still is. \n\nJose Mourinho and his team requested some changes from his routine to ignite a “spark” from him, as the players was not at his peak physically at the start of the season. @AbrahamPRomero via @Ramon_AlvarezMM\n\n@TheMadridZone",
    "m": [
@@ -1359,6 +1325,32 @@
    ],
    "r": "Pure statistical list, no news",
    "h": "🚨 Most valuable players by birth year. @Transfermarkt"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31271,
+   "t": "🚨 STAT: Kylian Mbappé will make his 100th Champions League appearance tonight! \n\nHe has scored 72 goals and provided 25 assists in the competition so far.\n\n97 G/A in 99 games. 🤯\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/uADnJnZ4RocumXrR0DQSwM_PF0_3X3NZwb9LKlGxEJtVWjrXe_n5XBpTdKK6AfSMf-0KtLmgQTlPgMkMK_9X6XwBXrTjwhZS7OZFZEDkIWj8HPCfWTkuSGGl1-kwDK9SAxaNWj22anxRc7p-nm0UQCevUhIXM7-E6UZpZAv8FJo-0s-VgAj_feIYL0-06vVXkUF5NZwqb-rz-eCoyv_-KWvnL-a5rj1z9xAZ0IvmUsPipzVBDj_ljdEQjuDge6_2MBjbPFn2T6flFwM4LyimSeaUm3UBnKMF4cfMqizGpPCGzv2JtQGlUynQQpik6GEXtDvVr76dR7ZTLghvC6T9Zg.jpg"
+    ]
+   ],
+   "r": "Not about Real Madrid",
+   "h": "🚨 STAT: Kylian Mbappé will make his 100th Champions League appearance tonight!"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31272,
+   "t": "🔙 Real Madrid’s XI the last time they faced Roma in the Champions League. \n\nMariano, Fede Valverde and Marco Asensio came off the bench. ⭐️\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/J0odl-O9Rzk8sA_DunUGgMA8-BakSrHCpbwsifAvc53agkVKU06bbzgF7UbanLAVia76e6SiluRJMBHm8w3FQc1HOFnR4jAptUWXEbRp7H90Y7h5Jqi0ygVIXBLPBS7-0wIpxSfRO9JqGlfJc_gOh8wGeVY_bwAMHvz_PoMvhbZayddDWYwMaK1EjZ_ANlniaynHFLk6HEpte40TlPLGvYCol_1x3O5t6eIb5C5gE4YfonYltdIR3c6mE-6_8xG2qRj58BxMy_RzqYxYegByXlFJTVKCO0Ezuit_W_V5TZqE_E9SEeqT8vt9oDvn-Y3s61O6pzHCy9qxMM4qqiV1lQ.jpg"
+    ]
+   ],
+   "r": "Historical recap, not upcoming lineup",
+   "h": "🔙 Real Madrid’s XI the last time they faced Roma in the Champions League."
   }
  ],
  "summary_date": "2026-10-13",
