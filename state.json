@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59233,
-  "themadridzone": 31302,
+  "real_madrid": 59234,
+  "themadridzone": 31303,
   "FabrizioRomanoTG": 67297
  },
  "sent": [
@@ -1113,8 +1113,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 94,
-  "tokens": 155985
+  "calls": 96,
+  "tokens": 159279
  },
  "pending_fb": {},
  "feedback": [
@@ -1336,36 +1336,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31284,
-   "t": "🚨 JUST IN: Vini Jr has been suffering PHYSICAL PROBLEMS in recent weeks, which caused his drop in performance.\n\nThis is why José Mourinho put him on the bench vs Villarreal. @ESPNBrasil\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/cdFhAg2OArBvUjAoqtdNZ2hen-nz5B6jlwjczcWV5F3BX1XJSiM_UhfmQi5jQCmxudn0YGSTxaNc5MxtHLKDkidpMkIg6rCKQj--WUVHefzrduJoClX8fe2G4RuwtPJQ5Z9rtFE3aZEy2O_-PXKhIgc67JjnuFav1q_I0zdi-gDQMvS1O36BIOnMFXav6ki8vSq020LImEKI2xC2cG9hMoK6nOwMbLjQPci27-dnt38631p8h660UjSlAQvBYSrpZnrs1YrB7BSs0Ff7J1jUgT--F5KtelAexZPlj16hv2NJuFjNFOlqYscu7kiweciyM4yprGRLR-4q6acRWPG_Vw.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/ht04UY8VJ56zY0UFch4SDwfLIyLjrVL5WsFMMJ2zLDuCypJwagqCxMYKR-4wzHF6ywUSU3LttYEGFz3YTptKfYe0HoB8vLxlMbYIC257gdHkIF6rAtaJEyUZ4CdkUGmQ23pKOpyZBamA2_whmztZ3T_OjPHg0hC7D-a66WS0rfv6zK-s7cWS074OxyAbNSriGr5ys1U4PmLmIX41LpkpQOZDyrAocVhnysU79sW320xFesCBmTAUWScd0TQF68q-tqlY0PFK0_RmeuUifJrnAlCs-g-tDLVNYeY8NgAxYJFIWrtuFBYGTBTLDmi5OopJiwen_IOI7sOBiClF_B0gwA.jpg"
-    ]
-   ],
-   "r": "duplicate of existing rumor",
-   "h": "🚨 JUST IN: Vini Jr has been suffering PHYSICAL PROBLEMS in recent weeks, which …"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31286,
-   "t": "🚨 NEW: Vini Jr told people close to him that he did NOT intend to grab Saliba's hair in the Villarreal game.\n\nHe told them that his hand simply got caught in the player's hair accidentally as he was trying to run past him. @ESPNBrasil\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/dT96NyDORTfwAdh77ZvwF0IpjTBVDebFEjxuM5GToymvTZcopYoMvCgkgFsM1B9U7-w-eX8zB-T7u4FnUCZyLPbY6ONySoR4Ozi39FpYuLAyM5CYJysonAoI9QHFV6Fvj2ruvjy4ybYHTu7Biq7uoeOhBn0-bnRdn05By-qP1ejFfcG7Cy0n9xz66pQlGitha6L4RSPBchF8Jf96FoVjeoDZAaLdscjmFa5ZCNuCL-Az3huHbntixhBvKG6yas4d90cGR_ZyYrfj11tR1ZBpYnM9Oxb53k29scaBcQEZYxQ96q2k5N1pV0IgI78azIvDbzOqyohxWXsClPdshymWhg.jpg"
-    ]
-   ],
-   "r": "Minor anecdote, not newsworthy",
-   "h": "🚨 NEW: Vini Jr told people close to him that he did NOT intend to grab Saliba's…"
-  },
-  {
-   "src": "themadridzone",
    "id": 31287,
    "t": "🔙 Real Madrid vs Roma, 2016.\n\n@TheMadridZone",
    "m": [
@@ -1522,6 +1492,36 @@
    "m": [],
    "r": "duplicate of existing appeal news",
    "h": "🚨 Real Madrid plan to appeal Vinicius Jr’s suspension for four games after RFEF…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31303,
+   "t": "Eduardo Camavinga 🇫🇷\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/sKTAfiPrZujm84x7o_OJxxeGW7psdX7xGRiwIeoD0rahZMOI9riH1MVzZIGjWVZbVutI0dxUFo3RxwyJro1XyRmDSqiY0xXRMh7Cx0r_p8fxfBqjqO1NIYK5XiPs6aPuPDsbBL_yOY-bT-aeGv1o4lW_1C1wdSacYPBPjMZnIT79OouSfhwTlCraofhkMLm89gAO7fz5f6DmwRM3Oh2bsuGiWqtmenHFrWm4g3pHYrwDXSuMJUapHgAt_LtoLCNf85yL0-ACu70qfllvDTn9pti0Zky0z3eUdsOB3wai_H_gXZ7n4KenLyV0yDoe0ya2J2l9pvvbz7K5ruZieoXqlw.jpg"
+    ]
+   ],
+   "r": "No substantive news content",
+   "h": "Eduardo Camavinga 🇫🇷"
+  },
+  {
+   "src": "real_madrid",
+   "id": 59234,
+   "t": "🚨💣 BREAKING: Ibrahima Konaté’s yellow card vs Villarreal has been OVERTURNED.\n\nAPPEAL SUCCESSFUL. ✅",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/tQUSyRIQvQuS_V2MWaAarbqL8nuPinkiIW48TqudIr8k8uQnXpFdO_O9axWDTx0LsCepHhWD0ylMQaQHLcyop3DZ1BO5Kp1OfNYFQSR0tDe1bajQHXp9h2VF2-1ogDk4xrKAye_zivgJD97rbYjVZGf9zMFLtYR7WvQ18iv_men_EGhgG4xlaDYus1tM3QFDHYfw7g06uPb1btDMyU8PMJIoiMO6EQ-u91ZXF-Sb05_CVhFWGkn3NRDDI_ziYnEZTaBNkqMbHgKoW-X1SGhYw4vJsWo4gteogyl-l1SOn8pLOi4calYn6WksWqdZCr5M7sNMCmh-tacanB4x6nXa5A.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/ZjvddMpAsY7o10HS6Ov6rRJlZ5ywErcvuHx-oGU1elfztRcTbVjvmnJ9jE8Q3TUQaQNK2r3xNAgCmi95XV_7S00H6_k_gDDYNqxRZhedKbaAYyVRalKYgMw9LP5bu55qALbueG4pRF85_T8AUcDVQ5J-fpidGE1FSAScmz8EicVFZT2GG0hseZxvUoEpIVQA3XDG65QULAtJudVkQeajqe-787UGeHISKEQHsygoV4p8aMCU0dOCzOarn8LhEBW-E7F0Q1SGfcunn0b67qG6HRxVsKTgVBtWh-TuVGUe3D8bHYLFXwMg8rKiHMqMNCnD9G23EWn7PEZtzxSL07s_nw.jpg"
+    ]
+   ],
+   "r": "duplicate of recent post",
+   "h": "🚨💣 BREAKING: Ibrahima Konaté’s yellow card vs Villarreal has been OVERTURNED."
   }
  ],
  "summary_date": "2026-10-13",
