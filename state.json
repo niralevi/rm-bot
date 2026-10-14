@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31272,
+  "themadridzone": 31273,
   "FabrizioRomanoTG": 67289
  },
  "sent": [
@@ -885,8 +885,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 57,
-  "tokens": 94341
+  "calls": 58,
+  "tokens": 95978
  },
  "pending_fb": {},
  "feedback": [
@@ -1108,23 +1108,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31250,
-   "t": "🚨 Viní Jr. has ALWAYS been an impeccable professional and still is. \n\nJose Mourinho and his team requested some changes from his routine to ignite a “spark” from him, as the players was not at his peak physically at the start of the season. @AbrahamPRomero via @Ramon_AlvarezMM\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/OsVreCUh5r0vf17j6R6dzjwWG546LkEJHkwRn7ca20usO8EXA4lG0sHzxfKOm2h76G0_CslqsJttIiKR7XFlPSN8IfpupFSwkWU1EkYHPnCvEkXU0f6qNhtKGFRFAdrbVsP3pNa7tXRH76CWcJrHzgxgJ3M-k88jfNTpTGfomwOp9axH7oewFWsJkceHs9dDXCIqTZxO6ZdK8iDLzwyWj_8CyHU5Gw2HnOMJIiALbX7K9VcACp1zbiZ8W0OEI-zp0AkNingQkDpE6DkFzxhN9xf63Zoi34JE68hA4FxhlMNahlrCex1ClREa9PiXFXQsZKIZtFRzVkv8el7SxlylzQ.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/j2AtQOKTUY_wdakhns4JQ4i_BJe_eF_VgYGhf1WFJqnIYC649Nxu6NIMQo6xgBwNR0x2wFJgru3nFXG5ZH5QCotH70jOwQzyBQXlaln-YWaEo6baSifOCoIJKWwXrgbkuxGVfyRi97f4vBxNXwO5_F80iD9qTfSQgz74uM6I748SmuWtiRQENKhzgdmHGJFX0sWun_mu47FRZWn9fednw9-vj2VZQ9m5Zc5c0P_TbL5qWrNk8KF7FA5Y4HCcrYULBahms81TR8n1KhJ_nzsuK8EUP5q5KzOkt6LYfU4zdaF0OG4AoUm_5iOz6TPHECvDoRv3x6tlZC3JJMuWkcK1iA.jpg"
-    ]
-   ],
-   "r": "routine tweak, not newsworthy",
-   "h": "🚨 Viní Jr. has ALWAYS been an impeccable professional and still is."
-  },
-  {
-   "src": "themadridzone",
    "id": 31252,
    "t": "🚨 NEW: Jose Mourinho and Viní Jr. spoke and made it clear that what Viní did at Valdebebas was just as important as what he did at home, in terms of recovery and PEACE of mind. \n\nThat is why he made changes to the players routine. @AbrahamPRomero via @Ramon_AlvarezMM\n\n@TheMadridZone",
    "m": [
@@ -1328,6 +1311,23 @@
    ],
    "r": "Historical recap, not upcoming lineup",
    "h": "🔙 Real Madrid’s XI the last time they faced Roma in the Champions League."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31273,
+   "t": "🚨 BREAKING; Trent Alexander-Arnold is set to START vs AS Roma tonight. @diarioas\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/eZr1T1zudhpV8f9wADn-28V1dxZkgEDo2aKR9pdDVcJtV4DoCC07FHVK3AVQTFjpWCW4DAeyfJ3et0GkQWii9dbQ_Rcd-4NPq0cqQzQmXWoR1bfw0anvFcewYOGu_lM9N2qgTRcL9Vz9WDmJsjpPXDe7VMLT-4SQxclg176ujcWSWGw7_Pd_aJ-hTSnRjBbvG9k4_rYw50h0LrVjYYv-JrOlNJVEf498qJ89KZPeeIaQyP8g1OE72qCj07DAO-eor19-WjAghDFcwHPaGSC3DjGPQ4-Nvx0R7t3NNrq-WO7K4bXk-dXp1aYlNHr4KZEFslPqxq44q84a379x1d9bgw.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/hNa9Si_YdCVRGpMuo9YHWVK4zKyOfTm8CwchgTpr6vX4OrCwR4-Iu09ybYWBt_OzxWebXmd_HnG9sEQ8e_PkPxziJES_3XleyvzlM2g5cSpQceyww3zoNg_jLbwHIPKDZvj4x4maVwudPNUBEw3vnjU5JVGSVA0AGdQjtMsGpEhP12lNyVXbt3k_0qfgkS5mcMU9h95zKOsRhX0GjxY5xvhYww5smvtWXpguxI3x7CM8Ixl5TJj7eAmEDPpEbf4q-iJEwHKaElwT_VoWaMvj5pI9-raUtnaVJO0w9OTZhHXbQeCULnbwt4sm9c4eOV0zKjh1VnV0hcWoB3CxLCaL2Q.jpg"
+    ]
+   ],
+   "r": "Not about Real Madrid",
+   "h": "🚨 BREAKING; Trent Alexander-Arnold is set to START vs AS Roma tonight. @diarioas"
   }
  ],
  "summary_date": "2026-10-13",
