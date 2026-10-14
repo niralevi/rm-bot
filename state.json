@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59262,
-  "themadridzone": 31412,
+  "themadridzone": 31428,
   "FabrizioRomanoTG": 67317
  },
  "sent": [
@@ -1506,8 +1506,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 20,
-  "tokens": 31147
+  "calls": 35,
+  "tokens": 54332
  },
  "pending_fb": {},
  "feedback": [
@@ -1934,7 +1934,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 198,
+ "train_seq": 213,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -4212,6 +4212,280 @@
    "reason": "Just a player quote, no news",
    "ch": [
     339
+   ]
+  },
+  "199": {
+   "t": "Endrick 🤝 Espí\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31413,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/T3VpRRriD_Hqm67nMJNZzlOD3XGM1yrDPxebpgudLj-PqSSu1fYO2Co84LDxjlBpf5q2HdHMWoahKpwyi4KxaZ66wAM6QCvHyO-Pcto5ImgxMFVM-OhMBJLoKYiZFnj12HK5I72jkriGg2z4_LDSWYy0L5ICHbCRHKmSMWJVXaVeO2-JD52rMLXhRrDpNxc59WqY4vPicJNVH_0yLUXtiZnhKr93N70slzTqFI855CkD57vn9s8M_fHqyzLJvOiIB9H_Fm_vyMkvR5jgMYLBizHKTR_e_naf_ec4QNJ5MotThJxliwm_AEz7_IDOh2jFnHmY3E6CRika9LXcDN4ChA.jpg"
+    ]
+   ],
+   "reason": "No substantive news content",
+   "ch": [
+    340
+   ]
+  },
+  "200": {
+   "t": "🚨 Before tonight, Endrick had only played FOUR minutes for Real Madrid this season.\n\nShowed why he deserves far more chances. 🌟\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31414,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/MIcAvrN4n20VimW2owF-h-dzV3tpEje5yyyPFgu9sdHY9U3B7yyab5fZgQIvZir4Pvmazb8-IIs6yLOTEhcEgsw72LbM2R6Xmqec10245e89FtH50X5iR9HhgMngTqyeaUQvMfTqruHq7fsKvN0AA4a_JgbjApn_dMMHPZv2wqkDp7V39r5SWkeaWe1BSxqNE5jvFjOsR7On-lpasg4KhBDR-UZC7Rxgcvhds4sr78h4jYc254cT1NSIingdmzBsw_2JABKP3LrURC_kvYmLrckwVq5IUwZyhv543R5dV4n7c7wlUeSWrnwJBFatG2z6QFjLNMvO9Swkc_NKzVvKtQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/JSNyek4Q4wjcHgZC_g6jXVRBHxocGOaz_rJwWfB078QvuRcOQP4enY4Td-J2k688qAScth4hzlE8uo8svu4NWKophRniSwa9tUP0-0_YkutCG_6jCxBUPd_0bZBW_sRNxbwzw6xRApPRVYXBecnS05fufsZlx9u-QPADk2MRlzQcAOYBPgHl1DzDWLyrx4VGM1JSYx8zqzoE0y-yf6hLgPNYn5juug_9DO3p-dVd7niTqO6uHPtuZdQLtG3b5YouPWQo-wItUzlvXLRDmmjMLqa_0GpQAH_7auNRCd8b-wWLrTT6WVU1ffU1AllVzbDv_AzIV7qIHjrTsSzRcqnyHw.jpg"
+    ]
+   ],
+   "reason": "Just opinion, no news value",
+   "ch": [
+    341
+   ]
+  },
+  "201": {
+   "t": "🚨 Fede Valverde: \"The 1st half was even, they created many chances, and we weren't able to apply what we prepared for the game.\n\nWe trained for many things, but we were NOT able to apply it tonight.\n\nAfter that, with fighting spirit, after we were losing, we started doing what we trained for, which is to move freely in behind, and look for 1v1 duels.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31416,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/OIRfRQgkX32JRziuezcTAaY_f0lPGkhkQbEqfp6PGUf28CX64BucU-OLPLh0xye8o4lwT0B-L1_YNC6lw8I9sH-OfzsiXwW0VIc8QoNlCqm92mELCCS3f4hCNNZyRZIh_pnFff6Hlb8tQFr1TI3igTIPg6PMciQ_eaYXpp42IO5lxBGqVsnIulIT8PPnyu-XGyS96_38vrwYCNW0FHHiIahDtSIeUlat-3_ZGg9MTqharuK62wIsJV0i8C1rfBP86XtG6Lhd-bvRq6bAttpNPKRORp-370XrReyzpiJ9KnaI5MTT4-83B92WOzcWe69CPX99fB2WexvmROE6H0QxmQ.jpg"
+    ]
+   ],
+   "reason": "no new actionable news",
+   "ch": [
+    342
+   ]
+  },
+  "202": {
+   "t": "Ibrahima Konaté & Antonio Rüdiger 🤲🤍\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31417,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/c99tE0bD8-yroToXgJp1z3VpdjNoTCyahAmxh43JsHmHxt38VGyYPiuf8auJ_AiWlejSSVvKtUn_joVObzvXorGoSuZMgi4ewd3T5qNx6WdmdDL82oyvAbiOMRmW9ALKvTEgufEg3C0veFqurFlFwTDnnhf9MaW4RlKskVcV0EvUzfhvkAurkzOrRmmDMPs9FGD59Fa_d9WfO0PDqEjKEbaakvUF2QagXlSG4SA92xyC4KQqSPbhDwM4NasEIRQLOlf0Ch4bSPo-0VCOBUSBQ9uoJYXdyIMR0coKApldqUyKHvAX7ntKWstemhdPp_Zf36mubmFPR-dz52e5Os0Bww.jpg"
+    ]
+   ],
+   "reason": "No substantive Real Madrid news",
+   "ch": [
+    343
+   ]
+  },
+  "203": {
+   "t": "Despite the win, Real Madrid still showed many of the same issues. \n\nPoor defending, no control in midfield and a lack of ideas in attack. \n\nLots needed to change still.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31418,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/VQm9wF0facgts5Ln3PQVoMko2sSsUuvSjCUku0uP0BjlYXU2jo5Ni0BBDB8HCEllPY21K7Cn7gRfs3x7ez-iZjVgTlzNXThkh588zn58sXdmSL19fBVFSuZnRG-aWGqpEKfqf3dbyPovyoSasGllOPBPDedFaEJ0KXWrGSe9dozQ_b2JwZXJvlJFgWWYnjZXbRJ_XXhALXjCdgW9cPK4rgFVox3eh1qC0T9IjtH0QyH6RGCxsp8R8sZuYiFIdqDcOxgnz_SXgcaGjWfn9YB0-hnMJbAKo7ZEZkjpht-GfRr0NtZNICDnlLFT-KaTriC5dFwY5emD0IS9tVLHMSosCg.jpg"
+    ]
+   ],
+   "reason": "Opinion, no actionable news",
+   "ch": [
+    344
+   ]
+  },
+  "204": {
+   "t": "Jude Bellingham x Antonio Rüdiger!\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31419,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/dnY78xOkPb_Va2LhSZfiw5tYQnYM4gV9LGI6Rqe-rFFnVoQjBj8-a2Dn2_t_2EfkWLXzqdczia_RaRj-J6_wHmVRLHlQKW43lVQY4x6w6-2AgsGa6OV01Pz0aC_JxIJMDiYLqktUX16THSF_Qh34kqAqSLrGHG5dryaQYZ1OIePZUveL4CWt7QBBaIACmMw0ldUjAwlJcwWBurvzHEjypXSWWtL6mOUXyuXoxLV7ukuDPx_V01xVn9oK7WUoW1OLqGi8Q7pQumQWARfbOlq-0tUgo64V3mq6K3g-Fhpxdj8Cn_kqKPLnPXB56GPXPXyDyJG2EXd0tJidvbv7ALAqvA.jpg"
+    ]
+   ],
+   "reason": "Speculative, no concrete news",
+   "ch": [
+    345
+   ]
+  },
+  "205": {
+   "t": "🚨 Fede Valverde: \"Why do we only sho fighting spirit when we're losing?\n\nAs a player, I'm proud of the team for how they fought, but it's true that if we played like that from the start, things would've gone very differently.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31420,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/bgwzkZ5jB2weW4LnO3nT0nMV9ucfgVMQnc2fCdgFmitkYStF2lZaTTCRgDvSJi4GeBi2Wsp51pAdWhOMCpWvxofSVQvQFRm2ev7MDC1gQlZe9J2ecsfxwFCQfTuvo8MX1V2py5nQfuXh_YhKPHyTXS6F8Gp2zmdyehLCbvaR0ruubUUNPMjFeBLx8VGIXBgEorMFx_VTU_XJ-cjW96cPJ-g8PHYFnTvx-db9aoAKoYrht9BzmWGjOfjfgvGD1-cJMFORAa_b5EIXsgUjrPQe5AaOS74fm0h3L9BTUX_MGSd-viP2jIc1hs6URUcwx2FMA0oFS9h0ftJlu3G9US-UEg.jpg"
+    ]
+   ],
+   "reason": "Not essential news for fan",
+   "ch": [
+    346
+   ]
+  },
+  "206": {
+   "t": "🚨 Jose Mourinho: \"It was a very tough match. Hugely important win for us.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31421,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/efWxLYNLWwbR1Q-Ve7EujZDG9cPGjOQ_Jz1QPxPnHLkQOf_yNMbS-D9vAMISMlZwPqsqvwvfGHElw97MgWIduNnizSrX3C2IP663Z-SLHpqieWovx9BoPk7DA4DODz-ybJjUo7NcHuus0US5tsgnM-D1KDl-odw8rO-OxG_ay3Eiwcp0qVESULp77O985VQZT8nzr6GdCkZxRFRpU08dpI0eW8c8TGv-4NRK5w67CmQfnoDlFcxp2fY0gjNXUfSCIuqY6EQYRJpAZs5L2m7RuSO7B3twU3UE8blS2s6CDBFCuqO-PT-uo1_uigKoM4PzmfH2dzO6anAHYFRlGBzXlQ.jpg"
+    ]
+   ],
+   "reason": "duplicate of existing Mourinho quote",
+   "ch": [
+    347
+   ]
+  },
+  "207": {
+   "t": "🚨 Fede Valverde: \"Playing RB the last 2 games?\n\nThe important thing is to win, and I'm ready to play wherever the coach wants.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31422,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/fEFjIPLt4yxp9OnKU6gF3DiiEnjhE8Lambm7XdqTS9Sdew64oDVCi_Q_Os_DexZtFtzYZ7wcYG8kx_CSkfAVqHtcJ0FjdVmBd6eaNYGGFe8uRHgfMBPNlGJyXjHexHiCJP-ktvQmFBDhzbLKAx4SQO-l9p6ujjFzB7SWksN7c7g6jzT0fgS40bJ9jElMAek81ZC-UYtW4QestKMcA-HTQ6KkTjcnyK65Skxk3zY9z59Q_I7USN_4YcVWlUrDycrkKQXUwmLTPtn-BS64_THqlw3_SvNPgsB9I2Ca1x5hqc0B4rpwk3NCOC8KO-ojfxHE2cEEXOgBCI331J1tpti2wA.jpg"
+    ]
+   ],
+   "reason": "📰 Other is turned off",
+   "ch": [
+    348
+   ]
+  },
+  "208": {
+   "t": "📍 Reporting live from the Stadio Olimpico. 🇮🇹\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31423,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Cksq3jQ9BqZdF0qT0rkjXVjG5z25Bq1NKqGXOtY_x_8CpFdWx01EGWcEk1u3p9qs5m0U9DV05WKi0XQdYyOkvkY7pSCBiPb_QfZu79pQUTqD51-IIes0QKdP3ZHSMnZrRRXZn5c3mhDLLcebFlvun8Aa9wKZZevKKVg2XH4SZnZlf8_m0eITEXgVBIrtI_gQWoXndNa-j6zwjE5RVBPfM5cD0u-d1-S5WsAqBtKmRoVs1l1JP8LSBGKFLNM96R9dJk4qmLvmggvY9BPcXyJTGm6IYZD8MR9cnKacD1eRBqirxxV9I81095EqWaDVCmle5_FFLhbRfrhXNBV_0CeQOA.jpg"
+    ]
+   ],
+   "reason": "No substantive news content",
+   "ch": [
+    349
+   ]
+  },
+  "209": {
+   "t": "Game changer. 🥶\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31424,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/frk1X1SS0sothNdORX_01WLq0IghkA0nVzV48bHV8LtWWwHSLsHEw5lgs15P2veNJ6e8X0e8r4SGF43wOLTNzW1KSLFCQNvjjDqm6tfAabmA5IzuXl6spAhb2gj5y3wcidMDjL8a25SvfoiOFc8aGZnIffIaQo9B2xAvwksws3ZInspaY1O4pY1FLvdDlKM7O-Ho6wqG4F6yl0YF61ic1z-d0IwOsV1anHZgjxBX3gk4TYKFxTIUcP_AYXWmIS46GFnws5gu9FJumBiWec_-qB5DfLtB5eVd7Hszze7EfwBNohgCBqVdKVMJUjbsIb-_93u02eK63EEA4Y1s5oKicw.jpg"
+    ]
+   ],
+   "reason": "No relevant Real Madrid news",
+   "ch": [
+    350
+   ]
+  },
+  "210": {
+   "t": "⚽️⚽️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31425,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/o98kU4HfSDnvzl55JrLCdF_ppSAkkckuoGihAZulswSzvnOOqea-_syaq53ub6JPTH5sRz991DlOyC0fPsUHOJLo2eNJIk0x3BquUb4H4HeGhuqVpW6WIo5zwGDbvt6jvCTdkurbQgBf7u_kgwBBEYyt-eCctIpiV3PCZvRXJonDvXJBzZT5aNsBCUyerWqPnVE58vU6IEgN6rUBjrGa9ycbuj1P4OwapGQPnLP0aGSJmFVvQFIT9tWbPb5GbsrrwXBA9eyIpl4H_mqOoU117-y_zShLgzyTnUCP-ZtLnjvodZIZi6y4m4cmmJYAQqIPt5wdDRctmJEldKT5u5De9Q.jpg"
+    ]
+   ],
+   "reason": "No substantive news content",
+   "ch": [
+    351
+   ]
+  },
+  "211": {
+   "t": "🚨 José Mourinho: \"We now have 6 points against two strong opponents, Inter and Roma — I'm not saying they're the best, because Arsenal is still there — but in this group of 8 matches, these two Italian teams were extremely tough fixtures, and we've put ourselves in a very good position with these six points.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31426,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/GP4H48RxJZTxxokjukUorVEWyCoQvMHhTkadt-1rW0u-VjKouYHTptchTVfHiEIBTgVsUmLXG88aPUfBlsS-PQsXJFyHGdpxpzcBLcprB1J__JG87uIoebAZfvFmt5uUchx-Ox4gVuRAvDT7aUe1Ck2TeLz6gM4QF_ZDF3hZJ60nBCr470xfTOEKPOspT3nyJT2PfYzPMLDCj2HhINqNn1fXPAWmbrnQmBq036g4oZy2J2OcSskxyFBj55ajuEymsfQwozVVxJ6q3szCG8gRQ6XAV9uuF4P5o-Rdv-aKO5YQDDn8p5n2SYDjqIbTjNWqnr86rV7uCM15QwtryGSiLQ.jpg"
+    ]
+   ],
+   "reason": "just routine quote, not essential",
+   "ch": [
+    352
+   ]
+  },
+  "212": {
+   "t": "🚨 José Mourinho: \"After they scored 3-1, they thought the match was DEAD, but it was Roma's players who were DEAD.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31427,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/av4xehbCODfViKClfvcFvAF4bxbEB024dOK5H8-u8VlsxdCYEHYJU855H-Etmfh1AYeQiebH-9LjeKzWhHje1xbIuhyojCkU-MqOY04gJ2J6GkwycAQQ3NK8kVINWbwdmSkutq90Jy4bRjtVqjQaz6oRp5rHfH0xJGD9fWzHJt3irtVzY9QdEYGqakjxGWDuvZQM0YJ5ly--YZJhaG21uxHA_AkLvolzRHTYLiYjRV_FxbaP9FQzYUAgPDCIl3zzzt0Ax_cYHzbf-HyMXd7VeG1OOUXJspOUAssX7OsRk0r_9ZqP8wiXDKiRaDujLILlJwNDH28d3Y8QnvWTGRq68g.jpg"
+    ]
+   ],
+   "reason": "duplicate of earlier Mourinho quote",
+   "ch": [
+    353
+   ]
+  },
+  "213": {
+   "t": "🚨 Fede Valverde: \"Endrick MOTM? It's DESERVED. I am very happy for him.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31428,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/nqUD7Sd-t6CHEnjDLZNRjyco72CB4hjz_ghHkuuoW-B-sdt4k5JXLdNHNiXmlXhbsVDlOIelrH9oAaolluYfFTm1fUW9KrK-X6ZYcila6GtO1C9MBtAzuhkXesKJcXqTrKBegcWw3d8k3ztZU_JKZsq78qL7MKPc2N9g0Gp6GUmrv9If_0D8HLVd_xw-I-lLV5kUm1YakyMmBOb1IHY6EO3HBhV20XY8n1a1loqtYHnpX3N5pyXZPrbYiTGqqBUb3snM_KC5CJn3-ATHnO5as15fskvvbR3mf4iSMwp41x9dndD7-YbrEw9f7-4WzkETuPkFQFlM7WY6zlAzzXd8ng.jpg"
+    ]
+   ],
+   "reason": "Minor praise, not essential news",
+   "ch": [
+    354
    ]
   }
  },
