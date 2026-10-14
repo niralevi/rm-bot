@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31246,
+  "themadridzone": 31254,
   "FabrizioRomanoTG": 67285
  },
  "sent": [
@@ -1038,8 +1038,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 40,
-  "tokens": 65805
+  "calls": 44,
+  "tokens": 72648
  },
  "pending_fb": {},
  "feedback": [
@@ -1261,74 +1261,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31224,
-   "t": "🚨 NEW: In the Real Madrid dressing room, Viní Jr. is the emotional core who holds the different groups TOGETHER. \n\nAntonio Rüdiger and Thibaut Courtois are the team’s professional “fathers”, who lead football discussions, but Viní Jr. is the GLUE. @elmundoes\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/U56jsJn6hS732qtYIBmrkyWPOQPNS0P_I-qR4XVIg9b6nZ3LKm43UMVL4YSzb62C3BIeQWqAA3rL33GRP653LH5bFIC7bIPsNotW_cBCmxCOmkyHkP0kvcWD9Heu_eDTPly9QK9EGcd4n_LM8IO3QwvW3HQ_bnD1nw96SYs4aSG1_tvV1HTXIm9KQ0U_DY77K3JxHNcvT5VXxadBcR-fZ09q99hU00EbNnIfnfu6B3DWLJiSQOEHbn0Jco89czJSHK65NjLnqthz1LSwZzJDvPH5Y5PGVGov22c2vc9MU_3ZNwDKNjzBhk6yJtFl0U5H-bLtXyciarNJZ5DtExKPhA.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/EgweGH-HvpohY5uWe7sOa-fl_vK9ir8QEogkJUeYfAExsCrrZ8tcs6eQneLdBso3CPcu0By9sxu0aI-sxTFOT58gKuny9MRsZR3xViFRPgAwwbsgcFolhYFuxMEQMUbuIdJyQ36LAF1Iw-DKYv9UyVwzjMuN8ZluADuFjwRWvW6PxOL-7t_orAdD8h1peY5RDV2tQIkntKryH8sJYqt-xIotnnadgeJJi2By3LmXDYPGq4VBbNHY3cLKHUxL3YQpU9nzWGfWvmWzvGqjFvIo-wssrJpbWX7lYavk1OqbQo8oHnSQXQWichmmuCKXtTGMmHS6lg1Y0CutdzOEU0I6gA.jpg"
-    ]
-   ],
-   "r": "Lifestyle/team chemistry, not essential news",
-   "h": "🚨 NEW: In the Real Madrid dressing room, Viní Jr. is the emotional core who hol…"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31226,
-   "t": "🚨 Vinícius Jr. is close with the Brazilians, Jude Bellingham, Kylian Mbappé and is one of Fede Valverde’s best friends.\n\nHe has also been at the club the longest, alongside Fede Valverde.\n\nAs a result, all coaches at Madrid, bar Xabi Alonso, chose to build a close relationship with Viní. @elmundoes 🤍\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/XpoaeF0VetlkwGvi4XhSgX2uGUvlQkhWw7FrX83aVhwYZZrM9XG_-_YdnB0-BqMMw8Wyqe6QsUVNLWJwHWKk3EVdlJ0jKUyBHs7BKBr5K_SuDEw3lFX5k42joiFXcUUlyyZru2G8B616O5v6MWaYkmVbDABN6L14Sw-gtW6QF1V_vwq1-85E_ufwHgrUjKg2xHeExr0u0PK5L0q7n7ovzYeeGyPKXyY1_Sz5ozxR7KL6ru929et3VdaG_Ha1N-odrTLUuWxNRcUaF40_-sVY4-IITQ6UNfZftooQlraDVGk4kiAzOLpQT14T7fMWpiXLKUQ5R8etFVRdhUPsEpVJhw.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/FJ6ju7LVzvy8UcBkFkRzrBk03N6GYlymG5zFFHZdp5_Yw9I-kZTUdekGfTqsU43yyNVMRqQ-ODDi7DfojYzxTRgwBSrNHwWKyA30206a52V6m7dhd2WtyLJdiF8RoOXA4Fl4P_5oIci9rg37y35eZBpD9pdeoV4biKO1UD31Sm8Hfn2ZGcOa-HSkJ9Qbjj9-zCZBH1Iprqnkt-jNEHvvnoPUPT4J4tEjEI_KLagGnBK0wh2s4BBec416hvLEOG0dzeUQQubNKS1JGpK1roNEErt6aBZYL2t9XedeTwgYn2KKV4H2CRY7MYA3i35Hg-ztyLat9USE0-XIq4P4EYkcIA.jpg"
-    ]
-   ],
-   "r": "Irrelevant personal gossip",
-   "h": "🚨 Vinícius Jr. is close with the Brazilians, Jude Bellingham, Kylian Mbappé and…"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31228,
-   "t": "🚨 JUST IN: When Xabi Alonso benched Viní Jr., the prevailing opinion at the club was that he did NOT deserve to be benched, and his performances were good. \n\nThe club sided with the player then.\n\nHowever, now the club is concerned with his sporting performances, even though his World Cup campaign was positive. \n\nThe club is focused on getting him back to his BEST. @elmundoes\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/qtbakY1Q73BLF3_nig7hodUNRrk8m2BKJGXPgPXxt2CHHtvQQQFR-05Z-JcaCGGzB4rS4r1kINRE5gGFTv344eewN0RqW9PEpkc1H6xfA1hsxRN2VVQI71WU3LY_SoZEhGxn2kYEGrg_X-dfjzpDOF_9u0XU1dez7k04nyOqvaWH9Dy7MhLF7NoaghnD9pLEA70n00CqveRw8QBDb8zwqQRZfnn7iDvdsnyhma31Q5Qd0R4d0x5ORdFUvAej5RVl3_sjA4QhwEIq7NyLgl1K7PorpzKsVgjjxtlDAeULNQ88KNBuxf6SRzSTu9_WLKnv97gJ1ZF6VpgflSOiSuJnOQ.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/GfJWRAh4kLmfoldEuk59Mw3DVRLMVykBfrAhEFLAlPJQgVNVyo57AIJLKzqu3KTdsjyWWg4fm5V5Iybxqby9XfWv1EztFswrz4gw0x55vwl_sabWZsis9IW1R7DdnJ-BfPqaoKQdCeIBOQ2HW-LuQNJUtNSxubcM18TOI95zwwcUkzrWNpipQ04qyIVAPb8mTUdBaJ5X_CxLS1LwqDq_XkNXucU7jU75HPj9Tmw5XeE_IEwYqD_QMFVgihAfWCa3MhBToyXJbeF7cIyA-02q9sfL3f6yLAW4D4Mp2QU0UL-OS-aRmIoWYlQISjyCfVltPOwLLhBDX8tvbg0x9CkCZA.jpg"
-    ]
-   ],
-   "r": "No concrete actionable news",
-   "h": "🚨 JUST IN: When Xabi Alonso benched Viní Jr., the prevailing opinion at the clu…"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31230,
-   "t": "🚨 JUST IN: Jose Mourinho asked Vinícius to make some changes to his routine, mainly related to rest and recovery at home.\n\nThe coach believes he could improve his personal routine, since there had been times that he stayed VERY LATE at Valdebebas instead of working at home. \n\nWith coordination with the trainers, Viní has made changes to his routine. @elmundoes\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/L1XLBKDeZueyog6ojo4zWmAnrAsrcCKWORzqvu85yP8v9yDdyOyRYONa7jJonVEvbLiNo883tHS_jvwao_U1jHRrQzgW2tax6ddumaJB5UVwVAFdf-e4a1O8UhWMajXw6dKiVjmDlgSZ6CfRcJzC1W9EY9Z29-DDq4Th8C7i6FueDcx9EWzPO11mf8UQ8iq2rYgLY2QdtShiuDs8a4LTfru38vZlLMcesqQVG3KwH_Wn1Q7X2xpjVOMFtCKPW38_yteoS5H2J9IG0xMFhgVVubKS3jj7vMwKV-wP_AcSQFacynvxAFOo8HBuy_aH57xJwVO4t_WbqmDVhzktVqDReg.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/v9ZzGUC6nhXmQoISzU2Ism7-C6YXanoocGVgw9t2LJaTaBpnSMQgUM6iIWW-332Wb2ToAGYwKQj3ENPwgclMFJvlyWHFzGBXxSZ4hwQY0V7fEgh3WQP1_FSWfvnYBMX6UmmzAnyVi1Mp4ZTPy5XTj9beRScUZj3Ud19gI6x6MzVguK0r1RZO2gD0LVNgMZKirW4E1ddKDZRqJC36c5OlVaUghOrO3XS9eOZK92F5jUY8lvbuSYIjsigOpe47jVCwoL6XJwZESv23axKQYx3UKhJlMvw_acBsVgRqGEB1BkGfhlxk9g5acoynmS-jeLmFx7oPOB2vBtW5BpT50QD2ig.jpg"
-    ]
-   ],
-   "r": "Minor routine advice, not essential",
-   "h": "🚨 JUST IN: Jose Mourinho asked Vinícius to make some changes to his routine, ma…"
-  },
-  {
-   "src": "themadridzone",
    "id": 31232,
    "t": "Gareth Bale x Mohamed Salah, 2016. 🐉\n\n@TheMadridZone",
    "m": [
@@ -1489,6 +1421,74 @@
    ],
    "r": "Opinion, no factual news",
    "h": "🚨 Viní Jr. is the MOST important player in the Real Madrid locker room, in term…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31248,
+   "t": "🚨 JUST IN: Several times in the first few weeks of the season, Viní Jr. stayed LATE at Valdebebas instead of going home. \n\nHe did it because he found Valdebebas to have the peace that he did NOT have at home. @AbrahamPRomero via @Ramon_AlvarezMM\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/HAnS9m9LeisaJSUHMVnGO_3lKp_wpngBxvzdULUfmVYoEu9e1Tj9di342TAKZVI0fljl08u7lvVr6d9OA3sB72xVNiime_hys518hK3p8MTyXOH21S1APAmgCbItQ0KJ2b-AyCg2hiKQ4nFIjbuHndXjnB9SrMDiLM6fajq1x8Z3R8o7Mmbk2bSM0sizEDVmfP1NB0Igp6BTUKaEy7PX-uDjShHv2lpWo6evb9RYrgQZUr39RM1O46iOU53oepFS-jgL3DkHFaArCGdslRj7mxq4_B_O7apdIuQoP2169HFY8BVbtkOqIHAt6g7Pya3-D0WZ0EIdEaZ5NYQXq_YkjA.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/mGv9XwG0RUAE6rxnd5l4N-H7uUnKYJPiR5qs9DJ6FEjFh9c-VuAiiQ0xhINVaRvbzD3DslzrSw_Lu9WlGOyDcBGAu2gPFLdlbOE0lU2JJCbg7JOInvsmRCozWJ6WC7db9SYOnjajr0EYdWp1WoYcu17VMBsgqORZdfcokhmW7O3NfuIehSRlauoG0ikS-iW_oNTPfB-_9hNPOqwLerFEKk0DIc5pIL5EuIf0e-PshXmNUtaO-0pjOW0ARQPSOrvry2IR-NDYI5R_l06t9NEiGa0eW-dGvZdoV5Cmq-v7QvwoXojnasGAtY6pbRTShUx-T1R9WtqXpBKG-A3-6teSgA.jpg"
+    ]
+   ],
+   "r": "personal lifestyle, not relevant",
+   "h": "🚨 JUST IN: Several times in the first few weeks of the season, Viní Jr. stayed …"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31250,
+   "t": "🚨 Viní Jr. has ALWAYS been an impeccable professional and still is. \n\nJose Mourinho and his team requested some changes from his routine to ignite a “spark” from him, as the players was not at his peak physically at the start of the season. @AbrahamPRomero via @Ramon_AlvarezMM\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/OsVreCUh5r0vf17j6R6dzjwWG546LkEJHkwRn7ca20usO8EXA4lG0sHzxfKOm2h76G0_CslqsJttIiKR7XFlPSN8IfpupFSwkWU1EkYHPnCvEkXU0f6qNhtKGFRFAdrbVsP3pNa7tXRH76CWcJrHzgxgJ3M-k88jfNTpTGfomwOp9axH7oewFWsJkceHs9dDXCIqTZxO6ZdK8iDLzwyWj_8CyHU5Gw2HnOMJIiALbX7K9VcACp1zbiZ8W0OEI-zp0AkNingQkDpE6DkFzxhN9xf63Zoi34JE68hA4FxhlMNahlrCex1ClREa9PiXFXQsZKIZtFRzVkv8el7SxlylzQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/j2AtQOKTUY_wdakhns4JQ4i_BJe_eF_VgYGhf1WFJqnIYC649Nxu6NIMQo6xgBwNR0x2wFJgru3nFXG5ZH5QCotH70jOwQzyBQXlaln-YWaEo6baSifOCoIJKWwXrgbkuxGVfyRi97f4vBxNXwO5_F80iD9qTfSQgz74uM6I748SmuWtiRQENKhzgdmHGJFX0sWun_mu47FRZWn9fednw9-vj2VZQ9m5Zc5c0P_TbL5qWrNk8KF7FA5Y4HCcrYULBahms81TR8n1KhJ_nzsuK8EUP5q5KzOkt6LYfU4zdaF0OG4AoUm_5iOz6TPHECvDoRv3x6tlZC3JJMuWkcK1iA.jpg"
+    ]
+   ],
+   "r": "routine tweak, not newsworthy",
+   "h": "🚨 Viní Jr. has ALWAYS been an impeccable professional and still is."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31252,
+   "t": "🚨 NEW: Jose Mourinho and Viní Jr. spoke and made it clear that what Viní did at Valdebebas was just as important as what he did at home, in terms of recovery and PEACE of mind. \n\nThat is why he made changes to the players routine. @AbrahamPRomero via @Ramon_AlvarezMM\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/shY_xoixJTWRTwcCIyd_24S3-pFklECjCHLfZS30VKGV6L746P28gCMdfrH46cEyP2hqvlO_e3D7kuTxmmDQOkBExAxwdKgd8mUl_2Oa2yxAi-EgfYpJYcez97JfzUx32xpdUxWRIvPyvQdO-yADlEqP6qqV89mKfXr1mHj9iKMGLXrxJ8K0CJHbaMdPX3SK0gFBnUi58JkjWJ58n99FDfnAsWjrOQjqKT1Rz1s_d8_BCpgh7GWsZ7qq1NR1ptUVl6_ADlH7YlFbVHLawpB2YBo9DUI0GvRAxbrjpHEiG9qSZepRFKgJYq6x7Adf7VFrdc5DaRUcS52KsRI-V9JIAQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/QLkxzgomIqhh7zF4qmRrv7uKflR83i8c5tkPS342OPpGXLxjdZS4BJeDItJobmnFsFkPQ1qyYeeSMIJorRBH4R6eaU6_J9WolqqYuF8qw-zQD2GsZmgWTHpozKBoA31JXa3L-9YREAcAQlHs5B7KDAp2XZm6GYy0cB5yRCRxQBA4ZbyJ718iDfYR_wVRHDYnTJFkQASJTqkXVeBtwbJCaDfRPb5x-yPf57iJBcYBccxgGh9eQzJq7Ay8di3JextVG-dGg8ID9-oRe40yKc3_MNFemBacgkZiA1OfwdRC2Nm7oA1eiIMmxWaZDvgAZHzYiNknsyl64Q7mGm2U2U2CYA.jpg"
+    ]
+   ],
+   "r": "routine talk, not newsworthy",
+   "h": "🚨 NEW: Jose Mourinho and Viní Jr. spoke and made it clear that what Viní did at…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31254,
+   "t": "🚨 NEW: Jose Mourinho spoke to Viní Jr. and made it clear that what Viní did at Valdebebas was just as important as what he did at home, in terms of recovery and PEACE of mind. \n\nThat is why he made changes to the players routine. @AbrahamPRomero via @Ramon_AlvarezMM\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/HwyBEKsVXeXp_1EHpYBh_f97OKxdD8E4sWLGyjTMLSt0-Zbs6Ha09_zbyr5Lw-laLbPZiw5S0XDXbIgAJ4Iz18gwY_6pgJF5rMC0xArJ6rUPbzMmIlXsFGyhJGv7htm21HDPZ0TmhO9-HjLjB_VuFU8KZdTVQlP9g449XJ5uDciUhWGslW0-XCWOYwTEt2ffrO-8TUweHd1VfMcbJFmrbQybNGC5yNVgLlEPAI4LQq7XlejLQeWvVFCqAPyYYHf-HUkcnU9MZs5Sr02lMKyiRwoo0GhVcty4dZgXSAHP6ViAkBR1YRaHSpTYlpZH56eWmef_LCQ0AsnXpli6meAerw.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/rghD8wAENTiDLorEJeC8fKQCAzKbcjWc3hIn2XFGiP6GgRc42BDIMmcLXdnxkJxLXtHv_OY5udAqlTCxIvBR4OgKDkJtlqlw0Xk8Hed2WwLtegWMR8SSwoQo4h01uIJd8DfkVShSZPE4Dbavn9teE35mK9P8PJhpO1GxjIXD9XtEhRBcG77hGTwVgGjCm7ySXcTO_tud6cYCmPHfhQLVEyVvMxO2FtZG8E3y4724j8V263oRMJGju77zTa7KmVQXfTfaxhTjioEP2hSATIl88c_OBiZJfrKs5CHVOlo6iEoPT7HcxgXmacgZ5ftcKCEh3twhwMtCky9Madk3aYKIHQ.jpg"
+    ]
+   ],
+   "r": "Minor routine comment, not essential",
+   "h": "🚨 NEW: Jose Mourinho spoke to Viní Jr. and made it clear that what Viní did at …"
   }
  ],
  "summary_date": "2026-10-13",
