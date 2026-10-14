@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59242,
-  "themadridzone": 31344,
-  "FabrizioRomanoTG": 67303
+  "themadridzone": 31349,
+  "FabrizioRomanoTG": 67304
  },
  "sent": [
   {
@@ -1258,6 +1258,39 @@
    "status": "official",
    "headline": "🚨💣 OFFICIAL: Kylian Mbappé is the FIFTH ALL TIME TOP SCORER IN CHAMPIONS LEAGUE HISTORY!",
    "link": "https://t.me/RealMadridImportantOnly/223"
+  },
+  {
+   "ts": 1792006714.263738,
+   "date": "2026-10-14",
+   "tokens": [
+    "14",
+    "2026",
+    "72th",
+    "career",
+    "champion",
+    "enter",
+    "fabrizio",
+    "goal",
+    "kylian",
+    "league",
+    "mbappe",
+    "oct",
+    "rank",
+    "romano",
+    "scor",
+    "ucl"
+   ],
+   "names": [
+    "fabrizio",
+    "kylian",
+    "mbappe",
+    "oct",
+    "romano"
+   ],
+   "cat": "⚽ Result",
+   "status": "fact",
+   "headline": "⚪️⚡️ Kylian Mbappé scores his 72th Champions League goal and enters into the T5 ranking for UCL career goals.…",
+   "link": "https://t.me/RealMadridImportantOnly/236"
   }
  ],
  "offset": 769011999,
@@ -1693,7 +1726,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 121,
+ "train_seq": 127,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2727,6 +2760,104 @@
    "reason": "no important keywords",
    "ch": [
     225
+   ]
+  },
+  "122": {
+   "t": "🚨 Big chance missed by Marc Cucurella!\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31345,
+   "m": [],
+   "reason": "no important keywords",
+   "ch": [
+    231
+   ]
+  },
+  "123": {
+   "t": "WHAT. A. FINISH. 🔥\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31346,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/KP79RoCRB1cYOGuFwlKlzAoKvPOk69OyCv6jTacWYJ9l4qMlrUfEkIAjACS6D1qzJL01yPeAh9hoQmaO4w91cu0UkEEeIvw6bZob56DUi89W7HXVqObO4vA2xUxSetSMUajLAkJq7m0hievC8qHkARvHYeQk26CBxcxgjxQpkTxpMcTAaCFV0AqEgMFlmbG_VVzrxmxWMjmMqgEyDBlPdQV8qd4RA1HEByvQkVXNJX6v81Mraatzur1rQULYA7nlXSNwOXicIJg-R55O5kTfqiJy2zXy0GK00JbCe-4IUyEQwT_9BXE92sMACt3rZOEA6WJpc1biH0MXrUIUSURg6g.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    232
+   ]
+  },
+  "124": {
+   "t": "🚨 Goal to mark his 100th appearance in the Champions League. \n\nKylian Mbappé 🔥\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31347,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/OH3a67DoHGBr5cbApQ0S2N7tBzMbrr_y4s2cb4HucP5UhHcNB0GE3yuGa1Ov-lRP7aTe7OAyHiDrKUeER3QOVZAtdn1GUXWjAVykmMJGGIm3VHGry3hPpIUG5tEx2UE7p5L5tVuHQ2Q3Ng-5mCmxP6q5KcxN9cuLSfnkh9ASOoCer6uk9dKBQ5URaayOtbCPLwvmxrz4BlCBtugatFxE5TdbuzxqmtCOrC2M8_Zg7qc1kC581WNcia27zZ79D9RFXo4zf7RZM4chhepNqyJZZDGm14_4xjT-5yHBKY_O4ZarjKJXIOYQkdvvTr8rUQr-3dZIHYJP19YvMhjQc0Jw8Q.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    233
+   ]
+  },
+  "125": {
+   "t": "Kylian Mbappé x Denzel Dumfries ⭐️⭐️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31348,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/crRGKp3kBLBZZezz6c8wq7cylOFbyFA54bI32uNDp3yBJrd9EQjBmSgr2gE4_TFal2mXw-Hep2aTKcaWmNcruk0ejp62jEE1kthdZHoR2XHVB-EzeVaUi_RJPnZRDv1y0Tq9QZoEcHaeJCwyL4cBtKey9YHWLBKFBtVDISBnk7oFSoLEM8Vw3A1VdfAueprl8ulmR0U6c1X6EhYHVjpOdUKZpLb7TvO2bAV12ae04Lf7mZsJ76NB_E02uee-EJ0sTQ2HYP914Nw1EJ-wdg0HBjuGbBjsjtL-kksdnNNY08GJMK0s80A2KzPov-3Wu1VMpzrKxbx5XYG3C0dxDOWv4A.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    234
+   ]
+  },
+  "126": {
+   "t": "🚨📸 Roma fans’ banner of Jose Mourinho.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31349,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/LnsAoLXKFEHVfI2XRuPlejFGfst2clQzLRJP73Q5U0UWZy5lhA0eUHHZQfcuAkNE7zUmTMNGvZAyM4qDlWcyxieg7Wio7LGUoIFJkOVzGFNZ8XcgaYGQPNg-GgZQI2NmUY0SIBPLXIong1bVahpKiYBFNzykBEQu40NwaXjJVQVWrvfo1eXm5nOBWcNY_dthtmZa2EgnzJmxHSjwgTvnCTjtfGF7ZT2xT9VdLCjKrjYMhCLWAa97ZH9aquNSQC5ZA-0Eou0NYrGYozJClI4XpvRTxxeHlR6PrLbv3eOgMC9qtUHvTEdFRDGEWNZsUFiIiP0k-gL48JgqMG3a0NcEGg.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    235
+   ]
+  },
+  "127": {
+   "t": "⚪️⚡️ Kylian Mbappé scores his 72th Champions League goal and enters into the T5 ranking for UCL career goals. https://t.co/iU10WEcKUF\n — Fabrizio Romano (@FabrizioRomano)\n Oct 14, 2026",
+   "ai": true,
+   "label": "⚽ Result",
+   "status": "fact",
+   "src": "FabrizioRomanoTG",
+   "id": 67304,
+   "m": [],
+   "reason": "important keywords",
+   "ch": [
+    236
    ]
   }
  },
