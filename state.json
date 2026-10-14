@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59242,
-  "themadridzone": 31349,
+  "themadridzone": 31352,
   "FabrizioRomanoTG": 67304
  },
  "sent": [
@@ -1726,7 +1726,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 127,
+ "train_seq": 130,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2858,6 +2858,64 @@
    "reason": "important keywords",
    "ch": [
     236
+   ]
+  },
+  "128": {
+   "t": "🚨 Yan Diomane has now scored or assisted in his last 3 starts for Real Madrid.\n\n🅰️ vs Roma\n⚽️ vs Villarreal\n🅰️ vs Elche\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31350,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/tjrfFxaZQIQg2CsMnlGOtux1sMuzsy2uQB2HXAOXi6cWfoF_PflphI1hwD3krqzH-6bxA_NI5RqGCPrm8UFR4n7gaxR5O_18dwTiEv922w_ggJDlX-MysV7-wtnDamTeRI9at5YSeH14g0x-Ra3cxK-k9Hvl1ReRtMX7jRywj2PCfUL53LY5X2cTKBJqlNBAZBpnxOTPrf-4ICpVGl2HBQmSdFQ6eUJa0ooiAszt7Gx5SWq-TU4bDi6bs3MaXv8BlNmfkgdZHkT40Zy40uprA-N_5HR5VNbIWbMokpdPg4ZXTEJenJ4KfppreBO4tv_MJbJASVdtlDOtU7DW9dB5mA.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    245
+   ]
+  },
+  "129": {
+   "t": "🚨 Yan Diomande has now scored or assisted in his last 3 starts for Real Madrid.\n\n🅰️ vs Roma\n⚽️ vs Villarreal\n🅰️ vs Elche\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31351,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/myMFe2lQ3wNmBPSC7VyT4-H1kN9tr5hYgHrNIqdS7fjI81Qulvzz7yPDLhxmpB1AGo40HG0zuSLOD-Ls2yIZL5U2dn2k-_oNOVNxnZUpyikjKaOYGFhiDTGHdqJyzye0-M2_KJAeGMKtmspIqrDiFmQcfCWOyycAQa9uorFz4RjPawSE4LTgDKXgH4nrOr113yIRqPkSfGGczUA0lvzHsWut0AETHZ5Ka9rKMOQ9uLxo-z2MKs-qYFU8ZwhuhVEvm4njQ5tbztXzBBsDyIq2oKuzC2eG6-aC692Iqu4l6BwYUVl8QW8RHSJW8wQ8mY16D_LnO2NFXk73difILUdp9g.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    246
+   ]
+  },
+  "130": {
+   "t": "🚨 RECORD: Kylian Mbappé became the YOUNGEST player ever to reach 100 Champions League appearances.\n\nHe is 27 years and 298 days old, beating Lionel Messi, who was 28 years and 84 days old when he reached 100 appearances.\n\n⭐️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31352,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/jAzZAJqbBAn2SkJRG9QTAyP5OD9HHHWTosDhUMAiP6Yg-ExRGd8ZLxNaaVI0ZWYpMbUmQ7SmqNUwcvpj3B3lRL0HVUz33f1333P3MGtYaLh58_LJqkDhGs_nZ_4j0vvmwOoq9X4lq2xyoUChfRSGbHLzsiSbSvXHzWAKhOSTr1c4iRTRqxEuiZeWeWG9Fm7w9AehdHJ1pUje0rL3hQbcbJp1PDffLtnJylWZ8CwULIiUjnuwwT6VFupD2xI3YODH7kfQ5Ia3TBFRcNcFkJvMGkIsHEK-9wL4iQwfO7-pcF1TPigNhBahcyvjHfGxctuBp5MSUX6BW_O15aRuK0A6fA.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/uEhnxVc9895NQF2sA7cQ-ULIu_CgzjRwhgqTSzgH7KCwi79knlzgbRODEmDkWW391hHQG_hDtKJYojSnaLXYVlTa-nCi8H7D8y5JD3-Op3enpsCn_Wi-fHg6-wDni3Y7tnOXlT4ub2o5INE-4UVpGmDDoa6fnihVtBosk4XzLSayc8tLIaKdfM3RTQenIt65n6Hu0Syyqdo_TE-hJ8K1Enq4tNLiGk1kDBHXl69gDaPT5hZ5GDzxmxXpsjR24AP9wFDO3t8mTg3GJVrtt1NWegejPW2u6ZmKFd5tFhgmhq2A3AO1ibf5Kp2MX-3PWKIJI1APEqCOg1kvNd0UfaZ4jA.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    247
    ]
   }
  },
