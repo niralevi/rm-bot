@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59233,
-  "themadridzone": 31299,
-  "FabrizioRomanoTG": 67295
+  "themadridzone": 31302,
+  "FabrizioRomanoTG": 67297
  },
  "sent": [
   {
@@ -1113,8 +1113,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 90,
-  "tokens": 149371
+  "calls": 94,
+  "tokens": 155985
  },
  "pending_fb": {},
  "feedback": [
@@ -1336,58 +1336,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31277,
-   "t": "🚨 STAT: Jose Mourinho has faced a team he formerly managed 27 times so far.\n\nHis record:\n\n• 6 wins \n• 7 draws \n• 14 losses\n\n😬\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/AppZMNZCZNifd4oilUUPVxkjG0JRm5puR0rLAWfz7eHKQQr5GPjnLwi_EsaNywb93S8_YXHfrPcbRDweEkNfdLEp70MxKBZ-X8MSr4UGf6pdxRAH_PPRoMykIgYdT4su5lKED63tk4pMoRgR0AWWVnbZkHKP1OZwQTFaRBdtR0_ZAJS4SGxUb7i-dboBzbXVervzbf3xaTrx06D4B6IUy-grfSQujLZSUHzxXq-84mi2iLR1K199gwUk7oJ_oI7iTaptfc4vtOpRONrqkerflo2vbig78hg8XM9ypaErA7PyMYdCig2_f6w7mN2jo4San8WizIQnXEconCq-2iBurA.jpg"
-    ]
-   ],
-   "r": "Pure statistic, no relevant news",
-   "h": "🚨 STAT: Jose Mourinho has faced a team he formerly managed 27 times so far."
-  },
-  {
-   "src": "real_madrid",
-   "id": 59226,
-   "t": "🚨 STAT: Out of the 5 matches in which Real Madrid have received the most cards since 15/16, 4 have been in the last 2 years. [Sofascore] 😬",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Avu9NpIWwxCWHmyTcG4AFksXWZZlZwlxB7fr9Yb8LYTulAMPh2tqbRo2BNGo1vtOdNtliYnSwjcr60h7k_yLZws0QPvu663mcpKBOQbxAbwRwvWu4n2rVTAQlk6S3r2GRs2sLqRD2MjuL0zh4aFw0cNcjxk_irureqUHUjPA8sgIHiYv4lv89eL_d7n9OHm4ObtlJ7q_saL5Akj-CCnfDCXBenosh-oMiz5nZljcOuuzjl3OmB1kAxyI0zj0KocElGLNbMVlQAoqOXd1fS9_xBFmwNwbC9QHV6m0hxIWTY6inTWUznMQasW3RkSsKCC31uwCqBRKc7bK_wVwzj5pNg.jpg"
-    ]
-   ],
-   "r": "Pure statistical list, no news",
-   "h": "🚨 STAT: Out of the 5 matches in which Real Madrid have received the most cards …"
-  },
-  {
-   "src": "real_madrid",
-   "id": 59227,
-   "t": "🔙 Real Madrid’s XI the last time they faced Roma in the Champions League. \n\nMariano, Fede Valverde and Marco Asensio came off the bench. ⭐️",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/vdbbrKbYYXKegpTN1DXfa01QllCfmLK6_29l5g0jY60naVPHcXGVF38eksbE5EOXemKDEESQuhRGCk7RRNtl2oOYZqvQWiCSo_TsEjZvPdLXEOmP905EyqRpqPuk6zSNc2pbOgQbiUBgj-F3DuHCYxiXoyC7ocDTpNSqJ-SWqeLjRIEBOiSHru1nuXrBEc9j9uondWdIgOZdkUUrgB8l8CGR2vHOzuzvMVuovLy09jIme12OemDk1A0LksgGa2Rvj-Mtb1Bh5V_QQlZpBjynN8FTca-GHtUSFxjsip6bdibSP3Y7UMqlx3ecrZAAL9H1qc5jLn9zkzUyLw7D3WbC2g.jpg"
-    ]
-   ],
-   "r": "Past lineup, not current news",
-   "h": "🔙 Real Madrid’s XI the last time they faced Roma in the Champions League."
-  },
-  {
-   "src": "real_madrid",
-   "id": 59228,
-   "t": "🚨 Real Madrid player market values in 2026. [Score90]",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/TaFv2XHjeMTujLLgQ-BD8Z7TkrHXRtFAa8nyJgV84nO3_IBMcrrSOI9WIuGbst8PCXw--l1g2KlnBO4w0nwq4nnKMN7u3O1S1lft5YuxTc-landCF4Y43Y19rSm_ePkWv3v4HBKAWwktjp4LyzCbdsoMXNbD_S9SSOHq316oho-t7pmaLoDGA96Ksg5ULbCK4x5XEMKDo0FQOXJ1SqfTfg-mubRsY5kP39Ks2VSkCmelxF8DnCL6Cq3Kp6DLSFadhLh7JRlbLvoCpeehSs8EPwG7zbjwoNUHIWTL30Nhhv2wXM8ryHmFcGIumutKbkVQYrhEoQMe_l2_O6CUysPdFA.jpg"
-    ]
-   ],
-   "r": "pure statistical list, no news",
-   "h": "🚨 Real Madrid player market values in 2026. [Score90]"
-  },
-  {
-   "src": "themadridzone",
    "id": 31284,
    "t": "🚨 JUST IN: Vini Jr has been suffering PHYSICAL PROBLEMS in recent weeks, which caused his drop in performance.\n\nThis is why José Mourinho put him on the bench vs Villarreal. @ESPNBrasil\n\n@TheMadridZone",
    "m": [
@@ -1527,6 +1475,53 @@
    "m": [],
    "r": "already notified, same suspension",
    "h": "🚨 BREAKING: Vinicius Jr has been suspended for 4 La Liga games — out for El Clá…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31300,
+   "t": "Jude is here! 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/a6i4ibq-Z30Iff2xdUbxtDmjWlfFHApKY45vfZG1yw0G6v2Jpt64UAr8DrzOjDU4UO8Sc3ffsKITs96rosYXA6qW27PS8vNF_YLt-agEu_PHscW5mx2uktEIjhWAYfeeaSbO2HEmQmkRYtrWTz1nLigUfHiNyYrMDbt1VAer4IhOneCEgic0lUulzb9zhk9OvZWiPElm8GQQu_xgP1nIXeNFeLIHZv3MkCRwBGM_Pyh4GZu521o9bTZNhWm1_VIia31YO2Ng7lSSv0QYT8lKLF0pLZqAaNzBiD1X5OSFXJOaU-YdXgKAzpTQri9m16TCEwrJot_StshqHIO41vt8rw.jpg"
+    ]
+   ],
+   "r": "No Real Madrid relevance",
+   "h": "Jude is here! 🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31301,
+   "t": "Ibou is ready 💪🇫🇷\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/QfczsrYcNzObqlvQvQonS7JHqyDs7Ofi7iXuN6RDwPEZgGU068N5bg1PGgA_XCqncdWJeGElVovU2nHQCHwpJhR0g4FN9XL73XS9LcqlY3_N6pvsyZRxuKB5mq7Fh-H2icTe2T0kU2TD6Lte4mCpKhwFSrklIn_NDLZCGcFDvG-i-6e2D4L3PCUmjMwiTEQwx7au0Q0Gy8Jk5yhGKNR292r8j0ZuWzA0S0rhpus6dDNR59py1Wqyp8cG_83_F5RRUxFlBWrRlgEpMY8iGeKKFw8DAUbK9cdZeDXhsGvT-Q6GBdq7ASWfHFy77mQbDqZLVMXskjB6t69ytWS92hTyVw.jpg"
+    ]
+   ],
+   "r": "Unverified, no official source",
+   "h": "Ibou is ready 💪🇫🇷"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31302,
+   "t": "Dean Huijsen returns to the Olimpico 🔙🇮🇹\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/FyeReZXvGgniHQJ7ZKlpR-GWnKSzhSu-vmfdGvwSnwwer1RY03KrGyNEGaJEucTVB0H5fa6da8Mjlj2MTNH2mJ4Emtb7WW5OxbyW6ii4DDw1fMV60fhf5a1JytDhUu_oiJUIaOh1k9iby63JryUrGQmecMr3OiBElREvSHCSyEzJBzLnGoJDNZcfLlbiLtLJ14jTywCAI9-AVbdkSk3LLtH6mZxC0RPdr3v3mIAn8q7DdtO2xKNGuQVczdAqVOpS5zXluQiYnwooUXyBiS3sk7gqYKoZZBGk1LLq7k1hKOgXEH9xj485Xs7CKS0HDVaPwsoYWzLoDAZoB7p3aNriBg.jpg"
+    ]
+   ],
+   "r": "Not Real Madrid related",
+   "h": "Dean Huijsen returns to the Olimpico 🔙🇮🇹"
+  },
+  {
+   "src": "FabrizioRomanoTG",
+   "id": 67297,
+   "t": "🚨 Real Madrid plan to appeal Vinicius Jr’s suspension for four games after RFEF verdict. https://t.co/yOM8cFxYKo\n — Fabrizio Romano (@FabrizioRomano)\n Oct 14, 2026",
+   "m": [],
+   "r": "duplicate of existing appeal news",
+   "h": "🚨 Real Madrid plan to appeal Vinicius Jr’s suspension for four games after RFEF…"
   }
  ],
  "summary_date": "2026-10-13",
