@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59243,
-  "themadridzone": 31355,
+  "themadridzone": 31358,
   "FabrizioRomanoTG": 67304
  },
  "sent": [
@@ -1728,7 +1728,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 133,
+ "train_seq": 135,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2972,6 +2972,42 @@
    "reason": "important keywords",
    "ch": [
     256
+   ]
+  },
+  "134": {
+   "t": "Who should come on in the 2nd half? 🤔\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31356,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/OFjwZg7YDeZDf8BzS7tFXmzbfKy7aX6LwgQGmghQvAabsfcGUaZT8sHuG8e_ezFUNZM32pA93ZwkRpZ63ywZh9hf7-0TNYy9dp-SuSKFcEGryOpIr0Cy6u-9Q4rJhMeQ7EkCKBRSgCFzGCsq8-_RqN_B9MoYq5ciMyvizb20B3iZQy9o9Rvz7PSMHKJcbV6EvBHoHX8XbmqbwnY_PXnk02WPjtFAc_FRjRIOZVuOx1Ezr21-RJkhzlrk2yenbjcVtvXn2YbEVPYRI_IOjFXVMD6oOQ7nW3eS0v0vKq2grwprEh5kYezRvY4wlFUUbOTjbHrNkTSVyXY1uBsYxxnaQw.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    260
+   ]
+  },
+  "135": {
+   "t": "Jude Bellingham x Kylian Mbappé ⭐️⭐️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31358,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/XL_P81-wv1nUUs7iXAlmE2YH5I452w3XQOfMxDKHdVP4bXy2WYtwUO7YN1Uyvrh0EuCa78KYRbY1tcxWwlTy9lukKzyWlMxi6SZJpkWLFjVDd7wE9bT6Wwp0U0eTYJkhJd_Bgxsq8gLDJjamZbLsQR7DRLh1mPhVSX_vufGLcqawa8okOOFC-woIUDvK39XD8s4ARGsaqbImfp0Q_fVQXExcVkDJRAH3a3nFIQQMSsmjIioK5eyn9qrmIjcMW3vN-Wf7aiUJ0pqUeE0hZdyx6JaRHKa_0oHKVnylEKmoc5N1q1IuF-6L827Ycss5gwVu05CJfgISOHFgpU1MObzmKg.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    261
    ]
   }
  },
