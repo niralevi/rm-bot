@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59228,
-  "themadridzone": 31277,
+  "themadridzone": 31278,
   "FabrizioRomanoTG": 67293
  },
  "sent": [
@@ -906,6 +906,29 @@
    "status": "rumour",
    "headline": "🚨 JJ Gabriel deal race continues as Real Madrid are pushing and already made direct contact also with Man Uni…",
    "link": "https://t.me/RealMadridImportantOnly/179"
+  },
+  {
+   "ts": 1791993265.986608,
+   "date": "2026-10-14",
+   "tokens": [
+    "best",
+    "jose",
+    "matter",
+    "mourinho",
+    "only",
+    "return",
+    "time",
+    "vini"
+   ],
+   "names": [
+    "jose",
+    "mourinho",
+    "vini"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "fact",
+   "headline": "🚨 José Mourinho: \"Vini will return to his BEST.",
+   "link": "https://t.me/RealMadridImportantOnly/180"
   }
  ],
  "offset": 769011995,
@@ -913,8 +936,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 68,
-  "tokens": 112746
+  "calls": 69,
+  "tokens": 114466
  },
  "pending_fb": {},
  "feedback": [
