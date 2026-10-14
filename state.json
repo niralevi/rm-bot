@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59225,
-  "themadridzone": 31275,
-  "FabrizioRomanoTG": 67289
+  "themadridzone": 31276,
+  "FabrizioRomanoTG": 67293
  },
  "sent": [
   {
@@ -836,6 +836,76 @@
    "status": "rumour",
    "headline": "🚨 JUST IN: Bernardo Silva’s lack of minutes recently is because of a PHYSICAL ISSUE.",
    "link": "https://t.me/RealMadridImportantOnly/177"
+  },
+  {
+   "ts": 1791986847.4205508,
+   "date": "2026-10-14",
+   "tokens": [
+    "confirm",
+    "direct",
+    "gabriel",
+    "inform",
+    "lead",
+    "man",
+    "negotiat",
+    "race",
+    "talk",
+    "unit"
+   ],
+   "names": [
+    "gabriel",
+    "man",
+    "united"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "headline": "🚨💣 CONFIRMED; Real Madrid are now LEADING the race for JJ Gabriel.",
+   "link": "https://t.me/RealMadridImportantOnly/178"
+  },
+  {
+   "ts": 1791986914.1566656,
+   "date": "2026-10-14",
+   "tokens": [
+    "14",
+    "2026",
+    "advanc",
+    "already",
+    "background",
+    "barcelona",
+    "bayern",
+    "camp",
+    "contact",
+    "continu",
+    "deal",
+    "direct",
+    "fabrizio",
+    "far",
+    "gabriel",
+    "keen",
+    "made",
+    "man",
+    "met",
+    "oct",
+    "psg",
+    "push",
+    "race",
+    "romano",
+    "unit"
+   ],
+   "names": [
+    "barcelona",
+    "bayern",
+    "fabrizio",
+    "gabriel",
+    "man",
+    "oct",
+    "romano",
+    "united"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "headline": "🚨 JJ Gabriel deal race continues as Real Madrid are pushing and already made direct contact also with Man Uni…",
+   "link": "https://t.me/RealMadridImportantOnly/179"
   }
  ],
  "offset": 769011995,
@@ -843,8 +913,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 61,
-  "tokens": 100942
+  "calls": 64,
+  "tokens": 106121
  },
  "pending_fb": {},
  "feedback": [
@@ -1066,19 +1136,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31259,
-   "t": "🚨 NEW: The coaching staff think Bernardo Silva is doing well, but is not fully ready physically to play long minutes.\n\nThey are taking it slow. @AbrahamPRomero via @Ramon_AlvarezMM\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/cmFig1yU8oP0n37JgQyLOiYaGq9ZYYf9YOISdiWpje9K3PVIuY1TCNkkecxJSU0BJToUBGn5_BUsa8RaGvwxfwabMYAMFcNc1aDj6RJ9CzApgCXly2xebDrMam1QHv_8fRgUNVbm-ty6j1n8Cr8e42D6q4Gun9XCSWLQ0hp7TPRymaFNs79RTmPTRP53zWWgpFAlKM2ii3S7U9muQ3Km1uQShsv4ZoEwcwPxfsh22-UC3h2U2R1HDXqz8ej5kJj3Zz6W6Mb5GlWVlUi1pqLeJLjpWx5BUNGLmdt1nh4GbEMQr6Yfn5jwOctJxl_jjtila0v1M7u1_4BvIaSfwwYVVA.jpg"
-    ]
-   ],
-   "r": "duplicate of existing fitness update",
-   "h": "🚨 NEW: The coaching staff think Bernardo Silva is doing well, but is not fully …"
-  },
-  {
-   "src": "themadridzone",
    "id": 31260,
    "t": "🚨🗣️ @AbrahamPRomero: “When things between Xabi Alonso and Viní Jr. went bad, people spoke about how Alonso had to do anything Viní Jr. wanted, but it was NOT that. \n\nIt was about the most important player in the group leading them emotionally. This is key, and Jose Mourinho, just like Carlo Ancelotti and Alvaro Arbeloa focused on having a good relation with him, and getting the best out of him and the group.” Via @Ramon_AlvarezMM\n\n@TheMadridZone",
    "m": [
@@ -1274,6 +1331,14 @@
    ],
    "r": "Youth league not first‑team news",
    "h": "🚨 FT: Real Madrid beat AS Roma by 1-0 in UEFA Youth League."
+  },
+  {
+   "src": "FabrizioRomanoTG",
+   "id": 67292,
+   "t": "⚪️🇺🇾 José Mourinho: “If we had 3 or 4 Fede Valverdes, we'd play a Fede in multiple positions!”.\n\n“We'd have a midfield Fede, a RB Fede... all of them starting in different positions”. https://t.co/4tHR8YyAVL\n — Fabrizio Romano (@FabrizioRomano)\n Oct 14, 2026",
+   "m": [],
+   "r": "Just a speculative quote, no actionable news",
+   "h": "⚪️🇺🇾 José Mourinho: “If we had 3 or 4 Fede Valverdes, we'd play a Fede in multi…"
   }
  ],
  "summary_date": "2026-10-13",
