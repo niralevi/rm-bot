@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59239,
-  "themadridzone": 31334,
+  "themadridzone": 31336,
   "FabrizioRomanoTG": 67302
  },
  "sent": [
@@ -1171,6 +1171,29 @@
    "status": "fact",
    "headline": "🚨 Real Madrid concede after a careless possession loss in their own half.",
    "link": "https://t.me/RealMadridImportantOnly/215"
+  },
+  {
+   "ts": 1792005859.846382,
+   "date": "2026-10-14",
+   "tokens": [
+    "22",
+    "3",
+    "5",
+    "first",
+    "minut",
+    "one",
+    "roma",
+    "shot",
+    "target",
+    "total"
+   ],
+   "names": [
+    "roma"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "headline": "🚨 Roma have had 5 shots with 3 on target in the first 22 minutes.",
+   "link": "https://t.me/RealMadridImportantOnly/216"
   }
  ],
  "offset": 769011999,
@@ -1606,7 +1629,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 111,
+ "train_seq": 113,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2477,6 +2500,32 @@
    "reason": "important keywords",
    "ch": [
     215
+   ]
+  },
+  "112": {
+   "t": "🚨 Roma have had 5 shots with 3 on target in the first 22 minutes.\n\nReal Madrid have one shot total and it was not on target.\n\n@TheMadridZone",
+   "ai": true,
+   "label": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31335,
+   "m": [],
+   "reason": "important keywords",
+   "ch": [
+    216
+   ]
+  },
+  "113": {
+   "t": "🚨 ANOTHER HUGE CHANCE FOR ROMA SAVED BY COURTOIS!\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31336,
+   "m": [],
+   "reason": "no important keywords",
+   "ch": [
+    217
    ]
   }
  },
