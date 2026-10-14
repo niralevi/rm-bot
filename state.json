@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59228,
-  "themadridzone": 31282,
+  "themadridzone": 31286,
   "FabrizioRomanoTG": 67293
  },
  "sent": [
@@ -1000,8 +1000,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 71,
-  "tokens": 117973
+  "calls": 73,
+  "tokens": 121318
  },
  "pending_fb": {},
  "feedback": [
@@ -1223,32 +1223,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31267,
-   "t": "Andriy Lunin wearing Jude Bellingham collection jacket. 🤝\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/fsLs8tkiV808Ded-xTImVs9Flrecf5kAGFqCWMPRErfkroE06jsKtEI-kmcJu90al-j_PRa4krUSs4YMGmpsBpqdGwbAAKgNn1tXtYAfDf629NiMCnCWNTlQhnXMQDSnThFAq6u7ZnzB4I98ttCb60_4a7j_wDRhFjGtRB-tXDlrj_fDZWX2I6ubld0pIazMXILwa2q0KR-vTx72v0AkWgbIoV1GEiBLYkDnTXlkSvzBoUxbhe-GP1tdFIMfJ-MD2pLjBlcJQWIQdaKw78dxeMF3lSP3LqadPaNU2e8kM90t6Yjgh14PJMaTKihKY5k7F655WBs3UZcq2AaiNZXq1A.jpg"
-    ]
-   ],
-   "r": "Lifestyle content, not news",
-   "h": "Andriy Lunin wearing Jude Bellingham collection jacket. 🤝"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31268,
-   "t": "📲 Rodrygo on IG. ⭐️\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/XDtORp9u4MsBH_OOl1CXwJY80gjpUvwS5oZHBsAhnsqNlWdDuP4dYDVuNbcYNYDoRKqsDQFp6Ps3QJNCwyXRK1-DRrEO5piTPVZkt5v_xWwWSLaQR7c9qo-e6a1JqeU5CaQI0x7q3DW52Y_yPt4IbCxOeiWJkhQCr0dBZrJPWTbiYR0ISqsSdLg3Lb2M9BhXwj0U1NvAd1plpu_by8ZsfYfM6qnkz5NA5z99B685z2JvEg3mOJ-UwllbEazJVL9NSW0srplYd3n-cNoX33qUSi2y76qczkO4PceYXIBELLTF7YMpc6uVj6NuuOzdYh7iwQ_z5Hh5E2r1w7r5Y8w58w.jpg"
-    ]
-   ],
-   "r": "Lifestyle content, not news",
-   "h": "📲 Rodrygo on IG. ⭐️"
-  },
-  {
-   "src": "themadridzone",
    "id": 31269,
    "t": "Back in action tonight. 🔜\n\n@TheMadridZone",
    "m": [
@@ -1414,6 +1388,36 @@
    ],
    "r": "pure statistical list, no news",
    "h": "🚨 Real Madrid player market values in 2026. [Score90]"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31284,
+   "t": "🚨 JUST IN: Vini Jr has been suffering PHYSICAL PROBLEMS in recent weeks, which caused his drop in performance.\n\nThis is why José Mourinho put him on the bench vs Villarreal. @ESPNBrasil\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/cdFhAg2OArBvUjAoqtdNZ2hen-nz5B6jlwjczcWV5F3BX1XJSiM_UhfmQi5jQCmxudn0YGSTxaNc5MxtHLKDkidpMkIg6rCKQj--WUVHefzrduJoClX8fe2G4RuwtPJQ5Z9rtFE3aZEy2O_-PXKhIgc67JjnuFav1q_I0zdi-gDQMvS1O36BIOnMFXav6ki8vSq020LImEKI2xC2cG9hMoK6nOwMbLjQPci27-dnt38631p8h660UjSlAQvBYSrpZnrs1YrB7BSs0Ff7J1jUgT--F5KtelAexZPlj16hv2NJuFjNFOlqYscu7kiweciyM4yprGRLR-4q6acRWPG_Vw.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/ht04UY8VJ56zY0UFch4SDwfLIyLjrVL5WsFMMJ2zLDuCypJwagqCxMYKR-4wzHF6ywUSU3LttYEGFz3YTptKfYe0HoB8vLxlMbYIC257gdHkIF6rAtaJEyUZ4CdkUGmQ23pKOpyZBamA2_whmztZ3T_OjPHg0hC7D-a66WS0rfv6zK-s7cWS074OxyAbNSriGr5ys1U4PmLmIX41LpkpQOZDyrAocVhnysU79sW320xFesCBmTAUWScd0TQF68q-tqlY0PFK0_RmeuUifJrnAlCs-g-tDLVNYeY8NgAxYJFIWrtuFBYGTBTLDmi5OopJiwen_IOI7sOBiClF_B0gwA.jpg"
+    ]
+   ],
+   "r": "duplicate of existing rumor",
+   "h": "🚨 JUST IN: Vini Jr has been suffering PHYSICAL PROBLEMS in recent weeks, which …"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31286,
+   "t": "🚨 NEW: Vini Jr told people close to him that he did NOT intend to grab Saliba's hair in the Villarreal game.\n\nHe told them that his hand simply got caught in the player's hair accidentally as he was trying to run past him. @ESPNBrasil\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/dT96NyDORTfwAdh77ZvwF0IpjTBVDebFEjxuM5GToymvTZcopYoMvCgkgFsM1B9U7-w-eX8zB-T7u4FnUCZyLPbY6ONySoR4Ozi39FpYuLAyM5CYJysonAoI9QHFV6Fvj2ruvjy4ybYHTu7Biq7uoeOhBn0-bnRdn05By-qP1ejFfcG7Cy0n9xz66pQlGitha6L4RSPBchF8Jf96FoVjeoDZAaLdscjmFa5ZCNuCL-Az3huHbntixhBvKG6yas4d90cGR_ZyYrfj11tR1ZBpYnM9Oxb53k29scaBcQEZYxQ96q2k5N1pV0IgI78azIvDbzOqyohxWXsClPdshymWhg.jpg"
+    ]
+   ],
+   "r": "Minor anecdote, not newsworthy",
+   "h": "🚨 NEW: Vini Jr told people close to him that he did NOT intend to grab Saliba's…"
   }
  ],
  "summary_date": "2026-10-13",
