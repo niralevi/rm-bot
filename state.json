@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31230,
+  "themadridzone": 31232,
   "FabrizioRomanoTG": 67280
  },
  "sent": [
@@ -1057,8 +1057,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 29,
-  "tokens": 47866
+  "calls": 30,
+  "tokens": 49489
  },
  "pending_fb": {},
  "feedback": [
@@ -1280,19 +1280,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31209,
-   "t": "🚨 STAT: Out of the 5 matches in which Real Madrid have received the most cards since 15/16, 4 have been in the last 2 years. @Sofascore 😬\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/sBFuC3GtlcI7vm1Fwvs0T3CIqrB8in_z7Vv86HJgE9vMEcXTH60cYH9YFB6g-QB7FEt82Ft3QnluiZMcWNfWM__O4Qw6HAdr79zEG2bxX6flFVG1nritJpTdO6d6ijmRjlKC9Yg4-OAxSHbI2hR0m5gCSYp39g9OFUCKo2v-HutfeALKYGFeLg0XFUoiGNv-gFQJMIBCEwzpNSm5YmuyuXXx_N5E9jSX8W3WSTwmbBxPEbMTRZRwrvM2zFT1EWq-F138abGK2ATEElMp7Srmj7PmvaAjSMEvUuH0nUx0HBJcBfWjPkNdGk11z9PftcveX_0PXrk-BsGdqM3Imwh6bQ.jpg"
-    ]
-   ],
-   "r": "Pure statistical trivia, no actionable news",
-   "h": "🚨 STAT: Out of the 5 matches in which Real Madrid have received the most cards …"
-  },
-  {
-   "src": "themadridzone",
    "id": 31211,
    "t": "🚨 Only 3 players have scored in 9 Champions League games straight. \n\nOnly Cristiano Ronaldo has scored in more than 9 games in a row. @Sofascore 🔥\n\n@TheMadridZone",
    "m": [
@@ -1496,6 +1483,19 @@
    ],
    "r": "Minor routine advice, not essential",
    "h": "🚨 JUST IN: Jose Mourinho asked Vinícius to make some changes to his routine, ma…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31232,
+   "t": "Gareth Bale x Mohamed Salah, 2016. 🐉\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/NWtMB1U6KacBu6514Ii7J12ON500yS6vgzrb6jjb6LZNt-ihMl107j_wOZ5mPMjSyb4uCz_iJJezUTMLSL83-O9TElFCRHa5kz9jNoNDHZuzu__BYXrNfdUev76rtbBT8FnuUEOc_Nt470b8Neix7D_FeHNDf0FPg3Wv-ujV-gakdxpJpIoDnijQNEC1nH9mg6g9zhZhZq9FI10Hlnr1LMmXEE-s4ZzfCdDNI0FBZc2aOsRpjK-qBDeTzE017l6DB69FXh0SvSiE7EwTRJH9snZMYa71XbollNIQGADflHvKeuBZE48abJeSEGoBTF_O49VbB3ISHdrjAOyIr451nA.jpg"
+    ]
+   ],
+   "r": "Irrelevant lifestyle content",
+   "h": "Gareth Bale x Mohamed Salah, 2016. 🐉"
   }
  ],
  "summary_date": "2026-10-13",
