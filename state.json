@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59237,
-  "themadridzone": 31325,
+  "themadridzone": 31328,
   "FabrizioRomanoTG": 67302
  },
  "sent": [
@@ -1561,7 +1561,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 102,
+ "train_seq": 105,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2300,6 +2300,60 @@
    "reason": "no important keywords",
    "ch": [
     206
+   ]
+  },
+  "103": {
+   "t": "Jude Bellingham. 5️⃣\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31326,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/kHrneQV95rXjYsO5-Ef01WXkljv6wccRAQ1dGcrYeWRCo1K0ujTONyN8EXUl26f23x_XbCzYoLnNOqSNwA5udTGX5RI1UTuX6KTmRJiiz0LXvFHiwitnmy30PEgWjGssiCbA9mRCChb6xyzxLCXe5qKCqif7a6hK8PLCa_TC-99jjqGefvXh141HccsbGe2PS2DATQBYKRI45uBOLo62WEB3jNToYG6CSK7ijKheiyKoUQDZY4HLtoxGUx26cVVTf_pvVK5CIxo4n4-EoU1Yymhjx-ejK7kKv0muZ3_OnWnzj_CNL6DXUehnzyM5jXzdIeP12o61kHiy6rE4bjjMqg.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    207
+   ]
+  },
+  "104": {
+   "t": "Roma fans prepared a huge Jose Mourinho banner to honor him for winning the UEFA Conference League. 🤍\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31327,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/p8qmJP0ds4Vy3Dl0lqIHvslmaW_mzHWewHXegeM8QosLEDB4scBLz1txRicqAgUm3Wxcp853NTinMr06RGtoEugJEIyXctpeCmcpr-UbyCNhX9a0d9stM-WxBN7nTwoeXI3fgJ1v8V0-Y82_yNWpaFHxCvkspG8qKGsmwKXeKTquU2qqUUamUJphSogAVZ5UI7b8CHjk03IsTvuIgcDr61dM3-618mDO9VIOj8hqbZhlF6bPoZvEnMXZ_wZwWwE8yjI-hTKvY1m493r0Torh88_FDRWhVEuxI4r4gyi55al5JzE1dLR7OwijmRkNHK8cB9t-gR-J3Jv5nerP8eZodg.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    208
+   ]
+  },
+  "105": {
+   "t": "TEAM 🤍\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31328,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/tRD388vcTLV5Ln421lOjLfg0YXzO-YI1GwlcBWBTc5DTq6Uk0wjBMCBDbsDMbd4_bQMVS_du_YdbnNTBrfRh08LB6CETs57Iy0C0qj6Y3Ddbehxq04rgN0LT6gFNIGzD4T_n50mKAUAIIaLC6PntnqT0rqGKgCj0SC4y53Iis7KEBwgDUS-et9CZmYpWC4pHlsM9NdgmrPzfOqsoql4eSVry9N1CBjvpfnyLdhzndV2nTfCQLix84uL-LGixUydKC_2HIIEb9J8RUK2J7s6ikd0tWeY77c5-tHarBh2vbFm8CeA56tkkHSOJR6Ea1QrlxcxL7lSSZWZbPJr3sMyScA.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    209
    ]
   }
  },
