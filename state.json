@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59232,
-  "themadridzone": 31296,
+  "real_madrid": 59233,
+  "themadridzone": 31299,
   "FabrizioRomanoTG": 67294
  },
  "sent": [
@@ -1072,6 +1072,40 @@
    "status": "fact",
    "headline": "🚨 OFFICIAL REAL MADRID XI",
    "link": "https://t.me/RealMadridImportantOnly/185"
+  },
+  {
+   "ts": 1791999932.1897347,
+   "date": "2026-10-14",
+   "tokens": [
+    "roma",
+    "start"
+   ],
+   "names": [
+    "roma"
+   ],
+   "cat": "📋 Lineup & Squad",
+   "status": "fact",
+   "headline": "📋✅ Our starting XI!",
+   "link": "https://t.me/RealMadridImportantOnly/186"
+  },
+  {
+   "ts": 1791999998.851123,
+   "date": "2026-10-14",
+   "tokens": [
+    "4",
+    "appeal",
+    "ban",
+    "decid",
+    "match",
+    "vini"
+   ],
+   "names": [
+    "vini"
+   ],
+   "cat": "🟥 Discipline",
+   "status": "official",
+   "headline": "🚨💣 BREAKING: Real Madrid have decided to APPEAL Vini Jr's 4-match ban. @GuillermoRai_",
+   "link": "https://t.me/RealMadridImportantOnly/187"
   }
  ],
  "offset": 769011995,
@@ -1079,8 +1113,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 86,
-  "tokens": 142762
+  "calls": 89,
+  "tokens": 147664
  },
  "pending_fb": {},
  "feedback": [
@@ -1301,19 +1335,6 @@
  ],
  "skipped": [
   {
-   "src": "themadridzone",
-   "id": 31275,
-   "t": "🚨 FT: Real Madrid beat AS Roma by 1-0 in UEFA Youth League.\n\nCarlos Díez scored the winner.\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/TxZCdL69GbKk8TlAdzYyCmtZcObUHNIy8-fSUVA4-rlLMxgiF8Z-n8cXKhN8LMwaOKLSOlCjzRnxBiyzb90PrIy_dPDnbasAVS6ktjJvm0M62KyMFU0cQX7ugu20OsRi0DjuJ7nTO7nc3s3-R0T5ReAzEflptXhdudXYCGpgjxaOCvWiUoyd849HZf64O5xnyHWldjzEYAFAilLRw8TGMyvBOnteavOBX1Qa0N8Yd2VMeR-t-rfI7sS2oF_XLrNHpKClur_iwOkua-5jbGbdszPVbG4fNTHpiLUfNg7P1YH5jYUTteoILu3f_rtAmL4TLi6APt_RSgUo6lB5N-31lg.jpg"
-    ]
-   ],
-   "r": "Youth league not first‑team news",
-   "h": "🚨 FT: Real Madrid beat AS Roma by 1-0 in UEFA Youth League."
-  },
-  {
    "src": "FabrizioRomanoTG",
    "id": 67292,
    "t": "⚪️🇺🇾 José Mourinho: “If we had 3 or 4 Fede Valverdes, we'd play a Fede in multiple positions!”.\n\n“We'd have a midfield Fede, a RB Fede... all of them starting in different positions”. https://t.co/4tHR8YyAVL\n — Fabrizio Romano (@FabrizioRomano)\n Oct 14, 2026",
@@ -1493,6 +1514,19 @@
    ],
    "r": "Pure statistic, no news relevance",
    "h": "🚨 STAT: Jose Mourinho has faced a team he formerly managed 27 times so far."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31299,
+   "t": "Kylian Mbappé 🥶\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/oTkxkwbpTCZnf-EjRV5lFLtmFmtdlPzmxgMYFy0HG-tbTnceIB7LT7lV80wjFNnQGCr1qqsf7gil5MNUbk3Cc8M0GoSscunIr5p1KHeuzMU2MsXnCpN6BTotPHJyWL_PEJIcHDp9vcLgkOWFsBCAFysXlIZAln0ukffcfjD5lv4XqMoAJRGi_rya7gxfuoa9WtUholG4S2YRgH2mu_1SU9Jgay4140DaSzgmVuzKFuLBQ0cvEbcQs4RYkE-D8VYJei8E_6cyq2i4iZaJ3Pxko-I4CWblZ3UHwoEUGNjnbLxgPYjYnOqGmI0Y6uT-HAc9hwNrfIQsdpeJS7M_TVofNA.jpg"
+    ]
+   ],
+   "r": "Irrelevant, no Real Madrid connection",
+   "h": "Kylian Mbappé 🥶"
   }
  ],
  "summary_date": "2026-10-13",
