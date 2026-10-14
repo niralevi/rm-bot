@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59262,
   "themadridzone": 31412,
-  "FabrizioRomanoTG": 67316
+  "FabrizioRomanoTG": 67317
  },
  "sent": [
   {
@@ -1506,8 +1506,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 19,
-  "tokens": 29575
+  "calls": 20,
+  "tokens": 31147
  },
  "pending_fb": {},
  "feedback": [
@@ -1934,7 +1934,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 197,
+ "train_seq": 198,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -4199,6 +4199,19 @@
    "reason": "duplicate of earlier Mourinho quote",
    "ch": [
     338
+   ]
+  },
+  "198": {
+   "t": "🚨 Endrick: “I love Real Madrid”. 🤍☝🏽\n\n“I love being on the pitch, where I belong, where I feel happy, and I love to help the team”. https://t.co/MDfgYMmhEQ\n — Fabrizio Romano (@FabrizioRomano)\n Oct 14, 2026",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "FabrizioRomanoTG",
+   "id": 67317,
+   "m": [],
+   "reason": "Just a player quote, no news",
+   "ch": [
+    339
    ]
   }
  },
