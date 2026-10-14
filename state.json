@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59262,
-  "themadridzone": 31466,
+  "themadridzone": 31469,
   "FabrizioRomanoTG": 67319
  },
  "sent": [
@@ -1767,8 +1767,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 72,
-  "tokens": 112916
+  "calls": 75,
+  "tokens": 117691
  },
  "pending_fb": {},
  "feedback": [
@@ -2195,7 +2195,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 250,
+ "train_seq": 253,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5416,6 +5416,60 @@
    "reason": "Player quote, not essential news",
    "ch": [
     396
+   ]
+  },
+  "251": {
+   "t": "🚨 Vini Jr: \"Referees find it VERY EASY to book me.\n\nI'm the one always being fouled, yet I'm the one always being booked.\n\nIt's so easy for them.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31467,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/D7uzkFsyeCVg2HH9ARdZ7jGIEMutJkw2y0TAuPcIk15qMOXFlz4lg6dayz-AlKvQ_kVqslRqNuSI9akTJQ1u-TpMwY_B8OY_rPC--RxcPsN7JM7lUu4E7MO2iG8h7osi7A_nt81TF3G03qsN1556vXJjXAHV24gjYuz9G6D4ij0eHAxnPxvKnI1sH57JTWEoVYTfJDhfEfbX51YCPMNJOO9rqvdhaXEbevVbkpnCxMEy7yxoIY6sjxHVP5Q9zR7RBLgmpHHR3FmtY9PmuWMx6p1zrMPrSAxQhqGsHys5sXqJAHrvmOVE8cQpyh8B721tFEMUai7u_HmW6SZDPFvXuw.jpg"
+    ]
+   ],
+   "reason": "Not significant club news",
+   "ch": [
+    397
+   ]
+  },
+  "252": {
+   "t": "🚨🚨 Vini Jr: \"I'm going through a bad time right now, but in the end, VINI ALWAYS COMES BACK.\n\nALWAYS.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31468,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/T7YFjgPL5rkBMn6lWPw-GnvJg8BjWT8LahhDwDR6cQCryENclZhLaxjksAptb4I9dsqWoPYHYGYEKQClsycvlr3pjhgLbIcpH26hFbtbMYHkL3tpjzq1uHY3MiaLBYj5CfjF5rW2vaqIX6YW5gTTuaImlrFZIWz9ST5fdspkLMuX0mxGk1H1L5qjpyWDIdJCxpUvkJUsobckPvNiwxZNgB6X05beg5ow2Ufyod0ErnX86D0w_al-Rdcl5IwkgxqwqATj7pcJADJRTP2_UuXYTVN72V2pehnBr7MVPCMoIJ5M7lLeB0Lye5iJTRaQcOGFwOGJnfIpIap2zZoqqlFN_g.jpg"
+    ]
+   ],
+   "reason": "Just player morale quote, no news",
+   "ch": [
+    398
+   ]
+  },
+  "253": {
+   "t": "🚨🚨 Vini Jr: \"I WILL BE BACK AND I WILL BRING REAL MADRID BACK WHERE IT BELONGS.\n\nHAVE NO DOUBTS.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31469,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/nuobPkLZB8hTgN0uhnRBwaoS-Rajhq3fiqcU_MNRlIuph2RUPY8kGBSjwYdyFGR4PVtc57Rzgx2_qx4TlgQQfplmyeEthyGHofs1zKEwZAgQ4-AQsG6Yac1BHcB5cvA3uEt97tL9GCz0ntnnZmpR8HyAGG9oLBOYVIVK2e2jihztXqwkJnL8k24co-qX3aAJTzcfDFTLxgDRGn8r2v1gMjv3dYOMbNTqg2Jk_x8KsExun5P6vrEgGGN5K01PqzgoRmO4b3azEi4ji9tvE2rgcz6XXRRDE-NYkrVVPEE26LooOHEKVPJi14MBPE4XiBBll2H_cIvtQnp9V1DfU5y60g.jpg"
+    ]
+   ],
+   "reason": "Just a player quote, no new info",
+   "ch": [
+    399
    ]
   }
  },
