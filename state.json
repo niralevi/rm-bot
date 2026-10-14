@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31210,
+  "themadridzone": 31211,
   "FabrizioRomanoTG": 67276
  },
  "sent": [
@@ -1032,8 +1032,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 14,
-  "tokens": 22837
+  "calls": 15,
+  "tokens": 24466
  },
  "pending_fb": {},
  "feedback": [
@@ -1255,19 +1255,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31193,
-   "t": "Getafe introducing Dani Carvajal 🥶🏆\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/jU9BcRKyGLNnRQRw5AjcMvT-po6Fz6vRbZXPJ6_SVO0mv4qrap2Rv9wn_Ae0YlVAb3-PmM99o8n3nmJaME6aTKVw8fcak-MGc3zDNb9ugtRUGHJnmVFHteEgvjlaa5YV0vm4T1f1cRa1nH7kONXBV2CtniAalAOclvgjdQ6A2y9As41bmJLSznmSs4ni5VEF2je_hT_jRA9He4ruD5Y_LxZ4Rylm7OZfk2hjkHpN4z1p0hDE1LrPmtVs95l4-PHcxm2Dej8uPHJlwhBo2NUwRc5HGDEMgZkMPizo1AAspkLifSMLV9qEwKc6ZIM3xZXMMRSaz8sw6ffBwDw8YnLFPw.jpg"
-    ]
-   ],
-   "r": "duplicate of already sent official transfer",
-   "h": "Getafe introducing Dani Carvajal 🥶🏆"
-  },
-  {
-   "src": "themadridzone",
    "id": 31194,
    "t": "TRENT. 🚀\n\n@TheMadridZone",
    "m": [
@@ -1451,6 +1438,19 @@
    ],
    "r": "Pure statistical trivia, no actionable news",
    "h": "🚨 STAT: Out of the 5 matches in which Real Madrid have received the most cards …"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31211,
+   "t": "🚨 Only 3 players have scored in 9 Champions League games straight. \n\nOnly Cristiano Ronaldo has scored in more than 9 games in a row. @Sofascore 🔥\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/IapenHCfSl4WjegNZVjoJyXJKm4cMWBSgbloRi9WuG3NXcvihcngOoIfb2r0g8YQHhjcHY6GN6IPgvj4tHCO7beuGrTe6B9fvOE2peoTrRcesk5NsMUwPKOs5ALVJa3bUNQw682s2eZ0SQujvdpYcmefCeXMAu7dZ-I4TFFSp1Q5pBhlXh3Oz-EnYn_hgGVZzMLuzfUWe8zOq7_D5QToR_Ho7YSDSgbsQsMoEM0u0sS-9pBlJBmi1dqNOACH4abKGayRtb6O25HQdJ2D4Ot67HzfwxNC05obOupJQAVEh_q41i9sdYQEm2LlRkH6CSUphcxBvAD5g9sCTb4UPDvKug.jpg"
+    ]
+   ],
+   "r": "Pure trivia, no club‑relevant news",
+   "h": "🚨 Only 3 players have scored in 9 Champions League games straight."
   }
  ],
  "summary_date": "2026-10-13",
