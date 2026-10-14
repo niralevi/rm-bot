@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31202,
+  "themadridzone": 31204,
   "FabrizioRomanoTG": 67274
  },
  "sent": [
@@ -1027,8 +1027,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 7,
-  "tokens": 11470
+  "calls": 8,
+  "tokens": 13059
  },
  "pending_fb": {},
  "feedback": [
@@ -1250,19 +1250,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31184,
-   "t": "Sergio Ramos x Maluma 🇪🇸🇨🇴\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/QqxVBnClgmmOkRZR4Nzck5gQc4PPQnrbmuONSHzAWZiggNf5osqeXWY_xVs0qhHC8GCDihVZ5d8nKtUjOlFwMt7ni2CALBb4t1y4XR7Wx4TgP2KZ_mTu5vvcbgeHmm9RcrVCyKdZs00xSSBvTbqc-5S2VwzdtescccM3YWyJ5GMj4ekHYPGzzzhEC4C82upn3W-LGlGpBTtR1GqfqVHTltv6ldPj0QwD-8aTDJyttCgp0MEwjz76AmIqWSMGrPZgR4_6NEXoq-0WaS7B4AqRy-ChKlGTaFqmlI-gXFmnMMOTQjUffEpf-XVKwTc86cg_avTofsOfOy6dujgb9SAQ7g.jpg"
-    ]
-   ],
-   "r": "Lifestyle content, not relevant",
-   "h": "Sergio Ramos x Maluma 🇪🇸🇨🇴"
-  },
-  {
-   "src": "themadridzone",
    "id": 31187,
    "t": "🚨🚨 New Santiago Bernabéu logo has been installed. @RMadrid1902new\n\n@TheMadridZone",
    "m": [
@@ -1450,6 +1437,19 @@
    ],
    "r": "Irrelevant lifestyle content",
    "h": "🚨 Luka Modrić supporting Real Madrid Basketball today. 🏀🤍"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31204,
+   "t": "🔙 Cristiano Ronaldo vs Milan, 2010. 🔥\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/A1Ug6wChw93kB94CFuejW8_Bot7pSvrM7zc469lbqZABkEv51H7uDWBBMmiXMxwf9xW8gANpPvP7whr2hgTvnFJ8F7jdfLfSCCkkbyq1Fi_CtQiJjX9cJ2ATkG1KMOu8O3RnKpzVqW3gE9MOSO7SBmIE28DO0Qb4q4hxZuRENXA6gN09bF60lB1xB8ob2JXIuIWwqNtR-IDWK2_wo2N_AvFUy9mPlMhlyfcbAnQ9aSx-h4KLh0S1_LR-6LlAovKV19u0e63F_QYnoe3HyEtw9lCXCL__Sx8B7O4pbp4o93x29iC3sq4RvcLzmpgWhRSnkfNo1hbDtytyBrTZbKVa3A.jpg"
+    ]
+   ],
+   "r": "nostalgic content, no news",
+   "h": "🔙 Cristiano Ronaldo vs Milan, 2010. 🔥"
   }
  ],
  "summary_date": "2026-10-13",
