@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59243,
-  "themadridzone": 31358,
+  "themadridzone": 31363,
   "FabrizioRomanoTG": 67304
  },
  "sent": [
@@ -1728,7 +1728,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 135,
+ "train_seq": 139,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -3008,6 +3008,72 @@
    "reason": "no important keywords",
    "ch": [
     261
+   ]
+  },
+  "136": {
+   "t": "🚨 Thibaut Courtois has completed more passes in the 1st half (19) than Real Madrid's starting double pivot, Fede Valverde (16) and Aurélien Tchouaméni (17).\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31359,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/PwvxCE3a6g_dXdHdz44KdU3XGc8Bdgtrd6Ytb_pdnAem0jjvGked9NPpJrtzTuRI-fRC5K69UVwXFW7HD36moZxInwNq702-OsZJ1lz2YKLhdjbykNDvhSkziAoI9MQGoQjWKIGt2WtDve4J8CuWaTzs2_3TAXhM6RZm3viCrd48n91abLVFzbLMtoiVMkPb8cOocCIXkgslvecgTYvOslElXFzT9qMcy6ydy1POZR2sFGP22X2EUw6wglOluId1vNDTVI2nH44WRaGzYeMM3DOEY007Nw981JpdnS4g4FabVbozZDkmFbgUg2PUmSvCjbJLeiVm70TllcZFGOxRow.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/lJGw2z7E2wKqKHXBwAd09-SNJCkSFhLEFJnbRSd3WUS-2lOjVd6VvtMKUO-aqtW-HfFX7Wni61Aw6OTFPYDkSKyf7tYVTUV6-HUlCTwx8YtT__43v5f0d42HWsp99GyDUQWLKe7GnMGa40KDJhg4rt4-OP2TeSPE_CkehMKLIImyIL4uUEyCWGugHhWJJCTjdS-MKF8VIJggLlgjsLj57LdMMHF8H8TqgzyiE7JZsrlaTF233HjDWp1gmjZL7voFH8_S4hoO8WYXWLPmXgSZXsTjQaQo2MYrt-TIDX9B_PUaj3O8jyNUNL5pFPWMof4QW7c8RWII6_O3RR6iEN2sYA.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    266
+   ]
+  },
+  "137": {
+   "t": "🚨 Carlos Espí and Thiago Pitarch are warming up. 👀\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31361,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/ooEAZZp0j88ImC4zlUNvXfW3KUbdpVConwJFWPwyjZgLvx2zs04JTML44KAF602PqWsdCRVdUfs1gAlaUcVTKauFnBU7KrJZj_femMoH_tk8-KInqnSH7DZbqoMXAzKH1oGAZHtGI7URJQ8qtWkwJn-snth-EmUh857R2HFI008HueVxTZ6Bw8OHtvA_K3xzTbExnhJyyBHvbxMPBfIA-xW7Gpa5ixaoOeq_IOW41AclRZ_SIiYXj4AfG24hw75SDE0jB4d292YFeAbpFvxsu69OyhLtKQ18Ge99dtHuh30Sw3bJfVaXSrEQNipJ1yb6vT8XDrZ3JnDRcr5dLc7iWA.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    267
+   ]
+  },
+  "138": {
+   "t": "🚨 No halftime changes for Real Madrid. \n\nRodrigo Mora replaces Paulo Dybala for Roma.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31362,
+   "m": [],
+   "reason": "no important keywords",
+   "ch": [
+    268
+   ]
+  },
+  "139": {
+   "t": "🚨 2nd half is underway!\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31363,
+   "m": [],
+   "reason": "no important keywords",
+   "ch": [
+    269
    ]
   }
  },
