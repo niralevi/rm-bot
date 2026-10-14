@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31213,
+  "themadridzone": 31214,
   "FabrizioRomanoTG": 67276
  },
  "sent": [
@@ -1032,8 +1032,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 17,
-  "tokens": 27702
+  "calls": 18,
+  "tokens": 29354
  },
  "pending_fb": {},
  "feedback": [
@@ -1254,19 +1254,6 @@
  ],
  "skipped": [
   {
-   "src": "real_madrid",
-   "id": 59223,
-   "t": "@UEFA_Champ_League tomorrow. ⏳🌟",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/MW17pO_X2Q_wOKwwxYQhOqG_BZPBTlPc_paxJ1Go0nmnbbqzk91yPIHeDuWeYBCsdj0Mky6-_lc5YxyLV6__SCFZiQlWT8_3Pq0SgLsCsd_PPKuoS_cr1Mi4G8qE8Vw6BuI1F7BAYhx0Ixfjbc4By5mcUQCGZXGdB-_DFj4UQlgSfiwlvLby0D730VmrACRXym_BpgYwrN9fUjVQuLOVAsSey0IHW6vB1fWxzmMCJDr7-DM-PW0hg5SpMlF7eqDn3XkTXY6E6ifX8xyT-Fc18eSRc_g7B3GF9Mw36P-SFXm3LEeIXZdOaTwwGBGa5OmDEEkNdKFKfwWRdgy2fxPKlw.jpg"
-    ]
-   ],
-   "r": "No Real Madrid specific news",
-   "h": "@UEFA_Champ_League tomorrow. ⏳🌟"
-  },
-  {
    "src": "themadridzone",
    "id": 31195,
    "t": "Dani Carvajal on IG. 😂\n\n@TheMadridZone",
@@ -1447,6 +1434,19 @@
    ],
    "r": "Pure statistical list, no news",
    "h": "🚨 Real Madrid player market values in 2026. @Score90_"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31214,
+   "t": "🚨 Real Madrid vs Roma expected XIs. @diarioas\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/IkqZrHz2xQP9sD5rRW9p4bog8A4Yj4kOHCx6c5kEA-9cXCtjbOcJt0eNe9uC5Ti-jmzcTJ0QixsZhiG3ISDDH8At0rb1WvwdeFWvPIDyg4cgcF1js9AbK7ufE6uaU1N9A-vOXVm1lGVobZbGpli2jF3wvUR_XciW-zKihuywdDqBsMw1xRSPIB1emAYLIYGZ5fcDDM8lWKlCoyuHZhIcXwCcCAf9gUhSnvSGjAZiSh7tO4ET_uzjUzCGzP9-Z1VIkkXyfBHZphCj5Ai35fCqR2r9PQf2C5a5sdFiRbBkn5HM8hU_Da7p8PO_sfZ3bkeKMn78t23GyDsvJm_wf4XiPA.jpg"
+    ]
+   ],
+   "r": "duplicate of earlier expected XI post",
+   "h": "🚨 Real Madrid vs Roma expected XIs. @diarioas"
   }
  ],
  "summary_date": "2026-10-13",
