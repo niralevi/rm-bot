@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31219,
+  "themadridzone": 31220,
   "FabrizioRomanoTG": 67278
  },
  "sent": [
@@ -1057,8 +1057,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 22,
-  "tokens": 36058
+  "calls": 23,
+  "tokens": 37689
  },
  "pending_fb": {},
  "feedback": [
@@ -1280,19 +1280,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31200,
-   "t": "🚨 NOT A SINGLE Spanish referee has been selected to officiate ANY match in any European competition this week:\n\n❌ Champions League\n❌ Europa League\n❌ Conference League\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/P5oZE2v3ssQQXjklewy6H_fULTZDaJf_YNDMytHd6lUFMisWZf2Ct6BWRXZqd8lfh6RlpcrwbdhWA-UJhmBkjXvJf4rsIBRVwx4mqNy6m01eQFanaLw7MCkFWDPRPR1VFVhUeKUXCmnAMCWmuUF8NHQzJVnHD9ChXfsPtkOY8zAEU4T2-SOFbrcx2BG_NmZJaP_ws6-oFcZWhpRYT-4XwZ0eL-ZcnBxeMXDcCFlttmCY61Y9sFyK1zktw1-g8UYU_aSAhyZrPVkEHhwzvzHssS3Z9lI_Do6MlGZoDcDLDyIiGvl6Z9OcERQPdiJob9w_GqvKgQQ1a9C5juhnMtAxcA.jpg"
-    ]
-   ],
-   "r": "Not Real Madrid related",
-   "h": "🚨 NOT A SINGLE Spanish referee has been selected to officiate ANY match in any …"
-  },
-  {
-   "src": "themadridzone",
    "id": 31201,
    "t": "🚨 Luka Modrić supporting Real Madrid Basketball today. 🏀🤍\n\n@TheMadridZone",
    "m": [
@@ -1476,6 +1463,19 @@
    ],
    "r": "No new factual club news",
    "h": "🔙🔥 Cristiano Ronaldo’s 11 game scoring streak in the UCL:"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31220,
+   "t": "📲 Joselu, Marcelo and Alvaro Carreras supporting David Alaba. 🤍\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/DK279ugWi-JIeIHMIZUbi8vXqDgWxOVE9diuFBUs-C7PZD9Bl80mLA9SLshqxzlIGpnNSaVhLrHG0lsX0G5QrkNvB0VESyCLYke2c5I3WBIv634iCcr8BrVOm2MEJ3ntAsRDLFGzS8BE-nbFaY3pAzjt_4rWf8zOfVVfgY1uJEzKvgZuJY86clWooKM9hD4RWgOCQ9GQIFaNXJYKAIzoJlM1S1ISLq9PwTv1dRkQW7Jef8Afc02ZorKV-hIfvrVyZZPM-3gDBNfxcJNhjgtB7Zh8zNp69tJ19t316QvZHalmGzikGs8BoWCVc8lBfOTlf-l3OcukqFHVp62XOpTdvA.jpg"
+    ]
+   ],
+   "r": "Lifestyle, not news",
+   "h": "📲 Joselu, Marcelo and Alvaro Carreras supporting David Alaba. 🤍"
   }
  ],
  "summary_date": "2026-10-13",
