@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31254,
+  "themadridzone": 31259,
   "FabrizioRomanoTG": 67285
  },
  "sent": [
@@ -1031,6 +1031,37 @@
    "status": "rumour",
    "headline": "🚨 UPDATE: Viní Jr.’s ban is expected to be AT LEAST 2 games, with a possible third because of his “aggressive…",
    "link": "https://t.me/RealMadridImportantOnly/176"
+  },
+  {
+   "ts": 1791974606.7712622,
+   "date": "2026-10-14",
+   "tokens": [
+    "against",
+    "because",
+    "bernardo",
+    "could",
+    "different",
+    "game",
+    "issue",
+    "lack",
+    "minut",
+    "physical",
+    "play",
+    "recent",
+    "silva",
+    "some",
+    "via",
+    "villarreal"
+   ],
+   "names": [
+    "bernardo",
+    "silva",
+    "villarreal"
+   ],
+   "cat": "🚑 Injury",
+   "status": "rumour",
+   "headline": "🚨 JUST IN: Bernardo Silva’s lack of minutes recently is because of a PHYSICAL ISSUE.",
+   "link": "https://t.me/RealMadridImportantOnly/177"
   }
  ],
  "offset": 769011995,
@@ -1038,8 +1069,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 44,
-  "tokens": 72648
+  "calls": 47,
+  "tokens": 77804
  },
  "pending_fb": {},
  "feedback": [
@@ -1261,32 +1292,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31232,
-   "t": "Gareth Bale x Mohamed Salah, 2016. 🐉\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/NWtMB1U6KacBu6514Ii7J12ON500yS6vgzrb6jjb6LZNt-ihMl107j_wOZ5mPMjSyb4uCz_iJJezUTMLSL83-O9TElFCRHa5kz9jNoNDHZuzu__BYXrNfdUev76rtbBT8FnuUEOc_Nt470b8Neix7D_FeHNDf0FPg3Wv-ujV-gakdxpJpIoDnijQNEC1nH9mg6g9zhZhZq9FI10Hlnr1LMmXEE-s4ZzfCdDNI0FBZc2aOsRpjK-qBDeTzE017l6DB69FXh0SvSiE7EwTRJH9snZMYa71XbollNIQGADflHvKeuBZE48abJeSEGoBTF_O49VbB3ISHdrjAOyIr451nA.jpg"
-    ]
-   ],
-   "r": "Irrelevant lifestyle content",
-   "h": "Gareth Bale x Mohamed Salah, 2016. 🐉"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31233,
-   "t": "New FARM Rio collection by Real Madrid x Adidas 🤩\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/TDbkDQDfMA8oYSnfc1O-G4E0Rq5ZQktt4nM6M-tekrz4mue3v-GxOow0gfwZ7wYP4sHhEMJsVc-qaklh4vQEEE4xyPey1espIZteJbE4JUM3gX_e2dinSnG_Qe5Ta_kZ_QBqO8D5FuEz5j1B9O8BXsYclPeYhq9-L44-yRs5YiEdnJCJp8eDisZiB6GIB_flO0j8n9YX1oHSMp4f1H92j2UFdIpucOqwarOniluQT_ltRFK2Njldo5g_Tf9MN6lVa9AsKGMNH6oKtC13OmIVOPJdCL6HOVz_OWgJu5ABCc7Bonwg6zSllxVBm9ehBYClwckvsBj8j-opfaCGWe1vVg.jpg"
-    ]
-   ],
-   "r": "Lifestyle/advertising content, not relevant",
-   "h": "New FARM Rio collection by Real Madrid x Adidas 🤩"
-  },
-  {
-   "src": "themadridzone",
    "id": 31234,
    "t": "🚨📸 Real Madrid in Adidas’ new FARM Rio collection. 💧\n\n@TheMadridZone",
    "m": [
@@ -1489,6 +1494,36 @@
    ],
    "r": "Minor routine comment, not essential",
    "h": "🚨 NEW: Jose Mourinho spoke to Viní Jr. and made it clear that what Viní did at …"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31256,
+   "t": "🚨 Viní Jr. knows better than anyone that he is NOT at his best level, and is fully aligned with the club to get back to his best. \n\nHe understands that the situation is not the same as it was when he was benched under Xabi Alonso, and he is not at the same level he was.\n\nHe knows he has to change things to recover his form. @AbrahamPRomero via @Ramon_AlvarezMM\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/DGekDXpBPk7j2FT974Sm3V3hAUTyi2xp9gPNGz_t2p9-FYbPQIqpechjky3WbVu7TpOytwjOJj9gG2MZtelIcDOI65FXBzDS1qEFnZL7YR_LW6o0iRrBE1LkBfiCclWcY3nlKBFe14v7MaeNwx2h8E2yln3N21cCxd4RsULBylO2lWdb9fcI6zaPxd20uaMqLH4AaEpHwKT1S3yWfjKkVnOOQ_RpRYpznqWR7H1cI_e_3E2iGnHQ59b7AI5sF6xvMlbhNjpa-zrKubmsEHskqm3ekHl9wPiK_iNmU7bd-e_wSkGewLm0WMjKiuP-0to8X0WrAkMjcGFZY0jno_7zLQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/sB27n53y7SoQZraUdz-wKsWjjgggfZEyPlaw-hnCMIQdOtbtYH4T9p3T7Q78E4qU8opKQij5ZVIuuRF9k4t3fZn5HtHL_44dkYnh3gKpVg_dKZp9cjV62QtcGbUOj522CfLArxeyNxj63JSwECgk3DuJwZm_Mc_cdJUzMtQQe5kxZhDMBrG-5YAZCD7n958GOhY6DrAx6rMHL6uz6-wfx-U6bXAcLoKFbnlTxSk0jlpGOccqnbpDjRv6IspvVFZx86Jb5oCY8_w55F-gQ7dTw5-DnK-g2E-svuBZPv43WRcUk9l4HbQ00bS1yR9tdoKRNBb0spaGrijXdlGTf9xBJg.jpg"
+    ]
+   ],
+   "r": "Not newsworthy, just player comment",
+   "h": "🚨 Viní Jr. knows better than anyone that he is NOT at his best level, and is fu…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31259,
+   "t": "🚨 NEW: The coaching staff think Bernardo Silva is doing well, but is not fully ready physically to play long minutes.\n\nThey are taking it slow. @AbrahamPRomero via @Ramon_AlvarezMM\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/cmFig1yU8oP0n37JgQyLOiYaGq9ZYYf9YOISdiWpje9K3PVIuY1TCNkkecxJSU0BJToUBGn5_BUsa8RaGvwxfwabMYAMFcNc1aDj6RJ9CzApgCXly2xebDrMam1QHv_8fRgUNVbm-ty6j1n8Cr8e42D6q4Gun9XCSWLQ0hp7TPRymaFNs79RTmPTRP53zWWgpFAlKM2ii3S7U9muQ3Km1uQShsv4ZoEwcwPxfsh22-UC3h2U2R1HDXqz8ej5kJj3Zz6W6Mb5GlWVlUi1pqLeJLjpWx5BUNGLmdt1nh4GbEMQr6Yfn5jwOctJxl_jjtila0v1M7u1_4BvIaSfwwYVVA.jpg"
+    ]
+   ],
+   "r": "duplicate of existing fitness update",
+   "h": "🚨 NEW: The coaching staff think Bernardo Silva is doing well, but is not fully …"
   }
  ],
  "summary_date": "2026-10-13",
