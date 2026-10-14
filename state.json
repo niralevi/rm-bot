@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59228,
-  "themadridzone": 31278,
+  "themadridzone": 31282,
   "FabrizioRomanoTG": 67293
  },
  "sent": [
@@ -929,6 +929,70 @@
    "status": "fact",
    "headline": "🚨 José Mourinho: \"Vini will return to his BEST.",
    "link": "https://t.me/RealMadridImportantOnly/180"
+  },
+  {
+   "ts": 1791993442.63154,
+   "date": "2026-10-14",
+   "tokens": [
+    "approach",
+    "behind",
+    "believe",
+    "br",
+    "call",
+    "came",
+    "card",
+    "chang",
+    "course",
+    "crucial",
+    "decid",
+    "derby",
+    "different",
+    "dissatisfaction",
+    "game",
+    "goal",
+    "him",
+    "immediate",
+    "jose",
+    "joy",
+    "kind",
+    "like",
+    "little",
+    "mourinho",
+    "play",
+    "point",
+    "protect",
+    "ralli",
+    "real",
+    "red",
+    "rekindl",
+    "remind",
+    "seem",
+    "shame",
+    "shown",
+    "someth",
+    "soon",
+    "stadium",
+    "start",
+    "take",
+    "think",
+    "tim",
+    "turn",
+    "vini",
+    "warm",
+    "well",
+    "when",
+    "which",
+    "work"
+   ],
+   "names": [
+    "jose",
+    "mourinho",
+    "vini"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "fact",
+   "headline": "Mourinho says Vini Jr. showed improvement after derby",
+   "link": "https://t.me/RealMadridImportantOnly/181"
   }
  ],
  "offset": 769011995,
@@ -936,8 +1000,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 69,
-  "tokens": 114466
+  "calls": 71,
+  "tokens": 117973
  },
  "pending_fb": {},
  "feedback": [
