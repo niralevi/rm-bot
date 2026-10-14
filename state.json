@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59229,
-  "themadridzone": 31291,
+  "themadridzone": 31292,
   "FabrizioRomanoTG": 67294
  },
  "sent": [
@@ -1037,6 +1037,29 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Vinicius Jr will serve a TOTAL of a 4 MATCH BAN.",
    "link": "https://t.me/RealMadridImportantOnly/183"
+  },
+  {
+   "ts": 1791999098.3981445,
+   "date": "2026-10-14",
+   "tokens": [
+    "appeal",
+    "card",
+    "ibrahima",
+    "konate",
+    "overturn",
+    "successful",
+    "villarreal",
+    "yellow"
+   ],
+   "names": [
+    "ibrahima",
+    "konate",
+    "villarreal"
+   ],
+   "cat": "🟥 Discipline",
+   "status": "fact",
+   "headline": "🚨 BREAKING: Ibrahima Konaté’s yellow card vs Villarreal has been OVERTURNED.",
+   "link": "https://t.me/RealMadridImportantOnly/184"
   }
  ],
  "offset": 769011995,
@@ -1044,8 +1067,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 79,
-  "tokens": 131305
+  "calls": 80,
+  "tokens": 132942
  },
  "pending_fb": {},
  "feedback": [
