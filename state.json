@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59247,
-  "themadridzone": 31371,
+  "themadridzone": 31372,
   "FabrizioRomanoTG": 67304
  },
  "sent": [
@@ -1786,7 +1786,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 146,
+ "train_seq": 147,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -3223,6 +3223,19 @@
    "reason": "no important keywords",
    "ch": [
     276
+   ]
+  },
+  "147": {
+   "t": "🚨 Pellegrini and Balerdi replace Soule and Mancini for Roma.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31372,
+   "m": [],
+   "reason": "no important keywords",
+   "ch": [
+    277
    ]
   }
  },
