@@ -1,8 +1,8 @@
 {
  "last_post": {
-  "real_madrid": 59258,
-  "themadridzone": 31394,
-  "FabrizioRomanoTG": 67304
+  "real_madrid": 59261,
+  "themadridzone": 31399,
+  "FabrizioRomanoTG": 67305
  },
  "sent": [
   {
@@ -1849,7 +1849,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 172,
+ "train_seq": 179,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -3689,6 +3689,132 @@
    "reason": "no important keywords",
    "ch": [
     302
+   ]
+  },
+  "173": {
+   "t": "🚨 THREE CORNERS - THREE GOALS.",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "real_madrid",
+   "id": 59259,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/RJfInNno6R2Nm87LQFB2LgZR66_yubmnJqmiFqG1Au-bYWOljZ9mbYxraJ_b1tyC6bxcPvnVWUcphEPq0SQ-uXjXfQNVXuwR7u2cK76yYM-1EwotTTuYrtta8i3ga9T04gsJvT6LyrU3ujhtVQFf7OekiSBMUuUCWwfucb-ksZVzxmUvZdC3TGuaZaqBfu5Y5MKePngLOhpXcYqwLmwYNYKHnphMY9_2iDotQE5ZIoQFahHPSAM19fJ3hO9dU3Y7ZD7OFijF9TNYx_LNuAA6_Kn4t8YLAqVrbM6cEA3kXG3X8Xvz6zpDSLgXTkh06RqtCEvQuJPBEeR4cHABJORiAQ.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    303
+   ]
+  },
+  "174": {
+   "t": "🚨 Jose Mourinho's substitutions:\n\n🇧🇷 Endrick: 1 goal\n🇪🇸 Espi: 1 goal \n🇹🇷 Güler: 2 assists\n\nTHE SPECIAL ONE.",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "real_madrid",
+   "id": 59260,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/QswFtphHCdV9WTE0SRFvB37yYadHxO20KXJwtebRCZ9RdJaiiwo2Xg1PJCbEM-md-dPdXbey6j1BvgyQu9w9CEykGTKyYdMglGlYTsf2AXuyxxhtJjIl4JlSZxqPVwCjo2hDqlFHsMIlHSsgYPpnqoyoaGo8A9ARGJNyRPI3sT7VdTrpMn7IAf7yNrY55Wmov46vkdXHJDzR6On9nkMbJdDFeINwYf4AuWqgKZ5ibjm9Ug0X9oWdYWlVFxcs3lLxQlvGj17Yo3uAc5j_zvq5DwsEybne5PfPuw7wiOd4NPbO1Bug6S4IXS3xPKpr5jppZ8h18QmuVEzOxsd3lpiUPw.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    304
+   ]
+  },
+  "175": {
+   "t": "🚨 Real Madrid 2026/27 season, full stats:\n\n🇫🇷 Kylian Mbappé: 9 goals, 2 assists, 1 MOTM\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jude Bellingham: 3 goals, 2 assists, 3 MOTMs\n🇧🇷 Viní Jr: 1 goal, 3 assists\n🇹🇷 Arda Güler: 1 goal, 4 assists, 2 MOTMs\n🇪🇸 Carlos Espì: 3 goals\n🇺🇾 Fede Valverde: 1 goal, 2 assists, 1 MOTM\n🇨🇮 Yan Diomande: 1 goal, 2 assists, 1 MOTM\n🇪🇸 Alvaro Carreras: 1 goal\n🇩🇪 Antonio Rüdiger: 1 goal\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Trent Alexander-Arnold: 1 assist \n🇲🇦 Brahim Diaz: 1 assist \n🇵🇹 Bernardo Silva: 1 assist\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31395,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/PTiWFQZALHvibJ4BOAoSq4cPWUEwfFpFkJSXdJl5WjvV5cjgGhzbwTmiWT2nAUcI7MrFIwMPy7ALbMqoa8Knu5MHYeWkQ2JEmHNFQLm6bow9Hq9BQDvFvwYPhDh_Mhh_oQRt0ga43MwHUmRF4hETrac7ZFWsHAPA1ijwLFgONVUtG9smnaFEZZW-Rh6xiOkDzXkk6EbksXFaCbbjO-u9BmraaIve4m0fRsjnZiYSbp3MtFxXCmrTorZ8CVrX2GznYw8kPVVk1iwj5XB-gCO3WAZW_Pqe5kTS7qMiv-rcVW9Eb-GijyXUhYm_2O8eHRhyzx74kDH6R6_ZidOOzLvRoQ.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    305
+   ]
+  },
+  "176": {
+   "t": "Antonio Rüdiger and Ibrahima Konaté 🤲🤍\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31396,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/aGtJ8rzhtsYkQiWezPuTfHq0krwZXx-dNmsvKN-9FbwAB2bTMoM47P9iR25508a6vsL3sNQsfPljNwgUSdgS_2qT5WUYdsMT73qfHiGiEMvMBvcfZdaZEx9vt_Yciy7or3HSVqBlWhsZniVW9fgK_nJYVVErh5nLVMR1JYwbhzW7mLaJXig902Q_RKp0qgkcgfK5hLAEg4l4dHLN-oTeaXOYGp0RfksQpyA35yxHD5SqWsj5W18Cn-57jM2-lkeA2ob0PtQwER12Fw3ZEdsCzTB-Gf17VqLfJ8HNbfNfO5NDm1NE7vAYp5yubycOrMAnoy1C7tFI1aoKJaMtQgDjLg.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    306
+   ]
+  },
+  "177": {
+   "t": "THIS MAN SHOULD BE PLAYING:\n\nEVERY.\nSINGLE.\nGAME.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31397,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/KFUqViCRKX8ysBipHMTYfFVxRF-6JenF04VYSQ6kR7OEuT47GCpbEFJCcq9ZD6sIEQ0DiYei3gyYEg0cd26FfGzulFMBxDJB0LfH0cfd_V46_TThSqCThl9gUymxOHTSgOZqNnrMTR4z5AWntBV_Z3SbMbu3cVwj9uzaZ66FvgWkZ9obFVhK43MQHHTtn9djg7yA6vfoJZRZyJBvsgmiEW2HU6Zr7YXabVbzHMtSlVZyOG2GGd00VMUi9E289kzatxxDpclmjR0K8n57CL8jjSFpAyzhXAWNhmeSLMQLh08kSpX6PSZ8eTM5jDJIKI-kmSPWR2wCuLtFctdB_svCQQ.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    307
+   ]
+  },
+  "178": {
+   "t": "📲 Rodrygo on IG. 🤍\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31398,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/t04U9hvhfYNwq3-3AsAdaRMBc3betJ3boqKNcmfmJWciiTWJ5Dnzvt9mAGa04eNq02suT9Xsap_Fpv8Jnt7flt78rkeC3ruaCtazzHZcg3VvwMX6BnJbYAP799rMfjpe04HsV4Bo5_SZnly_rtYv3rd6DIRKXZXWaZtylOht6rOXsNOwBhAZ_3GyOaTPJ63V8W0KqIW7N-t_gJo5atPXf8WB0oSlvHTf-zECFslc8JblzE3Ff7qdSz_AFCS7l1EvjOomdOn7UJVHZdk2TbsrZSRd_O2GYTKROWGG9ZrlSYtSIUuyyV0zrt0SqF5X6b7_iu2z51NmMkh1YNnJNgYjyA.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    308
+   ]
+  },
+  "179": {
+   "t": "🇹🇷 Arda Güler vs Roma:\n\n• 30 minutes played\n• 2 assists\n• 3 key passes\n• 3 crosses\n\nWHAT A PLAYER. 💎\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31399,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/H3rFwoLz1TeLpj4-UMP2vLz1b6JthpIt8IGqK94lgwDTFasW6YFBZVKsTd-ufYWh-ZYXBHiDmsv9zJJM2TDGQDwP-61rdwErXBjdqOIL72lC18CrHDHmyNFsuGImPo6rF2lSg_tRtibnGcK5xi6fo5cRy53dcvboGykvqMf5ai4dWpXjWH0ocxTc_GdT0U7tey8V0el7dzFmhyG4fs8ngvAaX1MFQAOSHOKusFFLxT6YFkvhSvQ2Ofc0shIPO6V90bKuY1IbIucWhVO5CsHbNYlDf4Wpkgmm_C6C1VJ5TTnay-U6oUVGJIwSxPBLZRtD1TZFfBO4-LgKxXY4zx8xXg.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    309
    ]
   }
  },
