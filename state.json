@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59227,
+  "real_madrid": 59228,
   "themadridzone": 31277,
   "FabrizioRomanoTG": 67293
  },
@@ -913,8 +913,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 67,
-  "tokens": 111116
+  "calls": 68,
+  "tokens": 112746
  },
  "pending_fb": {},
  "feedback": [
@@ -1136,23 +1136,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31265,
-   "t": "🚨 Antonio Rüdiger, Dean Huijsen and Jose Mourinho RETURN to play against their former team AS Roma in UCL tonight. \n\nReal Madrid have a 50% chance of winning on @PolymarketSport\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/PzDCThRdDreIERQ7fU61idSmrpmsj4FzF3XL0Wil1u8rGYRh6YlqzqrUMsmbRkRpqQcb_f2QbexIuC5tpSSOb_g1UR1zefMw31tcSV4RN7LmYZTkY1aGf1jlzMOtKFk9X7mboBAKFp6lGQEZ7l1iIKd08BDhEQbIeqM0iKjBn9lQ04VxPccIB0G8uIYGhBYrTRcPoKb49pk14R-6QlugibhFUVKjyIUxkygwZ5F4OV1kyS1VzJqWnZx1DvnL2fFgGVQsIFjLjerLEX994YU1XHg_UtjHLIQGNVRF1mErFHGBkVhwpkn8o5iLEfk7_-dM9KIJnh56MyWl30Gr8Rk42A.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/fGJkFzbcPoh7CJflW27_KB0iqRY_HA3qfHqy65PNnRqTA2kQkFIfbworcM6C8mz-kcMrUNcQn-KqpZU-6ZXTNKFoT0Ou0Qsei2fq-5Enb_O9Nf-JdBEKP2lViAVDGhxDswRTibbOGAOQMb2Y3z56-IcqmdeKzzyoBgkaIHB5pqD8UjeED4SSAED_Qcw88imp2yzuAMywnuW3NbpDn9MgElji4D2vJE6wBfLCai4Qk94qFsfnl2v2RvLtkek28TvDGAE7Yx2JHe1jeXVucGaR6KFtc-mPoVlW3KSdkaHiuys8dqvYLj-Cjo9PlvO_9BDVhbYiLwB6iHkLArat0ZKd2w.jpg"
-    ]
-   ],
-   "r": "Unverified lineup rumor, not official",
-   "h": "🚨 Antonio Rüdiger, Dean Huijsen and Jose Mourinho RETURN to play against their …"
-  },
-  {
-   "src": "themadridzone",
    "id": 31267,
    "t": "Andriy Lunin wearing Jude Bellingham collection jacket. 🤝\n\n@TheMadridZone",
    "m": [
@@ -1331,6 +1314,19 @@
    ],
    "r": "Past lineup, not current news",
    "h": "🔙 Real Madrid’s XI the last time they faced Roma in the Champions League."
+  },
+  {
+   "src": "real_madrid",
+   "id": 59228,
+   "t": "🚨 Real Madrid player market values in 2026. [Score90]",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/TaFv2XHjeMTujLLgQ-BD8Z7TkrHXRtFAa8nyJgV84nO3_IBMcrrSOI9WIuGbst8PCXw--l1g2KlnBO4w0nwq4nnKMN7u3O1S1lft5YuxTc-landCF4Y43Y19rSm_ePkWv3v4HBKAWwktjp4LyzCbdsoMXNbD_S9SSOHq316oho-t7pmaLoDGA96Ksg5ULbCK4x5XEMKDo0FQOXJ1SqfTfg-mubRsY5kP39Ks2VSkCmelxF8DnCL6Cq3Kp6DLSFadhLh7JRlbLvoCpeehSs8EPwG7zbjwoNUHIWTL30Nhhv2wXM8ryHmFcGIumutKbkVQYrhEoQMe_l2_O6CUysPdFA.jpg"
+    ]
+   ],
+   "r": "pure statistical list, no news",
+   "h": "🚨 Real Madrid player market values in 2026. [Score90]"
   }
  ],
  "summary_date": "2026-10-13",
