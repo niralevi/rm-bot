@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59234,
   "themadridzone": 31312,
-  "FabrizioRomanoTG": 67298
+  "FabrizioRomanoTG": 67299
  },
  "sent": [
   {
@@ -1108,13 +1108,13 @@
    "link": "https://t.me/RealMadridImportantOnly/187"
   }
  ],
- "offset": 769011995,
+ "offset": 769011998,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 102,
-  "tokens": 169325
+  "calls": 103,
+  "tokens": 171016
  },
  "pending_fb": {},
  "feedback": [
@@ -1335,19 +1335,6 @@
  ],
  "skipped": [
   {
-   "src": "real_madrid",
-   "id": 59232,
-   "t": "🚨 STAT: Jose Mourinho has faced a team he formerly managed 27 times so far.\n\nHis record:\n\n• 6 wins \n• 7 draws \n• 14 losses\n\n😬",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/V3yV8nuOGLe0_Boh81gsbDjIuHfDMJUadxHCjtE9NxgM3FBoPK9tNUgAl2JRyDVsyLFa3Dz4yxwuVg-rQA0OuiRcKcSOCYi2LAsAlD-pT4QkQet8JV6NC_Nv9tgozH0S9tXWdBv83RME7dFvlr7OOdFUV6LIszK7xa3ngC_sQC_kdwXl5jzu3cT6hRWeMHDWv82BvRfzAC9emVeEmw9czNKHoJC0Rd48QpA11W6Z1mypcA2YZYyQMuPagngbYu8pXmsMQw2cCblizGEhUIc73yrsek_bl6xC-6KqggG5sJKMeJ1A7gB31B2hdZ6zGEhApNnIBuiJY9iHP0MVjyaguA.jpg"
-    ]
-   ],
-   "r": "Pure statistic, no news relevance",
-   "h": "🚨 STAT: Jose Mourinho has faced a team he formerly managed 27 times so far."
-  },
-  {
    "src": "themadridzone",
    "id": 31299,
    "t": "Kylian Mbappé 🥶\n\n@TheMadridZone",
@@ -1534,6 +1521,14 @@
    ],
    "r": "speculative lineup comment",
    "h": "🚨 José Mourinho: \"Rudiger-Konaté CB duo tonight?"
+  },
+  {
+   "src": "FabrizioRomanoTG",
+   "id": 67299,
+   "t": "🚨 José Mourinho: “Ask Spanish Refereeing Committee why they published the news about Vini's ban minutes before he plays an important UCL game…”.\n\n“Real Madrid is a Spanish club, so why publish it now?”. https://t.co/4T6xHKlPOr\n — Fabrizio Romano (@FabrizioRomano)\n Oct 14, 2026",
+   "m": [],
+   "r": "just a quote, no new actionable news",
+   "h": "🚨 José Mourinho: “Ask Spanish Refereeing Committee why they published the news …"
   }
  ],
  "summary_date": "2026-10-13",
@@ -1543,7 +1538,7 @@
   "send anything official about michael olise"
  ],
  "opts": {
-  "training": false
+  "training": true
  },
  "train_in_channel": true,
  "train_seq": 87,
@@ -2114,7 +2109,7 @@
   "👔 Coach & Board": true,
   "⚽ Result": true,
   "📢 Official": true,
-  "📰 Other": true
+  "📰 Other": false
  },
  "health": {}
 }
