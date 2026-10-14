@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59262,
-  "themadridzone": 31448,
+  "themadridzone": 31454,
   "FabrizioRomanoTG": 67318
  },
  "sent": [
@@ -1617,6 +1617,75 @@
    "status": "fact",
    "headline": "Mourinho criticises late notification of four‑match ban",
    "link": "https://t.me/RealMadridImportantOnly/370"
+  },
+  {
+   "ts": 1792014678.4367855,
+   "date": "2026-10-15",
+   "tokens": [
+    "4",
+    "again",
+    "becom",
+    "better",
+    "gam",
+    "gett",
+    "grow",
+    "jose",
+    "league",
+    "mourinho",
+    "next",
+    "shame",
+    "vini",
+    "won"
+   ],
+   "names": [
+    "jose",
+    "mourinho",
+    "vini"
+   ],
+   "cat": "🚑 Injury",
+   "status": "fact",
+   "headline": "🚨 José Mourinho: \"Vini is becoming VINI again.",
+   "link": "https://t.me/RealMadridImportantOnly/373"
+  },
+  {
+   "ts": 1792014687.5606503,
+   "date": "2026-10-15",
+   "tokens": [
+    "1st",
+    "4",
+    "ban",
+    "because",
+    "counter",
+    "did",
+    "didn",
+    "forgett",
+    "found",
+    "game",
+    "gasperini",
+    "great",
+    "half",
+    "him",
+    "jose",
+    "limit",
+    "mourinho",
+    "play",
+    "reason",
+    "simp",
+    "tactic",
+    "think",
+    "vini",
+    "well"
+   ],
+   "names": [
+    "gasperini",
+    "jose",
+    "mourinho",
+    "vini"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "fact",
+   "headline": "🚨 José Mourinho: \"I think Vini did very well in forgetting about the 4-game ban.",
+   "link": "https://t.me/RealMadridImportantOnly/376"
   }
  ],
  "offset": 769011999,
@@ -1624,8 +1693,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 53,
-  "tokens": 82530
+  "calls": 59,
+  "tokens": 92119
  },
  "pending_fb": {},
  "feedback": [
@@ -2052,7 +2121,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 231,
+ "train_seq": 237,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -4936,6 +5005,114 @@
    "reason": "No substantive news content",
    "ch": [
     372
+   ]
+  },
+  "232": {
+   "t": "🚨 José Mourinho: \"Vini is becoming VINI again.\n\nHe is growing, he is getting better.\n\nIt's a shame he won't be with us the next 4 league games.\"\n\n@TheMadridZone",
+   "ai": true,
+   "label": "🚑 Injury",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31449,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/tG7-C7dEVnLI763AhkIUD6xjbZCLE5upFyoJyC0rYWXGDg3bNgmetXmqlq3K_G346RZNez-BSzfHk8QneSxwiuz5TFSq4kbfoZJSYgaj0wFFPoDCkyuE2KUCdzi_WFy-rOHdumFVUt9nxJBf2IeplDPujPC1Sq4njQxqZIGmjVl95DtF1p7UetDiwpTExb7cztLzCLZWfQY-j5Cy1wpR5u1I-OiXudyoRN9WQ6pZ3hTAQjlNdkv8orco1i6VL_9-Dzjz-fPtnRjs2XT5ftDnb_WopJf2UCvDxdqJ9YCcqlcnrOkCHEaCGKP3dr77mI0oYQJ1loU3rEzERW69n2mPtA.jpg"
+    ]
+   ],
+   "reason": "Vinicius out 4 games",
+   "ch": [
+    373
+   ]
+  },
+  "233": {
+   "t": "🚨 José Mourinho: \"Vini was upset at being subbed out?\n\nThat's NORMAL. It's normal that he was upset. I don't like it, of course, but it's normal.\n\nHe didn't do anything bad, like throwing bottles on the bench, and things like that.\n\nAfter the game, he was very happy that his team won, and that's what's most important.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31450,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/tQXuoJaObZ6x7aBdvVaSqYR251_MLxR3DxaWCj6oDjnbgky2Y3HAzljB6OeVY-MnDkcyS5B0wQa_ca7uf8ESL7Sw6xFHuE6UQTsG6cg01zbBPJpTUkyZYgdV_qDZSZ_eAZZBObL_Vhe3xhLCUZT9LRRFz7p7dMEuy7geZA_bLq4E38qbHmiRaq3kWWsozRMKUHy2hfgCYtMscUE_9NyX3h_P2luBWXzk1ewrgjE2KDMU3_Qu1uy6r4pwF5Rq0sL_zygvy9Z0NslPhDP96e5MWBKY6WfZ9Rd5Mgvkl90jjCwNZpXymMdVgIZZXWgeT1EbYRKHo2KPsruEFVOAVuJ78g.jpg"
+    ]
+   ],
+   "reason": "duplicate of earlier Mourinho quote",
+   "ch": [
+    374
+   ]
+  },
+  "234": {
+   "t": "🚨 Endrick tonight: \n\n• Made only his 2nd club appearance for the season.\n\n• Created one goal with Espí scoring off of his shot’s rebound.\n\n• Scored the 85th minute equalizer. \n\n• Named MOTM. \n\nWhat happens when he gets more than 4 minutes of game time. 🔥\n\n@TheMadridZone",
+   "ai": false,
+   "label": "⚽ Result",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31451,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/mbF3mkTisQaaMr38qk_M2t5ctMx0qGmxfdkEYgT9X3on7Y3EB1mljv1S2XQyIV6UCW2B_tmZiTYl9KGTlTytBuAWuE5kL7SPCqoOlAypzo2BmBUVLgEcGaPn8A9oBKFnuT_vCuF03jqQxoTkFMJ8xfXe5zS4GGb7Ird77_QztTHEHgqZKpkP_DPPyyIaoo7NNEUzUmF44ucaaboCEmkelZVP3-fKy_X1ninjxZpj5dJuYb_n9gPuRdBoxjoZIa_NYdL8cfQzDjVo-3DT1KR6fpVsRoFzStwoQBbXLmZCPqF7zn1JYKxqhos91ADO-Hb5npNer035YaoprWcngjlLcg.jpg"
+    ]
+   ],
+   "reason": "Redundant match detail, already posted",
+   "ch": [
+    375
+   ]
+  },
+  "235": {
+   "t": "🚨 José Mourinho: \"I think Vini did very well in forgetting about the 4-game ban.\n\nThe reason he didn't play very well in the 1st half, was simply because Gasperini found great tactics to counter him and limit him.\"\n\n@TheMadridZone",
+   "ai": true,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31452,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/qwjCBNaMqsnLl65uhSw4nHAZEjDGzrEE78bdOYMkY3SY0MRDBTKwan5awm-7rtYz9zuKkjJ0W9BFE-DWpOyhCYSn8S9k_nCGkmN58lwYrASjoeF2suEC-lhLD__-xX3rStTgWQ5IvpZy9WP5iMyasCMUfrPX1qSK0_cbTCwcuOzNhu5zBTiTxgy95yBxZkgYAdK477oaqqKxV0FhcfuI7G1uT3oPij3_-P0v57i6aFDc2brBKFA84yzkp7TDan2aM3ymL6okMl9QOictyeHhb8rzdw5x0u1BRDeUNFvILLP_uR-COY7dKLO8We5K66o_ll1TI4R3MxEGdMFFddTHQA.jpg"
+    ]
+   ],
+   "reason": "coach quote, relevant but not major",
+   "ch": [
+    376
+   ]
+  },
+  "236": {
+   "t": "🚨 José Mourinho: \"We should've started Guler-Bernardo in midfield?\n\nLet me tell you something, if the team that finished the game today, had started today, we would've lost 5-0.\n\nIt worked in those last minutes, because it was a specific situation, it wouldn't work for 90 minutes.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31453,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Ww9b4h89YzhRX-fkDANunQTuhV5j66fJZ8L82puX3SVsIacLoYQOG9pzWwfVzjwpMFMhYt9iXJqhraTFBtSOuDrVdXN-VEoyqY7AsM2i6_fCmLCMLEYosWetHz7kjP49e4isM6Jzt72E_rqgefF9My5lJVH3jiXmRTv5ZWGxTcts1wI9f2WMrrdgSyJ63zGzOucianFg6P2IpGK2R74vJpPeAXPb8EOyQHzCjgaYUZHFON_spS0paLfK0vyiydLSHi5ewghpq610_mi5NWTZseLUk61cy_MwMZKIP9TfNCFDjsNBUP_wdnWhvBxP2s3Bb8j08uLF98fUUF9BSe5Y_g.jpg"
+    ]
+   ],
+   "reason": "Redundant Mourinho quote, no new info",
+   "ch": [
+    377
+   ]
+  },
+  "237": {
+   "t": "📲 Marc Cucurella on IG.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31454,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/B0GY2BUfjKn4CFx06Cc9kN_6soTR4Wbb8eh1dZJnvrnRmMhErOUv5cEu2KJ9w4jmSb86dmDRfr94f1-bsclHBNzNDBxVYmBFc_ZrWTDCKFRuNzQsEKr8IpHAawpiFpsUICiNGmdNZ0NGGuPUe7Iy6agiCN92OXiYGm72hiI0-0R5vsCsTOT5FdimveCb7qiC71sp5Lf68rMOWx4ukSBI0HQXeGsoXzOZn56E7rXhhVqndTU8t-TSbjlyu5UpDDjWRlsDaQavZxM2HqISeBhKIecCB6kP6FyZS6EZVyn6mz4Pb1UWoNEM0bLb5wwD7_R93VpmjitnKv0SBftgLvNzGQ.jpg"
+    ]
+   ],
+   "reason": "No substantive Real Madrid news",
+   "ch": [
+    378
    ]
   }
  },
