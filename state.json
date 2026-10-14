@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59247,
-  "themadridzone": 31375,
+  "themadridzone": 31376,
   "FabrizioRomanoTG": 67304
  },
  "sent": [
@@ -1786,7 +1786,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 149,
+ "train_seq": 150,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -3262,6 +3262,19 @@
    "reason": "no important keywords",
    "ch": [
     279
+   ]
+  },
+  "150": {
+   "t": "🚨 Carlos Espí and Alvaro Carreras replace Yan Diomande and Marc Cucurella.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31376,
+   "m": [],
+   "reason": "no important keywords",
+   "ch": [
+    280
    ]
   }
  },
