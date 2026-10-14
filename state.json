@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59262,
-  "themadridzone": 31428,
-  "FabrizioRomanoTG": 67317
+  "themadridzone": 31448,
+  "FabrizioRomanoTG": 67318
  },
  "sent": [
   {
@@ -1499,6 +1499,124 @@
    "status": "fact",
    "headline": "🚨 José Mourinho: “The 3rd goal we conceded was ridiculous”.",
    "link": "https://t.me/RealMadridImportantOnly/337"
+  },
+  {
+   "ts": 1792014499.8202639,
+   "date": "2026-10-15",
+   "tokens": [
+    "again",
+    "be",
+    "endrick",
+    "impossible",
+    "jose",
+    "loan",
+    "mourinho",
+    "say"
+   ],
+   "names": [
+    "endrick",
+    "jose",
+    "mourinho"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "fact",
+   "headline": "🚨🗣️ Jose Mourinho: “I will say it again, Endrick being loaned out is IMPOSSIBLE.”",
+   "link": "https://t.me/RealMadridImportantOnly/355"
+  },
+  {
+   "ts": 1792014513.772759,
+   "date": "2026-10-15",
+   "tokens": [
+    "around",
+    "bravery",
+    "jose",
+    "match",
+    "mourinho",
+    "thank",
+    "turn"
+   ],
+   "names": [
+    "jose",
+    "mourinho"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "fact",
+   "headline": "🚨🗣️ Jose Mourinho: “We turned the match around thanks to the players' bravery.”",
+   "link": "https://t.me/RealMadridImportantOnly/360"
+  },
+  {
+   "ts": 1792014551.3812742,
+   "date": "2026-10-15",
+   "tokens": [
+    "1st",
+    "2nd",
+    "bad",
+    "fault",
+    "great",
+    "half",
+    "jose",
+    "mourinho",
+    "thank"
+   ],
+   "names": [
+    "jose",
+    "mourinho"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "fact",
+   "headline": "🚨 José Mourinho: \"The bad 1st half was MY FAULT.",
+   "link": "https://t.me/RealMadridImportantOnly/365"
+  },
+  {
+   "ts": 1792014592.8681905,
+   "date": "2026-10-15",
+   "tokens": [
+    "4",
+    "ban",
+    "bus",
+    "couldn",
+    "did",
+    "game",
+    "hid",
+    "him",
+    "hour",
+    "hurt",
+    "information",
+    "jose",
+    "learn",
+    "longer",
+    "match",
+    "mental",
+    "morn",
+    "mourinho",
+    "normal",
+    "one",
+    "open",
+    "real",
+    "receive",
+    "shameles",
+    "spanish",
+    "team",
+    "thing",
+    "think",
+    "tomorrow",
+    "tri",
+    "try",
+    "why"
+   ],
+   "names": [
+    "couldn",
+    "did",
+    "jose",
+    "mourinho",
+    "spanish",
+    "things",
+    "why"
+   ],
+   "cat": "🟥 Discipline",
+   "status": "fact",
+   "headline": "Mourinho criticises late notification of four‑match ban",
+   "link": "https://t.me/RealMadridImportantOnly/370"
   }
  ],
  "offset": 769011999,
@@ -1506,8 +1624,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 35,
-  "tokens": 54332
+  "calls": 53,
+  "tokens": 82530
  },
  "pending_fb": {},
  "feedback": [
@@ -1934,7 +2052,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 213,
+ "train_seq": 231,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -4486,6 +4604,338 @@
    "reason": "Minor praise, not essential news",
    "ch": [
     354
+   ]
+  },
+  "214": {
+   "t": "🚨🗣️ Jose Mourinho: “I will say it again, Endrick being loaned out is IMPOSSIBLE.”\n\n@TheMadridZone",
+   "ai": true,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31429,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/AuhLlzv5dYv5ZjWzOycT09k4aXR8DvzxuHqz3hUVmOBeHblcvfvP1UsZVhyMD10ls0xQo0LU2R6kzkqpf23SCy3fJSPUumRuZOIHvM5-xdy1Awd_GdBqryTJc96VTvDCXiYMTndIVUXCksr2utu-kcoLPgI4RIbwlrXwZQHaydtH2oIHkVGylm26niPpSUQJMnWT9Div0Y-6wWFFKYtZXcyMQKUb8VyjHFEhskIX1KrvABPSuq1C3jilyKXTBnSYbCVp2Pz7-P9DZTs-GLPoUbrJb9PqLYDqsL6-GN1qbx0FZ2ayrtHdpFdXHH6agOji9l__Vu8T34et3AZuhswDSw.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/hEN2-8XNUxsuOw7QX51DZmZcbbjKlswYGfym3i_3YlvJmT888GTuQC7Q7L3D5i9KQ1f7EdBEFJ5hzoHVHlyraQVBAPqHjcibzI7Mtz0aqFll_tHTDx32ITESfrt4jlFHF2p9I-eskCxz-fONFa2S6sCw_-G-qgbPMsF4iZXZJ9xSTApjaCTawpQutlyHWFhcB3fNz53hklMge_vMgtlYAEyqjm99wHGnFvdt5lqTvLFKbn7zvOG0mvrrqvrDRAkQUXWmeSiAw8YmvqdCCvUlEZJ_BftONSyZPDVYJaeo1r0tMAXkFfynDircKnNQ9qHiAIYN8fDwOaukQpu2UBONCg.jpg"
+    ]
+   ],
+   "reason": "Coach statement on Endrick loan",
+   "ch": [
+    355
+   ]
+  },
+  "215": {
+   "t": "🚨 José Mourinho: \"The 2nd goal we conceded was RIDICULOUS.\n\nYou CANNOT concede that goal in a competition of this level.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31431,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/aP9e7vrCPOWuG8edKAdHJilgiKqp2y98tSrVpfGFbsI8xlYVRSYejmNrnQO3tpfUfpBWu1tfS7sA3KXWH4LZq9PEwIHEDkni8fuf_iXWbQoYpKbjazjQw3SZDE6vwViboulVCNOzKwzLk79UfoPWWBGeShhiZcBskRYz0PE7Y2TF1abFDds4zImLfxkypDU_mn5_CJqyyPnOeUdg-aUQSzhYs1O6KhvSv7t02jAGCItwZ4C_Eq31ID7uuxQuMfckVN6nCtLCC3W0VAZ8NeDn7h0zEdIzgaGOQxaHUdyV0fswDYEL2nAO-ozTUP9UNYvS_3fQnnHqFIhfRlGJHee1FA.jpg"
+    ]
+   ],
+   "reason": "duplicate of earlier Mourinho quote",
+   "ch": [
+    356
+   ]
+  },
+  "216": {
+   "t": "🚨 José Mourinho: \"I think you could say it was two games in one. \n\nA match in which Roma were superior in every aspect, and after 20 minutes Real Madrid were unstoppable. \n\nThey surprised us at the start of the match with Soulé on the wing, it was difficult to control him.\n\nAfter that, they no longer had the ability to keep up with the attacking football we played.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31432,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/v6DZQirymBukCpox8GjsMpmC0p_UHtciotP6l_CzVl6aM-ORoGX5QPcm2k-EbK9tTHZwK4LeBDfJudCdHC_BDGRlXB6zwjaMXaXIRRpRFXFHFUj9Wm1gzuIROx8QEaKC7ytzox8VbDFFH4luQDW6q-mGDgOv7WxcAqQJXW70XbJPsrtDMsYBZd6F7Ly1GTPpyby-LkSn3FyXyYrGRm--nNOUZxgbOEjuWnqf77tn01PDlnoZlsj10TvtAro8Wi7kJPHENtbaJ9ozYQxR1rn2G0L1HSTd9hhktL8U0LGpQ6h-CuGu9SH6Vxh8NJyzzAflsrN7vCSzN5CVgeitwbcCww.jpg"
+    ]
+   ],
+   "reason": "duplicate of earlier Mourinho quote",
+   "ch": [
+    357
+   ]
+  },
+  "217": {
+   "t": "🚨🗣️ Carlos Espí: “What changed was that we NEVER gave up. We felt we were getting closer to come back.”\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31433,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/m0uXIvNedE0zjLIXUmJOieserUc3cJYgu0dvC6CTAhfmNNViWSsbKLjRhY9p7en3AwFtUbUYLZ2HwDbd4_WXLWOb-vxcfyU3nlaikJKeU9xqmxx1tnnJswx0OKuiyouC459S4Hi_r2jIop0j3JvXNmw_TNuD3Odf_3Oo8VsyenrllcSG12RyBYpC51-OeI0IbDTfJnIQIIqgQOE8sy2NNCnLyR7c-17veA9pZ4eQtVxGxNIc7O9EPb0im0R5SGPUxm_1P5H8xk7dNSrI4cBCwZlFTwZw1L9I9LF1c7zlCaQWSI4ZYXeOEEqS2wYw9EokbSpgIBuiDU77oWUMJYlWLA.jpg"
+    ]
+   ],
+   "reason": "player quote, no news value",
+   "ch": [
+    358
+   ]
+  },
+  "218": {
+   "t": "Another great performance from Thibaut Courtois. 👏\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31434,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/hp4I1Xg4Pnx1rAqo5XTfyMV1X4YeUrmbP31RLckofgAO0TvgOIO3AgUJHusPIEtDs9GHdmCA3jj1FDnWC58lKUwZmiQVEqrpmNRSvkS8kSmvf15COx0rr0K-kN5mh_zXBKGkKYSau_o3BEtiXlweioLHrGxdvCQTygtFmR7rs8KN9QQ6FnyqaoRsCVS5Csmhox8PM-odTJ1b6OFKXjUlrDReROB-BwmHlGzt9M2CoCdVAUruvIwF4a9LlG2JtlejO0RV8ttBXYVlOjasZN9D-W8naACJ4yWdk-VIbSJSt3jk0Pn_DUD6RPrh-yMIhhQbZ1QA_HDGWrtZ4u_u-5CQVQ.jpg"
+    ]
+   ],
+   "reason": "No substantive news, just praise",
+   "ch": [
+    359
+   ]
+  },
+  "219": {
+   "t": "🚨🗣️ Jose Mourinho: “We turned the match around thanks to the players' bravery.”\n\n@TheMadridZone",
+   "ai": true,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31435,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/PCtMrzxmu8CVX3dHydNodhiz1j1hDSH508jJnjIry4En6NLGG6jdGPQ_3rgdVXyxFYtwmuKZiKoFPV5Sk1iPSiBvf4SrDag5pqRnVGtMSqDtMqpnIhLDFh4NBZIsnUcQ6go5QP3A1G63sg7DsE-0XMclR3p6IehbTKa2G_v5aV27tAFY6G1SmK2NRcusING6JQJjaWnQPXXn5FDQlCxSHLVNlvcLNxwmnNhSBKpb4rOLwiVg31aTzhgvCdvFseOLMnvK3PjLEq9LinMO1mhy3sQMXTbYYCoCgieXpx8rhaJnsWmDK_bz_uXQ7H_Vq_EFYmh0gnUT4MgPbp5gswsbGw.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/OoXj2Ch5agD2GWQsAJBvI71H4npfbkbsSOmFsqrK06SAXK-NHSq4UPuWsQxaen4EEpHHIy455QaeFQB71341Soe91hCHPDeaPLd2HS8Sli4cpYsETCbZtjHoIld5q7cUn7ukBm73uVY8HZNsgV6d5sK-exWi5hpIu6u31z40gyXPBEj6v2iPn-d9vCzE2we9RA6hhGuCcGLhvMoySfM0bkxMuhV7Tx_Fin5Ys91B1CZ4An_nknUik1GT6fceO2RrlLfl6xxZqoMDd6GZGNgB3L9u1YfsycG4NUXkH-9qGjbpSQuz0PEiNu1ngiMooSG8TVLevbG7KKCHkfqKbwCN0Q.jpg"
+    ]
+   ],
+   "reason": "Relevant coach quote from press conference",
+   "ch": [
+    360
+   ]
+  },
+  "220": {
+   "t": "🚨 Endrick: \"I was sitting on the bench TALKING TO GOD.\n\nSuddenly, they told me I was coming on, I had no idea I'd come on that early.\n\nI am SO, SO HAPPY.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31437,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/aVTNwYVN3s91oZndZGUUISNSUyRDBeSGFecFiVDxQjRyaaBSMAzEvCeOWWoSnyCUIADenSROqYNMI7n0VnHxFZAjla2Ngztre1DmIkROFQdsazoOGavXIfq4P65yiOrTTVZQZUFfNXP6RzNV3lb_x1ZB4qwy3eFN3TdK3v5cPPdWoof6FIEjbW-4_ffMK4g_F3R1HkPd38u0lsVdM2UqrJ9vQc_xJ45Hk3lVi6tQT8rU9C9m2ZmRuoldQeV3zGb6JFYqHLPVu7OL7u0Fx-aewKYnFL1RfQyPTYALfC9oIiBDtjZ8y8sV-Rf0z3w3Rma8dy5CUB9jXHkMHZ4U-sGLEA.jpg"
+    ]
+   ],
+   "reason": "Just a player quote, no news",
+   "ch": [
+    361
+   ]
+  },
+  "221": {
+   "t": "🚨 Endrick: \"I LOVE Real Madrid, I LOVE being on the pitch, where I belong, where I feel happy, and I love to help the team.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31438,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/H6YAT3HdLPd0KBN4pew-M0FpY-0Wk0Q9GmVAWuJ1HKhFiH0NwmmNjmM3k5pv8OboqXEd7Fhqq3tMGYAdE8yUEdEt10CWqjfKh1ZJeSEwPmaiY-xoRoCco88W6yw766Y7gY2HjyUDYtVI0mujv7ZPx0bW0LYSgci4MG1PGOZKgy3inoHbsvc3nexrTcK5MeKHwLV0Q4_DwYUet2L3iU8-XDshcVX1Xc0iZKK7w_w6id0KF7eU-gtOIBsDrUjZRAVREEH6twBCksEGsrqH2TKm4tZtXzSyLUUAwcblVOM-Jx0YLIhEbGt1BLIf4bVcA0cEULtToZEwx_uGztqRc9fi9w.jpg"
+    ]
+   ],
+   "reason": "Just a player quote, no news",
+   "ch": [
+    362
+   ]
+  },
+  "222": {
+   "t": "🚨 Endrick: \"I work very hard everyday to be ready to help the team whenever I can.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31439,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/RKVMhfnERKXeTQuQXRTZDCu1_e-yrGgTiGf-E7hrPCfsjtpjphp6nuOXerr8HW-3CIVdsQbd0sum_ibQ-3PzzmG53FZqkWgybXvRHJrSzJe4owC8Q4IQQ1nF-B17BMVqCFnGG8jytWHhqWcUkyEqjfg9MTTiTtCOkSiXGpaxgg7eNKjSfjfoKKE9SQLQgmFDrNJz6iVAEwJT4H1BRrFHgwuk9YxdSk9zWATO14IyqQ8POd5xAywPQ72b7EnO95WORNqTjsSbGdBhfPXpIeBAyl7vrussXGr9klzvp__sAU10gRAeEd8gp3oojdjDMT0OomAPem6G9OY08ttOGXtEQg.jpg"
+    ]
+   ],
+   "reason": "generic quote, low relevance",
+   "ch": [
+    363
+   ]
+  },
+  "223": {
+   "t": "🚨 Endrick: \"Vini being banned for 4 matches?\n\nIt should've been 2 matches, everyone knows it, but we KNEW it would be 4 for Vini, BECAUSE IT'S VINI.\n\nEveryone knows they always target him.\n\nBut Vini is strong, and he'll get over this.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31440,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/uf9RaxUF4jGBQSbmlOqWQszeFjLsHSdQlcckrSuvbkhoK7iYBjLd5aHTNNvDVCCnIvBJs_60hE8IRAyVCjOC5gGTZV9Ca20pRGHdZSIWpdeO5xaTU4s11V-nhnhNELEc6Qv-WDQekE2NwCa7eVJehtqW7Qffl_jQ3D9yR0hAC-nj7E7zWMwwqoXM7CsTIG8nRV4Yhuut3TcnEUWpdYFB2THA1Acw_MQiAw1JkVTPGWtyKytkS968hLjwHfINC5kLEqnnlu3VUt1wDKC53VXZx4fPdaYCfFUrYi_rrDQwZ64Hos8grIm1xaa7NwtfrGhy1hN3a2Fbf6ecsNKEKet6GQ.jpg"
+    ]
+   ],
+   "reason": "Just player comment, no new info",
+   "ch": [
+    364
+   ]
+  },
+  "224": {
+   "t": "🚨 José Mourinho: \"The bad 1st half was MY FAULT.\n\nThe great 2nd half was thanks to THE PLAYERS, not me.\"\n\n@TheMadridZone",
+   "ai": true,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31441,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/TI4JHjNKCeMTaFJhauERWmPqeYxXQuqP2kkSMmuNwAP-Fai0To2izQNBn3dwYlaWIoBuLmEig4_hXrB1NjFyRFB6m97SBEdAS56VlqntaKGeo4FHwAk-SHrqlk30y3OPsBWSrlFVQRlMdI0E06AKG11e6hzb2klUFGKT7zqVjIbyVKcxtqI8q0Sm8sm6sQJaVjUEMErLTaJPtj1ovhLw3lzq2nljNSu-j5adl2VOZKFd9n8qKoI9zj2sPrd7DBJ-kYJ5VkP-xuJAPO3AZlqSd0Xh0aUUR5XRP_gu5-cNUo3v5OJKuO6fM_lsV7ksznSM8W5-vDUmHxjvL1rOycP1Ow.jpg"
+    ]
+   ],
+   "reason": "coach quote from press conference",
+   "ch": [
+    365
+   ]
+  },
+  "225": {
+   "t": "🚨🗣️ Endrick: “The day I stop giving everything for Real Madrid will be the day I leave.”\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31442,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/NblUnnsxjaTs0psKDU5511QU4mPHvhNEqt0BZlc-f8dqI3R_ZlNfhCJ3vBMdANyJbhW9DndhnorvHWo5r6WpeKmZ_pD84w4XPyLg9T71uxfykv5lUgfjTIC17A82lCjczTHX1C7_7Ghlrg9-QDZ4ZWF7S6u5Nb9tRQdddNZ9OGcZXmW-p5fQh9rBdJNgwBCQbxjTKvotYPlX_8_9BtAAeVUxLQJgR1nu5MrdMnChVGAOSKgeiq_t85lmM_xfWKvIqDWCwoK2SwPuZhkqVhtQ7fKiIB4oiLFtvHG0n6slaLt1Hf2pTt6xtTJvaIwSItto_eRFJp1PcN-yCOBuus9lqA.jpg"
+    ]
+   ],
+   "reason": "Just a quote, not essential news",
+   "ch": [
+    366
+   ]
+  },
+  "226": {
+   "t": "🚨🗣️ Endrick: “Getting little playing time? \n\nThe coach does what is best for the team. If he decides I have to play, then I will, if not then no.”\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31443,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/rSzudjPp9wPrsBPq2uFg6RtVxx8gnB09624tuqhLS3oqN-uRylNyprl-zo2jLfR_sWzzXwdCaqNBE4kKLetrmeBD4H8iEEhNhqBYBW3UJsXGMSPT91yT4EW6GIej3y-c_5bp1LozqXO_dR5V_3h8pzoUr1JiqR9F1H4C2VIXdRPC32WlqckE5i1fubLrTy7CxLVAEVWB7WeVAWzXef7gNPYx6qeYzBBVhYmXXTuzx2DAp1y-1UVVnNPlAeHt-zpwLFRctYwwfTxAJT5ihpz5745vKPNMjJStcSqWIal-A7fjJPgHzhTbqJWhX70_SRzgyDW-L_OArdWulAQDEbABDg.jpg"
+    ]
+   ],
+   "reason": "Not essential news for fan",
+   "ch": [
+    367
+   ]
+  },
+  "227": {
+   "t": "🚨 José Mourinho: \"Roma are not just good, they are very, very good.\n\nThey are TERRIBLE to play against.\n\nBut it's IMPOSSIBLE to sustain 90 minutes at the level they play at.\n\nI could feel that their gasoline would run out.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31444,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/RnDY676b016J9Dit87sJoEg-q-VOuE_ZhFTG8jarF-BkhOcBQwxvX-nZ-0PS1aTERrDYZzou0-Ogz0rf6tn1p4L4gf0tTm_11BHiYtbhkuiO-cCijU7Lye4ManPbKjL2xTXo4TN9W04dkH_B4oD8bCoAoy_Cv1UsRYFk2s4lg_SXPPpI4VZUjIALy_6oxl2AhV6rdkcyWwcf6VxZT9dQGuyhUgkAD3UebUyZY9byWCZ1QLAyUWajKi_CZbBl6xcf2OiAqbWHagfRFaJ78PdVXVG5BoYVqqBNZyrtWwZgjlvb1Pk-TgsRUrsq4XINLLpFldXmuXH_s5W53T06npq3Nw.jpg"
+    ]
+   ],
+   "reason": "Redundant coach quote, no new info",
+   "ch": [
+    368
+   ]
+  },
+  "228": {
+   "t": "🚨 José Mourinho: \"Roma DESTROYED us in the 1st half.\n\nAnd then, at the start of the 2nd half, when we started stabilizing our play, we suddenly concede a TERRIBLE goal that we should never concede.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31445,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/DxFO3gib2WBGixhR_vP0NLHovGlIxDFYCO56Wlw1HROOgGFiyHynOYSgBlWeEpv0s6oa7sla2eQ5WjpfMHimrWO5Bv4uGIIwqnfXo__gIjTfo3protASYhkbOgo514KxLhc1jp2UlmU4551gAza8ygupn-tFE3-8nAo-L1L4Gbc55i7S8XVXEGQ1hKGh54ckn9QGaKHZhN-QWtULiV07PJCDC5B5KLmqj70JpvLcoPnJURF8MVtRb2ELY1v8wzPi41jdr5uOaTug12pc7e_UdTGAedvT-glALbWXAsSE-WzHqoTU32294MSvrb2loIAahZfpmyd3lMQjjeeVic_-6Q.jpg"
+    ]
+   ],
+   "reason": "duplicate of earlier Mourinho quote",
+   "ch": [
+    369
+   ]
+  },
+  "229": {
+   "t": "🚨 José Mourinho: \"Do you think it's normal for a player of a Spanish club, to receive information about a 4 MATCH BAN one hour before the match?\n\nDo you think it's normal?\n\nCouldn't they do it now? Or tomorrow morning?\n\nDid he really have to learn about it on the bus?\n\nTHEY ARE SHAMELESS.\n\nThings are OUT IN THE OPEN NOW.\n\nThey are NO LONGER HIDING.\n\nThey tried to K*LL THE PLAYER mentally an hour before the game.\n\nWhy? This is a Spanish team, why try to hurt him?\"\n\n@TheMadridZone",
+   "ai": true,
+   "label": "🟥 Discipline",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31446,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/LnqfQ54lKuAf3eSpG_z6gDr4USjtuDZ5YpZI8o1wCC18zz7PG9OrycaEJipVQ62q7_0zrMHPnaAYgLHdE5HBJzPIGrCjasw77_rvLjQVj3NJ1rJQRlg7gkGUsHKUl2aa_QKLD_X0u8hdlwg26kGRxypYhIXVVyfomdd1YSNDtal7UT9XoAvliBeQ-EMLDrAQgbkqRb8WXkzLGB3a-bHCYXK6tSbUMeGK4FFeirSHuh19fG_7Sk6CYUmlgAMQxSINefM0uaaFGwOAdn_vX4oj7J_fsKLWK78guzZidfveAMxCYXvDZzao6wGMeyZoCfTGPiIG-1jf5jgk05CsbroRFA.jpg"
+    ]
+   ],
+   "reason": "Relevant disciplinary news",
+   "ch": [
+    370
+   ]
+  },
+  "230": {
+   "t": "🚨 José Mourinho: \"Vini had a bad 1st half?\n\nIt was my fault.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31447,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/VEfvInQHt6oVfLTdxm9fyZfbWhiwCcW15-HppEniM7r_BQ36pAdHe-pSA8wAPZszh3Y5w85auznw6HnyPsThPI-xsDf0rtr1FKlXlvQXk7ixmSI20Bo47Xliwq7xr2FVZFw0aO1-XosLlrig8UVbWlVY5HFFGAdSGVGau_g0X437DNexWlgteg2DNEzuy5pHSTu7v_145whgxFghMPEv9Bvq3MMg9wtHyjYcvZ9oStXf3m4C0evJcn0BAm_I0GT-k30xOHqQ9GEfQE3AJnsLfu7d7fe9hxJcYgRQF25xaaYuR-nlNjq63Kl23BEEgdEzmnaz6lfwLJZfVg2YMo54_Q.jpg"
+    ]
+   ],
+   "reason": "duplicate of earlier Mourinho quote",
+   "ch": [
+    371
+   ]
+  },
+  "231": {
+   "t": "Comebacks in Rome on UCL nights 🔙\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31448,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/cjG2Dxor5JP-cBOYvU2J1S735wtu6R5sErIycY7IdLt5zBwS1_mnFVynUbt8BnOlxwcFsipQcmaY4gIpqit3LSWRCokGdqn_98xsGfJPkhEE0_NXhH2IuFFZLZGzbza7LSYFSjYI6TJ6A0r0usCjPw_58U2M7GW9qwotvh3x0636Z2Kx1Eo0FDFP4FMWv6VS2AdB_4nFDagdBUeZL-byKLbotMD3X4XV4NCsCIWJHNrRWQblkCV4K8yQ8jYVlh0N3Divi2SzfHvhk_NwFseSKXpxLGzuegRstTiHkAHsV9QqzymMZVdUQvBGyVANL_RtvQJlaIiBDjbYNIj2UD15-Q.jpg"
+    ]
+   ],
+   "reason": "No substantive news content",
+   "ch": [
+    372
    ]
   }
  },
