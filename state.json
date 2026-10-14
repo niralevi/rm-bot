@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31232,
+  "themadridzone": 31233,
   "FabrizioRomanoTG": 67284
  },
  "sent": [
@@ -1057,8 +1057,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 30,
-  "tokens": 49489
+  "calls": 31,
+  "tokens": 51112
  },
  "pending_fb": {},
  "feedback": [
@@ -1280,19 +1280,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31211,
-   "t": "🚨 Only 3 players have scored in 9 Champions League games straight. \n\nOnly Cristiano Ronaldo has scored in more than 9 games in a row. @Sofascore 🔥\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/IapenHCfSl4WjegNZVjoJyXJKm4cMWBSgbloRi9WuG3NXcvihcngOoIfb2r0g8YQHhjcHY6GN6IPgvj4tHCO7beuGrTe6B9fvOE2peoTrRcesk5NsMUwPKOs5ALVJa3bUNQw682s2eZ0SQujvdpYcmefCeXMAu7dZ-I4TFFSp1Q5pBhlXh3Oz-EnYn_hgGVZzMLuzfUWe8zOq7_D5QToR_Ho7YSDSgbsQsMoEM0u0sS-9pBlJBmi1dqNOACH4abKGayRtb6O25HQdJ2D4Ot67HzfwxNC05obOupJQAVEh_q41i9sdYQEm2LlRkH6CSUphcxBvAD5g9sCTb4UPDvKug.jpg"
-    ]
-   ],
-   "r": "Pure trivia, no club‑relevant news",
-   "h": "🚨 Only 3 players have scored in 9 Champions League games straight."
-  },
-  {
-   "src": "themadridzone",
    "id": 31212,
    "t": "Jose Mourinho returns to Champions League with Real Madrid tonight. ⌛️\n\n@TheMadridZone",
    "m": [
@@ -1496,6 +1483,19 @@
    ],
    "r": "Irrelevant lifestyle content",
    "h": "Gareth Bale x Mohamed Salah, 2016. 🐉"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31233,
+   "t": "New FARM Rio collection by Real Madrid x Adidas 🤩\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/TDbkDQDfMA8oYSnfc1O-G4E0Rq5ZQktt4nM6M-tekrz4mue3v-GxOow0gfwZ7wYP4sHhEMJsVc-qaklh4vQEEE4xyPey1espIZteJbE4JUM3gX_e2dinSnG_Qe5Ta_kZ_QBqO8D5FuEz5j1B9O8BXsYclPeYhq9-L44-yRs5YiEdnJCJp8eDisZiB6GIB_flO0j8n9YX1oHSMp4f1H92j2UFdIpucOqwarOniluQT_ltRFK2Njldo5g_Tf9MN6lVa9AsKGMNH6oKtC13OmIVOPJdCL6HOVz_OWgJu5ABCc7Bonwg6zSllxVBm9ehBYClwckvsBj8j-opfaCGWe1vVg.jpg"
+    ]
+   ],
+   "r": "Lifestyle/advertising content, not relevant",
+   "h": "New FARM Rio collection by Real Madrid x Adidas 🤩"
   }
  ],
  "summary_date": "2026-10-13",
