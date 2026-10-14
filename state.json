@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59241,
-  "themadridzone": 31339,
+  "real_madrid": 59242,
+  "themadridzone": 31344,
   "FabrizioRomanoTG": 67303
  },
  "sent": [
@@ -1233,6 +1233,31 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Kylian Mbappé OVERTAKES Raul Gonzalez in Champions League goals.",
    "link": "https://t.me/RealMadridImportantOnly/221"
+  },
+  {
+   "ts": 1792006240.680792,
+   "date": "2026-10-14",
+   "tokens": [
+    "all",
+    "champion",
+    "fifth",
+    "history",
+    "kylian",
+    "league",
+    "mbappe",
+    "official",
+    "scorer",
+    "time",
+    "top"
+   ],
+   "names": [
+    "kylian",
+    "mbappe"
+   ],
+   "cat": "📢 Official",
+   "status": "official",
+   "headline": "🚨💣 OFFICIAL: Kylian Mbappé is the FIFTH ALL TIME TOP SCORER IN CHAMPIONS LEAGUE HISTORY!",
+   "link": "https://t.me/RealMadridImportantOnly/223"
   }
  ],
  "offset": 769011999,
@@ -1668,7 +1693,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 117,
+ "train_seq": 121,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2626,6 +2651,82 @@
    "reason": "important keywords",
    "ch": [
     221
+   ]
+  },
+  "118": {
+   "t": "🚨 Yan Diomande gets his first Champions League assist for Real Madrid!\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31341,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/rsv7tLUcR6_KIJx8N8phZVZXotSbt6bXvFp0RYh333sGy4Ll2Lc2-BGT7m6acLxcl2209dqZ6xmbfQH8ByemnK_iPZS-oJ5r21LVDudTDZh2IAe4sMZWYrw235kfMp1JWBJkvfXbbRMinhTJUuw9H5xY9cXOWMMJSVfXP4NObZ1R0wQv75dp_dkM5Ce0zyhq8X7b664TBUa76Qbs9v7WiMgaRwwkmmzR-ZDT8MImbpMwLvCiuUjAPniXriCkvLE3ZwNEl1Md-DC_zGoFkDqnwAwrdc62j3lOYNRepUvSf10UPd98Hzy90IozFRaODYNmPXGR9bSelTxQ143l2roPtA.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    222
+   ]
+  },
+  "119": {
+   "t": "🚨💣 OFFICIAL: Kylian Mbappé is the FIFTH ALL TIME TOP SCORER IN CHAMPIONS LEAGUE HISTORY!\n\n@TheMadridZone",
+   "ai": true,
+   "label": "📢 Official",
+   "status": "official",
+   "src": "themadridzone",
+   "id": 31342,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/QxJPXmIAcDHtqKZjHfdsbegnccrrm3iDyKQEStvP54FYasvNiNQsxHCr2kwcseqiR98rykQoc3vhmtJGIzo8ruBrHctRZXFBNpXLuda6_nBKRaP9ptvuS7MPgTyEMSx-DiOr8cLJ170zV5bSuU8s6xEi-seVNB-JIRIlAjYrNbZ2iRdGX5CiWGKfYLvE1D357Hln3gUSlPPGiM3ZdUkdPuVjzBCt10uqGXRc4zyD0oFEWQZhsbVT2MkYvq824yTZlDQrbKQ28mR0HgBxj2rceU1JbrWouahEg1fOuODCg0S07Li7dZzESjfuHrAEXaXhu2bsrJua7BOxkCFuGAX9xQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/mWQVzsxxAWGj3HEtjdTvd96cLiEeiW4OQpQcxP07rEufoq0CW4-hNXl-Xp_5Tq2SV4YRPbYPuYRoHnnrwRoI4PlMiWHYVzPQpGFj5Tir7NopS3-ELpyFfRcy2D_1PAPY_Zz-xtNZsFpKcbLBU4tcNUFSDKlQ-gVmAF9YrqwWVGUt8WgqMC1gK32oY-FdnTT3zPbEo5UXolbHQ6hNi9DwxR4JH8svbJxJiNXARaJuHVu2vlREKno4X01NmQYV_77h-s-ufg6rGGGjU3rbYZMr2FZ5Czi4WseV98GJwsNGniplPLrlw_xIBkY1nwg7vk34nVNhHd1Q9Qz0zUtxPk93Og.jpg"
+    ]
+   ],
+   "reason": "important keywords",
+   "ch": [
+    223
+   ]
+  },
+  "120": {
+   "t": "🚨 RECORD: @Kylian_Mbappe moves into the T5 ranking for UCL career goals.",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "real_madrid",
+   "id": 59242,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Z10IB0OIOfulaWKy8xHfedPFAvCGcMs9NbJylDAYC_W8YLH24Eza4EvzU3FEK9JYF9SoCu1k29TokQOhgFXk_rdvXp3oH-rnb6wK1Hd4LHzrxEZAfM8jARX6DY7Z8Z6R2JArr9xUVc2O5N_hOlyWAK7dytEzVBdse_TiFryj_-s5Wp1VBaqsPAD0QObl6rMLvEGlIIl7bAh9jRePzkV0eEf-byMDqA1adcwci8NwdDQrGtlggHoUNfbU55lpckd9lovl_HVbzsF1qqdxdbSbJgUqsiYF0hgkSYT3lsDye1vM0bP2nKJg_iC6oNL7YxQ7R2P0l-P7zDUdb2GFDHeK5w.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    224
+   ]
+  },
+  "121": {
+   "t": "🚨 Top 5 ALL TIME Champions League TOP SCORERS:\n\n141 - Cristiano Ronaldo 🇵🇹\n129 - Leo Messi 🇦🇷\n109 - Robert Lewandowski 🇵🇱\n90 - Karim Benzema 🇫🇷\n72 - KYLIAN MBAPPÉ 🇫🇷\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31344,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Ly47VuOxv34XihMJPFFGZlIlqgjnYc-UCtXn9aOJtUglrPnmxb_feM_CRXuGnJRlpzEpPciojlQtfbQDxBwbux57zpw0Krtb8bx2cJ0QLEAhqK4c72FNmQo-zKeZFFEz_p6TQhG52wzm2SLt7Uvb58XVOU71g3elnpMxHEWIMmE4q0lSwsviOh1gcAQUdbhIFT7POXQdVVBPuZZ9nbdkCgYzPACeEAKI0bsBPNlxzLyy_F0gpIt0Z6D6OH0_yxOoueFssW2i2L1vnsYI12y9rQM-niZJN7i_-lg-axeT3FdCVH-kyVByoBT1B8E7opC1zRT5CDItaHhL1n8KuLzQxg.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    225
    ]
   }
  },
