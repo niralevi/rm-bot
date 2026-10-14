@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59229,
-  "themadridzone": 31292,
+  "real_madrid": 59231,
+  "themadridzone": 31295,
   "FabrizioRomanoTG": 67294
  },
  "sent": [
@@ -1067,8 +1067,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 80,
-  "tokens": 132942
+  "calls": 84,
+  "tokens": 139540
  },
  "pending_fb": {},
  "feedback": [
@@ -1289,49 +1289,6 @@
  ],
  "skipped": [
   {
-   "src": "themadridzone",
-   "id": 31272,
-   "t": "🔙 Real Madrid’s XI the last time they faced Roma in the Champions League. \n\nMariano, Fede Valverde and Marco Asensio came off the bench. ⭐️\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/J0odl-O9Rzk8sA_DunUGgMA8-BakSrHCpbwsifAvc53agkVKU06bbzgF7UbanLAVia76e6SiluRJMBHm8w3FQc1HOFnR4jAptUWXEbRp7H90Y7h5Jqi0ygVIXBLPBS7-0wIpxSfRO9JqGlfJc_gOh8wGeVY_bwAMHvz_PoMvhbZayddDWYwMaK1EjZ_ANlniaynHFLk6HEpte40TlPLGvYCol_1x3O5t6eIb5C5gE4YfonYltdIR3c6mE-6_8xG2qRj58BxMy_RzqYxYegByXlFJTVKCO0Ezuit_W_V5TZqE_E9SEeqT8vt9oDvn-Y3s61O6pzHCy9qxMM4qqiV1lQ.jpg"
-    ]
-   ],
-   "r": "Historical recap, not upcoming lineup",
-   "h": "🔙 Real Madrid’s XI the last time they faced Roma in the Champions League."
-  },
-  {
-   "src": "themadridzone",
-   "id": 31273,
-   "t": "🚨 BREAKING; Trent Alexander-Arnold is set to START vs AS Roma tonight. @diarioas\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/eZr1T1zudhpV8f9wADn-28V1dxZkgEDo2aKR9pdDVcJtV4DoCC07FHVK3AVQTFjpWCW4DAeyfJ3et0GkQWii9dbQ_Rcd-4NPq0cqQzQmXWoR1bfw0anvFcewYOGu_lM9N2qgTRcL9Vz9WDmJsjpPXDe7VMLT-4SQxclg176ujcWSWGw7_Pd_aJ-hTSnRjBbvG9k4_rYw50h0LrVjYYv-JrOlNJVEf498qJ89KZPeeIaQyP8g1OE72qCj07DAO-eor19-WjAghDFcwHPaGSC3DjGPQ4-Nvx0R7t3NNrq-WO7K4bXk-dXp1aYlNHr4KZEFslPqxq44q84a379x1d9bgw.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/hNa9Si_YdCVRGpMuo9YHWVK4zKyOfTm8CwchgTpr6vX4OrCwR4-Iu09ybYWBt_OzxWebXmd_HnG9sEQ8e_PkPxziJES_3XleyvzlM2g5cSpQceyww3zoNg_jLbwHIPKDZvj4x4maVwudPNUBEw3vnjU5JVGSVA0AGdQjtMsGpEhP12lNyVXbt3k_0qfgkS5mcMU9h95zKOsRhX0GjxY5xvhYww5smvtWXpguxI3x7CM8Ixl5TJj7eAmEDPpEbf4q-iJEwHKaElwT_VoWaMvj5pI9-raUtnaVJO0w9OTZhHXbQeCULnbwt4sm9c4eOV0zKjh1VnV0hcWoB3CxLCaL2Q.jpg"
-    ]
-   ],
-   "r": "Not about Real Madrid",
-   "h": "🚨 BREAKING; Trent Alexander-Arnold is set to START vs AS Roma tonight. @diarioas"
-  },
-  {
-   "src": "real_madrid",
-   "id": 59224,
-   "t": "⌚ IT'S CHAMPIONS LEAGUE TIME!",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/cC2FQR6Tm4HIpvwrEovuXA7HR-BfZO-2CqWxv66rduwkSTKxR12AeHUdhyGYvKL5ihP3y6whLZJQjlW4uU9T8un1Jrq5NgVtkXFzId20udYv9B3BEYAfWATtgozeXNCexizugK6JnHZrPIVlcHBo-Tx_jtlgO2JetspVHKrSUzvVdnGVGH-LAx-m7Ksv30MlccGM8MnfpylkIa46EgmiuJ5bAqCPoX8PXZUHWliJYeZaKoFiVZLiOEwI5cJ6km7Zro22sNUYg4wNPqvcK51YXJdCEsGs0BPXM1BzG-02MWCVuzEIOFvCVXbqUUIDL0CNfi6pR1H4BV59s8pV6l_qIg.jpg"
-    ]
-   ],
-   "r": "No substantive Real Madrid news",
-   "h": "⌚ IT'S CHAMPIONS LEAGUE TIME!"
-  },
-  {
    "src": "real_madrid",
    "id": 59225,
    "t": "🚨 UPDATE: Viní Jr.’s ban is expected to be AT LEAST 2 games, with a possible third because of his “aggressive attitude” in his reaction. [MarioCortegana]",
@@ -1485,6 +1442,45 @@
    ],
    "r": "already announced suspension",
    "h": "🚨 Vinicius Jr IS SUSPENDED and will NOT PLAY against:"
+  },
+  {
+   "src": "real_madrid",
+   "id": 59231,
+   "t": "🚨 𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆: 𝐕𝐈𝐍𝐈 𝐒𝐔𝐒𝐏𝐄𝐍𝐃𝐄𝐃 𝐅𝐎𝐑 𝟒 𝐆𝐀𝐌𝐄𝐒 — 𝐌𝐈𝐒𝐒𝐄𝐒 𝐄𝐋 𝐂𝐋𝐀𝐒𝐈𝐂𝐎 😲\n\nVinícius Jr has been handed a four-game suspension by La Liga and will miss:\n\n❌ vs @Sevilla\n❌ vs @Barcelonaen\n❌ vs Racing\n❌ vs Valencia\n\nHe received two games for hair-pulling and another two for aggressive behaviour towards the referee.",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/qyPPSCIdGTRIG-E7m-BjD9LAaFCb8H-02_v6ZkJJIQvgkZcwoLOjcneAx5cF1JDOfAOkYBxQEb40xJGVqYpCcowKygrGvejatFdVM5t_ROqFUA5526CSrzRLqm0aM1CL4x3j24v1mf7zEF1D0XH3t0GyObiUdpYjUI_ozfBmtkSLz1pX1ARTh7iowbjD0HYLQl6Ut7nBew2EoOfjTv88e37N95yob569_ah_uZNjmwPOFfURMDNbKzjwF9riLb2GSg1aaFISLtUCGaxUOIpoThN-poOTIEWP8cIR-iWmfGqYblGJIVv2oLExc-Sg29IXbAtEdDI2Vr_6hzcKbQRRng.jpg"
+    ]
+   ],
+   "r": "already posted official suspension",
+   "h": "🚨 𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆: 𝐕𝐈𝐍𝐈 𝐒𝐔𝐒𝐏𝐄𝐍𝐃𝐄𝐃 𝐅𝐎𝐑 𝟒 𝐆𝐀𝐌𝐄𝐒 — 𝐌𝐈𝐒𝐒𝐄𝐒 𝐄𝐋 𝐂𝐋𝐀𝐒𝐈𝐂𝐎 😲"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31294,
+   "t": "Vinicius Jr ⭐️\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/EqEXIzyDxQTzHSKH-AbxgQ4g5MgIJCym9IfZ_4ECr27CuK1LVuEfzjg2Estqt8tpq0J3Ya5sJLAVc1HmjU-Xpu5yX6KHEVm0AQQTPZWc9P706sR8j_yi8FSTCqDX4384Qwls55NW92kXcQ07add5_2jQ252TmPviTRtgoGxXjk6wP8ebtu-7YURmXKAg3gl51fP42K5MZOWA_PwTvGtmHJal7Rg1TeLkz7o_8EOEVTFll79AnslUNLIiXNgU_xnOm7Ts5_IyoGD2oQ-5dZwTSuWmz8gxMgggQIKf__-AqcpZ7gvetW_gGSDSzB-v8MnZCpkeqZ51Jx942ozHt9w8Cw.jpg"
+    ]
+   ],
+   "r": "No substantive news content",
+   "h": "Vinicius Jr ⭐️"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31295,
+   "t": "Kylian Mbappé is HERE! 🔥\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/HKjlLFLoDaelyH2JNeUPrRK5RShulb4OqZB_7hE7qGspDBxL-n3lfmaexRmk3RGEa_K1MJ9KW9qP0FRgcHmR4NpKVTX3jYZonh0LzzGvFVmalXrriJoAtuYmW-U1TLBxQQ2g8Zx8iASoxZIsRf9bdVB4xESZWLwH68ojsr0tpKyMpHQLqNPuDTaCfC7p0_KD-ZmOyk7QF3Jdjo2B88Zx-XOgl9Tp1HDor0g194crQ_DOiqo4Gg0Owit1wKrp-Gi5C7oR-m6_VWzS25xVtdAAnuyItCu4dk0LX_h0lZRRECVA4GdjZ_SvCusxA00oa5lPe-yjbYmvKSw8h8g86bbHng.jpg"
+    ]
+   ],
+   "r": "Not Real Madrid related",
+   "h": "Kylian Mbappé is HERE! 🔥"
   }
  ],
  "summary_date": "2026-10-13",
