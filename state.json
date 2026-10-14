@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59243,
-  "themadridzone": 31363,
+  "themadridzone": 31365,
   "FabrizioRomanoTG": 67304
  },
  "sent": [
@@ -1293,6 +1293,27 @@
    "status": "rumour",
    "headline": "🚨 Roma vs Real Madrid first half:",
    "link": "https://t.me/RealMadridImportantOnly/256"
+  },
+  {
+   "ts": 1792008681.7596793,
+   "date": "2026-10-14",
+   "tokens": [
+    "1",
+    "2",
+    "donyal",
+    "malen",
+    "roma",
+    "scor"
+   ],
+   "names": [
+    "donyal",
+    "malen",
+    "roma"
+   ],
+   "cat": "⚽ Result",
+   "status": "fact",
+   "headline": "🚨 Donyal Malen scores.",
+   "link": "https://t.me/RealMadridImportantOnly/270"
   }
  ],
  "offset": 769011999,
@@ -1728,7 +1749,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 139,
+ "train_seq": 140,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -3074,6 +3095,19 @@
    "reason": "no important keywords",
    "ch": [
     269
+   ]
+  },
+  "140": {
+   "t": "🚨 Donyal Malen scores.\n\nRoma 2-1 Real Madrid.\n\n@TheMadridZone",
+   "ai": true,
+   "label": "⚽ Result",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31364,
+   "m": [],
+   "reason": "important keywords",
+   "ch": [
+    270
    ]
   }
  },
