@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31265,
+  "themadridzone": 31268,
   "FabrizioRomanoTG": 67288
  },
  "sent": [
@@ -908,8 +908,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 51,
-  "tokens": 84560
+  "calls": 53,
+  "tokens": 87796
  },
  "pending_fb": {},
  "feedback": [
@@ -1131,36 +1131,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31240,
-   "t": "📸 Jude Bellingham x Adidas x FARM Rio. 🥶\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/BPEICGVe_8qEBoAhvs8GqZbAbnvNsL9z770homXQe4PFxdYKVUfFbK25ARlhodOhoTDmA_x3qRuODQJh-HdcfihX9mmmVkI2bf8CtJRyoKzZcVx76esD7tYzY0TmDrQHCwq60sehxKiXN6g8mKCHhqbsA68vSYtR78ZUpneHa7XWS3cP3Wu_kDHZHW8w0PcrK5ZIFNKpeeY3JEYu4oj9wwx0cWCiV9nShWh2iS-IoRvUPPmwO7DEEMHabQjOFFE0ipmi4E8FL7zu-EMX9VvwD1Uhp7GuE47qsl25G707QyNCPVUUk482sZjlL-o088RxJp5bUEfWqDoeMyFGvHgoJw.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/gHyx8-fAzcy5fRHRXCbxIuzuGCt-5hbIInQmcSHF6sOtNWR9cZwHtyZ_FWhUtyF5lUyDGsvsaSguDUD6qdWXq0-n_jh8A5AeAOSDM9VS1u0646baGlP2b9XfmLmEVTxe3dGrF7w7sFLTaJn__rYWMkeHP7eAtfTBDX-KpBUyszoZfSiSpPN-TdTEl7haQWq6XyNHn6OOE4NMtzggp5n_-SGOqNz9TrLVQNYAZQjBxisHE-QRycSx_ezfYEoCbIkLMZGbBIqvtc5zS4kleuJjeKnYxy89m28Z8zngiCvMNePAe-PMO1Pgh9tnyJ1m9wQZ610KKjxVHpmQ3SVUhk-W3A.jpg"
-    ]
-   ],
-   "r": "Lifestyle promotion, not relevant",
-   "h": "📸 Jude Bellingham x Adidas x FARM Rio. 🥶"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31242,
-   "t": "Arda Güler x Adidas x FARM Rio. 💫\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/cwao__4YsmJ66IXZzBujqKEbRH9TGht-QwAlfxm_5bEQQBwA1yd007590N4gTl1XzB_v6hkG4eI915653XiDauSwo2PR9I8ta9cSYJkddahPqBcekvz8Vj-vCPC3Ou3GRoRIFvMexn_C59PMxQJoBbPjbta4pMPuNB1QGmNmmccVlDOB3h-cxkFoacu3JDmDX5J8XxdFdfQ3QjGwcyoZ72GghCKklDseuY8b6bO0m1SOP1ThRZnvp9gdEon1VvAALTushnzhOkdY_Cdl071bSYI7NOj5N9-hYwdR0mTwj4kmoiwzJ3s5V1_B0BOjGHxnOnvQ35c8sJzQZz4cXl_VoQ.jpg"
-    ]
-   ],
-   "r": "Lifestyle/advertising, not relevant",
-   "h": "Arda Güler x Adidas x FARM Rio. 💫"
-  },
-  {
-   "src": "themadridzone",
    "id": 31243,
    "t": "Jude Bellingham. 💧\n\n@TheMadridZone",
    "m": [
@@ -1367,6 +1337,32 @@
    ],
    "r": "Unverified lineup rumor, not official",
    "h": "🚨 Antonio Rüdiger, Dean Huijsen and Jose Mourinho RETURN to play against their …"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31267,
+   "t": "Andriy Lunin wearing Jude Bellingham collection jacket. 🤝\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/fsLs8tkiV808Ded-xTImVs9Flrecf5kAGFqCWMPRErfkroE06jsKtEI-kmcJu90al-j_PRa4krUSs4YMGmpsBpqdGwbAAKgNn1tXtYAfDf629NiMCnCWNTlQhnXMQDSnThFAq6u7ZnzB4I98ttCb60_4a7j_wDRhFjGtRB-tXDlrj_fDZWX2I6ubld0pIazMXILwa2q0KR-vTx72v0AkWgbIoV1GEiBLYkDnTXlkSvzBoUxbhe-GP1tdFIMfJ-MD2pLjBlcJQWIQdaKw78dxeMF3lSP3LqadPaNU2e8kM90t6Yjgh14PJMaTKihKY5k7F655WBs3UZcq2AaiNZXq1A.jpg"
+    ]
+   ],
+   "r": "Lifestyle content, not news",
+   "h": "Andriy Lunin wearing Jude Bellingham collection jacket. 🤝"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31268,
+   "t": "📲 Rodrygo on IG. ⭐️\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/XDtORp9u4MsBH_OOl1CXwJY80gjpUvwS5oZHBsAhnsqNlWdDuP4dYDVuNbcYNYDoRKqsDQFp6Ps3QJNCwyXRK1-DRrEO5piTPVZkt5v_xWwWSLaQR7c9qo-e6a1JqeU5CaQI0x7q3DW52Y_yPt4IbCxOeiWJkhQCr0dBZrJPWTbiYR0ISqsSdLg3Lb2M9BhXwj0U1NvAd1plpu_by8ZsfYfM6qnkz5NA5z99B685z2JvEg3mOJ-UwllbEazJVL9NSW0srplYd3n-cNoX33qUSi2y76qczkO4PceYXIBELLTF7YMpc6uVj6NuuOzdYh7iwQ_z5Hh5E2r1w7r5Y8w58w.jpg"
+    ]
+   ],
+   "r": "Lifestyle content, not news",
+   "h": "📲 Rodrygo on IG. ⭐️"
   }
  ],
  "summary_date": "2026-10-13",
