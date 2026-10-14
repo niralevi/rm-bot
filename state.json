@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59234,
-  "themadridzone": 31303,
+  "themadridzone": 31305,
   "FabrizioRomanoTG": 67297
  },
  "sent": [
@@ -1113,8 +1113,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 96,
-  "tokens": 159279
+  "calls": 98,
+  "tokens": 162590
  },
  "pending_fb": {},
  "feedback": [
@@ -1336,32 +1336,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31287,
-   "t": "🔙 Real Madrid vs Roma, 2016.\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/aB0x2gZA32ZInKAMeuuR3XK_zeu480dBYNe7van6N8JQXj3ByRIh4xZ3OUfuy-46_yu8FYz_VXJVZY0dorZ9eAiVaOc55Wak8yVocNddtZtuPWWBfhptr_iTtzUI9-fFPKtBSDNy8Hn9RbehZfcxUEJw1iWLHFvufrZDPeS8iPXFWU64Rg0FxpLLjePjqkvhlmFfMm9piI_A6y12lGIkdPmke2eNNDVDvooJHh3rKCMstGS0do-08pJhFwduXw8xFTEtnKgICXFL2zq5znB5dX8esCkSqPeP7j6NGo4iL-AAGvVPUe9BBMMU1pND85aprhFBGQFtc59ByiQ31GPptw.jpg"
-    ]
-   ],
-   "r": "Throwback, no new info",
-   "h": "🔙 Real Madrid vs Roma, 2016."
-  },
-  {
-   "src": "themadridzone",
-   "id": 31288,
-   "t": "📸 Screenshot your predictions.\n\n@TheMadridZone",
-   "m": [
-    [
-     "video",
-     "https://cdn4.telesco.pe/file/206acf8566.mp4?token=J_p4sA1LNLxsgYGmgjZgp7Ne3yGbl1cfrrkTogu9FHHfkiOWPNm86ZegEjRGszvRYjK1sRla-XsN6u1DQ8o7mFB3ZHQQQ7KYuZ3cIx9pKtxsJGltXDPw97B5vokJQ4PwFXO6jjXBBqt30WLdxfON5MZ8nMmZWlUdYJlYrKeVayx_Jt3Bs1kZ25ljxp9KFlXGwH4ggbUa0gHOOx0_n9YsQ4vdGg-fqC-SImQ-mDCLBG1azmiOKe-YK_c7MbMZz3GgsfdHf4DsVEMGWXjmqjNS7rrfbV6GlfatSUmv9S8iq7lzXoFwhNaxxFnofHjBwE2UycxkvKOzHjaYzwxvzokJ9w"
-    ]
-   ],
-   "r": "No Real Madrid news content",
-   "h": "📸 Screenshot your predictions."
-  },
-  {
-   "src": "themadridzone",
    "id": 31291,
    "t": "🚨 Vinicius Jr IS SUSPENDED and will NOT PLAY against:\n\n• Sevilla\n• Barcelona\n• Racing Club\n• Valencia\n\n@TheMadridZone",
    "m": [
@@ -1522,6 +1496,36 @@
    ],
    "r": "duplicate of recent post",
    "h": "🚨💣 BREAKING: Ibrahima Konaté’s yellow card vs Villarreal has been OVERTURNED."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31304,
+   "t": "🚨 AS ROMA STARTING XI VS REAL MADRID:\n\nGollini\nMancini, NDicka, Hermoso\nMolina, Koné, De Roon, Wesley\nDybala, Malen, Soulé\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Nd7odBE3k7Sd1cc9spRjUSO8EWCXTnoVG6XiFUkqkbbiFiFF3U_cScEMLsNGMtcihF3yu45pLvftbwSu9ISnr0pjFhFth5IEg03VrXihIgM0NMl_cdgmpTyUAr_09xBrbM5taJM_iENBOc5Z-ZLb9beihaNlnJdJh9bd-0cYjyX8vdqwVKmqSk2tdpPfAwjEyx0Vi-wFX-4_lg5xBEg6Xfj54Nh2sHxK5p-WKLROpqAddfY7fcQZMRwFk7x5-uJ8dXm6ZcocMms-UI9EtzovWWhTMSy5B8YxhfndBAGyw7T-gTrH3s9w5dxb8E6ISpcgbMb-_k1ZfGgESFkoKGRXYg.jpg"
+    ]
+   ],
+   "r": "Not Real Madrid lineup",
+   "h": "🚨 AS ROMA STARTING XI VS REAL MADRID:"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31305,
+   "t": "🚨 Gian Piero Gasperini: \"Real Madrid have the best players in the world, especially in terms of pace: we know that, and we have to be good as a team.\n\nWe'll try to cause problems for them, to highlight some of their weaknesses and limit their strengths, which are many.\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/TvUWwrdjBYL6LzpjCNTdgL135dsWvE94-W3BQjOZIhy_niM1IXJAbLm_uyovi55YkNgblmN0ThZwwdyLwqmUma2NnRJdfWqkWkqmh8vHPbFDaqcyFES-hY-_RhtL3FBYBZP725uUtBFO0b9j3Fv-OLy2daAJ1Bz_W0Si0mxGGkSODTWhKYjQy459-xH28XJ-_Kbu0QxQAD4d2m8aguEZ_xYsT_5aUTxldiBjb7tdBjWy5s_K6cpXIslkQJwFeTa0x_2VWiQANXnuRKJDFVgyAYQL267cvO8GoZHQWWRVdpA0U6tT6He1Lq_BM6TxsOkuW5NGD0XaxotDVCreWMIcyg.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/LejUarvBMoZvLMPiA_KtivjqHNzPnvx9l7nd4v8B5Tw_2nwoWZhh3D83ZZfe__S_55gyce_Y4kInW6qzk4gGk3EjIgea0BV0RKVjivXAC1Jj8pENvjRGCCGH8d7Z4Hiem4_Z9qM9zDM9TCMKuqnUlsZK8UiZU15DCE5OaI2rre9CSBd2OItX-RLlDR2jQy26AT6nJuvRjt0vWOkJq5TgGa0FzhULiTjbuI9bcZgcgP6XOvf5K4LsVMFe4UVzQFlEb6j_xlZfvTa655xiCPyIfVnCLs0qH4FdFfPLI2rgRdKigit98WvjdlWbvKL6-0Rlbhlge1muwmJ8-uH1Y8eRZQ.jpg"
+    ]
+   ],
+   "r": "Opponent coach comment, no club news",
+   "h": "🚨 Gian Piero Gasperini: \"Real Madrid have the best players in the world, especi…"
   }
  ],
  "summary_date": "2026-10-13",
