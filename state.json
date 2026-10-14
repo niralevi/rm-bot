@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31269,
+  "themadridzone": 31270,
   "FabrizioRomanoTG": 67289
  },
  "sent": [
@@ -908,8 +908,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 54,
-  "tokens": 89405
+  "calls": 55,
+  "tokens": 91022
  },
  "pending_fb": {},
  "feedback": [
@@ -1131,23 +1131,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31244,
-   "t": "📸 Viní Jr. & Arda Güler in the Adidas x FARM Rio collection. ✨\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/TetBUO_cwGik-L02aqVua7GXH2iRqrYLCmnjcM7vU-Gt3D7w50cQilOA9S6XBdmdXU5hxAuMeLe7rQKt6h8pwifmuTmdkNY6W-nppa6w-tnCMFbyJW85M4l7KVhCLmUmbIsup7jMiehlRkRN7LXcRsmQLnJOLRnsyF3tmK0hihw0JDb3v4tbNNR-ZM57R-boByxiG_4g0GrqVtOmLdDrAIrMjPWq3cUzEImtUDwdf_YNZblLYaEdNAZyuqrTq3haqtYpzSugW1qvmvTKV2DD_J2Zzpa3eK_ayG7fYkRXu0Zr7I0Oss3dkKgNq-_goPoMn7R0VUb8GU5UQiddYntlPw.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/hQowj7oUrEABgHVH1FtVYQXGR-9fX2azaZuOkR1keuc0DW3Ek3UGMe2TArit8fkxfe4TllZ4DWZ455aVVkAhG4nmMUADLe0047cUW2UnJh3mM73KOzrkFByQp3Ot3FAnOI4_xRmYilB7DRShM8gkoS6-uOuVC5rTJcBciQV_a9R8P_4veFOEQ77jz4hRvppwaLZWMXBDSZpgQoNkLQ3264sEjnLjkOcVRLPylgnXW97AmLX5xIZLenIT1Z1Ku7ESJZSmqTUJdbOnFoBSLyU0KiZqzHKmB028wn2F7xDVzBrgK8yg1WjOmbaiMIKOpCZtBsE6-j3ZHGooPKUPPwYzVA.jpg"
-    ]
-   ],
-   "r": "Lifestyle promotion, not news",
-   "h": "📸 Viní Jr. & Arda Güler in the Adidas x FARM Rio collection. ✨"
-  },
-  {
-   "src": "themadridzone",
    "id": 31246,
    "t": "🚨 Viní Jr. is the MOST important player in the Real Madrid locker room, in terms of emotion and relations between the players. \n\nJose Mourinho realized this from the first moment, just like Carlo Ancelotti and Alvaro Arbeloa, and focused on having good relations with him. @AbrahamPRomero via @Ramon_AlvarezMM\n\n@TheMadridZone",
    "m": [
@@ -1363,6 +1346,19 @@
    ],
    "r": "No substantive news content",
    "h": "Back in action tonight. 🔜"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31270,
+   "t": "🚨 Most valuable players by birth year. @Transfermarkt\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/FVwemt0JpIBiWgEtsVWMrfdZjnBti1ppSBU9WoI1-_tNgevZo8tQHiN0dR94RcsLuYmUnIePdFiN5ZZjUtITwsMJtrs65C3QKYjYwm_EV2h8S4i6aYkyh6P2D6KXwBhnUMX4MwXOvNiEuO_STZhQPI_gmCX7We_4atnI8AXl7whdNxDNCI_tqA1lW_1WgPYkWZ13qk4iy_TlIuC-IiSJtQDt5RZJzyTgeagNBBeAd60FYF-0DzXD3163ippQpgrBFxIzTwIKLh2-J0mn6wv_Bwn8dGCqwKJ2E8YKT6RGz6OQ1arYchTe7pH-AdSQUjV8CvEEGbdzjOUF7PaArd-p-Q.jpg"
+    ]
+   ],
+   "r": "Pure statistical list, no news",
+   "h": "🚨 Most valuable players by birth year. @Transfermarkt"
   }
  ],
  "summary_date": "2026-10-13",
