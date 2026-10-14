@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59231,
-  "themadridzone": 31295,
+  "real_madrid": 59232,
+  "themadridzone": 31296,
   "FabrizioRomanoTG": 67294
  },
  "sent": [
@@ -1060,6 +1060,18 @@
    "status": "fact",
    "headline": "🚨 BREAKING: Ibrahima Konaté’s yellow card vs Villarreal has been OVERTURNED.",
    "link": "https://t.me/RealMadridImportantOnly/184"
+  },
+  {
+   "ts": 1791999693.0233927,
+   "date": "2026-10-14",
+   "tokens": [
+    "official"
+   ],
+   "names": [],
+   "cat": "📋 Lineup & Squad",
+   "status": "fact",
+   "headline": "🚨 OFFICIAL REAL MADRID XI",
+   "link": "https://t.me/RealMadridImportantOnly/185"
   }
  ],
  "offset": 769011995,
@@ -1067,8 +1079,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 84,
-  "tokens": 139540
+  "calls": 86,
+  "tokens": 142762
  },
  "pending_fb": {},
  "feedback": [
@@ -1289,19 +1301,6 @@
  ],
  "skipped": [
   {
-   "src": "real_madrid",
-   "id": 59225,
-   "t": "🚨 UPDATE: Viní Jr.’s ban is expected to be AT LEAST 2 games, with a possible third because of his “aggressive attitude” in his reaction. [MarioCortegana]",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/GY07NVoHK37ng_vAURyAIAlmRdMuPqOJz_iD-UKhn6trkYSfcImz9uzLI4U1QhUrWzOgCf16OkdMIgUQqKViypSUF-24Il-NButnkuk-EMs0muSSBuuExStrHQgwOCOY5pW9lbJn6tKFXFd6BagcvH1HcOO0d1B8LFY3e4d_pryatNGOnoYqEXLXyd1QeT6dBaeruVaYXXHwSBxp4NK2ZgDI-1Xg7fl4f60ycmQQqpbsigDVoIn4CGRNGDsoun5OOrxs5udDeNUuqTxNVQakvvD6980s2XQxXl2zdGp4S8toe0MpwmbHF7Goie78C6HSIVgUYVPMKRmKJdYJeM-ZgA.jpg"
-    ]
-   ],
-   "r": "duplicate of existing ban rumor",
-   "h": "🚨 UPDATE: Viní Jr.’s ban is expected to be AT LEAST 2 games, with a possible th…"
-  },
-  {
    "src": "themadridzone",
    "id": 31275,
    "t": "🚨 FT: Real Madrid beat AS Roma by 1-0 in UEFA Youth League.\n\nCarlos Díez scored the winner.\n\n@TheMadridZone",
@@ -1481,6 +1480,19 @@
    ],
    "r": "Not Real Madrid related",
    "h": "Kylian Mbappé is HERE! 🔥"
+  },
+  {
+   "src": "real_madrid",
+   "id": 59232,
+   "t": "🚨 STAT: Jose Mourinho has faced a team he formerly managed 27 times so far.\n\nHis record:\n\n• 6 wins \n• 7 draws \n• 14 losses\n\n😬",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/V3yV8nuOGLe0_Boh81gsbDjIuHfDMJUadxHCjtE9NxgM3FBoPK9tNUgAl2JRyDVsyLFa3Dz4yxwuVg-rQA0OuiRcKcSOCYi2LAsAlD-pT4QkQet8JV6NC_Nv9tgozH0S9tXWdBv83RME7dFvlr7OOdFUV6LIszK7xa3ngC_sQC_kdwXl5jzu3cT6hRWeMHDWv82BvRfzAC9emVeEmw9czNKHoJC0Rd48QpA11W6Z1mypcA2YZYyQMuPagngbYu8pXmsMQw2cCblizGEhUIc73yrsek_bl6xC-6KqggG5sJKMeJ1A7gB31B2hdZ6zGEhApNnIBuiJY9iHP0MVjyaguA.jpg"
+    ]
+   ],
+   "r": "Pure statistic, no news relevance",
+   "h": "🚨 STAT: Jose Mourinho has faced a team he formerly managed 27 times so far."
   }
  ],
  "summary_date": "2026-10-13",
