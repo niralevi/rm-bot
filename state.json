@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59262,
   "themadridzone": 31465,
-  "FabrizioRomanoTG": 67318
+  "FabrizioRomanoTG": 67319
  },
  "sent": [
   {
@@ -1720,6 +1720,46 @@
    "status": "fact",
    "headline": "🚨 José Mourinho: \"It's difficult for Espi to play a lot of minutes, because it's very difficult to sub out Ky…",
    "link": "https://t.me/RealMadridImportantOnly/381"
+  },
+  {
+   "ts": 1792016365.2529488,
+   "date": "2026-10-15",
+   "tokens": [
+    "0",
+    "14",
+    "2026",
+    "5",
+    "90",
+    "because",
+    "fabrizio",
+    "finish",
+    "game",
+    "jose",
+    "last",
+    "lost",
+    "minut",
+    "mourinho",
+    "oct",
+    "romano",
+    "situation",
+    "specific",
+    "start",
+    "team",
+    "those",
+    "work",
+    "wouldn"
+   ],
+   "names": [
+    "fabrizio",
+    "jose",
+    "mourinho",
+    "oct",
+    "romano"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "fact",
+   "headline": "🚨 José Mourinho: “If the team that finished the game today started… we would've lost 5-0”.",
+   "link": "https://t.me/RealMadridImportantOnly/395"
   }
  ],
  "offset": 769011999,
@@ -1727,8 +1767,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 70,
-  "tokens": 109605
+  "calls": 71,
+  "tokens": 111280
  },
  "pending_fb": {},
  "feedback": [
@@ -2155,7 +2195,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 248,
+ "train_seq": 249,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5345,6 +5385,19 @@
    "reason": "duplicate of earlier Vini ban comment",
    "ch": [
     394
+   ]
+  },
+  "249": {
+   "t": "🚨 José Mourinho: “If the team that finished the game today started… we would've lost 5-0”.\n\n“It worked in those last minutes, because it was a specific situation, it wouldn't work for 90 minutes”. https://t.co/H4H6MSrpvD\n — Fabrizio Romano (@FabrizioRomano)\n Oct 14, 2026",
+   "ai": true,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "FabrizioRomanoTG",
+   "id": 67319,
+   "m": [],
+   "reason": "new Mourinho quote, relevant coach news",
+   "ch": [
+    395
    ]
   }
  },
