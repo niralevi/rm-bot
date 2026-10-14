@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31228,
+  "themadridzone": 31230,
   "FabrizioRomanoTG": 67279
  },
  "sent": [
@@ -1057,8 +1057,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 28,
-  "tokens": 46112
+  "calls": 29,
+  "tokens": 47866
  },
  "pending_fb": {},
  "feedback": [
@@ -1280,19 +1280,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31208,
-   "t": "Sergio Ramos x Francesco Totti. 🔙🔥\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/GiQLzzgTnHyChvIyCthI9ilfrHaTw3fQT7F0n34IplQ1MLBDw3uNqdLzYNZxXi_4dIqrp-m6DG-vAuBtxHcDjpmRsUZU-O5M-yvFDX1Fhy8rto-Vs1_AaKEfw4uJ3LC0BYRyp_z59MhvWQjoguVRFzn_T5r0i7Bbyq8v8kxFDpYKV4RwcXMq-Xrwnj9O9SyI1yhGYoiJNbhUfnN2MF3sGBee6Mb9adjJuucpYkW62RRNdnf4x6RBlYVN2cK9N1lTxgOTOqoyqvJkmQUhtfJDnWEh9Q7erTo79gYfuMSF4BAR0z6EG5izgOjinQwlRcO2-uIpE7-GVsSB-jBkCEP9ZA.jpg"
-    ]
-   ],
-   "r": "Irrelevant meme, no real news",
-   "h": "Sergio Ramos x Francesco Totti. 🔙🔥"
-  },
-  {
-   "src": "themadridzone",
    "id": 31209,
    "t": "🚨 STAT: Out of the 5 matches in which Real Madrid have received the most cards since 15/16, 4 have been in the last 2 years. @Sofascore 😬\n\n@TheMadridZone",
    "m": [
@@ -1492,6 +1479,23 @@
    ],
    "r": "No concrete actionable news",
    "h": "🚨 JUST IN: When Xabi Alonso benched Viní Jr., the prevailing opinion at the clu…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31230,
+   "t": "🚨 JUST IN: Jose Mourinho asked Vinícius to make some changes to his routine, mainly related to rest and recovery at home.\n\nThe coach believes he could improve his personal routine, since there had been times that he stayed VERY LATE at Valdebebas instead of working at home. \n\nWith coordination with the trainers, Viní has made changes to his routine. @elmundoes\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/L1XLBKDeZueyog6ojo4zWmAnrAsrcCKWORzqvu85yP8v9yDdyOyRYONa7jJonVEvbLiNo883tHS_jvwao_U1jHRrQzgW2tax6ddumaJB5UVwVAFdf-e4a1O8UhWMajXw6dKiVjmDlgSZ6CfRcJzC1W9EY9Z29-DDq4Th8C7i6FueDcx9EWzPO11mf8UQ8iq2rYgLY2QdtShiuDs8a4LTfru38vZlLMcesqQVG3KwH_Wn1Q7X2xpjVOMFtCKPW38_yteoS5H2J9IG0xMFhgVVubKS3jj7vMwKV-wP_AcSQFacynvxAFOo8HBuy_aH57xJwVO4t_WbqmDVhzktVqDReg.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/v9ZzGUC6nhXmQoISzU2Ism7-C6YXanoocGVgw9t2LJaTaBpnSMQgUM6iIWW-332Wb2ToAGYwKQj3ENPwgclMFJvlyWHFzGBXxSZ4hwQY0V7fEgh3WQP1_FSWfvnYBMX6UmmzAnyVi1Mp4ZTPy5XTj9beRScUZj3Ud19gI6x6MzVguK0r1RZO2gD0LVNgMZKirW4E1ddKDZRqJC36c5OlVaUghOrO3XS9eOZK92F5jUY8lvbuSYIjsigOpe47jVCwoL6XJwZESv23axKQYx3UKhJlMvw_acBsVgRqGEB1BkGfhlxk9g5acoynmS-jeLmFx7oPOB2vBtW5BpT50QD2ig.jpg"
+    ]
+   ],
+   "r": "Minor routine advice, not essential",
+   "h": "🚨 JUST IN: Jose Mourinho asked Vinícius to make some changes to his routine, ma…"
   }
  ],
  "summary_date": "2026-10-13",
