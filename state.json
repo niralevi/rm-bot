@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59244,
-  "themadridzone": 31365,
+  "real_madrid": 59246,
+  "themadridzone": 31368,
   "FabrizioRomanoTG": 67304
  },
  "sent": [
@@ -1314,6 +1314,43 @@
    "status": "fact",
    "headline": "🚨 Donyal Malen scores.",
    "link": "https://t.me/RealMadridImportantOnly/270"
+  },
+  {
+   "ts": 1792009051.4073217,
+   "date": "2026-10-14",
+   "tokens": [
+    "1",
+    "3",
+    "roma",
+    "scor"
+   ],
+   "names": [
+    "roma"
+   ],
+   "cat": "⚽ Result",
+   "status": "fact",
+   "headline": "Roma scores 3-1",
+   "link": "https://t.me/RealMadridImportantOnly/271"
+  },
+  {
+   "ts": 1792009053.2995486,
+   "date": "2026-10-14",
+   "tokens": [
+    "again",
+    "donyell",
+    "malen",
+    "offside",
+    "rul",
+    "scor"
+   ],
+   "names": [
+    "donyell",
+    "malen"
+   ],
+   "cat": "🚑 Injury",
+   "status": "none",
+   "headline": "🚨 Donyell Malen scores again but it is ruled out for offside.",
+   "link": "https://t.me/RealMadridImportantOnly/272"
   }
  ],
  "offset": 769011999,
@@ -1749,7 +1786,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 140,
+ "train_seq": 143,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -3108,6 +3145,45 @@
    "reason": "important keywords",
    "ch": [
     270
+   ]
+  },
+  "141": {
+   "t": "Roma scores 3-1",
+   "ai": true,
+   "label": "⚽ Result",
+   "status": "fact",
+   "src": "real_madrid",
+   "id": 59246,
+   "m": [],
+   "reason": "important keywords",
+   "ch": [
+    271
+   ]
+  },
+  "142": {
+   "t": "🚨 Donyell Malen scores again but it is ruled out for offside.\n\n@TheMadridZone",
+   "ai": true,
+   "label": "🚑 Injury",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31366,
+   "m": [],
+   "reason": "important keywords",
+   "ch": [
+    272
+   ]
+  },
+  "143": {
+   "t": "🚨 The goal is GIVEN. \n\nRoma are up 3-1 now.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31367,
+   "m": [],
+   "reason": "no important keywords",
+   "ch": [
+    273
    ]
   }
  },
