@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31268,
+  "themadridzone": 31269,
   "FabrizioRomanoTG": 67289
  },
  "sent": [
@@ -908,8 +908,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 53,
-  "tokens": 87796
+  "calls": 54,
+  "tokens": 89405
  },
  "pending_fb": {},
  "feedback": [
@@ -1131,19 +1131,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31243,
-   "t": "Jude Bellingham. 💧\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/YvtIVNRjWVROh36IWTWhRPlBzgXZTQXflHGbjnWw1APLKPX5-SfwNLtcS9cN0ytgwm5Vr7c6WM42RAsIWys4eEei_EJS1uZ4_Z5Ay0XNXvBQTVh25qTP78bU_fNTxK-hIEZWH6o49CPEu1JYfYOKSkwduqByZtZD9k8xlhLqSKTlk5JdrZgz00fvk3svly4Jgz7m4C3-AAdvkdQ9XRV1LMXwfyOmrdEf1DOkBPxjqms9Gz-agFNmQtGlH-jcKpTzghFvVZNauSMpawWljRZ1v--FOp0sI56nZBgXoCYJwcH9ClXDiI1O5jXDNwaBgzSrKadwaSEkxZZgThT-cwEvcQ.jpg"
-    ]
-   ],
-   "r": "No substantive Real Madrid news",
-   "h": "Jude Bellingham. 💧"
-  },
-  {
-   "src": "themadridzone",
    "id": 31244,
    "t": "📸 Viní Jr. & Arda Güler in the Adidas x FARM Rio collection. ✨\n\n@TheMadridZone",
    "m": [
@@ -1363,6 +1350,19 @@
    ],
    "r": "Lifestyle content, not news",
    "h": "📲 Rodrygo on IG. ⭐️"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31269,
+   "t": "Back in action tonight. 🔜\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Gpp7BgyLnhbTsLCM7BmSL4XbEzCuW9S8b6CZhnuUgYbQzzZ4a-AEQNF5Dg1FVSrlIRm1yxPmQQKNPYQnpfS7kW7P9YGMkG2tbeD03fQDX06h8wF9ZBUSPjtFBCpceD-GQAeGs1hSNZYxhMKkOMi3ps0Gd8HKPdCT20ENUwkl52sA1GzAcUtf0CtJez3CVWv-5Dfn0nWEt7JjIFMEB_re6EUaxqAglvq1J9Reby7Jjgdoeqrd3FW8WVRdT88vQLtxNiM31JtrmbpH92FLHJvnXG2KEIiGHCvk20n2WPxKoD7ut_8V8KHdDwMKyXZb3KRTYBXMhKkTVdCI1DRUUDqbPA.jpg"
+    ]
+   ],
+   "r": "No substantive news content",
+   "h": "Back in action tonight. 🔜"
   }
  ],
  "summary_date": "2026-10-13",
