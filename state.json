@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31214,
-  "FabrizioRomanoTG": 67276
+  "themadridzone": 31218,
+  "FabrizioRomanoTG": 67277
  },
  "sent": [
   {
@@ -1025,6 +1025,31 @@
    "status": "rumour",
    "headline": "🚨 NEW: Arda Güler is expected to START on the right vs Roma. @marca 👀",
    "link": "https://t.me/RealMadridImportantOnly/174"
+  },
+  {
+   "ts": 1791954383.2083547,
+   "date": "2026-10-14",
+   "tokens": [
+    "2",
+    "aggressive",
+    "attitude",
+    "ban",
+    "because",
+    "expect",
+    "gam",
+    "least",
+    "possible",
+    "reaction",
+    "third",
+    "vini"
+   ],
+   "names": [
+    "vini"
+   ],
+   "cat": "🟥 Discipline",
+   "status": "rumour",
+   "headline": "🚨 UPDATE: Viní Jr.’s ban is expected to be AT LEAST 2 games, with a possible third because of his “aggressive…",
+   "link": "https://t.me/RealMadridImportantOnly/176"
   }
  ],
  "offset": 769011995,
@@ -1032,8 +1057,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 18,
-  "tokens": 29354
+  "calls": 21,
+  "tokens": 34335
  },
  "pending_fb": {},
  "feedback": [
@@ -1255,32 +1280,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31195,
-   "t": "Dani Carvajal on IG. 😂\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/X9SpnDePzxwhJEuVxWXyaRu3Ws-5Ta23BB-61To821aB68fSj8ebSABY6Ei1WRJ68aRT72ZfRRnTVP1DA7gwgxbvNtpjqNm3hqxeQYoqfSdnPsmxehY_ixYXPEvwF1P_qiJJIKr9NwzLUJXHzxfqkxRcOZbOuUhCHW6RxNb4IdFhaG7TzY9fpCu0NCTd9Iq-0ov8zvYUEEYaK-khr6SvpZkTbPB39Nbo4de-b4dwiaKyLr5XRWt2Otjb0dXhfNEx-YmBhBfxBKHMoKD1rkKnFIRsJxA2Wg-dL-Q4fbzjpzedmF5ZBG6bNgoFYEDFs3W20dyHyuzVTBMyXSqcUFdU5g.jpg"
-    ]
-   ],
-   "r": "Lifestyle content, no news value",
-   "h": "Dani Carvajal on IG. 😂"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31196,
-   "t": "🚨🚨 José Mourinho: \"Negreira case? \n\nI’ll just say one thing: congratulations to the Italians. \n\nDo you know why? Because it’s the only country where Calciopoli has TRULY been Calciopoli. \n\nBecause in Spain, with what’s happened—and everyone knows what happened—it still seems like… nothing has happened. Nothing at all.\n\nThe Negreira case wouldd be the BIGGEST CORRUPTION SCANDAL in world refereeing, if nothing is done about it.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/DYkpxqbm8MykpbrS0LuGMmmm_EmuTcwfDvZbkaRywxYVWz2FThveXd_hIxQQG41cpZZ5YI0ruah664zJ5tRuk__0lk4lv0zststHQzYxlF0qhbMGTa1Wd7CWc_XyeLWItwSnw2YZNGeDCLwkIChKvFNUeCdYOk4a9FM2QqB5VMqV_s3veU1Fj0N4k9yf48TZk82o1RA1kZyesijDlA9q_ChOmE3MafS1DeAoi_OKgWfwb2-9rr3qLfxJqJfN9-t_G-k0f6gLiJWECDSVI0eg4kZgXqNdT234xCc7A90OGlt3NKFBlOK4PhiYDdm5HC8LfRGB04AqYRXrLr3OkdThxw.jpg"
-    ]
-   ],
-   "r": "Not about Real Madrid news",
-   "h": "🚨🚨 José Mourinho: \"Negreira case?"
-  },
-  {
-   "src": "themadridzone",
    "id": 31199,
    "t": "🚨 𝐈𝐓’𝐒 𝐌𝐀𝐓𝐂𝐇𝐃𝐀𝐘! 🚨\n\n@TheMadridZone",
    "m": [
@@ -1447,6 +1446,36 @@
    ],
    "r": "duplicate of earlier expected XI post",
    "h": "🚨 Real Madrid vs Roma expected XIs. @diarioas"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31215,
+   "t": "🚨 CONFIRMED: Arda Güler is expected to start on the right vs Roma. @diarioas\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/R06OIW3WuX3PuO-yxuURfAO0G1Iv-SbqjQ2nEvAXwrKgzMda2g0ToNU28cQYp_6x9oEy3x5nRdQpATIMVCFDjmc_5k8PCMLR38c-7bRO5mP7A5MBflezYXijYeDdWjm_frY_JGOOJMpRta0ebCRhzhbraKr9X5VfwIHlGUbfyDTBC6-MIgrH9JENCdc1-G04G1a5m8tU9ABOMISLsrUGDzb2UTLUWPCaNeM2Xpg0D1mAcgEeam6JzVHLCwwTeT3YoUZKAyAEHHaY0jrPY5yYHxXhn-4c1Ld2BkNJ0VSvuDeWhU_tGv5B9UIpoP7MNQHObeAzbN3Jxo_F6Ilvkj4wGQ.jpg"
+    ]
+   ],
+   "r": "duplicate of existing lineup rumor",
+   "h": "🚨 CONFIRMED: Arda Güler is expected to start on the right vs Roma. @diarioas"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31216,
+   "t": "🚨 Roma are currently unbeaten in 7 games this season. @diarioas\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/K2wDt7jN95srJZTGeT1_UHzhHVfvI41dHQlCnEYRpHeGFkxlTIbFx3fAUT3rqBhtS20i0Ibbv7a6Yn-06t4gGJTGrRULPayVdvoQ6e4EPdtQtE_YjJv93jzocD-hDc_CFYvYpdVjtrC_E0GcizevKklnhpDau84Gxh4_0AYV_MZoh_nskAe1Fx_QU4QBQphpyFsmQouwRVTASGF0Ph18J5GHx8LYxlHiwYgvydhY4C1w_s2wO_Cf0KOGlNi8p_RUrPio_bUSoOYKwYS7ko53iZB0--G7DbXSpmI_NYYj8K70GjGUqa5JFZcMRbc8tBqsIjXH1kP86dA2xnoL80G05w.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/fn7TXR4fn3BLWJU4fvMMAf4vtPexuZVXvPQnKtsBi607qQCa9FV6VUZqOQqKzuK4mGxye0X2nhza1D41S9fuXiPHYaPTU8Nc0arJfAKicZDxIHSUMxFBff1vXpcFYftCpYZuKT2a6afzd5T-N5j5WN8I-EH5Z44f2wqYV0B17ZMI8rcf4kWuNr2R8BVrgWIhzXbMlXAbVQgGTrnITE9DmYTVpg-PjCeklGZnDQfZ9xHbQYA_wuouUOIQ6rfCleLg5oyd2zCAFMHKp_aId2OhEP6RjcBL18wAIxY9iGUK-37TvDudK99juRVKgYbSheOi15QnmXzA6MOf0h9N__OHYQ.jpg"
+    ]
+   ],
+   "r": "Not about Real Madrid",
+   "h": "🚨 Roma are currently unbeaten in 7 games this season. @diarioas"
   }
  ],
  "summary_date": "2026-10-13",
