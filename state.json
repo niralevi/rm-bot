@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59237,
-  "themadridzone": 31328,
+  "themadridzone": 31330,
   "FabrizioRomanoTG": 67302
  },
  "sent": [
@@ -1126,6 +1126,26 @@
    "status": "fact",
    "headline": "Kylian Mbappé warming up for his 100th UCL appearance! 🇫🇷✨",
    "link": "https://t.me/RealMadridImportantOnly/188"
+  },
+  {
+   "ts": 1792005459.603877,
+   "date": "2026-10-14",
+   "tokens": [
+    "down",
+    "injur",
+    "kone",
+    "manu",
+    "roma"
+   ],
+   "names": [
+    "kone",
+    "manu",
+    "roma"
+   ],
+   "cat": "🚑 Injury",
+   "status": "none",
+   "headline": "🚨 Roma’s Manu Kone is down injured.",
+   "link": "https://t.me/RealMadridImportantOnly/211"
   }
  ],
  "offset": 769011999,
@@ -1561,7 +1581,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 105,
+ "train_seq": 107,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2354,6 +2374,32 @@
    "reason": "no important keywords",
    "ch": [
     209
+   ]
+  },
+  "106": {
+   "t": "🚨 Another good save from Thibaut Courtois.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31329,
+   "m": [],
+   "reason": "no important keywords",
+   "ch": [
+    210
+   ]
+  },
+  "107": {
+   "t": "🚨 Roma’s Manu Kone is down injured.\n\n@TheMadridZone",
+   "ai": true,
+   "label": "🚑 Injury",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31330,
+   "m": [],
+   "reason": "important keywords",
+   "ch": [
+    211
    ]
   }
  },
