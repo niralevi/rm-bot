@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59226,
+  "real_madrid": 59227,
   "themadridzone": 31277,
   "FabrizioRomanoTG": 67293
  },
@@ -913,8 +913,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 66,
-  "tokens": 109440
+  "calls": 67,
+  "tokens": 111116
  },
  "pending_fb": {},
  "feedback": [
@@ -1136,23 +1136,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31263,
-   "t": "🚨💰 JUST IN: FIFA is proposing to INVEST over $6 BILLION into football between 2027 and 2030.\n\nEach member nation could receive up to $25 MILLION, compared to $1M in 2016.\n\nOver $3.5 BILLION would come from FIFA’s financial reserves. @TheAthleticFC\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/jcKdUffg2pua0GdrjDd2UgqSeb2b3wfarx-szx8eyMbOQJBcINpMfcQJJDqSLsuOq8QcVYbSzx6yubpClpB0jIPNGmHFXce-LbuiQQGaqqjpy7pmun_y_HE6MvJIypo6UXP3KzmgBOYrwvDT8skmXoonsMqZw3DxtHQAxfQRBA9Jb1oH8V14qiK-0zj7omHPfYAMO3VlZrN8rQsqCgzhy4R62mSEP9Orn9oSkzBxHk57LN0hr3dG66AsteLmaW8J8HwCmdoDZ1YFyOreJdOCFwOcGkAN0at2ZDlfIWHNNGs5aGGoQiuG0RneDQbXKTW1H3woYXGSafdeF7VDce8xWQ.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/tOx4h90WfMJqtWAF4VUCjeFSbIYKRFulfus25ElAS6jkQiuCVXpyuG41ygyL2xt7ZXl9k5IhucUKJognjiB8lCnYvjSlxa7o-jyYutR83VtIrvwTJX_ikqVRbzrXyPyZ_JHc0PYrCJaZay3YACeKn5kk3opGJp6hRszPOh4nDY2rNisYqcLGRX5S4LzaeQYXYCcPcaetyO5IOYoqZ38zDhBhHIAFrOtuRrQ9Lzv4j7_d3O1toFsuvIknC4-_MQ4BgY1r5X2c7A5sxp2g5uj9pQeZWU8f-BvID7FUOA2XY3YjFUHJtY4pcZIfxPPcr9WJGkMmRYDDS_YrcG1dP7JHAw.jpg"
-    ]
-   ],
-   "r": "Not about Real Madrid",
-   "h": "🚨💰 JUST IN: FIFA is proposing to INVEST over $6 BILLION into football between 2…"
-  },
-  {
-   "src": "themadridzone",
    "id": 31265,
    "t": "🚨 Antonio Rüdiger, Dean Huijsen and Jose Mourinho RETURN to play against their former team AS Roma in UCL tonight. \n\nReal Madrid have a 50% chance of winning on @PolymarketSport\n\n@TheMadridZone",
    "m": [
@@ -1335,6 +1318,19 @@
    ],
    "r": "Pure statistical list, no news",
    "h": "🚨 STAT: Out of the 5 matches in which Real Madrid have received the most cards …"
+  },
+  {
+   "src": "real_madrid",
+   "id": 59227,
+   "t": "🔙 Real Madrid’s XI the last time they faced Roma in the Champions League. \n\nMariano, Fede Valverde and Marco Asensio came off the bench. ⭐️",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/vdbbrKbYYXKegpTN1DXfa01QllCfmLK6_29l5g0jY60naVPHcXGVF38eksbE5EOXemKDEESQuhRGCk7RRNtl2oOYZqvQWiCSo_TsEjZvPdLXEOmP905EyqRpqPuk6zSNc2pbOgQbiUBgj-F3DuHCYxiXoyC7ocDTpNSqJ-SWqeLjRIEBOiSHru1nuXrBEc9j9uondWdIgOZdkUUrgB8l8CGR2vHOzuzvMVuovLy09jIme12OemDk1A0LksgGa2Rvj-Mtb1Bh5V_QQlZpBjynN8FTca-GHtUSFxjsip6bdibSP3Y7UMqlx3ecrZAAL9H1qc5jLn9zkzUyLw7D3WbC2g.jpg"
+    ]
+   ],
+   "r": "Past lineup, not current news",
+   "h": "🔙 Real Madrid’s XI the last time they faced Roma in the Champions League."
   }
  ],
  "summary_date": "2026-10-13",
