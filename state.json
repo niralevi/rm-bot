@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31224,
+  "themadridzone": 31228,
   "FabrizioRomanoTG": 67279
  },
  "sent": [
@@ -1057,8 +1057,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 26,
-  "tokens": 42671
+  "calls": 28,
+  "tokens": 46112
  },
  "pending_fb": {},
  "feedback": [
@@ -1280,32 +1280,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31206,
-   "t": "🚨 Real Madrid record vs Roma last 10 UCL games:\n\n• 8 wins \n• 2 losses \n• 22 scored \n• 6 conceded \n• 7 clean sheets \n\n⚔️\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Tdbs8K3sHwfAEvz44Sqp9dh3VuRNQ-wtuTAULUgse5qeA9qDB8mZKs6L1HYJzIdmdxhhS0YSUn-b7jZg1YdL6ywVHsVmqbF_e9yLPQLmMc8sgPo--J37qzPhBdIKKF6wbyLmpdIwigGCX5sA8hvmyDwFWh-XgZp58cso_UeUGFWO73p0abKSKICY3dorXYSYzUdzToHEW5EZIj8K8D_kfuoSuys_D50vI8wlgo1qdIUn7PMaYC4X4qg_sR1V6_20SPeYj0HwdHoyLiEOn-2sNdl0jyfhUy59W6UejdY2QgxGvRkmsS4Ykw4v-Q-DHXfeWxugPRo5C1aoqZnGBzPWkQ.jpg"
-    ]
-   ],
-   "r": "Pure statistical record, no news",
-   "h": "🚨 Real Madrid record vs Roma last 10 UCL games:"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31207,
-   "t": "🚨 Real Madrid are currently on a 4 game winning streak vs Roma.\n\nThe club also kept a clean sheet in all 4 games, and scored 9 in total. 🔥\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/i0-aQ3JHP19zhhv7xWD8EHyS5mI2EYEzYV3qDJ65S3IUuuolfxHs2NReZnF7ELNn7NYmyR0fHLVN1Fcg8biaA3_xsQDCFIwLrsmFvIC6fo9TYcoDaFSWjgtAZSjUqaIMjLFKuG2WI6Z1jE_Zgj6TlW_C_HIzhLFeZ5dCSIXOOmECY_0DQIz9PmUCEcpke6wzm9ZhyTjbbkuUuDzy_YF56nr4aJWMLYcbXETFR4iWflTVOio5KUgXSW72YZnSYLiEAoBc9xOHt24rIK-ka-NfxaxKtXdQ6hpXqdC_0D4rxFG3MJExXT01bH6tyIjCSaGM2DiHLAavArjPVfYPWEICWA.jpg"
-    ]
-   ],
-   "r": "generic streak summary, not essential",
-   "h": "🚨 Real Madrid are currently on a 4 game winning streak vs Roma."
-  },
-  {
-   "src": "themadridzone",
    "id": 31208,
    "t": "Sergio Ramos x Francesco Totti. 🔙🔥\n\n@TheMadridZone",
    "m": [
@@ -1484,6 +1458,40 @@
    ],
    "r": "Lifestyle/team chemistry, not essential news",
    "h": "🚨 NEW: In the Real Madrid dressing room, Viní Jr. is the emotional core who hol…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31226,
+   "t": "🚨 Vinícius Jr. is close with the Brazilians, Jude Bellingham, Kylian Mbappé and is one of Fede Valverde’s best friends.\n\nHe has also been at the club the longest, alongside Fede Valverde.\n\nAs a result, all coaches at Madrid, bar Xabi Alonso, chose to build a close relationship with Viní. @elmundoes 🤍\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/XpoaeF0VetlkwGvi4XhSgX2uGUvlQkhWw7FrX83aVhwYZZrM9XG_-_YdnB0-BqMMw8Wyqe6QsUVNLWJwHWKk3EVdlJ0jKUyBHs7BKBr5K_SuDEw3lFX5k42joiFXcUUlyyZru2G8B616O5v6MWaYkmVbDABN6L14Sw-gtW6QF1V_vwq1-85E_ufwHgrUjKg2xHeExr0u0PK5L0q7n7ovzYeeGyPKXyY1_Sz5ozxR7KL6ru929et3VdaG_Ha1N-odrTLUuWxNRcUaF40_-sVY4-IITQ6UNfZftooQlraDVGk4kiAzOLpQT14T7fMWpiXLKUQ5R8etFVRdhUPsEpVJhw.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/FJ6ju7LVzvy8UcBkFkRzrBk03N6GYlymG5zFFHZdp5_Yw9I-kZTUdekGfTqsU43yyNVMRqQ-ODDi7DfojYzxTRgwBSrNHwWKyA30206a52V6m7dhd2WtyLJdiF8RoOXA4Fl4P_5oIci9rg37y35eZBpD9pdeoV4biKO1UD31Sm8Hfn2ZGcOa-HSkJ9Qbjj9-zCZBH1Iprqnkt-jNEHvvnoPUPT4J4tEjEI_KLagGnBK0wh2s4BBec416hvLEOG0dzeUQQubNKS1JGpK1roNEErt6aBZYL2t9XedeTwgYn2KKV4H2CRY7MYA3i35Hg-ztyLat9USE0-XIq4P4EYkcIA.jpg"
+    ]
+   ],
+   "r": "Irrelevant personal gossip",
+   "h": "🚨 Vinícius Jr. is close with the Brazilians, Jude Bellingham, Kylian Mbappé and…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31228,
+   "t": "🚨 JUST IN: When Xabi Alonso benched Viní Jr., the prevailing opinion at the club was that he did NOT deserve to be benched, and his performances were good. \n\nThe club sided with the player then.\n\nHowever, now the club is concerned with his sporting performances, even though his World Cup campaign was positive. \n\nThe club is focused on getting him back to his BEST. @elmundoes\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/qtbakY1Q73BLF3_nig7hodUNRrk8m2BKJGXPgPXxt2CHHtvQQQFR-05Z-JcaCGGzB4rS4r1kINRE5gGFTv344eewN0RqW9PEpkc1H6xfA1hsxRN2VVQI71WU3LY_SoZEhGxn2kYEGrg_X-dfjzpDOF_9u0XU1dez7k04nyOqvaWH9Dy7MhLF7NoaghnD9pLEA70n00CqveRw8QBDb8zwqQRZfnn7iDvdsnyhma31Q5Qd0R4d0x5ORdFUvAej5RVl3_sjA4QhwEIq7NyLgl1K7PorpzKsVgjjxtlDAeULNQ88KNBuxf6SRzSTu9_WLKnv97gJ1ZF6VpgflSOiSuJnOQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/GfJWRAh4kLmfoldEuk59Mw3DVRLMVykBfrAhEFLAlPJQgVNVyo57AIJLKzqu3KTdsjyWWg4fm5V5Iybxqby9XfWv1EztFswrz4gw0x55vwl_sabWZsis9IW1R7DdnJ-BfPqaoKQdCeIBOQ2HW-LuQNJUtNSxubcM18TOI95zwwcUkzrWNpipQ04qyIVAPb8mTUdBaJ5X_CxLS1LwqDq_XkNXucU7jU75HPj9Tmw5XeE_IEwYqD_QMFVgihAfWCa3MhBToyXJbeF7cIyA-02q9sfL3f6yLAW4D4Mp2QU0UL-OS-aRmIoWYlQISjyCfVltPOwLLhBDX8tvbg0x9CkCZA.jpg"
+    ]
+   ],
+   "r": "No concrete actionable news",
+   "h": "🚨 JUST IN: When Xabi Alonso benched Viní Jr., the prevailing opinion at the clu…"
   }
  ],
  "summary_date": "2026-10-13",
