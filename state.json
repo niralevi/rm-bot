@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59262,
-  "themadridzone": 31469,
+  "themadridzone": 31471,
   "FabrizioRomanoTG": 67319
  },
  "sent": [
@@ -1767,8 +1767,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 75,
-  "tokens": 117691
+  "calls": 77,
+  "tokens": 120873
  },
  "pending_fb": {},
  "feedback": [
@@ -2195,7 +2195,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 253,
+ "train_seq": 255,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5470,6 +5470,42 @@
    "reason": "Just a player quote, no new info",
    "ch": [
     399
+   ]
+  },
+  "254": {
+   "t": "🚨 Gian Piero Gasperini: \"We COOKED Real Madrid.\n\nWe outclassed them at EVERYTHING.\n\nIn the end, we froze at the finish line.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31470,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/px12yHhqOWy1crfzvN21D607OTg3gsBDoHqbLSxisrfdF_E4PhvkHQnshK-F-1Wrx-a0CG_dkix28DV7k-6eX8kzOM5Wg8xkr6zAKbmruqlBr5oEdCu6Gs1vLq_gETKTqCiwB3mhroqGZKrgntypZuOjYwRR3JUlBwpEsgGdk_ciUYL4LHWjQV6GGedtbLPA0Vq10KoYwWGX1zvcKUaXxZxObQ8Zad-MMlG-Yvl387E_X62Wft4ChH0UjQNWjdbKFuf_bidT8mTu4hFappSP1r4qqWmpIXmR4E115Kt1VNxWUUWfb_u8s1Aiy7WXKDJUJhMiCZbehxMKb_CmgvsP9A.jpg"
+    ]
+   ],
+   "reason": "Not about Real Madrid news",
+   "ch": [
+    400
+   ]
+  },
+  "255": {
+   "t": "🚨 Journalist: \"Carlos Espi has 8 goals this season, 3 with Real Madrid, and 5 with Spain U21...\"\n\n🚨 José Mourinho: \"No, those 5 goals with Spain U21 do NOT count. They were against San Marino, c'mon...\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31471,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/sZdTU9ba-Y9joUOU7ajnUcIsKiT4It4zRmqvPANgtC4bGz4nm0XCJuxy8xwuKzNbLRxTgKuK4ViETwQuPS5uF6Qe4Lryxe1vG63D9icX2HUjhGG2avNEzqCiMot66dxr4pfS8YcK5qzJvuwID5FDE8zcMBjVDBR54VlxZnAS-NUG9gkBbu2WkpMS_3hJiJqOoxo5lW_t5WZo9FIADaoftxHjuopkQnHnSd1LUKHZ8H0_0NvoGPx7ghmKO5aZ2lLG2S2VfmP5a664fSe7PZY_XlwDKk0j2gCEneXxnccGGhy9qQMnslJ766drBcm2_uh-SAQbxA7Jt2niUcm2LkmwMQ.jpg"
+    ]
+   ],
+   "reason": "Not relevant news for fan",
+   "ch": [
+    401
    ]
   }
  },
