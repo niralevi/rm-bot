@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59247,
-  "themadridzone": 31376,
+  "real_madrid": 59248,
+  "themadridzone": 31378,
   "FabrizioRomanoTG": 67304
  },
  "sent": [
@@ -1351,6 +1351,25 @@
    "status": "none",
    "headline": "🚨 Donyell Malen scores again but it is ruled out for offside.",
    "link": "https://t.me/RealMadridImportantOnly/272"
+  },
+  {
+   "ts": 1792010604.4497378,
+   "date": "2026-10-14",
+   "tokens": [
+    "carlo",
+    "espi",
+    "offside",
+    "rul",
+    "scor"
+   ],
+   "names": [
+    "carlos",
+    "espi"
+   ],
+   "cat": "🚑 Injury",
+   "status": "none",
+   "headline": "🚨 Carlos Espí scores but it is ruled out for offside.",
+   "link": "https://t.me/RealMadridImportantOnly/281"
   }
  ],
  "offset": 769011999,
@@ -1786,7 +1805,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 150,
+ "train_seq": 152,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -3275,6 +3294,32 @@
    "reason": "no important keywords",
    "ch": [
     280
+   ]
+  },
+  "151": {
+   "t": "🚨 Carlos Espí scores but it is ruled out for offside.\n\n@TheMadridZone",
+   "ai": true,
+   "label": "🚑 Injury",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31377,
+   "m": [],
+   "reason": "important keywords",
+   "ch": [
+    281
+   ]
+  },
+  "152": {
+   "t": "GOALLLL ESPI!!!",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "real_madrid",
+   "id": 59248,
+   "m": [],
+   "reason": "no important keywords",
+   "ch": [
+    282
    ]
   }
  },
