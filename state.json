@@ -1,8 +1,8 @@
 {
  "last_post": {
-  "real_madrid": 59239,
-  "themadridzone": 31336,
-  "FabrizioRomanoTG": 67302
+  "real_madrid": 59241,
+  "themadridzone": 31339,
+  "FabrizioRomanoTG": 67303
  },
  "sent": [
   {
@@ -1194,6 +1194,45 @@
    "status": "rumour",
    "headline": "🚨 Roma have had 5 shots with 3 on target in the first 22 minutes.",
    "link": "https://t.me/RealMadridImportantOnly/216"
+  },
+  {
+   "ts": 1792006100.5761952,
+   "date": "2026-10-14",
+   "tokens": [
+    "goal",
+    "kylian",
+    "mbappe"
+   ],
+   "names": [],
+   "cat": "⚽ Result",
+   "status": "fact",
+   "headline": "🚨 KYLIAN MBAPPÉ GOAL!",
+   "link": "https://t.me/RealMadridImportantOnly/219"
+  },
+  {
+   "ts": 1792006167.9959552,
+   "date": "2026-10-14",
+   "tokens": [
+    "champion",
+    "goal",
+    "gonzalez",
+    "kylian",
+    "league",
+    "mbappe",
+    "official",
+    "overtak",
+    "raul"
+   ],
+   "names": [
+    "gonzalez",
+    "kylian",
+    "mbappe",
+    "raul"
+   ],
+   "cat": "📢 Official",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Kylian Mbappé OVERTAKES Raul Gonzalez in Champions League goals.",
+   "link": "https://t.me/RealMadridImportantOnly/221"
   }
  ],
  "offset": 769011999,
@@ -1629,7 +1668,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 113,
+ "train_seq": 117,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -2526,6 +2565,67 @@
    "reason": "no important keywords",
    "ch": [
     217
+   ]
+  },
+  "114": {
+   "t": "🚨 GOLAZO! KYLIAN MBAPPE!!!",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "real_madrid",
+   "id": 59240,
+   "m": [],
+   "reason": "no important keywords",
+   "ch": [
+    218
+   ]
+  },
+  "115": {
+   "t": "🚨 KYLIAN MBAPPÉ GOAL!\n\n@TheMadridZone",
+   "ai": true,
+   "label": "⚽ Result",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31337,
+   "m": [],
+   "reason": "important keywords",
+   "ch": [
+    219
+   ]
+  },
+  "116": {
+   "t": "🚨 GOLAZO! KYLIAN MBAPPE!!!",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "real_madrid",
+   "id": 59241,
+   "m": [],
+   "reason": "no important keywords",
+   "ch": [
+    220
+   ]
+  },
+  "117": {
+   "t": "🚨 OFFICIAL: Kylian Mbappé OVERTAKES Raul Gonzalez in Champions League goals.\n\n@TheMadridZone",
+   "ai": true,
+   "label": "📢 Official",
+   "status": "official",
+   "src": "themadridzone",
+   "id": 31339,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/qvajcK3mtrBl6roF6qXz-oR5E1GK7NwBBxARj5NXP0LTYREoOth5TiL1ynHj2FqdRrdR9n5FbrxVQ0hvY_FHTkUFtyrrFiSmKv5_bHfkdDjVDQ89AB7VIZ9P-kJiwhnfuawONxlfq8qvj8Rot_QNv6eraojOGwnZrIAUWboht2StKgSm9cq_llsDt1g8445pf1sBPum2jgEKDzjcFIJ25B692X1A0cMzrSUV-I22pQuwl9NIC5MD0pbS4wh67miWAerhEdUFtPv_wTBGzel4AQQUwzLimRDFijyZ_MZpNt-RfUOnIZZMvs-olCjv4qp2JeBy4qBhRbky2CJnxdSnfQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Ko20K5Ijae_hb1oX4eOF_q2ivh8MQ_yCm6hn1WxdDzpT-Kh57OyoTWlCiIKZvy1u3vP-CEvBwHBQRm3ps_y1GgUgPOdElEROuETA_rVKI877XbMlHWzKVvC49WDCvyfpHS0-aQMTq4hfL_lwNhmVvypi1qZaG8WxjT-DbUu9z7yYK6EHRnyaPERYkHnMSkzDTc_ruVpFM_evYlaV0jPFMwOTgW68kta6h2fYcKd-jUbYK4rqn7VYiD8waoTZeJzL8iWwM-T3cyHFS43kVrrdJRmSgNEMO1QXIb5WpiQ_p30056dJkUtr4kbeolddc-SVl9Hl4XXj75D-us4tLAlIlg.jpg"
+    ]
+   ],
+   "reason": "important keywords",
+   "ch": [
+    221
    ]
   }
  },
