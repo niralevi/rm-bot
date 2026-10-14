@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59262,
-  "themadridzone": 31465,
+  "themadridzone": 31466,
   "FabrizioRomanoTG": 67319
  },
  "sent": [
@@ -1767,8 +1767,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 71,
-  "tokens": 111280
+  "calls": 72,
+  "tokens": 112916
  },
  "pending_fb": {},
  "feedback": [
@@ -2195,7 +2195,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 249,
+ "train_seq": 250,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5398,6 +5398,24 @@
    "reason": "new Mourinho quote, relevant coach news",
    "ch": [
     395
+   ]
+  },
+  "250": {
+   "t": "🚨 Vini Jr: \"I was upset to be subbed out?\n\nThat's NORMAL.\n\nEvery player always wants to play all minutes, and help the team, but it's not possible.\n\nEndrick came on and changed the game.\n\nI hope he keeps growing, along with Espi, who plays very few minutes.\"\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31466,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/YDcs3hk3OoT5Rdap8lnpPwzkCojdb3t0JptUq7OGxNNt02J6vYKKZbsQ3We1APjQbLrV8z3r1GFqPhSeJ5f6TFKti7pzHqUXX2M78_uQUiU8m4SzegytH4iJs5N4v9h0bRHmq8IE769carwnVIcfbEdoZ_h1hibdH4eZAfompOFM2l_f4kBXqy7ai-GnPKt5CSu8CbIz2WxLGLj2jrUcolcYYhN8U4tpwLzer8Fajr2N2KTu5r4h-iQfDPPwF2b9c5GCMOa52tTAan58kCCYw8xw3_X7Mm5ussbwZTcp-4h-tesSn9htcWUdnsPVlbODI_cRpqH9xumEhjGitHaqLw.jpg"
+    ]
+   ],
+   "reason": "Player quote, not essential news",
+   "ch": [
+    396
    ]
   }
  },
