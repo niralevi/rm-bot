@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59223,
+  "real_madrid": 59224,
   "themadridzone": 31273,
   "FabrizioRomanoTG": 67289
  },
@@ -885,8 +885,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 58,
-  "tokens": 95978
+  "calls": 59,
+  "tokens": 97594
  },
  "pending_fb": {},
  "feedback": [
@@ -1108,23 +1108,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31252,
-   "t": "🚨 NEW: Jose Mourinho and Viní Jr. spoke and made it clear that what Viní did at Valdebebas was just as important as what he did at home, in terms of recovery and PEACE of mind. \n\nThat is why he made changes to the players routine. @AbrahamPRomero via @Ramon_AlvarezMM\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/shY_xoixJTWRTwcCIyd_24S3-pFklECjCHLfZS30VKGV6L746P28gCMdfrH46cEyP2hqvlO_e3D7kuTxmmDQOkBExAxwdKgd8mUl_2Oa2yxAi-EgfYpJYcez97JfzUx32xpdUxWRIvPyvQdO-yADlEqP6qqV89mKfXr1mHj9iKMGLXrxJ8K0CJHbaMdPX3SK0gFBnUi58JkjWJ58n99FDfnAsWjrOQjqKT1Rz1s_d8_BCpgh7GWsZ7qq1NR1ptUVl6_ADlH7YlFbVHLawpB2YBo9DUI0GvRAxbrjpHEiG9qSZepRFKgJYq6x7Adf7VFrdc5DaRUcS52KsRI-V9JIAQ.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/QLkxzgomIqhh7zF4qmRrv7uKflR83i8c5tkPS342OPpGXLxjdZS4BJeDItJobmnFsFkPQ1qyYeeSMIJorRBH4R6eaU6_J9WolqqYuF8qw-zQD2GsZmgWTHpozKBoA31JXa3L-9YREAcAQlHs5B7KDAp2XZm6GYy0cB5yRCRxQBA4ZbyJ718iDfYR_wVRHDYnTJFkQASJTqkXVeBtwbJCaDfRPb5x-yPf57iJBcYBccxgGh9eQzJq7Ay8di3JextVG-dGg8ID9-oRe40yKc3_MNFemBacgkZiA1OfwdRC2Nm7oA1eiIMmxWaZDvgAZHzYiNknsyl64Q7mGm2U2U2CYA.jpg"
-    ]
-   ],
-   "r": "routine talk, not newsworthy",
-   "h": "🚨 NEW: Jose Mourinho and Viní Jr. spoke and made it clear that what Viní did at…"
-  },
-  {
-   "src": "themadridzone",
    "id": 31254,
    "t": "🚨 NEW: Jose Mourinho spoke to Viní Jr. and made it clear that what Viní did at Valdebebas was just as important as what he did at home, in terms of recovery and PEACE of mind. \n\nThat is why he made changes to the players routine. @AbrahamPRomero via @Ramon_AlvarezMM\n\n@TheMadridZone",
    "m": [
@@ -1328,6 +1311,19 @@
    ],
    "r": "Not about Real Madrid",
    "h": "🚨 BREAKING; Trent Alexander-Arnold is set to START vs AS Roma tonight. @diarioas"
+  },
+  {
+   "src": "real_madrid",
+   "id": 59224,
+   "t": "⌚ IT'S CHAMPIONS LEAGUE TIME!",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/cC2FQR6Tm4HIpvwrEovuXA7HR-BfZO-2CqWxv66rduwkSTKxR12AeHUdhyGYvKL5ihP3y6whLZJQjlW4uU9T8un1Jrq5NgVtkXFzId20udYv9B3BEYAfWATtgozeXNCexizugK6JnHZrPIVlcHBo-Tx_jtlgO2JetspVHKrSUzvVdnGVGH-LAx-m7Ksv30MlccGM8MnfpylkIa46EgmiuJ5bAqCPoX8PXZUHWliJYeZaKoFiVZLiOEwI5cJ6km7Zro22sNUYg4wNPqvcK51YXJdCEsGs0BPXM1BzG-02MWCVuzEIOFvCVXbqUUIDL0CNfi6pR1H4BV59s8pV6l_qIg.jpg"
+    ]
+   ],
+   "r": "No substantive Real Madrid news",
+   "h": "⌚ IT'S CHAMPIONS LEAGUE TIME!"
   }
  ],
  "summary_date": "2026-10-13",
