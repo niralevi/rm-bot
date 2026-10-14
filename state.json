@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31243,
-  "FabrizioRomanoTG": 67284
+  "themadridzone": 31244,
+  "FabrizioRomanoTG": 67285
  },
  "sent": [
   {
@@ -1057,8 +1057,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 38,
-  "tokens": 62506
+  "calls": 39,
+  "tokens": 64127
  },
  "pending_fb": {},
  "feedback": [
@@ -1280,19 +1280,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31221,
-   "t": "Carlo Ancelotti, AS Roma. 🔙🐺\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/YE8UlejEC1NxuMM2hivXUKEUNS8h1682LgMkOSJhLfLd2BvLVTE3UlQ5BqIhVzdyuMpahR2f7VZmi12od1d3znMZI-isYckdzfJZo8rzUTXTkn-aCmSmxsY-riV6uGOS88V8JT13VOzi5hSrANsc3f_wgIKbwPeFacykvwvf1ws7RkNIWccj6huQs1DX0obWXyPIWEu8OICs9uGSt0DBZyD094ckFHT36IexoC6M7kBU4XOzLcAY2sK_wwkPIhhXKQgE3fMIVc_o1AraOs3me2ZOi9zcfjPCso2YDbiQtnOtQxK47BdrGuU8xHq4DcDF6j6TBS3MAM_k0nxmHYhowQ.jpg"
-    ]
-   ],
-   "r": "Not about Real Madrid",
-   "h": "Carlo Ancelotti, AS Roma. 🔙🐺"
-  },
-  {
-   "src": "themadridzone",
    "id": 31222,
    "t": "🚨 JUST IN: Real Madrid are OBSESSED with getting Viní Jr. back to his best.\n\nThe dressing room NEEDS it as he is the emotional core of the team. @elmundoes\n\n@TheMadridZone",
    "m": [
@@ -1504,6 +1491,23 @@
    ],
    "r": "No substantive Real Madrid news",
    "h": "Jude Bellingham. 💧"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31244,
+   "t": "📸 Viní Jr. & Arda Güler in the Adidas x FARM Rio collection. ✨\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/TetBUO_cwGik-L02aqVua7GXH2iRqrYLCmnjcM7vU-Gt3D7w50cQilOA9S6XBdmdXU5hxAuMeLe7rQKt6h8pwifmuTmdkNY6W-nppa6w-tnCMFbyJW85M4l7KVhCLmUmbIsup7jMiehlRkRN7LXcRsmQLnJOLRnsyF3tmK0hihw0JDb3v4tbNNR-ZM57R-boByxiG_4g0GrqVtOmLdDrAIrMjPWq3cUzEImtUDwdf_YNZblLYaEdNAZyuqrTq3haqtYpzSugW1qvmvTKV2DD_J2Zzpa3eK_ayG7fYkRXu0Zr7I0Oss3dkKgNq-_goPoMn7R0VUb8GU5UQiddYntlPw.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/hQowj7oUrEABgHVH1FtVYQXGR-9fX2azaZuOkR1keuc0DW3Ek3UGMe2TArit8fkxfe4TllZ4DWZ455aVVkAhG4nmMUADLe0047cUW2UnJh3mM73KOzrkFByQp3Ot3FAnOI4_xRmYilB7DRShM8gkoS6-uOuVC5rTJcBciQV_a9R8P_4veFOEQ77jz4hRvppwaLZWMXBDSZpgQoNkLQ3264sEjnLjkOcVRLPylgnXW97AmLX5xIZLenIT1Z1Ku7ESJZSmqTUJdbOnFoBSLyU0KiZqzHKmB028wn2F7xDVzBrgK8yg1WjOmbaiMIKOpCZtBsE6-j3ZHGooPKUPPwYzVA.jpg"
+    ]
+   ],
+   "r": "Lifestyle promotion, not news",
+   "h": "📸 Viní Jr. & Arda Güler in the Adidas x FARM Rio collection. ✨"
   }
  ],
  "summary_date": "2026-10-13",
