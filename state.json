@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31262,
+  "themadridzone": 31263,
   "FabrizioRomanoTG": 67285
  },
  "sent": [
@@ -930,8 +930,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 49,
-  "tokens": 81199
+  "calls": 50,
+  "tokens": 82871
  },
  "pending_fb": {},
  "feedback": [
@@ -1153,23 +1153,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31236,
-   "t": "📸 Linda Caicedo and Bella Andersson in the Adidas x FARM Rio collection. ⭐️\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/b1sSf_ejs_1Jwg0hwZmdS9zaiaOebam_U9EkWM7GkmFxNRRy1nLWUSS60y4uk5Srfn4SZjcyncuj92mEu43SP6jyQxKgSFotVN2htQP47EYRET9JSnyQwjCq-mZ9rY6gLv7MC4LzRshOsMetNF14R-93eqdyqK_ktLDTDk4_gqJz1q_Bnn8nJsk5ipHkk-aFYXZnbEbJLGFvEWCbl3-n4zg5s_VlYfqYNikEfpjTSXvJ1oI2mxWVisQAMjeYqr7D1c-Uh1UvuOKIEyCqet7YdTxH360Y_LzJ70qAFGdndIulU5uu9XFR3STJsqPGThANkrYD0exOC-FyTRugDeQnvQ.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/I2AQhdR79g3aKEZRN1_LsDWQVrpUsU6BE_OkAID-e-b-1cpTbbeVsKUTdQXyJE5owiDfPFQrrfoiysxcYA_AZCXgoH7yacwj3oJdXyclj-ZEX2gUdVfylBYFyeU7xqznjua87zm13h9vK1AtV1wmhT3F9pPV8sR_qxwCvr41W2BQaFxF8gPSoD9_J1UC2q_Eg5i-Ci2W0SHw8oCJ7-vGXIK6s6WMrYddXifRmyt47HJV0em9JGmPu1xWIOaqFkvq6B7fQAphlHgsPPn72ZbkmS2Gq6gZRxzG5BPc7q3oQN2_K6txGF9sasK5yNW5Xhio_fUatgdAIt3lVeITWHeTPw.jpg"
-    ]
-   ],
-   "r": "Lifestyle/fashion, not club news",
-   "h": "📸 Linda Caicedo and Bella Andersson in the Adidas x FARM Rio collection. ⭐️"
-  },
-  {
-   "src": "themadridzone",
    "id": 31238,
    "t": "Trent x Aurelien Tchouaméni for Adidas x FARM Rio. 🌟\n\n@TheMadridZone",
    "m": [
@@ -1389,6 +1372,23 @@
    ],
    "r": "Irrelevant lifestyle content",
    "h": "📲 Ibrahima Konate on IG. ⚔️"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31263,
+   "t": "🚨💰 JUST IN: FIFA is proposing to INVEST over $6 BILLION into football between 2027 and 2030.\n\nEach member nation could receive up to $25 MILLION, compared to $1M in 2016.\n\nOver $3.5 BILLION would come from FIFA’s financial reserves. @TheAthleticFC\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/jcKdUffg2pua0GdrjDd2UgqSeb2b3wfarx-szx8eyMbOQJBcINpMfcQJJDqSLsuOq8QcVYbSzx6yubpClpB0jIPNGmHFXce-LbuiQQGaqqjpy7pmun_y_HE6MvJIypo6UXP3KzmgBOYrwvDT8skmXoonsMqZw3DxtHQAxfQRBA9Jb1oH8V14qiK-0zj7omHPfYAMO3VlZrN8rQsqCgzhy4R62mSEP9Orn9oSkzBxHk57LN0hr3dG66AsteLmaW8J8HwCmdoDZ1YFyOreJdOCFwOcGkAN0at2ZDlfIWHNNGs5aGGoQiuG0RneDQbXKTW1H3woYXGSafdeF7VDce8xWQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/tOx4h90WfMJqtWAF4VUCjeFSbIYKRFulfus25ElAS6jkQiuCVXpyuG41ygyL2xt7ZXl9k5IhucUKJognjiB8lCnYvjSlxa7o-jyYutR83VtIrvwTJX_ikqVRbzrXyPyZ_JHc0PYrCJaZay3YACeKn5kk3opGJp6hRszPOh4nDY2rNisYqcLGRX5S4LzaeQYXYCcPcaetyO5IOYoqZ38zDhBhHIAFrOtuRrQ9Lzv4j7_d3O1toFsuvIknC4-_MQ4BgY1r5X2c7A5sxp2g5uj9pQeZWU8f-BvID7FUOA2XY3YjFUHJtY4pcZIfxPPcr9WJGkMmRYDDS_YrcG1dP7JHAw.jpg"
+    ]
+   ],
+   "r": "Not about Real Madrid",
+   "h": "🚨💰 JUST IN: FIFA is proposing to INVEST over $6 BILLION into football between 2…"
   }
  ],
  "summary_date": "2026-10-13",
