@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31204,
+  "themadridzone": 31205,
   "FabrizioRomanoTG": 67275
  },
  "sent": [
@@ -1027,8 +1027,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 8,
-  "tokens": 13059
+  "calls": 9,
+  "tokens": 14653
  },
  "pending_fb": {},
  "feedback": [
@@ -1250,19 +1250,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31187,
-   "t": "🚨🚨 New Santiago Bernabéu logo has been installed. @RMadrid1902new\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/vIXvHbDCZI4LnlaMhH4nbKRFFne3KP3T6qrO3JHexgXiBvr_G72n3auRC9I6b85dYJYImx_dkYTBgEiCPaq669xyCqgfvvVZo2QUs1ur3KY_bE_gIa6vXmoYM-_tR000uDVLPulXUdbTo2C88VI4DBrmD0nGHA7UwS5PPdLuHanO27H6DDfW8FBlYEtQKuT67ldC_oP1c2tPL6Z-Pe8oM_JM0niOtdq20KbIGokUMhyW6YbFr7HY4gBl28oVsjvnS1tQxNWo5U_oTZ6LU1R1R4khn3PgaFf1Z8UTi3o_SeYs4Wu-3WSuUw_a62Tjm4Jj5yUIsMS7W4rA_pbK2ASRHQ.jpg"
-    ]
-   ],
-   "r": "Not relevant to team news",
-   "h": "🚨🚨 New Santiago Bernabéu logo has been installed. @RMadrid1902new"
-  },
-  {
-   "src": "themadridzone",
    "id": 31188,
    "t": "🚨 José Mourinho: \"Will Vini start tomorrow?\n\nI won't tell you, because I don't want to lie.\"\n\n@TheMadridZone",
    "m": [
@@ -1450,6 +1437,19 @@
    ],
    "r": "nostalgic content, no news",
    "h": "🔙 Cristiano Ronaldo vs Milan, 2010. 🔥"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31205,
+   "t": "🔙 When Mariano Diaz scored this insane golazo vs Roma. 🤯🚀\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/kGydF1u0o1jE8zNtrbRzTfsemMr64d5JP6eeryvqPTYedPQk-cLknJkWktSZO5KyjShkXIuah6GAnaAoyd_IQ2opOahLaFbZGp5MMlHxDXl1A2Dvp8Gob9q2ZsMbMjtURMFz_Im9sVqB9EgKT15FzmGxrF95Qo42WOsg1XLYtNTS0301pppFfJLpNsHY7dHR2KYfwkGo5h8AlQQQoxevZ-U9bqHPtGRfrSUpDx92p1HMvuy7h0IoFv894E4f7Fmasd7D1lnR49o0Zxzsj0H_rYcnJkUY-et7BOE-xqb1kigR1L6x9tLzEC1kWtk68GIggkD3VUSX_C5kIV8a2gTWIA.jpg"
+    ]
+   ],
+   "r": "no new relevant Real Madrid news",
+   "h": "🔙 When Mariano Diaz scored this insane golazo vs Roma. 🤯🚀"
   }
  ],
  "summary_date": "2026-10-13",
