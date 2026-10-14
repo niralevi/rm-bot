@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59223,
-  "themadridzone": 31205,
+  "themadridzone": 31206,
   "FabrizioRomanoTG": 67275
  },
  "sent": [
@@ -1027,8 +1027,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-14",
-  "calls": 9,
-  "tokens": 14653
+  "calls": 10,
+  "tokens": 16270
  },
  "pending_fb": {},
  "feedback": [
@@ -1250,23 +1250,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31188,
-   "t": "🚨 José Mourinho: \"Will Vini start tomorrow?\n\nI won't tell you, because I don't want to lie.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/EwuUqC_nx0VVphpGQ62xoJrsdCblyHaLD_7_9TRVLbPW-9i4s8YbV1CbkeLJHRqSRl1wNrjgDJKOa8qyjk-57g8rSkwOK9J3oeTcTf_AzTihJVk5CAR_RGEu5ey24QJ1OA3b3p8pJfA3mv0QLFdd9NjY6MuegOoPpn_yL0loMXTq9d4IwD697-9o2X9FwUBv_Tok9A7QMLRE02p31K6TLpnOL90d3PqNU12zDED2QgvfJEPKegl3wgxwAO0gGCh6-dHm075RLW8vbyWwRntgle2ereJeoh6CarkjoCZuV6gzJfd_lQQP1Fk3ARHR-6tD-cqNq6tmZAvSrs9BLnX7Zg.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/dEDO7P_rc-zC_ORmGRq0iK8-DT9IXsA5gHZlv2kgvMURXwlI5oQ3TzWqhwyPdk2ZLGKAr88fupeRzRikozi9IV6nuXQL1vM4R5a6BGPCEZJ9_vCPd6XdUHuBEd45KuaVardZDS2NIBwhTZk-5Yn1lo1q3e8oZEmQOlW0geHkMjMj3y4ZDYssLBPfIQPNJQxglyOiJVfo440xr6BCHMPitKWXrqEWldunIwvEPV3uXb8lSeUENRqxcYp2Z6npGQkZDxniNfYGJDRL6oKT10vSfD7qyRNBhVjcbmdfIa96m2yQLR2xMCXkj0x4kMkrZFSlrE6f_x7ddb9IWfcC5ZV2xA.jpg"
-    ]
-   ],
-   "r": "duplicate of earlier Vini quote",
-   "h": "🚨 José Mourinho: \"Will Vini start tomorrow?"
-  },
-  {
-   "src": "themadridzone",
    "id": 31190,
    "t": "🚨 Aurélien Tchouaméni: \"Preparing for El Clasico?\n\nEl Clasico is a different match.\n\nWhether you win 15 games in a row or lose 2 in a row, El Clasico is completely different.\n\nIt's a game that requires special things to win it.\n\nWe'll do our best to prepare during these games, and we'll be READY for it.\"\n\n@TheMadridZone",
    "m": [
@@ -1450,6 +1433,19 @@
    ],
    "r": "no new relevant Real Madrid news",
    "h": "🔙 When Mariano Diaz scored this insane golazo vs Roma. 🤯🚀"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31206,
+   "t": "🚨 Real Madrid record vs Roma last 10 UCL games:\n\n• 8 wins \n• 2 losses \n• 22 scored \n• 6 conceded \n• 7 clean sheets \n\n⚔️\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Tdbs8K3sHwfAEvz44Sqp9dh3VuRNQ-wtuTAULUgse5qeA9qDB8mZKs6L1HYJzIdmdxhhS0YSUn-b7jZg1YdL6ywVHsVmqbF_e9yLPQLmMc8sgPo--J37qzPhBdIKKF6wbyLmpdIwigGCX5sA8hvmyDwFWh-XgZp58cso_UeUGFWO73p0abKSKICY3dorXYSYzUdzToHEW5EZIj8K8D_kfuoSuys_D50vI8wlgo1qdIUn7PMaYC4X4qg_sR1V6_20SPeYj0HwdHoyLiEOn-2sNdl0jyfhUy59W6UejdY2QgxGvRkmsS4Ykw4v-Q-DHXfeWxugPRo5C1aoqZnGBzPWkQ.jpg"
+    ]
+   ],
+   "r": "Pure statistical record, no news",
+   "h": "🚨 Real Madrid record vs Roma last 10 UCL games:"
   }
  ],
  "summary_date": "2026-10-13",
