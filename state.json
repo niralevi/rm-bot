@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59286,
-  "themadridzone": 31532,
+  "themadridzone": 31533,
   "FabrizioRomanoTG": 67335
  },
  "sent": [
@@ -1989,7 +1989,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 328,
+ "train_seq": 329,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6648,6 +6648,24 @@
    "reason": "no important keywords",
    "ch": [
     485
+   ]
+  },
+  "329": {
+   "t": "📲 Thiago Pitarch on IG. 🤍\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31533,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/e_my2Izkoc1DfgM4DYd1NiBQ_guPJwmBJxwVmIjVTzOZMu4m0nqHz611zwURWIPBJKPDXCorRiHOfNzVIXWqOx1jNwlvSffue8brEA7cNI0MOSRFfZ2-QAVkPnJhv1iOrEM0JXFrcBO-ckcRAYIlgzGfBrCpZDd665rENCSAPdAmnEYZEhPkuR1NwDxlooqmwtTLA-YF_XutVUITQeHr8tIiiQIg5R8JGCP3hBedI8_QtIeBRF9GB2_BJIpUN2FYUcDAMcd4wpK0oblg9t7aH6mODPWFjPjfqots6OUwykRGnDT-6eF8Akgf_8uibMIFIDy0q7DhLz2LA-8fbI3SlQ.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    486
    ]
   }
  },
