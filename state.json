@@ -6,23 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1791882803.0798821,
-   "date": "2026-10-13",
-   "tokens": [
-    "asencio",
-    "rodrygo",
-    "train"
-   ],
-   "names": [
-    "asencio",
-    "rodrygo"
-   ],
-   "cat": "🚑 Injury",
-   "status": "fact",
-   "headline": "🚨 Real Madrid are training.",
-   "link": "https://t.me/RealMadridImportantOnly/121"
-  },
-  {
    "ts": 1791894441.0246,
    "date": "2026-10-13",
    "tokens": [
