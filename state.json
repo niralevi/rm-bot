@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59263,
-  "themadridzone": 31487,
+  "themadridzone": 31490,
   "FabrizioRomanoTG": 67330
  },
  "sent": [
@@ -1732,8 +1732,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 100,
-  "tokens": 158242
+  "calls": 102,
+  "tokens": 161416
  },
  "pending_fb": {},
  "feedback": [
@@ -2160,7 +2160,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 278,
+ "train_seq": 280,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5847,6 +5847,46 @@
    "reason": "Not Real Madrid related",
    "ch": [
     427
+   ]
+  },
+  "279": {
+   "t": "ALVARO CARRERAS. 🧱\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31488,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/hXuA9TtCXrK9N1Yc0dnVp088ttiN33L6xihvkavK_8mui-A4P7zG09Rw2Rrr30JPrxUDl-aV8xyyL-Oa2GgMEqPvnj_ybUFLLbII187Rb1jVL9-kgaz5Agcmy-lgXwt0qjwIM2ym36r91pL0j18pdAxMLCYKBhSnea1gtLBPnxgGU9RqILf5Oroz2jK78zQmw7LpcuqupavBpXqaQJ0ia7gIT0AcRh1Jy_0OZxVr7kYjvO6TSemSAbF5hrMwObDdeOMbXK2elue32s7c7LEvwmKEP66RkOfDrXJ_wazVyl5kt45UnsJf-JemyHtQTZuyYrs1f6dqb_EvwbFfR_0M3g.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/WBc1ZB-pldCZhNpHfXvSgTbtKIY3JoxweNnyctlFCqunvhhR74fI42rQERCvq_40CgPw79badoKzkKmWytjlR77Ffx5DpqdVdiMdDk7kfUuNdoG9VbBdGTkmjgmOkw7UFLhRqiXOIcBFbSAqjl87HXOgD7FQKEMetwEJ3XrgJFfdEDU5nDLBMoGVK1FtTwIWy3HoxHpPM2ENoOz-mnCb1j7xxiCGuU5fjdyPM89ZNzNdVqQ3vAoW1VGND8p8tR01tY78wBYRkCxlsKgqiSF-eUnIO48DWPhZXKZUinSglpE1cwilqh1afswX4MYmghefQtO5ZYj6L7O5Nr7bC0nsWg.jpg"
+    ]
+   ],
+   "reason": "No substantive news content",
+   "ch": [
+    428
+   ]
+  },
+  "280": {
+   "t": "RODRYGO. 🔥\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31490,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/UCj-Ab4GIV16P0MjslzvTe7e2NH7iYDWUGp24QU370xQMiCDp2RZW-sLBD6yK-PiUNo3cyPFca9aacZmHoLX-3gH5o-nfToqV-wkOdSFGfAETXpLqGsJJQyQWv1sAu90clI536Z1NXnRzkI0hiAxoJLonmP9_aiWY7VQkkdVNmKGUkE9tT6P2hgYk17e9M8kdj3Zm-iJ_YEYyc9P6NVGu2MUi2MCALErOo1y_Mrpd8cIK0eXjKiH__X5dmvi47BzrKmSybMqaen-cScBREISCEUTuFB9qkH2mwWfSLucle0poaN2K7R6kHZwxcriSWfmhjGiUPKIz175uAXJP748Lg.jpg"
+    ]
+   ],
+   "reason": "No substantive news, likely meme",
+   "ch": [
+    429
    ]
   }
  },
