@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59265,
-  "themadridzone": 31508,
+  "themadridzone": 31510,
   "FabrizioRomanoTG": 67333
  },
  "sent": [
@@ -2077,7 +2077,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 297,
+ "train_seq": 298,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6126,6 +6126,28 @@
    "reason": "no important keywords",
    "ch": [
     447
+   ]
+  },
+  "298": {
+   "t": "🚨 RECORD: Antonio Rüdiger’s goal yesterday was the 500th Real Madrid have scored under Jose Mourinho. \n\nIt has only taken 188 games for the club to reach 500 goals under Jose Mourinho, the FASTEST of any coach. @marca \n\n⭐️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31510,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/BlI0Rs1Bv_FHu9NWuRNbfWmdfvannauQfPUwFfPMjgbo7JrJAuPMbQjfLc5dJrBlzJT4XthOEDcS5MxI4ripCB6Riwi5xdKW5BsJRpm5KT3jmm4d2G-1Uv9ouAmPHYRSMoESZUGdRlE5gxSzHUjO-K9tE0SQBDbhwHtPGyoGBWOpWN5jP6gc901kN9vhL5wvcWTaBe3d5ElzgZzLXgnrP7rJupSbEeRQzIVmMFsNipyu1EnHPIsrsgbL7EbggYQoz2B5Wq9ghY--NrvJp5JuWFKZyvxYFTCz_znsPcwxvpORRn55sinch2M3h_kYKvCIIK2yrRnlVWDYn_Kv5dmjeA.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/sFSwFu6r1T49MbnODnxucfnaXzVsqOngmqOjO6HB5VDOye50yhXhtNhRmKIsuwY8o7O9hYD0qZe9nzfvm4aAvDSun7KSUMCZfuWTGebvQdTNSoe_c0cG296dnikBpDjJ9jl6HOOoaBjWQzGnfpdOAE07goaK9B6FONdB0FveYNT5EuHccYJ6hhdMUVUv2QiXKVl0iDgtNMHFS2WO_VzczR0TtEQM4VkI09vpRhYNQW7_ZAwu3q7M6neimmInUyZke4kbij0Rrb_hL-ty526t-rUmE4c8mEuEygOls6Gzmldoos1OUCSGrgnWHEvYDmaAA-XOlqoav1mq_PKBmcbNCw.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    448
    ]
   }
  },
