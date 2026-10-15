@@ -6,33 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1791914187.2685077,
-   "date": "2026-10-13",
-   "tokens": [
-    "because",
-    "don",
-    "jose",
-    "lie",
-    "mourinho",
-    "start",
-    "tell",
-    "tomorrow",
-    "vini",
-    "want",
-    "won"
-   ],
-   "names": [
-    "jose",
-    "mourinho",
-    "vini",
-    "will"
-   ],
-   "cat": "👔 Coach & Board",
-   "status": "fact",
-   "headline": "🚨 José Mourinho: \"Will Vini start tomorrow?",
-   "link": "https://t.me/RealMadridImportantOnly/168"
-  },
-  {
    "ts": 1791928230.6188052,
    "date": "2026-10-14",
    "tokens": [
