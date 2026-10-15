@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59263,
   "themadridzone": 31478,
-  "FabrizioRomanoTG": 67329
+  "FabrizioRomanoTG": 67330
  },
  "sent": [
   {
@@ -1732,8 +1732,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 93,
-  "tokens": 147123
+  "calls": 94,
+  "tokens": 148768
  },
  "pending_fb": {},
  "feedback": [
@@ -2160,7 +2160,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 271,
+ "train_seq": 272,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5714,6 +5714,19 @@
    "reason": "Just player comment, no news impact",
    "ch": [
     420
+   ]
+  },
+  "272": {
+   "t": "🚨 Vinicius Jr: “The whistles from the fans do not help me, I’d rather they supported me… but I understand, they pay tickets”.\n\n“I’d rather they boo me than the youngsters”. https://t.co/khzTuJ697e\n — Fabrizio Romano (@FabrizioRomano)\n Oct 15, 2026",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "FabrizioRomanoTG",
+   "id": 67330,
+   "m": [],
+   "reason": "Fan quote, not essential news",
+   "ch": [
+    421
    ]
   }
  },
