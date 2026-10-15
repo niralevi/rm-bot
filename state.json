@@ -1,149 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59286,
-  "themadridzone": 31533,
+  "themadridzone": 31534,
   "FabrizioRomanoTG": 67335
  },
  "sent": [
-  {
-   "ts": 1791912566.558418,
-   "date": "2026-10-13",
-   "tokens": [
-    "13",
-    "2026",
-    "comment",
-    "even",
-    "fabrizio",
-    "first",
-    "game",
-    "jose",
-    "match",
-    "minute",
-    "mourinho",
-    "oct",
-    "one",
-    "only",
-    "part",
-    "please",
-    "question",
-    "referee",
-    "romano",
-    "say",
-    "someth",
-    "stop",
-    "villarreal",
-    "watch",
-    "your"
-   ],
-   "names": [
-    "even",
-    "fabrizio",
-    "jose",
-    "mourinho",
-    "oct",
-    "please",
-    "romano",
-    "villarreal"
-   ],
-   "cat": "👔 Coach & Board",
-   "status": "fact",
-   "headline": "🚨 José Mourinho on Villarreal game and the referee: “No comment. I will say something only to stop your quest…",
-   "link": "https://t.me/RealMadridImportantOnly/161"
-  },
-  {
-   "ts": 1791912569.564459,
-   "date": "2026-10-13",
-   "tokens": [
-    "13",
-    "2026",
-    "24",
-    "3",
-    "alway",
-    "fabrizio",
-    "game",
-    "hear",
-    "hour",
-    "jose",
-    "known",
-    "liga",
-    "mourinho",
-    "name",
-    "oct",
-    "referee",
-    "romano",
-    "smell",
-    "someth",
-    "strange",
-    "there",
-    "usual",
-    "week",
-    "why"
-   ],
-   "names": [
-    "fabrizio",
-    "jose",
-    "mourinho",
-    "oct",
-    "romano",
-    "there",
-    "usually"
-   ],
-   "cat": "👔 Coach & Board",
-   "status": "fact",
-   "headline": "🚨 José Mourinho: “There’s something that smells STRANGE to me”.",
-   "link": "https://t.me/RealMadridImportantOnly/162"
-  },
-  {
-   "ts": 1791912699.450365,
-   "date": "2026-10-13",
-   "tokens": [
-    "absolute",
-    "adore",
-    "any",
-    "anyone",
-    "because",
-    "believe",
-    "better",
-    "club",
-    "does",
-    "down",
-    "endrick",
-    "exhaust",
-    "fight",
-    "forget",
-    "get",
-    "hard",
-    "here",
-    "him",
-    "huge",
-    "important",
-    "interest",
-    "january",
-    "jose",
-    "leav",
-    "loan",
-    "massive",
-    "mourinho",
-    "need",
-    "potential",
-    "sit",
-    "stand",
-    "succes",
-    "wait",
-    "who"
-   ],
-   "names": [
-    "anyone",
-    "endrick",
-    "january",
-    "jose",
-    "mourinho"
-   ],
-   "cat": "✍️ Transfer & Contract",
-   "status": "fact",
-   "headline": "Mourinho says Endrick will not be loaned out",
-   "link": "https://t.me/RealMadridImportantOnly/163"
-  },
   {
    "ts": 1791913109.8507826,
    "date": "2026-10-13",
@@ -1989,7 +1850,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 329,
+ "train_seq": 330,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6666,6 +6527,24 @@
    "reason": "no important keywords",
    "ch": [
     486
+   ]
+  },
+  "330": {
+   "t": "🔙💫 On this day in 2018, a 15 year-old Jude Bellingham made his debut for the Birmingham u-23 squad. \n\nHe also scored the winner in that game against Nottingham. \n\nPlaying for the u-23 squad since age 15, Jude Bellingham has always been incredible. 💎\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31534,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/awE3E-rFyY_uKUJxdbfexbAwsb4XP7Z3mJ2FWb5FkkE3S7DMV4ZNMYlX_77TkAf7YWUZ0rO8aPKkrcAD9PPsaVfAxMWiye4mVhu_gBiI82iS_vBT9AOoJTKqMl_12wp3FtCk152aEi_MT4tNbqE95DxSWnFVd2MHM0lB12le7ANZliURBuXV_mJSDinmodj5HSUyQJOU9LP4WTnPcyBIbxyYnsDlTc6h8eKUgUhlR1tOZATx0gvRVdA0FrGxDHsnHvuzjO8ciK8I6e0l-60MpeNNH3o6dyuHnQgMU5su2-xcTGmERD3bt0eDTiPA-lwsoyXox8xNaaThbQrGtmEThw.jpg"
+    ]
+   ],
+   "reason": "lifestyle",
+   "ch": [
+    487
    ]
   }
  },
