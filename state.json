@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59265,
-  "themadridzone": 31512,
+  "themadridzone": 31516,
   "FabrizioRomanoTG": 67333
  },
  "sent": [
@@ -2077,7 +2077,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 299,
+ "train_seq": 301,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6170,6 +6170,50 @@
    "reason": "no important keywords",
    "ch": [
     449
+   ]
+  },
+  "300": {
+   "t": "🚨 Jose Mourinho wants his Real Madrid to have MORE options in attack. \n\nHe wants the team to be dangerous from set pieces, use fast transitions to use the attackers’ speed, and also have POSSESSION based build-up. @marca\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31514,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/RZzgGqNhHnVAg7d8EU-qBBV9kEJVtne-xKO-_-6XxjXG4ZRM3RSnuYJ-YoMsQolguukLendXbHOiAOZmF_nJnUEgmjzk0Pug8kJmt1a4oeOdSW63bIVbdQtoZhBk0Dfz4s2FjWu-YVL9wQ3LZ_f80YFguR7iukdLMqaMUHIiZWmYQi5xY7KkD-Ak1NFZ44OARzb8G-Km8Er7e6QGHnqxISB7NN17UCxbJgaz275wzlQat4JBV10dysiZt7yGydsnRq-5dzL4sH75FVx-CTxGP-e9X569Hykx7F15NdzilfRn_IXjk8tU9roqVNa7WDiVdEwQosG_5vKM-0sSOzij3w.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/P-OJbXiHZhwdrimIxIRggXPvg9et2VusqTiEYmixn28bs5bqBVqCgf6xLDsx6tUiQzhd05tEbiPHDr0f5YSXJAU9Adff2bvtrfW2qCtN38j0mMsQnUuS6WL8Ycsv9Hm7vWPpflqBQLdvAmgLJS7-5mg5QdW8qSzo5EbskIdVwtV7kKYj8TNPYs9oAefE742lyodnjlhk6AWNHFOpU8WjJw4CPN1fhZX7oujU-j8nNACQkUMsOPcguPMyTNnLsQEEn9Khmz3hLluLGsz6-mLCsY07k30EbKIIOfPZYXeS4rSh2uTynyYZDktm2oazjRsTJZENzneqLgjfINUD6jp3Nw.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    450
+   ]
+  },
+  "301": {
+   "t": "Arda Güler x Endrick. \n\nA duo for the present and future. ✨\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31516,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/OORqpIJp5zcfU8DEn9vuMua6M5lC29hrKqH0VuNY67gGCVN2VlsoDXC6mClKMBriWJW8zqoue5PS3xOcSZ4pZlihsUJbkmZMezafJNSU8LDqwIlAGTdOkXnkVAiEaeg5HbYy12f2J4Zhx7_dIPlG5dQfx37ot-99eGcpaf95x-dUZINQt-cLwNSlx4kQkkCnrU47UxpOl2cgufm8FM3O1JJoUc4CcRrdbH2R7gJaiQ-0XsEERx2x6RvubmBP9cL6ccYGYzWJqMQvzJdjf09rDI0rbur1zf7RhkzbVl5daE2S16NucKzJqmgN3cJ1TvIChSOCJFLKsHVtu5G3cLzMkQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/mUwxxtaGDL84kpwC8a1XqKwrZPP7RI1yoHpf9JR6Y8MDCbmYXSAxuAYnGrIDPBgtToNaZqtGRiRpnrBiGBIl1UY3aeDUEcSpnNDN7O9yaaFKsJ3vr85NKbn0cw01_-d78q1E00rHqwOm2lnlg4lDSVrN7qUFbZR4zXh2RCpnWk2zwz_lN8WtvZeMwNLEHFPmnI4ZmCeoDyA8C86_dGNQAf65rRSNtp_w9HpqviePmi26zf3isLeykVFJXYcTfo8UvChyh5Q3tG5LWgVuOCeGVWUzpRMMO7eG0RKx1NsJC5_1efI5-jwnVJRmqr5k0CwbxDjjPja5uPELceTrdDIPfQ.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    451
    ]
   }
  },
