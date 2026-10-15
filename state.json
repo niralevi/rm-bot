@@ -1,36 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59282,
-  "themadridzone": 31522,
+  "themadridzone": 31525,
   "FabrizioRomanoTG": 67333
  },
  "sent": [
-  {
-   "ts": 1791903708.1717107,
-   "date": "2026-10-13",
-   "tokens": [
-    "card",
-    "clasico",
-    "ibrahima",
-    "konate",
-    "receiv",
-    "reminder",
-    "sevilla",
-    "suspend",
-    "weekend",
-    "yellow"
-   ],
-   "names": [
-    "clasico",
-    "ibrahima",
-    "konate",
-    "sevilla"
-   ],
-   "cat": "🟥 Discipline",
-   "status": "rumour",
-   "headline": "🚨 REMINDER: If Ibrahima Konaté receives a yellow card vs Sevilla this weekend, he will be SUSPENDED for El Cl…",
-   "link": "https://t.me/RealMadridImportantOnly/156"
-  },
   {
    "ts": 1791909382.5308826,
    "date": "2026-10-13",
@@ -1617,6 +1591,38 @@
    "status": "fact",
    "headline": "🚨 Vini Jr: “I do not remember any player being banned for four games for pulling the opponent’s hair”.",
    "link": "https://t.me/RealMadridImportantOnly/416"
+  },
+  {
+   "ts": 1792076446.8436327,
+   "date": "2026-10-15",
+   "tokens": [
+    "all",
+    "aspect",
+    "bernd",
+    "busines",
+    "ceo",
+    "direct",
+    "handle",
+    "head",
+    "jas",
+    "join",
+    "merchandis",
+    "reichart",
+    "relat",
+    "report",
+    "sponsorship",
+    "stadium",
+    "superleague"
+   ],
+   "names": [
+    "bernd",
+    "reichart",
+    "superleague"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "headline": "🚨💣 BREAKING: Superleague CEO Bernd Reichart joins Real Madrid as the club's new HEAD OF BUSINESS.",
+   "link": "https://t.me/RealMadridImportantOnly/473"
   }
  ],
  "offset": 769011999,
@@ -2052,7 +2058,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 317,
+ "train_seq": 320,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6505,6 +6511,64 @@
    "reason": "no important keywords",
    "ch": [
     470
+   ]
+  },
+  "318": {
+   "t": "🚨 Against Roma, Yan Diomande had the most of the following in for Real Madrid:\n\n• Duels (13) \n• Take-ons completed (6)\n• Interceptions (4)\n\nSpecial. @Squawka ✨\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31523,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/FxjxEwLVZ8aOypwNDAHBrVdLHTXy-taLh0MLJwnA8RXs4UoR4LP3lQko6zszwnV-7KjKZlFq4EjRtj7_RvlCgAR9PbI8Z4KpNPuBPnnhCi7FbiMapAGg9yhW31plgpCr3BbNEQEzFdmk5oA3TDmnZXZnz_E1QmBYqPWKgQBM5at1eN1tGmCOQwYzRpJE_QfSBakkRdTgWro3zrUOL5Lty0UjoqHiWIW0NC0mwfh8I54BleRiZ9_avcxZKfEDGygkbMJAMXBvJSvgHYqx9NagKXL6-eENRX9J4vJVloV16z_Hzot4uxkloDwhEbUSKAQGohuz1F3rbWDAKYWD1czdfQ.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    471
+   ]
+  },
+  "319": {
+   "t": "Super-Yan. ⚡️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31524,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/M5rtnVFAX5cXPTMPbBDnfM-or3kh_fWShPaGifKNCaHisa7WhapNpOx3Qx0sUdShIUyeFP5N3idjp8SeLtUqNuC35mmdjomNJXNO2sFH33v6QbL0CWLjeSpuQ0gCBaLMD6q0PoqlUfgfJ9YSx1XuvuAiideME846aB1slIDZQh3b-B19xOkf32Fwr4yLGy06BLz4QMgZ1GArckC3Tkh2v6rozxPkVepTnUrCX6H0Jp3gs0THqbOFItGLQWTnxb3s4s-fcv8bdZ4TZ-tkuzAcCNaxsJVCsa6ClB02YE9nrGDLvczO6GlSDENVGPEbf3bkm6pW08C_VdIG8hed372Pdg.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    472
+   ]
+  },
+  "320": {
+   "t": "🚨💣 BREAKING: Superleague CEO Bernd Reichart joins Real Madrid as the club's new HEAD OF BUSINESS.\n\nHe will handle all aspects related to the stadium, sponsorships, and merchandising, and he will report directly to JAS. @jfelixdiaz\n\n@TheMadridZone",
+   "ai": true,
+   "label": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31525,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/OQafPqYevjDvjF7nFhferyRI0uyMddDTyG1sknBsCQw-1jO9t9gAyxpCQao8dwFqjks-YZKHkpJfsUySdlul7lc8gvvG5DLzEXq74HQS7xXXE_aCv3T889KieKeEmbWaX0JQkbS1mRT50ZUL1bII143MHlb66-a9u7UPKycCTqoyevy3WQh_l-SHstHJcF4Bpnidcclu9jhA8njEROLjh1tWhZnfN6ZkSYx09Se2kPnqP6p54ApFCoKWyAJZqHb6VCcRl8uoSyu6rcSrT7EmFo1zhHNMvTg8T_8unfjiIuEVFx83Y7LMd-vEw_2jGJHN08YGmiqnMvEA3wFqMIkulg.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Gsz1R_TFqEaTbuzqAdfZVOHk1Ur6nxs8JM_iKzjSnpX3gIBFTb2Np3TNSRaGgMZLmFX2lCmJlCt0ZLgkwFD0SNWNQXZvuQ6y2Sfp60M4b51ORj86G1f3ySjkwdgxW0RUSYsKSgvN_XQ6WsDTv7G_htOiRLxjQXGB6zD1CBx3tO6QbbVA-ykGzj4hzpOUZgcj25mtOdTvq8NxKrgWNSl2np_y9aJV9KnFWwb_6bnj-9welAseDOJmIZiGkGMKvwRTraYNuhmVvNHUXwr0NQ8E6TblKuNwPBW7TI1UfbSdVuQ4o3uuwWktnXwYA3QaWwzF3x8PSc6W-oFgABqkcTCd8Q.jpg"
+    ]
+   ],
+   "reason": "important keywords",
+   "ch": [
+    473
    ]
   }
  },
