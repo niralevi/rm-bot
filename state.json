@@ -6,40 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1791913109.8507826,
-   "date": "2026-10-13",
-   "tokens": [
-    "10",
-    "bernardo",
-    "change",
-    "come",
-    "endrick",
-    "game",
-    "goal",
-    "jose",
-    "left",
-    "men",
-    "mourinho",
-    "natural",
-    "plan",
-    "right",
-    "scor",
-    "silva",
-    "then"
-   ],
-   "names": [
-    "bernardo",
-    "endrick",
-    "jose",
-    "mourinho",
-    "silva"
-   ],
-   "cat": "👔 Coach & Board",
-   "status": "fact",
-   "headline": "🚨 Jose Mourinho: \"Endrick and Bernardo Silva were about to come on, but we scored the goal right then. And we…",
-   "link": "https://t.me/RealMadridImportantOnly/164"
-  },
-  {
    "ts": 1791913761.986034,
    "date": "2026-10-13",
    "tokens": [
