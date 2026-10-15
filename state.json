@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59263,
-  "themadridzone": 31478,
+  "themadridzone": 31479,
   "FabrizioRomanoTG": 67330
  },
  "sent": [
@@ -1732,8 +1732,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 94,
-  "tokens": 148768
+  "calls": 95,
+  "tokens": 150346
  },
  "pending_fb": {},
  "feedback": [
@@ -2160,7 +2160,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 272,
+ "train_seq": 273,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5727,6 +5727,28 @@
    "reason": "Fan quote, not essential news",
    "ch": [
     421
+   ]
+  },
+  "273": {
+   "t": "ENDRICK. ⭐️⭐️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31479,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/SypW8SStShEmBfpHUrXMNQXzeAvsFWIrBHAhr_72DoLiESxUzCk8ZbvQG61-ymHct4yp2_5S2V9maIyk_Tp_OpJKS2H1tjXQ9U8cYDYTrCbhlfskbSIsPDyvJImUCxiD1kT4B652HWjukp-EarNPtsRjwQkxg006pVK0_g2_gu_0rwmV3ca1u8PaSOY2zv2zttOX5AoiAeOPK76YVElGx5arN691_yd8ZfiXd5Fs95lwE3RvpF3-vTKe_fQOYfMGbeqGN1vcYI2U6gWnZkI_kmeTEqhmdFClKmxyLqcW_V6_qv_s74037Jybj9j2ffpLNuXvNzpGlqTV9lU65UNEWg.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/cYsOVqOaE2Op4g3FQN1MSzx1YZtOmkb6gqWdlWfJa8E5FldUUJV_K7RKNqsnu7igZheJbCYLvWQ5Ly0ayk-CaHphfNXEz-e9JbzFP38QnwyNC_pEaffjdCu2ARQsqx-RRoLYC4QJY3_blikRhhxd47fbbv9OjYpJlTZlCo6bfUrMpvPFeSmhN1-yENiWlPRnVg7oEd-VJAnkWRvVYGa1ZXRBPm4JLkuhsSBCfhAHsah13L_znRHjEkoeitBW9UDhL4jmauRu97uXYkifQCvyNT0qCTtwn_HKXVgw5RJmNHcYaGdMNBAgXt57QCyaIbLH6Pm1heJ4Gbx7xs3BQYhiPw.jpg"
+    ]
+   ],
+   "reason": "No substantive news content",
+   "ch": [
+    422
    ]
   }
  },
