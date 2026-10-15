@@ -2,43 +2,9 @@
  "last_post": {
   "real_madrid": 59263,
   "themadridzone": 31478,
-  "FabrizioRomanoTG": 67327
+  "FabrizioRomanoTG": 67328
  },
  "sent": [
-  {
-   "ts": 1791874588.835832,
-   "date": "2026-10-13",
-   "tokens": [
-    "diomande",
-    "loui",
-    "vuitton",
-    "yan"
-   ],
-   "names": [
-    "diomande",
-    "louis",
-    "vuitton",
-    "yan"
-   ],
-   "cat": "✍️ Transfer & Contract",
-   "status": "rumour",
-   "headline": "Yan Diomande for Real Madrid x Louis Vuitton 🥶",
-   "link": "https://t.me/RealMadridImportantOnly/109",
-   "superseded": true
-  },
-  {
-   "ts": 1791874645.2073162,
-   "date": "2026-10-13",
-   "tokens": [
-    "981",
-    "goal"
-   ],
-   "names": [],
-   "cat": "📰 Other",
-   "status": "fact",
-   "headline": "981 GOALS. 🤯🤯🐐🐐",
-   "link": "https://t.me/RealMadridImportantOnly/104"
-  },
   {
    "ts": 1791882803.0798821,
    "date": "2026-10-13",
@@ -1766,8 +1732,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 91,
-  "tokens": 143789
+  "calls": 92,
+  "tokens": 145443
  },
  "pending_fb": {},
  "feedback": [
@@ -2194,7 +2160,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 269,
+ "train_seq": 270,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5722,6 +5688,19 @@
    "reason": "Lifestyle social media post, not news",
    "ch": [
     418
+   ]
+  },
+  "270": {
+   "t": "🚨 José Mourinho: “We play in Athens on Wednesday, return to Madrid around 5 am, then play Valencia on Saturday”.\n\n“It’s not innocent or fair to me”. https://t.co/CBnenv4WQP\n — Fabrizio Romano (@FabrizioRomano)\n Oct 15, 2026",
+   "ai": false,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "FabrizioRomanoTG",
+   "id": 67328,
+   "m": [],
+   "reason": "Travel schedule, not essential news",
+   "ch": [
+    419
    ]
   }
  },
