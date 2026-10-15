@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59263,
-  "themadridzone": 31501,
+  "themadridzone": 31502,
   "FabrizioRomanoTG": 67331
  },
  "sent": [
@@ -1715,8 +1715,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 110,
-  "tokens": 174122
+  "calls": 111,
+  "tokens": 175718
  },
  "pending_fb": {},
  "feedback": [
@@ -2143,7 +2143,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 288,
+ "train_seq": 289,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6026,6 +6026,24 @@
    "reason": "No substantive news, just a quote",
    "ch": [
     437
+   ]
+  },
+  "289": {
+   "t": "🚨 JUST IN: Real Madrid believe the comeback vs Roma and win vs Villarreal will help UNITE the team and instill CONFIDENCE. @diarioas\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31502,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/NesyJHLrYN8CwAVMeWCREF5qIvkv7Cqq7bdy7D6jJfMPrE9Atg2tVJKLa2o-Ris4PZGr17zVzwGVCBxLQD5hKnbdx7nbOQG9oaZSrpHzBWX40P7FRfmZYKD-Dm4otAekT40s-3I0U7Tc77H4KGKSahrW4HfiiPVz7klGUaOsBlg2x01EQCiuyl8XOCr0MwYcM0Pqb8orGDsYGMsCH-Nfo2m9yaVULm05MJ9CerKEdVi_LKFdtVZJjHxlcGFedGLGLbtGv6uouS4QNqy9Oaa4Zu01v0fi3qal3-k1zuKCyJnXtUSAKCkrF3n6QM6yuDtMqp4XkdFT31XDmgIzonRb_g.jpg"
+    ]
+   ],
+   "reason": "No new actionable news",
+   "ch": [
+    438
    ]
   }
  },
