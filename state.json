@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59263,
-  "themadridzone": 31479,
+  "themadridzone": 31487,
   "FabrizioRomanoTG": 67330
  },
  "sent": [
@@ -1732,8 +1732,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 95,
-  "tokens": 150346
+  "calls": 100,
+  "tokens": 158242
  },
  "pending_fb": {},
  "feedback": [
@@ -2160,7 +2160,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 273,
+ "train_seq": 278,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5749,6 +5749,104 @@
    "reason": "No substantive news content",
    "ch": [
     422
+   ]
+  },
+  "274": {
+   "t": "YAN DIOMANDE. 💎\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31481,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/EeYNQTcvibl7mDX5kMj1XjA7jgNBvuZDdGkz-NCt2Z-O6izC_qShD_Ilkhqay9jVZ9ozSqkZ-8D2QsMybt3Gn4mrUTYsKTqJmgoCl3-dn7TgTxj9Hpmkjbim4D9nLjPt-zR7Lv6UktImFoQbP3ak3laP_qFxMmphX0Rx2IMATJrWs_aR1fOisp-Hh-ZuFaq4hneExTQvTWW6j4Nm6d61xy399w6WibCCd6xSy7Cj56h1rlsbPdOwQLRkLc3U6Sv2-67C-U5u7TRpOhpUX9TEEml3WYq6nV1xPT1l94CtSIQODKxrm2dFpiy2aefuuWwqrzKekZlhPYOEPJ6rws702Q.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/ezKIzOIdf9uj3uOArzMf6rmg7Sb9Q6Nw6pnAn8aNvWJejugD1jhqZ2M6-pOS4WutB7G7v9X-AMXP78QNwa98OFZT1L-229MXJXUNIMO-TSIHtpRbBJ521GC7RzeWxGiol2ZHNZykxFfQYXUtT8x74JbAm6XAS-hY_oYW_q8bXl7UYdXVKmbBHpvcS0pc-zIZaLOz5ctJ1v4aKCgD0ufg3excFf-yjhRvCSlO-s3aPEaV7RlfDyuSIjNolKlg66XQoOTmhz4dSd4WIOi3wbhVlcka5kdFglaU7naS-LHim54OMf14W5H-ww8ug8yszzUFuNndZY9If8k-aPfj_8cIQA.jpg"
+    ]
+   ],
+   "reason": "Lifestyle/advertising, not relevant",
+   "ch": [
+    423
+   ]
+  },
+  "275": {
+   "t": "ENDRICKI ✨\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31483,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/pIfz0ml5gnCmM05Oj3HE0qtA7w5Ng86lbsSE8I6xN1K8GxbC5AC1J0_lh1TrjDppk63dQO1SDO1Wf17pOtRgptBxaJpmcQhrr5J6aYwNlc6fpLA8jl-oEFFyPimv8r1jVRIrd0-Gk4vuW_oJFi2pNt42zW49H7kcb1zdd3rEzXKZTZ62OEZSVmulnA58emTfw0CiVXsSDHf32FeSSDx3LoKiGIw5_MovfazOV6yy1PgeL7Ns3a_WU01YxYwXrEXGOh_KwZ60oQ67OZPToP4MJVOocGGZz6PpnWOkyFpcydtx7iZxF4cDpZE2uPod4RBFgVTiThNOpxstLBVS_0aq7w.jpg"
+    ]
+   ],
+   "reason": "No substantive news content",
+   "ch": [
+    424
+   ]
+  },
+  "276": {
+   "t": "VINI JR. ⭐️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31484,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Q1ZOMb1WxZ5BfSmBmrG9mCVktDqXyThSFb-JAopqyIZhP_n1eT00TyU4dRHo6RkJUTaT__g3DewCl5fxDjEqPEEfHPbFkhQDgM9eU8uVD3N1wSuCLS4vzpOtOeNej6tpRVC7Y6_RfAL_7IC9Vfkg6r5iJZSDREru9vngoY5ybgyEvhLHNO8QLS-krI8NwgBKnCervMgguUDI4UE1qLdMJ763BrAv2s441Hg4LviUdVe70rtQHNkuBJV8Ql_dXHF9rhYfCAvM6DGjj4BbhcqZRFnqNE10E67uquK4eMVRD19ZM8vKbE85zHGYLTPk3Vge12R39Plqkb2bGsHC391CaA.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/uooIKo9EiZlLHqdpSfn0_e0WJHsDsA3nkmwD6QBczmlCWujYHdoXeVSxtemCa9ElkXtUoY2WJjBTLuYKjI7KjkDbbHfEm5H4U25hNg7g4gOMiJ_s4g1dP7Eim7tfAL4ntTUV4KcT8ZThC-6h1FATINFe0HRmc2lJZIIdG9QMdXKbq_w4kb9SuLmUpYDiw6E2J4xI8k1yLgVk3AmSKxbn97c7Or9j0xDMck9i0-vKTD_m7I7-rwc7ngkmtP8Hf8JZcK32XqrlP0KyG1F6Hy88n2qxEtRIXPq8sCl-yBVtZl-yEIMlpY7zW9P8eNYvfKKIKwlXJwaLoSHmGb7G7Qj8VQ.jpg"
+    ]
+   ],
+   "reason": "No substantive news content",
+   "ch": [
+    425
+   ]
+  },
+  "277": {
+   "t": "Trent AA. 🪄\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31486,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/jOuFW3qaywjK_O5_kBBSDd48ZjtzxIhf0vc8fhouOD8G5dSR9k4g2JjomZh2FJVYEC6UTingYbPt1JERnWpfLLK5eCbCytHteyNEFcdqEp6JX_ChLYcI7rkH6yqD0COCyLEZcGCCqdbCaZBHVketGGs9ihOzgoZQy_7XFZSPl6Yi7tWTilRpBw8o4OysLkp72M_dN_YUb9Q8rdJBwaP3zf_xzQn-OqKZcrzTCDXeIU7_Bv8o5yvWI9KJXnoKe8ddpE3nAaT8lTwzN8Fou9SByVZU0gAoAkiLcVJhMk_gM5Q7likpaTFlqapswDu0qSvjd3geKJWBxeXVZLmOulaMMw.jpg"
+    ]
+   ],
+   "reason": "No meaningful Real Madrid news",
+   "ch": [
+    426
+   ]
+  },
+  "278": {
+   "t": "Marc Cucurella 🔥\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31487,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/CP7kz03Nnqnq5G1paznNBO_Rst4dJf-na64unQ05HH0ki4Qa7DQ_3hc1S-Jmm2q_WzhmPgRZKAMMRCeDqgCSi5qJb5P9nqHrPj19u9noepYKxYUrr4J4-k8gvT2Ky5eN1SfetkyCE86VbuOJzHu-a4zKX8h13ilG0hjixSV4qgsFJTYmwOP9aCqnplO5txd1WIY4DtAda5xa14WTm68jShN1VWTh9PY51oAXQo7p2fWJK7fJSISK__5WMEVdPJkytFUUbdkIibKXlbSR3g5lKr8YqSpQBDKNssptR_PHkX2Y-WEBVCllINxFj9mZZVwmsytZbPHk7p6HoApVwW07aA.jpg"
+    ]
+   ],
+   "reason": "Not Real Madrid related",
+   "ch": [
+    427
    ]
   }
  },
