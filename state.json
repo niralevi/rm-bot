@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59286,
   "themadridzone": 31534,
-  "FabrizioRomanoTG": 67338
+  "FabrizioRomanoTG": 67339
  },
  "sent": [
   {
@@ -1239,8 +1239,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 1,
-  "tokens": 1684
+  "calls": 2,
+  "tokens": 3416
  },
  "pending_fb": {},
  "feedback": [
@@ -1667,7 +1667,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 331,
+ "train_seq": 332,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6375,6 +6375,19 @@
    "reason": "Relevant disciplinary quote from player",
    "ch": [
     490
+   ]
+  },
+  "332": {
+   "t": "🤍 Endrick on his game time: “I am sure Mourinho does what is best for the team”.\n\n“If I have to play, I will. If not, I won’t”. https://t.co/iNer0tfqn6\n — Fabrizio Romano (@FabrizioRomano)\n Oct 15, 2026",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "FabrizioRomanoTG",
+   "id": 67339,
+   "m": [],
+   "reason": "📰 Other is turned off",
+   "ch": [
+    491
    ]
   }
  },
