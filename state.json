@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59285,
-  "themadridzone": 31527,
+  "themadridzone": 31529,
   "FabrizioRomanoTG": 67335
  },
  "sent": [
@@ -1661,6 +1661,32 @@
    "status": "none",
    "headline": "🚨💣 JUST IN: Real Madrid explored the possibility of signing Alessandro Bastoni and Ruben Dias last summer.",
    "link": "https://t.me/RealMadridImportantOnly/480"
+  },
+  {
+   "ts": 1792081341.4503696,
+   "date": "2026-10-15",
+   "tokens": [
+    "2027",
+    "clas",
+    "confirm",
+    "consider",
+    "defense",
+    "least",
+    "make",
+    "midfield",
+    "one",
+    "plan",
+    "priority",
+    "sign",
+    "signing",
+    "top",
+    "work"
+   ],
+   "names": [],
+   "cat": "✍️ Transfer & Contract",
+   "status": "official",
+   "headline": "🚨💣 CONFIRMED: Real Madrid plan to make at least ONE TOP-CLASS SIGNING for the DEFENSE in 2027.",
+   "link": "https://t.me/RealMadridImportantOnly/481"
   }
  ],
  "offset": 769011999,
@@ -2096,7 +2122,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 323,
+ "train_seq": 324,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6665,6 +6691,24 @@
    "reason": "important keywords",
    "ch": [
     480
+   ]
+  },
+  "324": {
+   "t": "🚨💣 CONFIRMED: Real Madrid plan to make at least ONE TOP-CLASS SIGNING for the DEFENSE in 2027.\n\nThey consider it a PRIORITY.\n\nThey are also working on MIDFIELD signings. @FabrizioRomano\n\n@TheMadridZone",
+   "ai": true,
+   "label": "✍️ Transfer & Contract",
+   "status": "official",
+   "src": "themadridzone",
+   "id": 31529,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/bU56pXBExhmzroOiShlFcs9c1FUhQIC-MtHlo7hCxZYMSdyS7SL2D0sW_6cZgyGlC-aAq8D5Sl4_NJ4HEyVAmsdSYKhF_qlX5kaGFph-Ap_PZLtEx9rJ0B-z2wRuVLBp7BJNTPdViqxsI3OpUISeQ5Hlp_Ue2-20nNlvKL9ilSU1NiSr8FzT82DCCQ0fNflSiz0RdqLmjryX9wj1Y8FrIJ4EKqJfNuYoOjVR9iFeqdjZIdGBdreySMPaXHJ78M7Frun_rXqKWKOndxUUW3NlVa6K3C-YrvOEC2RkfO6Y_EbgZ2hbDaANPwNt-mrzrq4nJQP4uamA_jgN9aH6qT7SGw.jpg"
+    ]
+   ],
+   "reason": "important keywords",
+   "ch": [
+    481
    ]
   }
  },
