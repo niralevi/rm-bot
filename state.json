@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59263,
   "themadridzone": 31473,
-  "FabrizioRomanoTG": 67324
+  "FabrizioRomanoTG": 67325
  },
  "sent": [
   {
@@ -1767,8 +1767,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 84,
-  "tokens": 132635
+  "calls": 85,
+  "tokens": 134299
  },
  "pending_fb": {},
  "feedback": [
@@ -2195,7 +2195,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 262,
+ "train_seq": 263,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5607,6 +5607,19 @@
    "reason": "Just motivational quote, no news",
    "ch": [
     409
+   ]
+  },
+  "263": {
+   "t": "🚨 Vinicius Jr: “I have won a lot of titles here at Real Madrid, I do not need to name and count them”. https://t.co/JVUYSdgV40\n — Fabrizio Romano (@FabrizioRomano)\n Oct 15, 2026",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "FabrizioRomanoTG",
+   "id": 67325,
+   "m": [],
+   "reason": "Not significant news for fan",
+   "ch": [
+    410
    ]
   }
  },
