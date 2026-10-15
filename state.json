@@ -6,56 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1791894990.1738138,
-   "date": "2026-10-13",
-   "tokens": [
-    "ability",
-    "confidence",
-    "confident",
-    "cypriot",
-    "finalize",
-    "gabriel",
-    "grow",
-    "irish",
-    "obtain",
-    "passport",
-    "sign",
-    "there",
-    "within",
-    "work"
-   ],
-   "names": [
-    "cypriot",
-    "gabriel",
-    "irish",
-    "there"
-   ],
-   "cat": "✍️ Transfer & Contract",
-   "status": "rumour",
-   "headline": "🚨💣 BREAKING: Real Madrid is now CONFIDENT to FINALIZE the signing of JJ Gabriel.",
-   "link": "https://t.me/RealMadridImportantOnly/139"
-  },
-  {
-   "ts": 1791895008.4289,
-   "date": "2026-10-13",
-   "tokens": [
-    "carvajal",
-    "dani",
-    "getafe",
-    "join",
-    "official"
-   ],
-   "names": [
-    "carvajal",
-    "dani",
-    "getafe"
-   ],
-   "cat": "✍️ Transfer & Contract",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Dani Carvajal joins Getafe ✍️",
-   "link": "https://t.me/RealMadridImportantOnly/128"
-  },
-  {
    "ts": 1791900110.8773751,
    "date": "2026-10-13",
    "tokens": [
