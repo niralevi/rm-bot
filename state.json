@@ -1,35 +1,10 @@
 {
  "last_post": {
-  "real_madrid": 59265,
-  "themadridzone": 31518,
+  "real_madrid": 59266,
+  "themadridzone": 31520,
   "FabrizioRomanoTG": 67333
  },
  "sent": [
-  {
-   "ts": 1791900110.8773751,
-   "date": "2026-10-13",
-   "tokens": [
-    "consider",
-    "could",
-    "depend",
-    "diarioa",
-    "january",
-    "loan",
-    "pitarch",
-    "play",
-    "thiago",
-    "time"
-   ],
-   "names": [
-    "january",
-    "pitarch",
-    "thiago"
-   ],
-   "cat": "✍️ Transfer & Contract",
-   "status": "rumour",
-   "headline": "🚨 JUST IN: Thiago Pitarch could consider a LOAN in January depending on playing time. [diarioas]",
-   "link": "https://t.me/RealMadridImportantOnly/154"
-  },
   {
    "ts": 1791903708.1717107,
    "date": "2026-10-13",
@@ -2077,7 +2052,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 302,
+ "train_seq": 305,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6232,6 +6207,68 @@
    "reason": "no important keywords",
    "ch": [
     452
+   ]
+  },
+  "303": {
+   "t": "VINI JR. ⭐️",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "real_madrid",
+   "id": 59266,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/p1dOyPgPiF_2ntaAGGdGeRRZ81_dMJP871YACjfH-ii2xsiaxkEGGpYP9QOTyeGxZKAqKh1o52Ytc1GrZ2q-OkyfrWqYNsgksFyAKaNJCfP3nCoojwlGNpsmndMDpEK4na2hLwjDLfOf5DQyuJzGSs0T1b1v2Yu63oZQTHteNVHFzubwnXFBr-sbbuMmSduRyknPa-T-Q7-LSGZo3bt_Iyx3oTWvhBGC3tFFgWDFCx9N9gZEI211XUZxBKXC7jK_18dMwA-q0vGNEvpg44qeVur-OYd5XOh-8yvQ9acf0XNJEHNzf5M1I9hqC7V4UZ2sHT-z3EILbD1_dpHNy-9AHQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/J5dSmsWz53_qDkOLYlGXPCcBAAS2xNQ903UgaCU-1YNnHDYTsdyhS764rWsAPq4dVI_AywGF80DyUTuWk4pGamCou2tqef4VlR-LGFDASK7v4NmwBfXhnB7Wm8t3UglCKelNchEw5ZX96CJ5ohahF5cXNydiCzzxI79v8vSGu4WlK8KpABWAt5-RBs9OgsIeYMpbFGaByPfOrYP1qv7i6xuBmlEwf6Q32QKlmCHd1IKTen4anAgkZrvvZIuY_ZerMu8TPDwvDi7vDbRfmnYEI3Xzml0mqEM58OUrY7szSFztQUV26KsdUi1yMCh3vMJQL4IHgwG91rHg-T9lRAaoSA.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    453
+   ]
+  },
+  "304": {
+   "t": "📲 Denzel Dumfries on IG. 🇳🇱\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31519,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/bW-AkLFL1fh6gtfpfHxgGb1VnC4WeNUe6Ie0ogdyJwjGv_7HoZCw8qUQKka9gy37Aaq04NwhZolbrOW5biEssdi_sqseeGNOZnNCNHEI1pe1YYd1YwiRRuWTI_B20glPCREBdw3ue7ZWqAAxjuc38LCdWfNPRMfKboawI0w7Zbhvz0op86jGvIWWPkTbRYobYRy5b1Wnh7Ygl39xFRCyA4TxOza7mBSLtG9p5J2hOVscIcUjKCP43J0vVodIO8qCE_7TxWQ91hgGuBvCUJhTSDEC73PHpnzWg6Wh7B0l4lAmYkzPgAqgn1TzWgj-plPjpvwbLtno2SxJ8rcWy66MGA.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    454
+   ]
+  },
+  "305": {
+   "t": "🚨 STAT: Carlos Espí is averaging a goal every 13 minutes this season, the BEST in the Real Madrid squad.\n\nEndrick is second best with a goal every 35 minutes. 🔥\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31520,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/cpqmCTvRmFdKzRxns5gkJZfuuYmlBrVqUUp8iFNr3129u55NqSqO7NJ-hBysfBfOEQRmvh9PoAgHjQ9jkWvyxuSFsla9vDMoyhZbrMqmMQpF7XSLYamI7PinTh-VLMUzde3r-n8PlTTsZAC0MuS7fEi0_hlX65hzhCQqzqaI5X98wPG96rcGtdKno-2g4AXTkMMYi3NMN4JWwvGFjyqGagd-mZW3S4jtLvxNEtt3pck-CV4y2VGLaZSToKm38p7eQ7tS1zhDZoNLyL5Hr1h0UrWh-O2B370L-UE9ZTF84mKVBFLB-EC9mdwBbqHKsz1zAJiRjgP8v5YmpSEq3vdViA.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/P82S6GUmuAEHErBmaHyZ4fAm52Q7xuGeZWlrvWjWZSMvIrvDfQS5B78ELn087qgSoe6gHEf94sZbj2ghI--krGDPqzOTo0oZkfB4wYiIAoD2BPP1qQLd_Ak4pjfmAchdlQ0LoN4MlIskmcJG4_JnWZB7xAi_okplAbE3No_BUVaPHORtofHQgJEABcARuGdzx6BsPExSZLobWmMukIX-42O10-miQcZ1dp1sB7M25W19ecNL3KSn713qRJkvsAcgLf-eBqLVfUNmmAN5niGRpiH5oItuqLH4x_XfqBp8MpFUzlcH7UiM3woH9loEy0_PQxw7KE9letK_sjckSCwH5g.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    455
    ]
   }
  },
