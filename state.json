@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59263,
-  "themadridzone": 31505,
+  "themadridzone": 31506,
   "FabrizioRomanoTG": 67331
  },
  "sent": [
@@ -1715,8 +1715,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 114,
-  "tokens": 180470
+  "calls": 115,
+  "tokens": 182077
  },
  "pending_fb": {},
  "feedback": [
@@ -2143,7 +2143,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 292,
+ "train_seq": 293,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6098,6 +6098,24 @@
    "reason": "Lifestyle birthday, not relevant",
    "ch": [
     442
+   ]
+  },
+  "293": {
+   "t": "🚨 STAT: Antonio Rüdiger scored Real Madrid's 500th goal under Jose Mourinho. @benfeerr 🤯\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31506,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/SkPn52LuBsXkBu_8ELwfV5k8GXI0l_9KDaaxtlToZH-uRJSCdVK7zUfViHhx1hw8VpKUfqcgkD4cT6uCpAtoStK3XYCqcux2PxmuaLFnj3AcZIPwMCUOPpHIxYvO5QwYyPSZsBj8uCSKZtQC39It9KQ6iU3Lt21tJeuI4Nw1FZ2qLHZumVvCy7bUpTXgxpb7DC-KBy19AOWQEO9ZVyxbXryr2f0MytLo0jjEA9BDUFsYECZWx1KV24Z9Xi52KAZwcTFuirDTlkrpXWjxna_z83YGtX5xNx_vq4JNhS4rkUBzcxlzZfAodpxLuW_Q4M1hFI-MaR_cpc6n4iW4jsjA5w.jpg"
+    ]
+   ],
+   "reason": "Pure statistic, no news relevance",
+   "ch": [
+    443
    ]
   }
  },
