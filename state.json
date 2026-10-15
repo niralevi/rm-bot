@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59265,
-  "themadridzone": 31510,
+  "themadridzone": 31512,
   "FabrizioRomanoTG": 67333
  },
  "sent": [
@@ -2077,7 +2077,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 298,
+ "train_seq": 299,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6148,6 +6148,28 @@
    "reason": "no important keywords",
    "ch": [
     448
+   ]
+  },
+  "299": {
+   "t": "🚨 NEW: Real Madrid consider Jose Mourinho to be the clubs voice.\n\nThe club believes that he has the exact character to convey the specific messages that the club wants. @diarioas\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31512,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/t_gj4tnc4mLbLagc0c--M2vN3CMt3e1EFTgHNFcL17jqr_0yje6_LrRaZV5SGGsE53vtrYJej1bS5X1MLojGy0iCTltywdAMaUeBD3GCaPUIjb0KTJS6CKN4QFVsbgNvygnW1atKlpZK3MGj4vJc_sExXzq1piXvH3_IeUW3spyRC0dUi_JHm1Na3NRcAW-0g_5ktiQjsGZ0iLvtnbaNcFYNTIInXVqLMOOyizkx3uBFyCD_3h8vMb_Zg-tiOG3OtsLLeaxZK2DkZqMehdxrlEX9h8VKACf3jGDZ8DnO7xx20pKYPQHtMLN-ag_lg7Vgj4boEQ7MxVi7HqhVHMcyPw.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/pKOWZ0zbadeJpTW6fNO-aaL1lDVFU7ixfK7HjqjJUvTwJKf33eSPF9z7kSTRYjbFSOTRP8m354puLr3cs4YKa0c2e025wN1fhTTXDtXJU2G30AGLyjxweAG8MavthCbNvnQQ7uqBgYQFi_WT5l2nD6No-lvZO6-WuvVkxqq22yIcwRAi7NkR-1A0VJleuR92m4ex00wCEghYhMMmHEiYixPRRF72WZNaAwi-gfWtfqm5XOqU98SJLKl1tG3jpkJ3Lywl_KZ5WebJRSudXniI-phGScaowmxLEOXEHkgaol8z3sxDK_bymqYxj4jC6Y6GFNUiWMbh08CpAH-C1GWOXw.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    449
    ]
   }
  },
