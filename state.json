@@ -1,39 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59285,
-  "themadridzone": 31530,
+  "themadridzone": 31531,
   "FabrizioRomanoTG": 67335
  },
  "sent": [
-  {
-   "ts": 1791910231.0185575,
-   "date": "2026-10-13",
-   "tokens": [
-    "alway",
-    "amaz",
-    "angel",
-    "don",
-    "feel",
-    "game",
-    "how",
-    "jose",
-    "like",
-    "mourinho",
-    "sleep",
-    "then"
-   ],
-   "names": [
-    "amazing",
-    "how",
-    "jose",
-    "mourinho",
-    "then"
-   ],
-   "cat": "👔 Coach & Board",
-   "status": "fact",
-   "headline": "🚨 José Mourinho: \"How do I feel before the game?",
-   "link": "https://t.me/RealMadridImportantOnly/160"
-  },
   {
    "ts": 1791912566.558418,
    "date": "2026-10-13",
@@ -2018,7 +1989,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 325,
+ "train_seq": 326,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6623,6 +6594,24 @@
    "reason": "no important keywords",
    "ch": [
     482
+   ]
+  },
+  "326": {
+   "t": "📲 Carlos Espí on IG: “Together, believing and fighting till the end.” 🤍\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31531,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/X_m9gbkg-kQKUTM8ZmlgBNeI0LZS1fswo88ZM7woySmBS-MP4fcgxrJAxTC_NLCjtUUnbbsxysftYpZ1AwJ-XfNtj0vDU9TOacAe46TvI-xKAW2sciI5X5_RI11p1donDnSReUl4rwtlRUhLZlrPylplNePvup4i7HjvHmdmMFA4M-gWHRfYhJLK68YMt3Dz7Gm-82n58CVEgBA8YriqkJS4ZClR3eL78Y57TrYcCREseN6Gn7YJFgR9BY-lhfCk3Hi3cf9jkHFSHj5znvUfyuBgFgDAsSDkRNcUchc7G0xgbUlBONaxQDdAZOSnoQUCPHIG9jkeVgikURXnW0MI8Q.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    483
    ]
   }
  },
