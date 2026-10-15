@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59284,
+  "real_madrid": 59285,
   "themadridzone": 31525,
   "FabrizioRomanoTG": 67335
  },
@@ -2058,7 +2058,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 321,
+ "train_seq": 322,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6587,6 +6587,24 @@
    "reason": "lifestyle",
    "ch": [
     477
+   ]
+  },
+  "322": {
+   "t": "🚨 Next game: @Sevilla (H)\n\nReal Madrid are UNBEATEN against Sevilla in the last 15 games (13 wins, 2 draws).\n\nThe last loss was in September 2018 with Lopetegui.",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "real_madrid",
+   "id": 59285,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/u7MPUByGNQDBjwba9-9B1VguttDXnXc_jBreY05OKSwapk9B-xsY8Kkci3fStXhqFcmoKR1eRVig80fcOxOYsVMd0Uf8GvmceI-IdBjp9ZGa39_Lr8SV5wQFPW3ru432HrJvYX-bdIlS-rk1jiRDi-1P76cdzW4wM1dKDLqE10n8VkD3bK_y3sA2aHhZRn8F4jOC0clBZrbAYyGRtEP4szYAH-7I_I6AUqsVNA0In6OweJLA22xcF0e_Ev46xFqET0F1lqHs53ZXZcrqYyoabfICFEeseHXyOq6_0JF46MCmwRk9nRzKGl1apv4DYvVYISbI_eU6Xlo7j_Lae3p9Zg.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    479
    ]
   }
  },
