@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59263,
-  "themadridzone": 31490,
+  "themadridzone": 31500,
   "FabrizioRomanoTG": 67330
  },
  "sent": [
@@ -1732,8 +1732,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 102,
-  "tokens": 161416
+  "calls": 109,
+  "tokens": 172525
  },
  "pending_fb": {},
  "feedback": [
@@ -2160,7 +2160,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 280,
+ "train_seq": 287,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5887,6 +5887,144 @@
    "reason": "No substantive news, likely meme",
    "ch": [
     429
+   ]
+  },
+  "281": {
+   "t": "JUDE BELLINGHAM. 🥶\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31491,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/jC07H55Yw4vVncRi4CZkyPyMVLlANTNd--unleW9nB-O3SSnY0l7MNlaxRjzGkbkQVBYDUc65FSENF-p5IZAbuzGmVaqK7BPzyp6qEG79ACb29lINO3AjVWawdnElijSX9dZY-nBl2GmsZtAzCcGhC6alWEM8-q9SaTe4mIkA_2NhqKCDA5bw5F5ukcBPp3L8KF1YQBHMGviXMh418jiqMDwF9XpQs0jRgGfGFl2_-jaBmg1LLnqdVe6KmbJdh75zdqBJeGV_N0RGlHXSK5CX2bNO8f1M--lIa_JjOQ_qCaGeT_x1qpsPRfLQ5aOhfUXAcl-ILTOjurG2R4vLskVUA.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/J8kqg9anj6A4wu-zu_-MhBRWxekJ5VCg9SrkjnZtTG1Y2QpHD5bYp7AGWp6EMqTKBwV8BySUiYR9ThvEyxpm94fm5BzG9rmpOoCu4IYC84bOr1kzKskGkFeY70emegverF6-H8flvZwe41pqGeHqboAY9-NW8E-0wlzDn5_o6_Q6uOJTFxT0AMFbsfuZ927xfeziOUtgUHXS1e0t28gaVWP695NABUT-A9pQsJKiMx1Cl9_vtz5ulWXuoFHQpZ-Ut_BGFuLEzsbOuDcBeF3eipOBEMXICQBGy4CAjxvPycwM6jSUBgYEBojv45N7sYcOzdgY9H_19ivvbzv9-mmx_g.jpg"
+    ]
+   ],
+   "reason": "No substantive news content",
+   "ch": [
+    430
+   ]
+  },
+  "282": {
+   "t": "FEDE VALVERDE. 🦅\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31493,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/vgonK5N2qiCubd3BC_KTIJco4kpqknbu8WA8jA-NMX05kv_H7Us8L2zkAHI2-5bpnp45ROkTVmkq0Ml8HinL5xCQaC56XtOliYsAtktkTEun7OjmgqCHDc1_uNrq9Vn37wnihWocKa5FcihNmmaTSlssa5AQ2EtBqlIM8xguOVlO-YieT1KCm8A0uCwpTyteywLWrRGpxt_O-TmGCxhqTPAw_6N82bRB9XmzaxmPBTdbCfx3DweLRAtgvPlzGAcJKAiZxrhguijj-mb8f44r6xodUpV2GhhqYtBv-RncHVBfQDSn3HBc8HY_4N5QYLMMfJEEVsLIBoJvVhBYyixpfQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/INejh7KA5H_-26bszIDIotL4-_DT3nB5r0ZMu6tAfkVZqrb67N7_jTpDdCbJTBX6Hz6j82tUnEMS7MPwfu7Yw5fJO8UCswplHzfD-JPo5k_00wSWbMxywDVDWO7rUAOct4h2h8HFzTCzOXvs2_SDHT8Lh0YtbY9dROGu-f1N9HzviXuss0-L3I2B7MnKgNvs6zrqMmmcIlG19Y3mX0CmDIx1nsPyWzynyVVs3u3lxjcgjQuYxAD3QHmaC8zY2EHnGx47tJPEZMqfS_2Ix-2wiQ3XhOuakWk_IhVbI-ETChYF7YwUzUtx1lU7w-fwQlXLrVmatjl9KIMRkXWaDDgFXA.jpg"
+    ]
+   ],
+   "reason": "No substantive Real Madrid news",
+   "ch": [
+    431
+   ]
+  },
+  "283": {
+   "t": "KYLIAN MBAPPÉ ⭐️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31495,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/dw3r-jp4J8Vwu-OAKlvuq3omkt0ITqAbuwglBEA_ZrTsBcqzIXMHa8H2OmyQ3SamJatyQ1CF9vcn5kbafGtuVEnqxpIqcH3brqxb5wxeU8TZC8_zgTvVAQ2Ss4Bux6blbAL_1Z9mAnPOreSxmkzRKGlZygUvBeOvM73huxk4CxYEVfzzK6slkiIa68iE8NmzDJE4ITEBMCCAHneLa93WruyZEGJy9NPp-ukaztldx5sDNg_06OJmYngYivamUVdIiZJVwt87Ae41fM_lxaLxVS1OKeX8x1emRKn2yyb1EQG4WRQVcy5Y3WkxgIeIM04xvLeQ_KtfyKSuPlDb8wHa1Q.jpg"
+    ]
+   ],
+   "reason": "Not Real Madrid related",
+   "ch": [
+    432
+   ]
+  },
+  "284": {
+   "t": "CARLOS ESPÍ 🤍\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31496,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/LrhaZMiZojPeegEz3CXtKujDxo4CRJ-fRdEmMq9EcYTEZhvMohRrO_UTioC2Z68046VmvVLjZ0lzJBOJDKIA9gPRfZPa4BGPPJ4ZgxF54GJ6BxMSyOxHcBpuOfgLMiOUTOJdaubkiI362tRLratiI5_QfDBXLtOQ8kCPs2TW-4riTejnCcghr8GwhdaIjOoC9NMc4xTEOz7p1JzRyKUW3Rhg8S114tWr4qTLIxLMmpDu-fr2iLf3hFGqonGnGhUECyQtr0aZKMkK5agjUIRRrv4V5tEL7i0vjmPmWAZsZw2H0CmwR_neMlA2DXCM8QSJLnVcXMAkVoiPat6bD2sNfg.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/YoFqpUv1NyIPEHgjdn7neDEMMwDkvgPU3kjlEQo54CXTW5JjLbPEUXxknjWTApTVnShawIOqmWXwOs69lpbtqGgcLD_H1h6_yRzkpFVVZAahzGXTLWY75TBdhISunkv1gasNWtI9f9u4s9Gq6ZBP_Ct_M9FQmW8pjAimvd3TJk1YEjgjqbA667lkShx-uceMr9rBE0xVMp-M-dVzkSW-F7m0yNQcZ8bxvB6iPiLsl_h7I56zhJFmH7B8oKMc2xIh1kO5UoinEj84HOc72ZDYZMvHGfNLHqqaX5q9UNyJVROj63KGPTPuUFlTfH68fxhzrR4U1_CUgc5BsznOafqBJg.jpg"
+    ]
+   ],
+   "reason": "No news content, just a fan post",
+   "ch": [
+    433
+   ]
+  },
+  "285": {
+   "t": "Thiago Pitarch 🔥\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31498,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/fCZOGQ50RXgeGrew5fuTSHQxBs7KsqCtQb2SLEsaLac50zVcVATc_zq_pSfRATsbFaYSDu00joE4FysxP7JfcB0wZq5TlGnFH9MbNdf9L7hC_cLOpn8ETIms4q4rccFaxrQkJ8IRfFxtr0gu5Zx2NEouKkoWZyIMEol7VnxhDrRAOTIs8SeoRGu_2aiMVLxvz46cFUZiX3a5MMuZOpeALpr20JH1MCIHvJptFwK05mUxJBtutkM1SYb2AOSeZN9puCOwvgzUd8tNhufsPLpz-0i3hikIBBZ4p5R7Hzp4HlwbnXY-2JLYDnn2zwdp25f_nhJYgm9jIDmiBo2qKXKfsA.jpg"
+    ]
+   ],
+   "reason": "No substantive news content",
+   "ch": [
+    434
+   ]
+  },
+  "286": {
+   "t": "DEAN HUIJSEN 🥶\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31499,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/VJDQ81S__6Q7NfTdZQ8Pjlnzdute5RROSCGkMNqHvUPIv37xbcnuF-fhndsYokIqlX5DpvXJH1bdY7g2fLHgriHiYnOyAQhmofUc30Tz7c09f5gixHPZBCV1HaR0vq8jbP0qDXKDk8E5-8_ytKWFAfuD1c4EoGjCuRSBLY7J0zqgK1dfxnC6i6UgA3R_ypB3cmKc5xhKh1otK8nnRtJlLnsiOsl0afynfYmOud4NJDmjDGn8Y8wqTu7zrow3gfFj5G65BQ9pLRscBVogw2wbNS5FpB55F6RVNu87ujAViQtIOigc9JJx8C3AnH7b5HYqSxdaUp6it2DJuObgOTEYEw.jpg"
+    ]
+   ],
+   "reason": "No substantive Real Madrid news",
+   "ch": [
+    435
+   ]
+  },
+  "287": {
+   "t": "BERNARDO SILVA. 🪄\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31500,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/hT2u23WCTEXZJtXAULOZKLLOyKQGswZL-qIjIa77Fy_UONMiaHG0_AYKOGM17VcmIRRdXWvUe70UIlYKz-MwcKxkxLFhkJ6qA2LE7501r9MxGoJse-grFvGK15LC0qh19GTec8r5o9_l9iVxkw0Y7BNiEpYBNS0KJBuPL7qmRTx_vmJ-JE4Bjpg1unXhFEkXKBiadjadC6EhRUzl5Hbq6D_Y7_UULtkTeHECbz_oU9MkR_Wk1MZtSJgj7HxPbqW0MZ8RSK-PHQx--aGnxeOtctgv00fSLnZ6gENCXvUNKIYU0H82xmeqRUu8HQ9gCOPtuUMuBQvl7XpsSN0m_ZrQcQ.jpg"
+    ]
+   ],
+   "reason": "No substantive news content",
+   "ch": [
+    436
    ]
   }
  },
