@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59274,
+  "real_madrid": 59277,
   "themadridzone": 31520,
   "FabrizioRomanoTG": 67333
  },
@@ -2052,7 +2052,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 310,
+ "train_seq": 312,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6367,6 +6367,50 @@
    "reason": "no important keywords",
    "ch": [
     463
+   ]
+  },
+  "311": {
+   "t": "ALVARO CARRERAS. 🧱",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "real_madrid",
+   "id": 59275,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/KW4RcG-Q6-T3WDWG38ajxS5Hf7DjTOw7y_E4athPSXEHHAknXI7-KECeUyKg4sJq3aP0EZSC5BHm3MO_zUCJoVRdq1yITTQsiihTRU2C7ijX73_xuf3dE9Xnz86UybkJAc8_-1Z7wo8MDX6PNdksiFqImT2Bdm_xiMe9hyqV9Jwe6y58xhScnv4LZJl7vtMOiARFeDWkisC4uY635RKe54qK1wUz3eZQ8sgR5YyB1GbvinNhlFvBXJYEbQE1MiN4srrJ2Bisbhe6gi_MUAt3IzQ7gruHQFDd3PcouKrO9blAOOGf_SNu9z3sA0O-5kcoHRmWzdP4k5I4FRUgHKcTjw.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/t2LYqx9M-m6WqqHykMeDR5Rhj3SHmLSJV4AmHCuX4HJXh9kehwg0cHINRVzj8KiUHWELabDUM-f5G3zqwjoocPLTPHHkjCAbE4k4fLkobQ2XvyhSP94qrbbHm3fLfWLb20s_VxDeflRgu4jjQVzf6rOK3kdrB0H1CHnRRC4pmmTKAcQd7BUgRP63YCyGQG806BvMl_UJoPfeJGSPalIs5v_oiVfyPrMmyzbtP9oOdmD4Dycteu_PvxmNwc5SvrVZQKyPE_4C0ihbJusVeKsiPw5DN4CsDyLPXX1Ed8ToQQHW4aR-wnW4AuZ_2M9c8NtOYm6RFkdoadD8TndFEcBwkg.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    464
+   ]
+  },
+  "312": {
+   "t": "FEDE VALVERDE. 🦅",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "real_madrid",
+   "id": 59277,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/dNTpSqh9sIRUrYz0jY3K54FfWr4dmDg16rX93oTEPNkpkJbTlOvsnu6HxofVT5SV3OPDgPARqipFcRWOV-YReANMC3Hoe13U0ovDmAZUYE76FLd4-26awCM7EH6pTyVdvfsP9UbAMCShdwA9TDe9ooLtqm5EWzG5_ysph5yaF966Gat8mBsOXBWOSCu6A7Ab0anJXonRvkyYvecQLJQQLoxd-96dLehAQPWIgk8nkH0CxBr4ZvyPdBGom2wn-0ONfbWDsBhvPGTnuc8G8yQcOYv9O4V7VTRPUQAZbmCBlf-NDc6GRPrNiuTEcSW0KafUkYd6DU_NLlBLpO11QexrYA.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/CXEqKqZ3u6bMG9hZdZNyRh2pt49tiYE5RVgp9g9vK2KNJzg8ALHPctzqnNQMfJUzzT4nNIW4ivyzvgtpJEkSM7f_GYcgt3ZzFHLoe6Wro58Ag8jrTFBwvqHDbVz8K8FNIfIPnjS8skVsTrpB6ffW1i_Olwr_zERE2DKMYMDSufQxEWDttrdPmGVHUVdW6rlt5309ufOsU1jJMHvOkUPhUmltzufSJROQYVooYhYeR8MgMoDQLSV3a97FRtvS1Q2x2JijKOc1ELsL6BDqndI7jn9YQd6gufVcnsdJOnbX6Y8jBffOfCNTb-naqI3qdVFQTC7Vy4Yy0Ax_uVDfAvK1bA.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    465
    ]
   }
  },
