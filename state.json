@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59285,
-  "themadridzone": 31529,
+  "themadridzone": 31530,
   "FabrizioRomanoTG": 67335
  },
  "sent": [
@@ -2018,7 +2018,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 324,
+ "train_seq": 325,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6605,6 +6605,24 @@
    "reason": "important keywords",
    "ch": [
     481
+   ]
+  },
+  "325": {
+   "t": "🚨 Thibaut Courtois was the Real Madrid player with the HIGHEST open-play xA (expected assists) last night.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31530,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/IdT3XLnrMODw0ri7CsIhzqnShDV2Mf_VbjVoQbLlpGX5b-GHBeIbIQlfDx588_er2l_7fcuDZgrR53lzNu3T9f8RpXVXM4F2IplKwto49szKrFUNow3AuSFsuR0mIsbNri2wITkEMqljGn7ouS98gh5Ia8PqxHmvpgvC4k1gz8IM-hbgqjvGpqMs8HtiW3fyYc2qNQgvttviR2m9FG1Nwbe5dqulMfS_xlwIB2mtUnmhINNmap9HxVyV11EMXPzw3Thx2nxzK0Yt0l--W6Oma0IA_HLzmoExcGslVAM-GeIPIEEyRKHMtwxjQA9-uGDB35aJcxQZMjVKjbwavZSm9A.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    482
    ]
   }
  },
