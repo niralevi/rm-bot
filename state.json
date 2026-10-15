@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59285,
-  "themadridzone": 31531,
+  "themadridzone": 31532,
   "FabrizioRomanoTG": 67335
  },
  "sent": [
@@ -1989,7 +1989,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 326,
+ "train_seq": 327,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6612,6 +6612,24 @@
    "reason": "no important keywords",
    "ch": [
     483
+   ]
+  },
+  "327": {
+   "t": "🚨 Real Madrid's starting double pivot last night, combined stats: \n\n- 1 key pass\n- 3 progressive carries \n- 61 accurate passes \n- 0 dribbles \n- 2 ground duels won\n- 3 aerial duels won \n- 0 tackles won \n- 4 interceptions\n\n@TheMadridZone",
+   "ai": false,
+   "label": "⚽ Result",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31532,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/HGh6cK-vAKsN35IAKnuvwvZ5CXL8UybaLBHvZFo2gIFK8NGctmBbl443WOMuA15yjcQDorjJ5yblcjjZDMAhxa3Qh0vdbziYeC_FZlE6uvKy-RUI6-gr3hBzWMtxZ8nbLfEMvQv3aQWQR3v4-u1ltDYaZbkjrccgRmCg2H812LsSFpwEXcRbWS_apVOLN0TBBWQxOGtZwsVkiK1eacWX0eraL93xCb3AoiDDaMoJ5rp16xaku2kFU5vQ9mbnw9-hX234r9tmMmHm2W7Pw2Xl5jdB-UQYp5NfcYnZ33nvy3N-IwCeTDY_eI-qnVvx66xFKPVPmtcfjb46S72JhsVCBQ.jpg"
+    ]
+   ],
+   "reason": "player stats",
+   "ch": [
+    484
    ]
   }
  },
