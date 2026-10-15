@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59270,
+  "real_madrid": 59272,
   "themadridzone": 31520,
   "FabrizioRomanoTG": 67333
  },
@@ -2052,7 +2052,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 307,
+ "train_seq": 308,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6313,6 +6313,24 @@
    "reason": "no important keywords",
    "ch": [
     460
+   ]
+  },
+  "308": {
+   "t": "Marc Cucurella 🔥",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "real_madrid",
+   "id": 59272,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/XowJqmmSlbAudAtRZTzeZ_RwoeZabd-LzVZxPp5IncA9PlSKXB-myCOIJSboT29uJwf2l5SEkSVfhZdWv29ljIE1Xi_YBmovN9F5CqU_-iKxOkBIAzZpdqeej8l9ijiSejGURJmYrPF0MEqaOnxxwnOBaRXoFjSwk8m9OF44xJ-RZ0Hm-17EtI8eftjgyQWBwSxvqktjBqNcvq9UdsyCOj0SPz0SjidijJYWOECw2c3ktu7acYx25U8tZP5PgoxnTDie28-Xn11ia7Be78zHOaLqln61vqu52nR54ORTFEe_OY07xKot_E3V_NheO4A_MYmc0GX1VVJreDy0JTqtzg.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    461
    ]
   }
  },
