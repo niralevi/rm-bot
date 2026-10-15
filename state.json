@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59265,
-  "themadridzone": 31507,
+  "themadridzone": 31508,
   "FabrizioRomanoTG": 67333
  },
  "sent": [
@@ -2077,7 +2077,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 296,
+ "train_seq": 297,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6104,6 +6104,28 @@
    "reason": "no important keywords",
    "ch": [
     446
+   ]
+  },
+  "297": {
+   "t": "🚨 JUST IN: Real Sociedad fans started singing \"Vinicius is an idiot\" during their match against Deportivo.\n\nThey have been reported by La Liga to the Spanish Disciplinary Committee. 🤦‍♂️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31508,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/r8SYtsloF9LawbChv3GcdF83H3pmCsPXwq7Z7ICQc5bqRR397HAQzQye2ePIUrptp0PWfNE1ZwK-k78e1q4aoa5H2qG_1oYpecesGCD6sa0S2ZEDlJb1WoaraS3Nkc6zD1_pLq09n1s6-_zmTqhuI2a7ILI1gWGEoNkCuptF1xDnXeldjIXBvmmWO0VrooEfdbo1EtIipJOv35TB4iWOKCaCz3XBQQeUJwNc8i8xEN0dQvDlFi7pgGTfHEaNCn7h0Ny8svUA8B4gmZV9ZbowFdDpg1XAycQcWB98KczW_p_dQM5JG7zMtkAuCaTD_OSvNAVxegUxt-BXYpAS5ARBZw.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/MQ8ZYPvnecsEedyfIwpSiSdkW64o9833Nxa-3lrCKKvR0bgXLJ2EHSkXst01_ZFYU93D9DWkSRVPGvimQaRkcJfTu8P39_QDHKesPQ4TCnxffiNQmzVbqEUQ7WBpyGHCy1EjMOiEf_1Xzi6X0LtMLUGc3bis5OADSnqCEmfAuPFLlAv1kSmVMaSiq9feaT8CH6NHgMEOIeScAdeXR1b2X5adWHW9_NdxFrU6vk8UfeDd5pxtsIYf7-wPPFTENGtcDO7jGN58evFmLx2heIUmDCwbotyCpHUFGsXrYXce-NkQpNgRdcnN7rwXuM-NIPEuM2XkAECpzPIBeajjqf1Zbg.jpg"
+    ]
+   ],
+   "reason": "no important keywords",
+   "ch": [
+    447
    ]
   }
  },
