@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59263,
-  "themadridzone": 31502,
+  "themadridzone": 31504,
   "FabrizioRomanoTG": 67331
  },
  "sent": [
@@ -1715,8 +1715,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 111,
-  "tokens": 175718
+  "calls": 113,
+  "tokens": 178900
  },
  "pending_fb": {},
  "feedback": [
@@ -2143,7 +2143,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 289,
+ "train_seq": 291,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6044,6 +6044,42 @@
    "reason": "No new actionable news",
    "ch": [
     438
+   ]
+  },
+  "290": {
+   "t": "Antonio Rüdiger: “Happy Birthday Big Bro.” ❤️👑\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31503,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Y5rcfJPMbig4Xu3GE1_gvdnaUey77r5Nu0slSTfY153lvk_5jaxW-rqMOeto7lnCu0Csk9Y9aMOwA-R6JviS9cP11eglfXy_7qYa2pQGyNvJiD0dgQIvfCgYAGk1zW8yGUeVH1IxCnJpuIza6WYgeloRoN6ZLieKah9ZnFrxEONb4JBO4s078M7HVRkRTTtYeCF6nkaoj0LuR53SIwuaqMKkEO7LuQcGeU-QukAnFVsbyYT1L_cKkIxlkFUyjWLDb-deotH6j0T_XurrFgDtF3k4ebG3u3rZHZHGYKL5rialrizUt-hfAxNf_kSdMDWlgz-bqaUOgkJUNkeSdGTRiQ.jpg"
+    ]
+   ],
+   "reason": "Lifestyle, birthday wish, not news",
+   "ch": [
+    440
+   ]
+  },
+  "291": {
+   "t": "🇩🇪 Mesut Özil at Real Madrid:\n\n👤 3 seasons\n⚽️ 27 goals\n🅰️ 80 assists\n🏆 3 trophies \n\n🎈 Happy Birthday, @M10\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31504,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/WfSfMcvqTl0GTbz6g2k3DgrBHt0P263nLlAGl3EPBbf3BNHpmkGgUOey66I4kYGRCwOFSXka7IIoybZ_qCKF2ZlASKsZv6Cy2hzDtoP4HAM6Mx2ETUm6kmg3glBtVJiVbiF-lX9VgcdmjUkcn5ktb472swae1xMsHCUvHdgfwy_KIWsCunVPOXxy9f5kEDPE0ZAJT0Tq78w9XXTW2kXRIaxCyGJ4lEhcnxVMzlH3HBLyddNOoXaXwj0udXmfL7aAvUbDIeVIFkfg1Lfnz8vZmo6b0ptYMOrmy9l98qRVPRzo2y9knwm2hSrTDcbJib6m7gpDYLSvoIcdpI8H49i9tw.jpg"
+    ]
+   ],
+   "reason": "Birthday, lifestyle content",
+   "ch": [
+    441
    ]
   }
  },
