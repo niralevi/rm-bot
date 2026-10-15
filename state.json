@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59263,
-  "themadridzone": 31504,
+  "themadridzone": 31505,
   "FabrizioRomanoTG": 67331
  },
  "sent": [
@@ -1715,8 +1715,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 113,
-  "tokens": 178900
+  "calls": 114,
+  "tokens": 180470
  },
  "pending_fb": {},
  "feedback": [
@@ -2143,7 +2143,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 291,
+ "train_seq": 292,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6080,6 +6080,24 @@
    "reason": "Birthday, lifestyle content",
    "ch": [
     441
+   ]
+  },
+  "292": {
+   "t": "🎈The legendary Mesut Özil turns 38 today.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31505,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/e4alDNRmIgoxFK-fJXx77LxxMKF2cYQaeB5NFSBg-lIccI5NdR4KhazImvQwqFw3KBHncDLxe3lMd9Q_ZAbaMDs-DWbDsPsVjuL6Xu0UtnRepK792rCheQHILJqZXg5XdHuzgOS5VQGgmFMAPw8rCGM8XqVcVDSODuIrA-LoE-SKaB0tb-xwU9393PrzOjBGAKevwNvhur9adc9YsOWaUhYzPXFaU0hDZZPFyai7gQdLU8UOxgARVdswFTGnekz15myvKG3Vn3f1lznJ39JJSFH3kO6RzihysJcIAfV9pkC3WfjkWMb3iVePHl7UFK1ODjIdVZtKxshvddOHfKslKQ.jpg"
+    ]
+   ],
+   "reason": "Lifestyle birthday, not relevant",
+   "ch": [
+    442
    ]
   }
  },
