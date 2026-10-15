@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59282,
+  "real_madrid": 59284,
   "themadridzone": 31525,
   "FabrizioRomanoTG": 67334
  },
@@ -2058,7 +2058,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 320,
+ "train_seq": 321,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6569,6 +6569,24 @@
    "reason": "important keywords",
    "ch": [
     473
+   ]
+  },
+  "321": {
+   "t": "🇩🇪 Mesut Özil at Real Madrid:\n\n👤 3 seasons\n⚽️ 27 goals\n🅰️ 80 assists\n🏆 3 trophies \n\n🎈 Happy Birthday, Özil",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "real_madrid",
+   "id": 59284,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/gD6LOQPq83k-lbSgnMPHuu2fteIjz99f49m6YGyE_ZUL3RLGX0gf0YguKAkG_VVj4KtdAuhoMZ9R1T0nJiQWXj-SLFNWBOQm8SUX7IPi2NMusqywh4B_xJsMKiFuulaJmqjmApoVHjZ86z3uC6VyRxbYTiJsKu-EOmWAa_EJbfaFYavwmCrDJkN_GgXABeS4YI5jqa71SAjsMtzmg6pvsmdaMg34a1vaXPr7lPtxMUjCTsVyMKla4LuvUrWF7CjqptbZwrpFZ8q00Lx54PhSf5ZYwT5ThhU2dPXtSPwo9Ikg3gIF0naG1nis0QOThX7SfpjA9IUu-J-P-kYI6kTMkw.jpg"
+    ]
+   ],
+   "reason": "lifestyle",
+   "ch": [
+    477
    ]
   }
  },
