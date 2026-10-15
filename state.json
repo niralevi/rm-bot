@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59263,
-  "themadridzone": 31506,
+  "themadridzone": 31507,
   "FabrizioRomanoTG": 67331
  },
  "sent": [
@@ -1715,8 +1715,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 115,
-  "tokens": 182077
+  "calls": 116,
+  "tokens": 183701
  },
  "pending_fb": {},
  "feedback": [
@@ -2143,7 +2143,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 293,
+ "train_seq": 294,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6116,6 +6116,24 @@
    "reason": "Pure statistic, no news relevance",
    "ch": [
     443
+   ]
+  },
+  "294": {
+   "t": "🚨 NEW: There was never a doubt about Bernardo Silva for Jose Mourinho & his staff. \n\nThey are simply expecting Bernardo to have a better physical condition.\n\n@benfeerr\n\n@TheMadridZone",
+   "ai": false,
+   "label": "🚑 Injury",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31507,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/tGTQDLQmS23NCCpYp5-PLDxr2Q4nk0Ew8rVQi40kV33-9O3cjk4N_PwKxyye6_DBz6Wf_9cb962rQMSe4alG5d4d-oYDKlTIHc84DLIppD7sE8Iufc2DlWqgYjRTgBrE52E2ogV-968IRJFq8ZcfnxqVlMN_UyMC8zzcKEqDRbivrTXBLrO3JW0oBAHFwvtpalwG-9Vp0Nss_uPDDgPjyN88YzXbUnQR8r0sYcCsNVmHbwTaCUq5XszsbcgBVQ3DKf3vLwtA8ovtjXSXzGgN6F46W0B0rF6Lu0ZqweBi_DEfRebZ26NtDYetfY0t8TST5EfIJGl17DwiM5pisb2FLg.jpg"
+    ]
+   ],
+   "reason": "Speculative fitness comment, not confirmed",
+   "ch": [
+    444
    ]
   }
  },
