@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59263,
-  "themadridzone": 31474,
+  "themadridzone": 31476,
   "FabrizioRomanoTG": 67325
  },
  "sent": [
@@ -1767,8 +1767,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 86,
-  "tokens": 135842
+  "calls": 88,
+  "tokens": 138967
  },
  "pending_fb": {},
  "feedback": [
@@ -2195,7 +2195,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 264,
+ "train_seq": 266,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5638,6 +5638,42 @@
    "reason": "No relevant Real Madrid news",
    "ch": [
     411
+   ]
+  },
+  "265": {
+   "t": "THIS PIC IS COLD. 🥶\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31475,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/kg50F0LRdzvmnPuvYsRwxKLg_F9UdY-28zWGg6IT0Rc26XA-IzQhjFTHjsCsZA1GAYhmDRSrxnbyNFPGFXtEfvmvbjXbFikhct681vZ-IQ17Q7CwJAnyjdenIUMI_RE6KcFAu1Hx1Mw466vnpCqv4bcFcWZ1XbZV6EKRK02D9jpFUtnVa7JzfCtPOMhHv1dXuOYDIWjqaZ-cuduZPORDOK8bN4C3nfOVLAxWQIo1e9rVwN_1HdvnlLAm54bk8AtEgty0A4_xW9E0vPxjuZK3Pmlr5peSfunDUFxVIBoEDHIqHU5_KOuAUsahl_bcmik93OSNFagtFFpIJGRGM9ccaA.jpg"
+    ]
+   ],
+   "reason": "No relevant Real Madrid news",
+   "ch": [
+    414
+   ]
+  },
+  "266": {
+   "t": "Different. 🇹🇷💎\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31476,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/N6F2HSfHTKjMjlqIndEyj47YrHpYgUpLWJVMRfs7OmtbpprQyrb3JlUIs8jWPMER5gtlLNSiHbmk8qF3TQCFWYtUUURiGN-PRDy8Rtiy-Sd9_aGMSNcp0JS-8cbRNru0Lx0DmbVK5xUgIIt_FVIx-NYAfNzcoBSH41qKaMxrX51EuQTgjuup1tMsfZXT1PFbJbsr9J42qFGQZYxCDy_EI814BEnuPun1ZScqTPngQ6DzdAvU3pHGHllD9szr9kAl3HFrMVbpJah0VveloQgZ7KZ48Vo3fCwmYQwen7v4pxAqpVMjBhHDrqAuPzt6kd1qU7eCqkVjpYhPJuFm28TZcw.jpg"
+    ]
+   ],
+   "reason": "No relevant Real Madrid news content",
+   "ch": [
+    415
    ]
   }
  },
