@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59285,
-  "themadridzone": 31525,
+  "themadridzone": 31527,
   "FabrizioRomanoTG": 67335
  },
  "sent": [
@@ -1623,6 +1623,44 @@
    "status": "rumour",
    "headline": "🚨💣 BREAKING: Superleague CEO Bernd Reichart joins Real Madrid as the club's new HEAD OF BUSINESS.",
    "link": "https://t.me/RealMadridImportantOnly/473"
+  },
+  {
+   "ts": 1792081163.518376,
+   "date": "2026-10-15",
+   "tokens": [
+    "agent",
+    "alessandro",
+    "bastoni",
+    "deal",
+    "decid",
+    "dias",
+    "explor",
+    "free",
+    "however",
+    "ibrahima",
+    "konate",
+    "last",
+    "possibility",
+    "ruben",
+    "sign",
+    "stopp",
+    "summer",
+    "these",
+    "when"
+   ],
+   "names": [
+    "alessandro",
+    "bastoni",
+    "dias",
+    "however",
+    "ibrahima",
+    "konate",
+    "ruben"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "none",
+   "headline": "🚨💣 JUST IN: Real Madrid explored the possibility of signing Alessandro Bastoni and Ruben Dias last summer.",
+   "link": "https://t.me/RealMadridImportantOnly/480"
   }
  ],
  "offset": 769011999,
@@ -2058,7 +2096,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 322,
+ "train_seq": 323,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6605,6 +6643,28 @@
    "reason": "no important keywords",
    "ch": [
     479
+   ]
+  },
+  "323": {
+   "t": "🚨💣 JUST IN: Real Madrid explored the possibility of signing Alessandro Bastoni and Ruben Dias last summer.\n\nHowever, these deals were STOPPED when the club decided to sign Ibrahima Konaté as a free agent. @FabrizioRomano\n\n@TheMadridZone",
+   "ai": true,
+   "label": "✍️ Transfer & Contract",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31527,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/bqZzTyFcYQ5w5iE_DQrvDfIPgaDo-X5bTJarCEWCINcLKxETc6F9JOwQHAWIwcAwLSB9XXpcHO6v8yS15l_vA30DcvARVZ1E7t0diNb0sHxhe70IzvHSgzR9dATWIqYWI7OPT12ta6NxSWz9wvTp7J4clLjJO61Lit1pB-l_Wk8yfrtLsJ1oGRtX5cuNvHIm6xkqMH1qXDwvW_NkNxjYi3Fd_RE5z0-Wik8lv30iIEjPU3hB56AssA-WkVK6Y007I2q2TEXZfUrQHGH4mGTdDB_svCHDgNHBtNVfYKevcF4Bna3Vm6g3cvwFb6N7NePpiwq4In-4RCcs2PFBAhKLUQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/N8OYUVahjAQJyOlAKTPEBX0n_L2LpW9iD5RMmLF9WmmA9LinUVKT0Q1555FNeCxmWMsl1303dg82hiG8jlONLbfafiPIVoShqpr-Og79aMKRAhgByHjos7PoQ8jDQFmQv8gNixdcH_-YMQwqidjN0sIJmnp86ox0mo15uYJd4NDYuiJgd0rSYMMKsl2dabShalA37EjsP5C1IvdPbeGF4eZd1SSZoaIN0Q4-a4-bSabmw5JYOuizc1_O1Tr7MajVz-5XKlt1XM_jVkFd9Hcx9t6n2G8X1Iv2yE8Xi1DOz5WRnl7U1K45Iaaz6LlbfL5JxNPlB_Wcz9tToEseWXT15g.jpg"
+    ]
+   ],
+   "reason": "important keywords",
+   "ch": [
+    480
    ]
   }
  },
