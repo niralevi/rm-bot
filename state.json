@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59263,
   "themadridzone": 31476,
-  "FabrizioRomanoTG": 67326
+  "FabrizioRomanoTG": 67327
  },
  "sent": [
   {
@@ -1760,6 +1760,43 @@
    "status": "fact",
    "headline": "🚨 José Mourinho: “If the team that finished the game today started… we would've lost 5-0”.",
    "link": "https://t.me/RealMadridImportantOnly/395"
+  },
+  {
+   "ts": 1792044265.770034,
+   "date": "2026-10-15",
+   "tokens": [
+    "15",
+    "2026",
+    "any",
+    "bann",
+    "be",
+    "club",
+    "easy",
+    "fabrizio",
+    "four",
+    "gam",
+    "hair",
+    "oct",
+    "opponent",
+    "other",
+    "pres",
+    "pull",
+    "remember",
+    "romano",
+    "say",
+    "vini",
+    "well"
+   ],
+   "names": [
+    "fabrizio",
+    "oct",
+    "romano",
+    "vini"
+   ],
+   "cat": "🟥 Discipline",
+   "status": "fact",
+   "headline": "🚨 Vini Jr: “I do not remember any player being banned for four games for pulling the opponent’s hair”.",
+   "link": "https://t.me/RealMadridImportantOnly/416"
   }
  ],
  "offset": 769011999,
@@ -1767,8 +1804,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 88,
-  "tokens": 138967
+  "calls": 89,
+  "tokens": 140610
  },
  "pending_fb": {},
  "feedback": [
@@ -2195,7 +2232,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 266,
+ "train_seq": 267,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5674,6 +5711,19 @@
    "reason": "No relevant Real Madrid news content",
    "ch": [
     415
+   ]
+  },
+  "267": {
+   "t": "🚨 Vini Jr: “I do not remember any player being banned for four games for pulling the opponent’s hair”.\n\n“But with Vini it’s easy… the other clubs as well as the press will say it’s ok”. https://t.co/5bekQqpcM4\n — Fabrizio Romano (@FabrizioRomano)\n Oct 15, 2026",
+   "ai": true,
+   "label": "🟥 Discipline",
+   "status": "fact",
+   "src": "FabrizioRomanoTG",
+   "id": 67327,
+   "m": [],
+   "reason": "Relevant disciplinary quote from reliable source",
+   "ch": [
+    416
    ]
   }
  },
