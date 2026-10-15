@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59263,
   "themadridzone": 31478,
-  "FabrizioRomanoTG": 67328
+  "FabrizioRomanoTG": 67329
  },
  "sent": [
   {
@@ -1732,8 +1732,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-15",
-  "calls": 92,
-  "tokens": 145443
+  "calls": 93,
+  "tokens": 147123
  },
  "pending_fb": {},
  "feedback": [
@@ -2160,7 +2160,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 270,
+ "train_seq": 271,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -5701,6 +5701,19 @@
    "reason": "Travel schedule, not essential news",
    "ch": [
     419
+   ]
+  },
+  "271": {
+   "t": "🚨 Vini Jr: “I feel like defenders can always kick me, yet I am the one who gets booked”.\n\n“I think we need to protect players who can make a difference like me, Lamine Yamal and Julián Álvarez…”. https://t.co/XZg7Tznvt0\n — Fabrizio Romano (@FabrizioRomano)\n Oct 15, 2026",
+   "ai": false,
+   "label": "🟥 Discipline",
+   "status": "fact",
+   "src": "FabrizioRomanoTG",
+   "id": 67329,
+   "m": [],
+   "reason": "Just player comment, no news impact",
+   "ch": [
+    420
    ]
   }
  },
