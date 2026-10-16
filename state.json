@@ -6,35 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792010725.2619302,
-   "date": "2026-10-14",
-   "tokens": [
-    "3",
-    "endrick",
-    "scor"
-   ],
-   "names": [],
-   "cat": "other",
-   "status": "fact",
-   "headline": "🚨 ENDRICK SCORES! 3-3!!!",
-   "link": "https://t.me/RealMadridImportantOnly/283"
-  },
-  {
-   "ts": 1792010788.4371521,
-   "date": "2026-10-14",
-   "tokens": [
-    "2",
-    "3",
-    "espi",
-    "goal"
-   ],
-   "names": [],
-   "cat": "other",
-   "status": "fact",
-   "headline": "🚨 GOAL! ESPI!",
-   "link": "https://t.me/RealMadridImportantOnly/284"
-  },
-  {
    "ts": 1792011324.276421,
    "date": "2026-10-14",
    "tokens": [
