@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59286,
-  "themadridzone": 31582,
+  "themadridzone": 31583,
   "FabrizioRomanoTG": 67362
  },
  "sent": [
@@ -1337,8 +1337,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 40,
-  "tokens": 67795
+  "calls": 41,
+  "tokens": 69741
  },
  "pending_fb": {},
  "feedback": [
@@ -1559,14 +1559,6 @@
  ],
  "skipped": [
   {
-   "src": "FabrizioRomanoTG",
-   "id": 67295,
-   "t": "🚨 BREAKING: Vinicius Jr has been suspended for 4 La Liga games — out for El Clásico.\n\nThe Brazilian will miss the following games.\n\n- Sevilla (H)\n- Barcelona (A)\n- Racing Club (A)\n- Valencia (A) https://t.co/QxC1RuJ5ew\n — Fabrizio Romano (@FabrizioRomano)\n Oct 14, 2026",
-   "m": [],
-   "r": "already notified, same suspension",
-   "h": "🚨 BREAKING: Vinicius Jr has been suspended for 4 La Liga games — out for El Clá…"
-  },
-  {
    "src": "themadridzone",
    "id": 31300,
    "t": "Jude is here! 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n@TheMadridZone",
@@ -1748,6 +1740,14 @@
    "m": [],
    "r": "🟥 Discipline is turned off",
    "h": "🚨 Real Madrid appeal for Vini Jr’s 4-games ban in La Liga has been rejected."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31583,
+   "t": "🚨🚨 REAL MADRID OFFICIAL STATEMENT:\n\nIn response to the statements made by Javier Tebas, president of LaLiga and vice-president of the Royal Spanish Football Federation, in which he compares the methods of action of the Real Madrid management with those used by Joseph Goebbels, Minister of Propaganda of the Nazi regime, pointing to Real Madrid Television as an instrument of this alleged strategy, Real Madrid CF states the following:\n\nReal Madrid CF considers it absolutely intolerable and extremely serious that someone holding two top positions of responsibility in Spanish football would resort to comparing the club's propaganda methods to those of the Nazi regime in order to discredit it, its management, and its television channel. The clarification that he is not referring to Nazi ideology does not diminish the deeply offensive, morally repugnant, and institutionally undignified nature of his statements.\n\nThese statements constitute yet another episode in Javier Tebas's repeated attacks against Real Madrid, its president, and its media outlets. It is unacceptable that he even uses questions, information, or opinions from journalists outside the club to direct his disparaging remark",
+   "m": [],
+   "r": "📢 Official is turned off",
+   "h": "🚨🚨 REAL MADRID OFFICIAL STATEMENT:"
   }
  ],
  "summary_date": "2026-10-15",
