@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59290,
-  "themadridzone": 31609,
+  "themadridzone": 31615,
   "FabrizioRomanoTG": 67366
  },
  "sent": [
@@ -1422,6 +1422,30 @@
    "status": "fact",
    "headline": "🚨 Players with the most goals in their first 100 @UEFA_Champ_League games:",
    "link": "https://t.me/RealMadridImportantOnly/534"
+  },
+  {
+   "ts": 1792166786.1652598,
+   "date": "2026-10-16",
+   "tokens": [
+    "endrick",
+    "gam",
+    "give",
+    "jose",
+    "mourinho",
+    "plan",
+    "play",
+    "time",
+    "upcom"
+   ],
+   "names": [
+    "endrick",
+    "jose",
+    "mourinho"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 JUST IN: José Mourinho plans to give MORE PLAYING TIME to Endrick in the upcoming games. @Rodra10_97",
+   "link": "https://t.me/RealMadridImportantOnly/537"
   }
  ],
  "offset": 769012033,
@@ -1429,8 +1453,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 68,
-  "tokens": 108529
+  "calls": 72,
+  "tokens": 113018
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1449,7 +1473,7 @@
   "club": 1,
   "fun": 1,
   "social": 1,
-  "lineup": 1,
+  "lineup": 2,
   "transfer": 1,
   "stats": 1
  }
