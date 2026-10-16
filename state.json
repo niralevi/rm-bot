@@ -6,39 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792007569.3334136,
-   "date": "2026-10-14",
-   "tokens": [
-    "0",
-    "1",
-    "245",
-    "285",
-    "31",
-    "4",
-    "46",
-    "54",
-    "62",
-    "8",
-    "first",
-    "half",
-    "pass",
-    "possession",
-    "roma",
-    "shot",
-    "target"
-   ],
-   "names": [
-    "passes",
-    "possession",
-    "roma",
-    "shots"
-   ],
-   "cat": "other",
-   "status": "rumour",
-   "headline": "🚨 Roma vs Real Madrid first half:",
-   "link": "https://t.me/RealMadridImportantOnly/256"
-  },
-  {
    "ts": 1792008681.7596793,
    "date": "2026-10-14",
    "tokens": [
