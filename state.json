@@ -1,36 +1,10 @@
 {
  "last_post": {
-  "real_madrid": 59294,
+  "real_madrid": 59295,
   "themadridzone": 31618,
   "FabrizioRomanoTG": 67366
  },
  "sent": [
-  {
-   "ts": 1791998663.048246,
-   "date": "2026-10-14",
-   "tokens": [
-    "2",
-    "4",
-    "ban",
-    "card",
-    "decision",
-    "match",
-    "official",
-    "protest",
-    "red",
-    "serve",
-    "straight",
-    "total",
-    "viniciu"
-   ],
-   "names": [
-    "vinicius"
-   ],
-   "cat": "other",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Vinicius Jr will serve a TOTAL of a 4 MATCH BAN.",
-   "link": "https://t.me/RealMadridImportantOnly/183"
-  },
   {
    "ts": 1791999098.3981445,
    "date": "2026-10-14",
@@ -1474,8 +1448,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 77,
-  "tokens": 118614
+  "calls": 78,
+  "tokens": 119708
  },
  "summary_date": "2026-10-15",
  "opts": {
