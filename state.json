@@ -1,33 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59289,
-  "themadridzone": 31606,
+  "themadridzone": 31607,
   "FabrizioRomanoTG": 67366
  },
  "sent": [
-  {
-   "ts": 1791993265.986608,
-   "date": "2026-10-14",
-   "tokens": [
-    "best",
-    "jose",
-    "matter",
-    "mourinho",
-    "only",
-    "return",
-    "time",
-    "vini"
-   ],
-   "names": [
-    "jose",
-    "mourinho",
-    "vini"
-   ],
-   "cat": "other",
-   "status": "fact",
-   "headline": "🚨 José Mourinho: \"Vini will return to his BEST.",
-   "link": "https://t.me/RealMadridImportantOnly/180"
-  },
   {
    "ts": 1791993442.63154,
    "date": "2026-10-14",
@@ -1433,6 +1410,35 @@
    "status": "rumour",
    "headline": "🚨 JUST IN: Jose Mourinho is CONSIDERING calling up Eder Militão vs Sevilla THIS SUNDAY.",
    "link": "https://t.me/RealMadridImportantOnly/532"
+  },
+  {
+   "ts": 1792166185.4000337,
+   "date": "2026-10-16",
+   "tokens": [
+    "15yo",
+    "academy",
+    "afonso",
+    "consider",
+    "jacobo",
+    "midfielder",
+    "one",
+    "play",
+    "spanish",
+    "sport",
+    "talent",
+    "top",
+    "want"
+   ],
+   "names": [
+    "afonso",
+    "jacobo",
+    "spanish",
+    "sporting"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨💣 BREAKING: Real Madrid want 15yo Spanish midfielder Jacobo Afonso.",
+   "link": "https://t.me/RealMadridImportantOnly/533"
   }
  ],
  "offset": 769012033,
@@ -1440,8 +1446,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 65,
-  "tokens": 105199
+  "calls": 66,
+  "tokens": 106295
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1460,6 +1466,7 @@
   "club": 1,
   "fun": 1,
   "social": 1,
-  "lineup": 1
+  "lineup": 1,
+  "transfer": 1
  }
 }
