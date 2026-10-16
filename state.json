@@ -1,42 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59296,
-  "themadridzone": 31626,
+  "themadridzone": 31628,
   "FabrizioRomanoTG": 67369
  },
  "sent": [
-  {
-   "ts": 1792012001.5828688,
-   "date": "2026-10-15",
-   "tokens": [
-    "14",
-    "2026",
-    "against",
-    "comeback",
-    "fabrizio",
-    "man",
-    "match",
-    "oct",
-    "roma",
-    "romano",
-    "who",
-    "win",
-    "your"
-   ],
-   "names": [
-    "fabrizio",
-    "man",
-    "match",
-    "oct",
-    "roma",
-    "romano",
-    "who"
-   ],
-   "cat": "other",
-   "status": "fact",
-   "headline": "🍿💥 Real Madrid comeback win against AS Roma!",
-   "link": "https://t.me/RealMadridImportantOnly/333"
-  },
   {
    "ts": 1792013437.9033008,
    "date": "2026-10-15",
@@ -1074,9 +1042,9 @@
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
-  "date": "2026-10-16",
-  "calls": 86,
-  "tokens": 128897
+  "date": "2026-10-17",
+  "calls": 1,
+  "tokens": 1128
  },
  "summary_date": "2026-10-15",
  "opts": {
