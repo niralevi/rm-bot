@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59286,
-  "themadridzone": 31534,
+  "themadridzone": 31539,
   "FabrizioRomanoTG": 67355
  },
  "sent": [
@@ -1179,8 +1179,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 5,
-  "tokens": 8564
+  "calls": 9,
+  "tokens": 15127
  },
  "pending_fb": {},
  "feedback": [
@@ -1607,7 +1607,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 335,
+ "train_seq": 339,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6367,6 +6367,86 @@
    "reason": "New long-term Bellingham contract reported",
    "ch": [
     494
+   ]
+  },
+  "336": {
+   "t": "📲 Arda Güler on IG. ⭐️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31535,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/fo6JVz7qLd9HXP-kCqGjjE3r65AR1DPKMPqSAL_JSOO9AbgoznG0gn2FMs-v4dLT_KkNlrFXu8J1ukrbuixDb1pDO5CRE5G0KiEM5AvW-bpnsam668lf7p058G9otBRqf3aTi8vOnYhZVM2gItje_Pq2zShK5GDkrSnlvyYoygYmJv3eKd0s3ikD6Yc_7U6XgHi7SYnB9ZanqK6-mWxShCvk6zjpRzitn6yFArWkaFq2aKYONcQQhmFiXjQmmzNjrO4ltLULhej9waScDb1z3gW5aulhWvFEqqLHyT65rC_uq2oPue87jA5qCTgpv709hjVldGZtstBP6IttxOmWzA.jpg"
+    ]
+   ],
+   "reason": "No relevant Real Madrid news",
+   "ch": [
+    495
+   ]
+  },
+  "337": {
+   "t": "🚨 NEW: FIFA President Gianni Infantino has APOLOGIZED to the FIFA Council over his controversial World Cup sell-off plan:\n\n“I apologised for the mistakes we made in the communication and consultation process.”\n\nHe also clarified that the plan was only a proposal and NOT a done deal. @BBCSport\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31536,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/nXz86vETnCtjVWdMpPPusYunQYpbxxY5nlxyYegne3ShjCID18mphqReusFca1p2-cAlWdQLTVHC10WUzarW0IHE8NLAgdQBRcEccrBDHvNPeHPxYUX3NOSmPckGwFvx4SmAy_E4djbxxvTLwKqPJvnCffgNecOeAfgnUNtDnRavoyX3tobkKdLfFHDKUIm_yzESnC6c0ycwxlael-7oiXX-L1q_oc4G12rq51sV5JTbdlUyxI81jJU14RlTlVWwlLgfyVyIGCtOezX-piIAssyhPAlOZE60mjRRUvfb1f1RvE3F_oxV_gwHo0RhNVPcmCiZ2BGwQNRpffX5Cr1kEA.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/PdaFsDE66tePp3z4Q17WmGe6671ys12EDrdAL-nZXiYQ3Ihu2ReD-8QwewQHObGEyvH5_wX47udxKJUi2YYIrKG4_mhfyJnbgwD3QDgp46dC0-8rqzXU7mGgMgWuGgQQJdSternUFMCatYpij6HXnmkyHvystZXNiWIYJUjLbDO8bmImGWQHLNEOrDf4JPejl4WpW9o1Jygat1XWauYZsPRn4xBRmtBIGHJfrtKdAo7A7vizP0XUtf6YK4Ju9AJC0NfQ9rH5kGj0kDLxKdA0urH9roHHRxz0NNPg8onEhQ71macmACB9zvXKdS9G_d4XqTR3fV0-irYZXAe6X6McmA.jpg"
+    ]
+   ],
+   "reason": "Not related to Real Madrid",
+   "ch": [
+    496
+   ]
+  },
+  "338": {
+   "t": "All eyes on the ball 👀\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31538,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/T2PXQ5LTdyp2N2j6lRY3wYqOiGlBCsuiHlY7ijJsB3vuweYrKiLQzhAYAmmENp9SroBGoyzpFVA9zet2r9C8Gu6pH-yk_bEQutx7RDeXOqtG97MN7QDPZDWfNZea_WUlcGPw0R1TBeq9io246LY_MjCSKuiUJluJNKyqVDqJ7LZqqVpi24dxQJyneZxhVMConqocXIwKEwqocM_8cOtG5ifaUBv3v58zsZPE6cPt20gEPL_ercKgWdEJRF-jkHso2nNoIBOQuaNxeuLwnXt2EIv1GzCitx0PRNGUNnqByG5MIvZhtEykIXJTKIDGRe4ltP2Ew97YoURepqLHGs50mw.jpg"
+    ]
+   ],
+   "reason": "No substantive Real Madrid news",
+   "ch": [
+    497
+   ]
+  },
+  "339": {
+   "t": "CARL⚽️S ESPÍ\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31539,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/qDUAqo7ENznF4k-IQpQzcoC_6J2v4U_UqTVuWqLTFHcEZ7mknaSskI1ZoZAJw0d6rta7IjPMVWb9-CY36BQGCkCDa0MyLz8MSIYXhm4nNdIEC_sXnDFjiX0xKXKXKryRqf7N2yIqonI685ItEnbtUjY-238LEHAWA0cvNzZkqFbtOCfPHBRR1symUev40dbZA9fOvdqtvRFPpk8YfTjCIUzKQ9-HFiynzJ3GnT0r80HKLlfmJwFUtS3Z6jVFzVTGu1jsRFa05vOP03D3n_IsHjAb2-sdIt86F9f-J9gCvs2icEXRAD5sP2LESU0Itxbq08gozB42sC7O1JKK-KBnWw.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/u6BregGWsN_wiiBvIJJ9UXdk4rt9nRDuLA8F7UgqHEIeaNERaCUxKUWusFWYg-flcyly4JdvGvWNpY69_51Me-oAmH3tsPSKRNCqA-IoFX3X4X4PjcFUWDF9ZSbUmOA8k8In12T-XJnimN_5NcDhm_seIB2-SGJKZjqh2aFEQhww_4To29qmjNl876YOs6llJKGpAv31k2e5oUI-oE8jPGjGzRMGYlChmxBqrIzcod9jc7cFfke53qDjM6wbMahRA4V2L5dSekEBRTUaWnWJOCrF9aDan9KGALC4nYZ1klFf5fvzEfnrsnlLD4TlnpaI2JhYuEAbka_tcRLZ8sj-Ug.jpg"
+    ]
+   ],
+   "reason": "No relevant news content",
+   "ch": [
+    498
    ]
   }
  },
