@@ -6,26 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792009053.2995486,
-   "date": "2026-10-14",
-   "tokens": [
-    "again",
-    "donyell",
-    "malen",
-    "offside",
-    "rul",
-    "scor"
-   ],
-   "names": [
-    "donyell",
-    "malen"
-   ],
-   "cat": "other",
-   "status": "none",
-   "headline": "🚨 Donyell Malen scores again but it is ruled out for offside.",
-   "link": "https://t.me/RealMadridImportantOnly/272"
-  },
-  {
    "ts": 1792010604.4497378,
    "date": "2026-10-14",
    "tokens": [
