@@ -6,26 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792003760.821054,
-   "date": "2026-10-14",
-   "tokens": [
-    "100th",
-    "appearance",
-    "kylian",
-    "mbappe",
-    "ucl",
-    "warm"
-   ],
-   "names": [
-    "kylian",
-    "mbappe"
-   ],
-   "cat": "other",
-   "status": "fact",
-   "headline": "Kylian Mbappé warming up for his 100th UCL appearance! 🇫🇷✨",
-   "link": "https://t.me/RealMadridImportantOnly/188"
-  },
-  {
    "ts": 1792005459.603877,
    "date": "2026-10-14",
    "tokens": [
