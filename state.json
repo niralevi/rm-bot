@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59286,
-  "themadridzone": 31586,
+  "themadridzone": 31587,
   "FabrizioRomanoTG": 67366
  },
  "sent": [
@@ -1337,8 +1337,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 44,
-  "tokens": 75062
+  "calls": 45,
+  "tokens": 76775
  },
  "pending_fb": {},
  "feedback": [
@@ -1559,14 +1559,6 @@
  ],
  "skipped": [
   {
-   "src": "FabrizioRomanoTG",
-   "id": 67297,
-   "t": "🚨 Real Madrid plan to appeal Vinicius Jr’s suspension for four games after RFEF verdict. https://t.co/yOM8cFxYKo\n — Fabrizio Romano (@FabrizioRomano)\n Oct 14, 2026",
-   "m": [],
-   "r": "duplicate of existing appeal news",
-   "h": "🚨 Real Madrid plan to appeal Vinicius Jr’s suspension for four games after RFEF…"
-  },
-  {
    "src": "themadridzone",
    "id": 31303,
    "t": "Eduardo Camavinga 🇫🇷\n\n@TheMadridZone",
@@ -1747,6 +1739,19 @@
    ],
    "r": "📰 Other is turned off",
    "h": "150 Games with Real Madrid. 🤍🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31587,
+   "t": "🗣️ Jude Bellingham: “It's an honor to reach 150 games for the biggest club in the world. \n\nReal Madrid means a lot to me. It’s a pleasure to play here and hopefully there is much more.”\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/niBdmWVRLgs50_3D76QPvwtkvk4IeG6YrVa29uwPy1BxaKWw8uESk8VRnv_5APgFSBeOjZBZKunfZ7PWeYkxS7lUrxLMUHyksw7XgtxZYXNeP5_HDz_OytkZZOlXnYOJeH8TRsUrxaSZE04OKBc83I_a9wtxynjI7wwa9AkR655YnoHsktrRt3nmMbu57nI_lFt2Ybw04BsBN51Crg38iAeg1Ky4bWOAx98jM1xS8Hm5xoQpWFPJWOHHH7iP2aQhp12xr44p_Cm3YvE4dgpRk79UKoraGtgTjQr-dpFjRqPP-U2o78SrRnPPR1Fc4ETYTYMjQYgSQ-AA_46VKiKV7g.jpg"
+    ]
+   ],
+   "r": "milestone quote, not essential",
+   "h": "🗣️ Jude Bellingham: “It's an honor to reach 150 games for the biggest club in t…"
   }
  ],
  "summary_date": "2026-10-15",
