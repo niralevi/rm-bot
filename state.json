@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59286,
-  "themadridzone": 31539,
-  "FabrizioRomanoTG": 67355
+  "themadridzone": 31553,
+  "FabrizioRomanoTG": 67358
  },
  "sent": [
   {
@@ -1172,6 +1172,40 @@
    "status": "rumour",
    "headline": "🚨🤍 BREAKING: Jude Bellingham agrees to sign new long term contract at Real Madrid.",
    "link": "https://t.me/RealMadridImportantOnly/494"
+  },
+  {
+   "ts": 1792154977.428969,
+   "date": "2026-10-16",
+   "tokens": [
+    "complet",
+    "pass",
+    "roma",
+    "start"
+   ],
+   "names": [
+    "roma"
+   ],
+   "cat": "📋 Lineup & Squad",
+   "status": "fact",
+   "headline": "❗️Real Madrid starting XI completed passes vs Roma.",
+   "link": "https://t.me/RealMadridImportantOnly/503"
+  },
+  {
+   "ts": 1792154996.9666703,
+   "date": "2026-10-16",
+   "tokens": [
+    "endrick",
+    "equalizer",
+    "roma"
+   ],
+   "names": [
+    "endrick",
+    "roma"
+   ],
+   "cat": "⚽ Result",
+   "status": "fact",
+   "headline": "📸 Endrick’s equalizer vs Roma. 🔥",
+   "link": "https://t.me/RealMadridImportantOnly/505"
   }
  ],
  "offset": 769011999,
@@ -1179,8 +1213,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 9,
-  "tokens": 15127
+  "calls": 18,
+  "tokens": 30367
  },
  "pending_fb": {},
  "feedback": [
@@ -1607,7 +1641,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 339,
+ "train_seq": 348,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6447,6 +6481,188 @@
    "reason": "No relevant news content",
    "ch": [
     498
+   ]
+  },
+  "340": {
+   "t": "🔙 Cristiano Ronaldo vs Atletico Madrid, 2012. 🚀\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31541,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Xmp-4W32jCGsg8GOdU2b6mlaY-uJxIUSK96C22BIQmawPuiM6NGFLiV-br3qrTwZ2XsbPByWB_shdxF_jM8bgPJZC9wIW6HHSevocRHi9KykGjZYesLC_Dwdeb5GpuCf0WVuC2a-W5sti5-VDr9CzojQXNu55ziKasH0qJqfYENElWK7aR9Pmdhg3e357w7LVvu983BWtgiq78jD3mDLS8Pcpj6udlN7ILTTwXLVIYheWkeu4_VuVa4yfQ7NJTy6N7m1RjPLqAdlyxsWl2AdmSpI6fzbbboO3LWBZ23BIqEXU7KqMlHepcvyhVIarP2hsXdCvClfkOt3GPWYgj1CKw.jpg"
+    ]
+   ],
+   "reason": "Not relevant news, just old highlight",
+   "ch": [
+    499
+   ]
+  },
+  "341": {
+   "t": "🗣️ Fernando Morientes (former Real Madrid player): \n\n“Vinícius’ red card? Its unbelievable, I’m extremely upset.\n\ntwo-match suspension would have been more than enough, while four matches is considered an outrageous exaggeration and an elevation of the matter to the level of assault. What assault do you see? And what problem occurred with the player who pulled his hair? I know and understand that it's a straight red card with no room for debate on that, but taking it to four matches seems completely over the top.”\n\n@TheMadridZone",
+   "ai": false,
+   "label": "🟥 Discipline",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31542,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/G0_M-EJK9vnkqpVFiRmtC-ltcLw7ljaiqcuH5vraCfLlH-3cI6931W4hgMQS35VerxQHwRndHydMlIKrSmR6NuAwaMu2Wy_mx-CWfMj9j63f74erd65mrp0xZdyC10wy4Vv1K0424E73cVy8ZWCQnz0-joQ-0dw8ZsQsBZ0P0GaXRZjFn27umx9YyWufg710TcoEpqPsjxOYncUMn2TqZQhPG1bxWnfRYZPBYAxVcuYGpYnqE_z5lK7v6t0nZYw9gTSnPI0xIvXdEFXBDIyfkubzIb-8zXQFRF6vWCVZZHhXXOSP6rN2H5FVzNl11ct3SLLip-6W_A9ATKHxaZAf6A.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/O5mM1hFL2XmBtTEhTW28bdp9mBeqK4ExNzwadAHovy4pBkJ__KDKOfrNx32sqoeGi-hfkh6XRkjRQ2piYgSMdXixvLbgFomLrmhUhDf-ON1jFxI6OBWxq0UoNUk6qlUVGJFQ8w34TCndZdU2MjgZgI0pvcwVX-SMUgTe9gY1DghgM0kNKAfU-J83Kxkid-dyhKIV2lyg_FuKjkHpkKDRx8R4LKSU1njiJb__za7ULTiPMUMdTaRG8CYqJb_GaO_fmTV8aQK1WtEIxyh6Kt60Ow4O9XXKBRxCqsY53XOlNow0Y60bF4-w6sHfVvFkEXn7-8DzMv-dz2T9KXdEx2du9w.jpg"
+    ]
+   ],
+   "reason": "Already covered, no new info",
+   "ch": [
+    500
+   ]
+  },
+  "342": {
+   "t": "🗣️ Fernando Morientes (former Real Madrid player): \n\n“It's true that the midfield, with all that happened since the start of the season, gives credence to those who were saying that having an organized midfielder with good positioning was an important for this team. \n\nEspecially with the debate that was stirred up over whether Rodri should be signed or not.”\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31544,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/rQTiGLLGIxTFueQfmvuXrVnHcKTopZAfXFpi8nWY6YjZigMF1OJNT2z-wvLS05MDw4-JUMjhhg_QnI3W_L5RdwKiKG85_B22AQ_eRg2OoM8-wCDIu9cV2iDtYD5IL6F-ze2vU6C1JDQZzQwrYeOPdLsGWimw01OK2-SUOQ-zbaDUTsNFT1V7_SFbJbFkda-Su_FvVR2S5tSgyvhkTMmrsHMegTX3KX7-CCJSB3CbwOba57f1c5HRWkiEqhe2_3_rxUepZtevHOnFUeyjXnjyy0LNY2-81GRPKQbCnRbcJcKJkEG7iEVlWD1_fgekIwa9J0Brqkaj3OcY5qbQz0IXog.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/ZdRDeiDTz3gdGT-eKoh2QoxfuWfoah_O561kPETdYVU8f0O5gMMz2ubZ0YexpqX2Vmld65anXTWihhFSwQOcEzGHuXJ8DjUq6BIBeXDIr_ErDssdt5mQzFaea7qFSP0ExXlhDsls6CpaIMxNTTkQJ7O5M5Us3Aed8vrOB_wywY8qVX6y7gYCSxT6-FVPoA2fYfbhON0iQoLP34Byj-Qqg8VLrl2s4hVzQx-XcYyxaOFWT_2pxG2tACCgyWkGo_NcrZ-kwn_QM89iP9hZHYJektvPFVo6GblwbknZnLYhpJqioQkcZPqmXUDmui_pf7Gkbow5PopHwZAKlaVE-k5dCQ.jpg"
+    ]
+   ],
+   "reason": "Former player opinion, no actionable news",
+   "ch": [
+    501
+   ]
+  },
+  "343": {
+   "t": "🗣️ Fernando Morientes (former Real Madrid player): \n\n“When you're told two hours before the match that you've been suspended for four games, that's something you can't ignore.\n\nWhen I put myself in the player's shoes, and you find yourself facing an important Champions League match, you call your wife and tell her: 'Darling, we're heading to the stadium,' and she says to you: 'I'm sorry to tell you this, but our daughter has a fever and I had to take her to the emergency room.' Of course, in that match, I wouldn't be calm at all, because there's a personal obstacle. \n\nAnd I put the personal obstacle and the professional obstacle on exactly the same level.\n\nI understand that news like this hurts any player because they won't be present in the matches, and we're talking about four matches, not one or two, but four full matches, which is a lot. In the past, it amounted to almost a full month of competition.”\n\n@TheMadridZone",
+   "ai": false,
+   "label": "🟥 Discipline",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31546,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/W8-b2Ro_HxpBPcd5-AL4822zsVTFZTmOwCHi-KC9udln6LStdhmtsquVmdgCb0bHfvDkPqGoq8zxXKQKwqghQbENx53IfuR3Yuyd0gXoMvgxd5P5t-K7ud0TfRruckckGN8SaxFVvjQh1Utk1c5JiWnWTmj6vS-pfPP7f0dUjjy3OgN3htTn1TYVN7dvAp6PuaoDJOCNj4MMfI9RBTX7tTJc2Eluzb1cWW-ZTCSoa6Cb2hrYeR5v5oXwcWKU6V0hUfV7ZkvvjxfKV6Iub6y66KeFGwQZvKXi6ojUbbOISNIf6kx0dOte1JqbchbkYAAbr3M49aOPhZmXIU4NJ4b3iQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/sUUIDOT69ZW0vmK37Y3Io9SsgIONEGQNxMVwNWT_hWkoF5Jds8LsinSNUocxO8RGht99l6UbvOvMcvX4UXDHk9ukMjabqjb9b_olnPh8GoSqXnt8CmOb0YOBKJBAm5p_PfSlgfyRwLQtRdZpTAgDwQpt5JQJ_CsKrgTPIxH8kGmF_xJw3RkH8bWbL1mnp1PX9lBMAKL3-tWEIyUFoR37ZOu4rjJSQ-bPER_30P0qEAGo9kQsVX0ztwyX6_E3fMwJLe_tlSb8RhsecQulBbAJ5jUXCxhf2IcrpkZQLLIAkkbk4DEv67699jHL1GvEu3lE0ASjJn27LUl8NixJ8-B-vw.jpg"
+    ]
+   ],
+   "reason": "Commentary, no new info",
+   "ch": [
+    502
+   ]
+  },
+  "344": {
+   "t": "❗️Real Madrid starting XI completed passes vs Roma.\n\n@TheMadridZone",
+   "ai": true,
+   "label": "📋 Lineup & Squad",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31548,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/ew6qWQ0VZFj2EaR7Q_VO2buJ-lMbz0mfO7ma8M3hWB7vEbV5yvrmHYSMiu-UPJFJYPmurKjwP3xMijuAUomCelj4MXiqmSEF4yzbtSjZD13bsKHq437VdvXGkms0YPX50zwUGHinbZhAnL28kBYZ1U21DcMFcLhNe-22EzTCaO7v1BcWMQT4QS4o6eHHhsKfNyo2vDQxTXwOKW3keDY-D7CflneSbcTSBDMioh_rf9wM4tOuoOBtNHSZ2fvqTUmJE8pZhDJ8TyHfD99kWhZ1XtfBtvQkvTJ-wkNO3z-Lqz2XQMZ_2w4Aj-eZU_26A6Mc3pWDE2Kilfe3HI5J0ezIbw.jpg"
+    ]
+   ],
+   "reason": "provides official lineup details",
+   "ch": [
+    503
+   ]
+  },
+  "345": {
+   "t": "🔙 Eden Hazard x Karim Benzema x Viní Jr. ⚡️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31549,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/iOBiXfWsRJ9pME1qLgZosdzx9frP4f6Pn1dN5Ql5SmFrYuxWCBNvdrGQhEZ8awS9Jv0gLLbHL9N5N-aBHaiOtzOHZfbx116hHUK4bbW5B5ABse2hpAMcfi98Qi2mtPdbufgAEPTVzTymCyxa3cvm1jz4UooCm-dnEYXJ41Qs8mVkHO3W6YMiHokt4bGIXqTYIQJn0iuJxhACCwrDeVVfCtn5fO4zFHkdoNiazysoLDBnISPF8XBrNkRMzqk3yW9fuj9LAFWhPHUbcua7gPcesUKLAL4-C-JcNaBiVpcv8VtaKcvPpAcaA63dSIyTheoWIOnoGuXFA0N4ROFCedYe4Q.jpg"
+    ]
+   ],
+   "reason": "No real news, just a player collage",
+   "ch": [
+    504
+   ]
+  },
+  "346": {
+   "t": "📸 Endrick’s equalizer vs Roma. 🔥\n\n@TheMadridZone",
+   "ai": true,
+   "label": "⚽ Result",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31550,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/ZCR4HTB22FOcyOePdHgwTpoAaIL3Ne0wMY-ysTRXpMl-TdpfqI0w7baDerD-8_wN-Ug377Nw6MyhS6Yjh314dsMGP4GRo8Rg-OhiSTLNt0fwNZuSf2Cl9_-cH0N01pF1de7vS8hlV-qvQ6DPpGnwoXbpAugnFusa4LM-dIhxiphlbCG3Z7pm9M5Hg0pTV2BNTSOJkmW_xmzpi8gcqqVk4scgmDq8RUcBa5ukIQTs3KLQHykEG6PVXqoaAmMjwYfOqMl6Ay0JHoZ2UX2pYQRIGK0r40NjZvX7F-_7dBpNqpIRRlI2Oa7UqfbXfvalY-ZPveJGN-onKwIQ3tNWx7djsA.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/sI92Qtscv9PK2b5s-xYrDiJv10_ieb0tPeH_dt124sMSLZc8FV02pnuQeLZc78BCJxi1oX_c5b82IatBOraGaNvnAAlMLAdSaAmv2fRD78XrUTDchi2akAmirKfIsr67MTM9Ch9z1xK3kfmEd0PCzxEVMbqsx6ADGIsSqkIaHQg4idwPefw-dyhuy4mcpGxQJTFnl4OVAaJPrLzirUl9E3cxKQWDXlltvhtXv9ZBJGFQbI_MUl8w_Hot2nqSNqvvXogP5lrKohBbeRw-E3JUmBy_QEh8fjLPvM2semAlNzLFztqpBqP96aRUuvmg3USzHkCKOvYx8vGGDfZCmPBX6Q.jpg"
+    ]
+   ],
+   "reason": "goal update from recent match",
+   "ch": [
+    505
+   ]
+  },
+  "347": {
+   "t": "📲 Yan Diomande on Snapchat. 🤍\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31552,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/XZWB1zKtlgyByi1B5v6yOUqXnYAHlg55DrgW6s1_JAw3uoBoOLfnkstLBcKAVSaW_-xPes3pSBWBl1j6qU8z7lHxOzM1XjHQrGTf86adeNrZfBMjddUdrEYui8udz2_ygBcIco27EAfkHn1xGvZtrI6CrSSntLKSxOxJ20M3YINbZZRjOqJykIA1huh75mWaUFr7Ogv8vZEiC0RLIO4KaL9wzgwlpzBv1iMdstxUdzDY9fhfWKiewY8CcQg_-YX9ILWMaH4TZcEPfQRKMA7HotzFqQc-BgOGsorGaSZPZG3vCdtN0_7PuNmN5ch4f7ZEHqgtJkQF9nKX8rdyqXyF5w.jpg"
+    ]
+   ],
+   "reason": "Lifestyle content, not relevant",
+   "ch": [
+    506
+   ]
+  },
+  "348": {
+   "t": "🚨 STAT: Brahim Diaz bas the joint second most big chances created (3) in the UCL this season.\n\nHe only played the game vs Inter. ⭐️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31553,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/jN7NtkwsK1ihXZBV_FQVXeuk3rikmJEXwckQ3iprazB0P4ofA-NfIKsFhGB4uQgXGU6Ic-iJ5K5S4FRv2AwjTPBPIcmIKzMT_z9dkyAdOe5RSX0oqne_XececQZWRLnCZSVjNNuhn47RFDrDcefbC6robN89A-PEqM7208EgH2iQtBbogvtuHM6Jt_Of6Gm4DFfmD2MqHWcIcXA54gJWQauxzJcIIB0iRvT86DRXWrjGmnXanSM7OZAdnVGIJbEiDHYl9T7QvlGsO9nIYq0wPlz40LvbLM1lX3MiIuYFfDDZSGZMShwVyJspC_BChuCiTTZTp_z49xyqryuOV1yPOQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Z9mao6sKxArC-UHIyqR-JEMt_d4vKkGHZC_EOywaGdE00qaIKBl6lju4wEmtIsawd3Pa1RWnonpFDkH_pN_SZ7n6X9NZnLS8tFiL9t1ZPK9U9ObmlXq2xmhKMfVOnIceG7iXFAU3RyVqOu5CC2BRU9eI4zuYS70jC6-znn2f2bQuNOk8f8wLtbunWmQlyjvTEi3yUY3e0WhW-6sE8eGZtDudRAvGx2ydb8DQ1p_b6L6D0yr-6AaN176mQUl75fDCIpS6qKLv6WESYpF6-kaX84ArtJu6Ltt7BSFItj-DuRaq5sqdliRxhUPz9OtC6RfpBI0MxbGZAgFB0Owg334PpQ.jpg"
+    ]
+   ],
+   "reason": "Pure statistical list, no news",
+   "ch": [
+    507
    ]
   }
  },
