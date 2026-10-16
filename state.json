@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59296,
-  "themadridzone": 31622,
+  "themadridzone": 31624,
   "FabrizioRomanoTG": 67369
  },
  "sent": [
@@ -1179,6 +1179,37 @@
    "status": "rumour",
    "headline": "🚨 BREAKING: José Mourinho plans to CONTINUE starting the Valverde-Tchouaméni double pivot. @marca",
    "link": "https://t.me/RealMadridImportantOnly/541"
+  },
+  {
+   "ts": 1792180840.4312446,
+   "date": "2026-10-16",
+   "tokens": [
+    "compar",
+    "consider",
+    "council",
+    "germany",
+    "high",
+    "javier",
+    "management",
+    "method",
+    "punish",
+    "sport",
+    "teba",
+    "type",
+    "word"
+   ],
+   "names": [
+    "council",
+    "germany",
+    "high",
+    "javier",
+    "sports",
+    "tebas"
+   ],
+   "cat": "discipline",
+   "status": "rumour",
+   "headline": "🚨🚨 BREAKING: The High Sports Council is now considering PUNISHING Javier Tebas for his words comparing Real M…",
+   "link": "https://t.me/RealMadridImportantOnly/542"
   }
  ],
  "offset": 769012042,
@@ -1186,8 +1217,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 84,
-  "tokens": 126590
+  "calls": 85,
+  "tokens": 127727
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1216,6 +1247,7 @@
   "social": 2,
   "lineup": 3,
   "transfer": 2,
-  "stats": 1
+  "stats": 1,
+  "discipline": 1
  }
 }
