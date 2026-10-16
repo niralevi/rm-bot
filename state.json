@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59286,
-  "themadridzone": 31594,
+  "themadridzone": 31597,
   "FabrizioRomanoTG": 67366
  },
  "sent": [
@@ -1267,8 +1267,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 52,
-  "tokens": 88258
+  "calls": 55,
+  "tokens": 93144
  },
  "pending_fb": {},
  "feedback": [
@@ -1490,35 +1490,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31312,
-   "t": "🚨 José Mourinho: \"Rudiger-Konaté CB duo tonight?\n\nI liked this duo vs Villarreal, how they protected the team when we were down to 10 men.\n\nI trusted them tonight, taking into account the intense atmosphere that Roma fans will put on.\n\nI'm not saying Huijsen would've done badly, but I think Rudiger's experience will be useful tonight.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/qop90cPzE8qN_Bsq-RRyle3wd8ljA7rB2MLDFS2rjgFMBO_P9wZi0lg1NNzPkVZWSqKpf1Eq1g10tZf1UCFHnCVRjbvpZIgWX29PlhvBBFB-cko-6ic8yFt35y7nWuzls-LDnYswUIuvldBWDP1HPsqodQCkwX7EbUwrwnFOjulUm1kQu9YQ6fLKFieGI74H5BXtG6C71rSUYBKYarHw0P8GCva_d6d3jilOD61TOBuifqz77snJxpUTJ07eYnkOMKLkaQm267Vbd_8FtJ4RkPAEdl6s1NTr6w31L7Oekz5wFxJpMP3mJzvSbquAzV2Qbh-qpxVlCL_MrlLK6kzkaQ.jpg"
-    ]
-   ],
-   "r": "speculative lineup comment",
-   "h": "🚨 José Mourinho: \"Rudiger-Konaté CB duo tonight?"
-  },
-  {
-   "src": "FabrizioRomanoTG",
-   "id": 67299,
-   "t": "🚨 José Mourinho: “Ask Spanish Refereeing Committee why they published the news about Vini's ban minutes before he plays an important UCL game…”.\n\n“Real Madrid is a Spanish club, so why publish it now?”. https://t.co/4T6xHKlPOr\n — Fabrizio Romano (@FabrizioRomano)\n Oct 14, 2026",
-   "m": [],
-   "r": "just a quote, no new actionable news",
-   "h": "🚨 José Mourinho: “Ask Spanish Refereeing Committee why they published the news …"
-  },
-  {
-   "src": "FabrizioRomanoTG",
-   "id": 67360,
-   "t": "🚨 Real Madrid appeal for Vini Jr’s 4-games ban in La Liga has been rejected.\n\nThe Brazilian will miss the following games:\n\n❌️ vs Sevilla\n❌️ vs Barcelona\n❌️ vs Racing\n❌️ vs Valencia\n\nℹ️ Real Madrid will now appeal to TAD court. https://t.co/OCbahQJMPF\n — Fabrizio Romano (@FabrizioRomano)\n Oct 16, 2026",
-   "m": [],
-   "r": "🟥 Discipline is turned off",
-   "h": "🚨 Real Madrid appeal for Vini Jr’s 4-games ban in La Liga has been rejected."
-  },
-  {
-   "src": "themadridzone",
    "id": 31583,
    "t": "🚨🚨 REAL MADRID OFFICIAL STATEMENT:\n\nIn response to the statements made by Javier Tebas, president of LaLiga and vice-president of the Royal Spanish Football Federation, in which he compares the methods of action of the Real Madrid management with those used by Joseph Goebbels, Minister of Propaganda of the Nazi regime, pointing to Real Madrid Television as an instrument of this alleged strategy, Real Madrid CF states the following:\n\nReal Madrid CF considers it absolutely intolerable and extremely serious that someone holding two top positions of responsibility in Spanish football would resort to comparing the club's propaganda methods to those of the Nazi regime in order to discredit it, its management, and its television channel. The clarification that he is not referring to Nazi ideology does not diminish the deeply offensive, morally repugnant, and institutionally undignified nature of his statements.\n\nThese statements constitute yet another episode in Javier Tebas's repeated attacks against Real Madrid, its president, and its media outlets. It is unacceptable that he even uses questions, information, or opinions from journalists outside the club to direct his disparaging remark",
    "m": [],
@@ -1666,6 +1637,45 @@
    ],
    "r": "No substantive Real Madrid news",
    "h": "Arda Guler 🇹🇷🤩"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31595,
+   "t": "Thiago Pitarch in today's training session 💫\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/TBtkwtw_mmxtxKNNmh28KTDBH1VQDg4LCCc-sUWNy1lETR0vq2AnWNksY6dKc0tuBn6Zu0Y2zDlh14h2at2wNOvZIjDp_ISUcEqk6KFi4s3m9gKoPJ6LN7RN9NEWcW6KQo0lcO3ujPGoG54iVhYSXjgMCF30B5-V9lANYVvlDjn8h1Z3MT_CqN00AaxoJLgpWUwk7jBr0sA8zqBMzSwJyyCgJPcq96jz_pm6_CZLDTspvLyZt-Vd9Wo_3VnYH5M-1TQg1nSr65Hp_6zlYyLr4iEwEbv4SLDc6u4qHt1BW-0yPiJ6Bt6GWjs5dJ5Pc_XpN9hLlNoznJ2nwikHPwGa9Q.jpg"
+    ]
+   ],
+   "r": "Just training photo, no news",
+   "h": "Thiago Pitarch in today's training session 💫"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31596,
+   "t": "🚨 Dean Huijsen is back from his La Liga suspension!\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/TFblOYK_2UnBVDNaqjBC0Hsg4-waFdyA0Zua8xGdWUIKO-LvG4Izz7st8Tz4s3yk0dxqCWGIYJNS57WWLzKWVdQPOD3wXr2taRsL4FZz1rCaIcIP-ZWh2Rm2C0N5ijd9fuoPNejlkvtxtBozCK1IhSboEPNCk-OfoKiZj_zk2RRYW0SjbG7Dkpn-126UBv_ne1e_2vFBT7IwvTfGz7aqyoZi5n-AVOM-89KFCTTbcBIf95Pq4fIiijMzWVE_dbLhbiJChWvk7P8SVKoOpJ3WU3gDwlAwVgNTW8R0QujhmYOcNW3opph3Qjx4hbf-8mSUKcIIUzyi22lby05sdHSTgQ.jpg"
+    ]
+   ],
+   "r": "🟥 Discipline is turned off",
+   "h": "🚨 Dean Huijsen is back from his La Liga suspension!"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31597,
+   "t": "Vini Jr vs Trent ⚡️\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/AXmusnpKC5XI4gJXllhmF4khgEytJRRwOLlgD8hxDHiyivAuFTLTmya621ZaAhTe7ljwECgd6ogcz40cPxELEhoTs2zHKgfShPjJdMQKYLsGUJaOh1lFzaYxE3z7laFgiHWcPPzJ-2wmzgDSap62vKf6MoTSqU2FreS-fhBAPDzwPQsaLANTxTJWcEjl8FjdBWmEcKCT_wF3ug1Bhs5HJrhutkBr8IS-3uBH7szPprUJQiRg43nTMuUDAl_iylqgeLB1RH6yau6gBVY-vXAnlcnE76_aFrse7DzNK322fYE7RCOrvqrHLHVGar8czetnO3wL2RxvYsR3U6b-xovdJg.jpg"
+    ]
+   ],
+   "r": "No substantive news, just hype",
+   "h": "Vini Jr vs Trent ⚡️"
   }
  ],
  "summary_date": "2026-10-15",
