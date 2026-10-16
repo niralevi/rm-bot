@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59290,
-  "themadridzone": 31616,
+  "themadridzone": 31617,
   "FabrizioRomanoTG": 67366
  },
  "sent": [
@@ -1446,6 +1446,22 @@
    "status": "rumour",
    "headline": "🚨 JUST IN: José Mourinho plans to give MORE PLAYING TIME to Endrick in the upcoming games. @Rodra10_97",
    "link": "https://t.me/RealMadridImportantOnly/537"
+  },
+  {
+   "ts": 1792167141.3896067,
+   "date": "2026-10-16",
+   "tokens": [
+    "courtoi",
+    "thibaut"
+   ],
+   "names": [
+    "courtois",
+    "thibaut"
+   ],
+   "cat": "social",
+   "status": "fact",
+   "headline": "Thibaut Courtois 🧤",
+   "link": "https://t.me/RealMadridImportantOnly/538"
   }
  ],
  "offset": 769012033,
@@ -1453,8 +1469,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 73,
-  "tokens": 114140
+  "calls": 74,
+  "tokens": 115246
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1472,7 +1488,7 @@
   "quotes": 1,
   "club": 1,
   "fun": 1,
-  "social": 1,
+  "social": 2,
   "lineup": 2,
   "transfer": 1,
   "stats": 1
