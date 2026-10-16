@@ -6,40 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792015105.4968019,
-   "date": "2026-10-15",
-   "tokens": [
-    "because",
-    "difficult",
-    "espi",
-    "impossible",
-    "jose",
-    "kylian",
-    "lot",
-    "mbappe",
-    "minut",
-    "mourinho",
-    "play",
-    "quality",
-    "say",
-    "statu",
-    "sub",
-    "won"
-   ],
-   "names": [
-    "espi",
-    "jose",
-    "kylian",
-    "mbappe",
-    "mourinho",
-    "not"
-   ],
-   "cat": "other",
-   "status": "fact",
-   "headline": "🚨 José Mourinho: \"It's difficult for Espi to play a lot of minutes, because it's very difficult to sub out Ky…",
-   "link": "https://t.me/RealMadridImportantOnly/381"
-  },
-  {
    "ts": 1792016365.2529488,
    "date": "2026-10-15",
    "tokens": [
