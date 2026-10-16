@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59286,
   "themadridzone": 31534,
-  "FabrizioRomanoTG": 67339
+  "FabrizioRomanoTG": 67340
  },
  "sent": [
   {
@@ -1208,8 +1208,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 2,
-  "tokens": 3416
+  "calls": 3,
+  "tokens": 5085
  },
  "pending_fb": {},
  "feedback": [
@@ -1636,7 +1636,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 332,
+ "train_seq": 333,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6357,6 +6357,19 @@
    "reason": "📰 Other is turned off",
    "ch": [
     491
+   ]
+  },
+  "333": {
+   "t": "📺 New YouTube Video Uploaded!\n\n🎬 🚨💣 BID FOR SANCHO! UNITED: PUNISHMENT AND FINE! HURZELER TO MAN UTD: THE TRUTH! CONTE AND ENDRICK…\n\n🔗 Watch Now",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "FabrizioRomanoTG",
+   "id": 67340,
+   "m": [],
+   "reason": "Not real news, just video promo",
+   "ch": [
+    492
    ]
   }
  },
