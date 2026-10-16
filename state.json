@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59286,
-  "themadridzone": 31587,
+  "themadridzone": 31590,
   "FabrizioRomanoTG": 67366
  },
  "sent": [
@@ -1337,8 +1337,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 45,
-  "tokens": 76775
+  "calls": 48,
+  "tokens": 81659
  },
  "pending_fb": {},
  "feedback": [
@@ -1560,49 +1560,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31303,
-   "t": "Eduardo Camavinga 🇫🇷\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/sKTAfiPrZujm84x7o_OJxxeGW7psdX7xGRiwIeoD0rahZMOI9riH1MVzZIGjWVZbVutI0dxUFo3RxwyJro1XyRmDSqiY0xXRMh7Cx0r_p8fxfBqjqO1NIYK5XiPs6aPuPDsbBL_yOY-bT-aeGv1o4lW_1C1wdSacYPBPjMZnIT79OouSfhwTlCraofhkMLm89gAO7fz5f6DmwRM3Oh2bsuGiWqtmenHFrWm4g3pHYrwDXSuMJUapHgAt_LtoLCNf85yL0-ACu70qfllvDTn9pti0Zky0z3eUdsOB3wai_H_gXZ7n4KenLyV0yDoe0ya2J2l9pvvbz7K5ruZieoXqlw.jpg"
-    ]
-   ],
-   "r": "No substantive news content",
-   "h": "Eduardo Camavinga 🇫🇷"
-  },
-  {
-   "src": "real_madrid",
-   "id": 59234,
-   "t": "🚨💣 BREAKING: Ibrahima Konaté’s yellow card vs Villarreal has been OVERTURNED.\n\nAPPEAL SUCCESSFUL. ✅",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/tQUSyRIQvQuS_V2MWaAarbqL8nuPinkiIW48TqudIr8k8uQnXpFdO_O9axWDTx0LsCepHhWD0ylMQaQHLcyop3DZ1BO5Kp1OfNYFQSR0tDe1bajQHXp9h2VF2-1ogDk4xrKAye_zivgJD97rbYjVZGf9zMFLtYR7WvQ18iv_men_EGhgG4xlaDYus1tM3QFDHYfw7g06uPb1btDMyU8PMJIoiMO6EQ-u91ZXF-Sb05_CVhFWGkn3NRDDI_ziYnEZTaBNkqMbHgKoW-X1SGhYw4vJsWo4gteogyl-l1SOn8pLOi4calYn6WksWqdZCr5M7sNMCmh-tacanB4x6nXa5A.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/ZjvddMpAsY7o10HS6Ov6rRJlZ5ywErcvuHx-oGU1elfztRcTbVjvmnJ9jE8Q3TUQaQNK2r3xNAgCmi95XV_7S00H6_k_gDDYNqxRZhedKbaAYyVRalKYgMw9LP5bu55qALbueG4pRF85_T8AUcDVQ5J-fpidGE1FSAScmz8EicVFZT2GG0hseZxvUoEpIVQA3XDG65QULAtJudVkQeajqe-787UGeHISKEQHsygoV4p8aMCU0dOCzOarn8LhEBW-E7F0Q1SGfcunn0b67qG6HRxVsKTgVBtWh-TuVGUe3D8bHYLFXwMg8rKiHMqMNCnD9G23EWn7PEZtzxSL07s_nw.jpg"
-    ]
-   ],
-   "r": "duplicate of recent post",
-   "h": "🚨💣 BREAKING: Ibrahima Konaté’s yellow card vs Villarreal has been OVERTURNED."
-  },
-  {
-   "src": "themadridzone",
-   "id": 31304,
-   "t": "🚨 AS ROMA STARTING XI VS REAL MADRID:\n\nGollini\nMancini, NDicka, Hermoso\nMolina, Koné, De Roon, Wesley\nDybala, Malen, Soulé\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Nd7odBE3k7Sd1cc9spRjUSO8EWCXTnoVG6XiFUkqkbbiFiFF3U_cScEMLsNGMtcihF3yu45pLvftbwSu9ISnr0pjFhFth5IEg03VrXihIgM0NMl_cdgmpTyUAr_09xBrbM5taJM_iENBOc5Z-ZLb9beihaNlnJdJh9bd-0cYjyX8vdqwVKmqSk2tdpPfAwjEyx0Vi-wFX-4_lg5xBEg6Xfj54Nh2sHxK5p-WKLROpqAddfY7fcQZMRwFk7x5-uJ8dXm6ZcocMms-UI9EtzovWWhTMSy5B8YxhfndBAGyw7T-gTrH3s9w5dxb8E6ISpcgbMb-_k1ZfGgESFkoKGRXYg.jpg"
-    ]
-   ],
-   "r": "Not Real Madrid lineup",
-   "h": "🚨 AS ROMA STARTING XI VS REAL MADRID:"
-  },
-  {
-   "src": "themadridzone",
    "id": 31305,
    "t": "🚨 Gian Piero Gasperini: \"Real Madrid have the best players in the world, especially in terms of pace: we know that, and we have to be good as a team.\n\nWe'll try to cause problems for them, to highlight some of their weaknesses and limit their strengths, which are many.\"\n\n@TheMadridZone",
    "m": [
@@ -1752,6 +1709,45 @@
    ],
    "r": "milestone quote, not essential",
    "h": "🗣️ Jude Bellingham: “It's an honor to reach 150 games for the biggest club in t…"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31588,
+   "t": "Bernardo Silva x Vini Jr in training\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/EWHWG_rZcZXVXwP3uGPeSYnlsh3wl9ZH2HjzSVjJv_nst9zhWOlAiuCXOMPt5O0ZygvchTLvGuJG9GBlPKWadLkyC2-qQvzX5MctPXY3fggirXV7LEMm3edB9P863OwMVQ3Ngi75qXd0EA68nsGSwLNugnkOpYKvi2DI7LdCNIyGC6mytaA2D4i6JmuiLP_nF43NizhfJqdqY5_cq_jpkIyyLqojbmBgNZGOu3rnNv79XfSqDrslQRW2QbRuly_6tee4r0636MYz1YMqDmf8ORvNTXahag3_vWNf3wzmjbA0pJvJdCMSZpngNWlAYpGgfhxoBymqIlYICgTTT8m78g.jpg"
+    ]
+   ],
+   "r": "No news value, just training sighting",
+   "h": "Bernardo Silva x Vini Jr in training"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31589,
+   "t": "Jude Bellingham x Fede Valverde 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇺🇾\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/i_NlTuT_qRY3-e7hXLMpKgEGhjHXCJYPvD7PFEWuAhuKBFw8oxI91ij_4_CK-ROssrt_lxh0vtLqaD1zFQizozfyNZTqiitD9TKPpea25VQhdJdOqi34MCDS5ls5O5BmdFP02GrkAI7BsxemyaDsB9f7my9jhvV5Fdju6QF9jWKhptGC94vQgoyus9rw3ld4sAapPYK4BwZIzT9AMsmB8v3T3aM6nlTAW2p8D7oyzoy-aYZDPS3GhK3Zw0EhQGInxx_pb5QaWTkpH4_4U-HVAHTPwDOby_y-fOPGDKQu55cwCp2tXwc1JrxWkLIXTqhvvZVsA8joljZJSje9FC73hw.jpg"
+    ]
+   ],
+   "r": "No substantive news content",
+   "h": "Jude Bellingham x Fede Valverde 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇺🇾"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31590,
+   "t": "Camavinga x Trent 💫\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/MFRXgLPStlseoxZ0KujqrNRLqVlXt_HiG8s9KUBs5QTPivywAvOVFwZs7F7vAK5qXMuKoOqdkhOsNsaebRz8V_RZCBSJhmutZshX62ztorfzv5xOsvY_6iTFsrjpOv4wBsf8_TOGSqehX84v_oShGydUPlvL2erOKA4fL_IC2OWmhcEQoAKm6JNaO1jxJCr9NiunzAnEd6ciYU_D7ypdRya4QJxiBfAHHuJf_odQv2GBc99g-Ka-T5pcyuOcCDvKl9rdepoMYEeINW7oUzy7Dg9nEpyWhhGQfzU-zU6LrxABv9zftILuEiuaVNiXHsfPCeVpGlF8pkFa7ejRiJ5Pnw.jpg"
+    ]
+   ],
+   "r": "No substantive news, likely meme",
+   "h": "Camavinga x Trent 💫"
   }
  ],
  "summary_date": "2026-10-15",
