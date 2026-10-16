@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59286,
   "themadridzone": 31584,
-  "FabrizioRomanoTG": 67363
+  "FabrizioRomanoTG": 67366
  },
  "sent": [
   {
@@ -1337,8 +1337,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 42,
-  "tokens": 71431
+  "calls": 43,
+  "tokens": 73373
  },
  "pending_fb": {},
  "feedback": [
@@ -1560,19 +1560,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31301,
-   "t": "Ibou is ready 💪🇫🇷\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/QfczsrYcNzObqlvQvQonS7JHqyDs7Ofi7iXuN6RDwPEZgGU068N5bg1PGgA_XCqncdWJeGElVovU2nHQCHwpJhR0g4FN9XL73XS9LcqlY3_N6pvsyZRxuKB5mq7Fh-H2icTe2T0kU2TD6Lte4mCpKhwFSrklIn_NDLZCGcFDvG-i-6e2D4L3PCUmjMwiTEQwx7au0Q0Gy8Jk5yhGKNR292r8j0ZuWzA0S0rhpus6dDNR59py1Wqyp8cG_83_F5RRUxFlBWrRlgEpMY8iGeKKFw8DAUbK9cdZeDXhsGvT-Q6GBdq7ASWfHFy77mQbDqZLVMXskjB6t69ytWS92hTyVw.jpg"
-    ]
-   ],
-   "r": "Unverified, no official source",
-   "h": "Ibou is ready 💪🇫🇷"
-  },
-  {
-   "src": "themadridzone",
    "id": 31302,
    "t": "Dean Huijsen returns to the Olimpico 🔙🇮🇹\n\n@TheMadridZone",
    "m": [
@@ -1752,6 +1739,14 @@
    ],
    "r": "Irrelevant political claim",
    "h": "🚨💣 BREAKING: Real Madrid OFFICIALLY DEMANDS THE IMMEDIATE RESIGNATION of Javier…"
+  },
+  {
+   "src": "FabrizioRomanoTG",
+   "id": 67365,
+   "t": "🚨 Official: Real Madrid statement.\n\nIn response to the statements made by Javier Tebas, president of La Liga and vice-president of the Royal Spanish Football Federation, in which he compares the methods of action of the Real Madrid management with those used by Joseph Goebbels, Minister of Propaganda of the N*zi regime, pointing to Real Madrid Television as an instrument of this alleged strategy, Real Madrid CF states the following:\n\nReal Madrid CF considers it absolutely intolerable and extremely serious that someone holding two top positions of responsibility in Spanish football would resort to comparing the club's propaganda methods to those of the N*zi regime in order to discredit it, its management, and its television channel. The clarification that he is not referring to N*zi ideology does not diminish the deeply offensive, morally repugnant, and institutionally undignified nature of his statements.\n\nThese statements constitute yet another episode in Javier Tebas's repeated attacks against Real Madrid, its president, and its media outlets. It is unacceptable that he even uses questions, information, or opinions from journalists outside the club to direct his disparaging remar",
+   "m": [],
+   "r": "📢 Official is turned off",
+   "h": "🚨 Official: Real Madrid statement."
   }
  ],
  "summary_date": "2026-10-15",
