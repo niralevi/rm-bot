@@ -1,80 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59286,
-  "themadridzone": 31590,
+  "themadridzone": 31594,
   "FabrizioRomanoTG": 67366
  },
  "sent": [
-  {
-   "ts": 1791986847.4205508,
-   "date": "2026-10-14",
-   "tokens": [
-    "confirm",
-    "direct",
-    "gabriel",
-    "inform",
-    "lead",
-    "man",
-    "negotiat",
-    "race",
-    "talk",
-    "unit"
-   ],
-   "names": [
-    "gabriel",
-    "man",
-    "united"
-   ],
-   "cat": "✍️ Transfer & Contract",
-   "status": "rumour",
-   "headline": "🚨💣 CONFIRMED; Real Madrid are now LEADING the race for JJ Gabriel.",
-   "link": "https://t.me/RealMadridImportantOnly/178"
-  },
-  {
-   "ts": 1791986914.1566656,
-   "date": "2026-10-14",
-   "tokens": [
-    "14",
-    "2026",
-    "advanc",
-    "already",
-    "background",
-    "barcelona",
-    "bayern",
-    "camp",
-    "contact",
-    "continu",
-    "deal",
-    "direct",
-    "fabrizio",
-    "far",
-    "gabriel",
-    "keen",
-    "made",
-    "man",
-    "met",
-    "oct",
-    "psg",
-    "push",
-    "race",
-    "romano",
-    "unit"
-   ],
-   "names": [
-    "barcelona",
-    "bayern",
-    "fabrizio",
-    "gabriel",
-    "man",
-    "oct",
-    "romano",
-    "united"
-   ],
-   "cat": "✍️ Transfer & Contract",
-   "status": "rumour",
-   "headline": "🚨 JJ Gabriel deal race continues as Real Madrid are pushing and already made direct contact also with Man Uni…",
-   "link": "https://t.me/RealMadridImportantOnly/179"
-  },
   {
    "ts": 1791993265.986608,
    "date": "2026-10-14",
@@ -1337,8 +1267,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 48,
-  "tokens": 81659
+  "calls": 52,
+  "tokens": 88258
  },
  "pending_fb": {},
  "feedback": [
@@ -1560,70 +1490,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31305,
-   "t": "🚨 Gian Piero Gasperini: \"Real Madrid have the best players in the world, especially in terms of pace: we know that, and we have to be good as a team.\n\nWe'll try to cause problems for them, to highlight some of their weaknesses and limit their strengths, which are many.\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/TvUWwrdjBYL6LzpjCNTdgL135dsWvE94-W3BQjOZIhy_niM1IXJAbLm_uyovi55YkNgblmN0ThZwwdyLwqmUma2NnRJdfWqkWkqmh8vHPbFDaqcyFES-hY-_RhtL3FBYBZP725uUtBFO0b9j3Fv-OLy2daAJ1Bz_W0Si0mxGGkSODTWhKYjQy459-xH28XJ-_Kbu0QxQAD4d2m8aguEZ_xYsT_5aUTxldiBjb7tdBjWy5s_K6cpXIslkQJwFeTa0x_2VWiQANXnuRKJDFVgyAYQL267cvO8GoZHQWWRVdpA0U6tT6He1Lq_BM6TxsOkuW5NGD0XaxotDVCreWMIcyg.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/LejUarvBMoZvLMPiA_KtivjqHNzPnvx9l7nd4v8B5Tw_2nwoWZhh3D83ZZfe__S_55gyce_Y4kInW6qzk4gGk3EjIgea0BV0RKVjivXAC1Jj8pENvjRGCCGH8d7Z4Hiem4_Z9qM9zDM9TCMKuqnUlsZK8UiZU15DCE5OaI2rre9CSBd2OItX-RLlDR2jQy26AT6nJuvRjt0vWOkJq5TgGa0FzhULiTjbuI9bcZgcgP6XOvf5K4LsVMFe4UVzQFlEb6j_xlZfvTa655xiCPyIfVnCLs0qH4FdFfPLI2rgRdKigit98WvjdlWbvKL6-0Rlbhlge1muwmJ8-uH1Y8eRZQ.jpg"
-    ]
-   ],
-   "r": "Opponent coach comment, no club news",
-   "h": "🚨 Gian Piero Gasperini: \"Real Madrid have the best players in the world, especi…"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31307,
-   "t": "🚨💣 BREAKING: Real Madrid have decided to APPEAL Vini Jr's 4-match ban. @GuillermoRai_ @MarioCortegana\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/TLeLEc6MEEYxmGS8fxiYCgjAM2rhptBiw1OkFnZZQoXw_vxwpPzgo3NHX1Om3vxIJhrAlnflK3SbqwfhMorBaSQ0DOZFc_0HuhfZwXp9HluNM_4ylNfcPsTwfyXR27EnxdCYSPmaYnmK71x1p9EZ1V6uFere7jD3O7Ss-fStRGUKpNvvJB_fsV1PNJ76yaeqA8HzIpBbM5vIfuqxpP1PfMzo12llKTlOGyzjXx022kxjkm6xBFNmWv7qUYU3GdKEwi5ny-jxqOSFuJSjUZ8W1buiLxqACF4rj4nqDHk2y9xyk31cskEtY4MVoWIjdBiko-EWjw9kXzXGO6T4-hdAXQ.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/bvGQUzRXar__DE5COZE0OyxnLsaE9QHeW-5DVR8IOEVNpM8OFrH-Z-ougD_TWAB0JtzLNtp6V1V186HwmnT2Ql-bpGJsm2afedBMlNYPAWVTEbIFgCK1LbCsOEVmm0POh6nGOomLoRCWglFBg7o4o9hnAoju_esueM3BI_YoOs-NMltsqN43lW8N8s3qEhCrEQ1_TUrL-bxKn6rONBcamAGwo_xx6cyy0LjMTPnZSg6eywSoex0vMzmKt3ZB9-KlmV4e68Mi4fCx_TKZ6Gby6AQat20yUWYlsThCwUO3buCu2iw_xNRTJDTLkEtjbvFPi8XF9eZqycgfTHQ3I2223w.jpg"
-    ]
-   ],
-   "r": "already posted as item 12",
-   "h": "🚨💣 BREAKING: Real Madrid have decided to APPEAL Vini Jr's 4-match ban. @Guiller…"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31309,
-   "t": "🚨 Real Madrid meet a familiar face tonight: La Fabrica's Mario Hermoso!\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/dCSeJ37_mQKlYjItfnXsHps014KD6RdS7flck6K5UcuJ25DN9pMHAtQ7qbdScCrZ6KcXlJYxJ2KVoKfLbS6GLntCDP9j-z7RJc1Hc6foqX0IRFRoc54HfKQW_puwiL4UlLCWW6sPGS4v_DHb4rODVF2pUYzAT7osG0O7VrG8VF698i4FYAow8f54QUXZnW_oukNqVx9wquyD8rlOPLxEIyBXuPROSqzHT7geQPrOrm3oZbY7buw1Vs8Wca5edFR75b02siLjhDd0Cdmca3XQdC_xrpOPdO8kM97ggArtoCMDDOxGoCIxqFAggcAiLJ7XlCEYG7AAmK8PnboB6TXsYA.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/ZYViZgRHBZBqC3rAEKAIdfDfNGMq6XN1TsC8doKaCTpwZjY_5j7H75G69lkU3KTnPUF2lUJHIdijIUNqCL_Llvwxqi4Jj_NbugqlkBEeo6nnOptYi5stuRkc4S_dpX5XqDKgUnOTWs-CaAcPfg_q6BCQf7TMR6F9R3kUH3cr-FC-xVNCTCp65xewORdEcvDFsG2xB_srI7Oq44lUDoiYnSsZ61rwYajqBCZW4uoA4u47DCxY52RYHKI4shrDM-IwzsIedSlizxhQdWcgEn908wXO_K08hW2a55ULgb-AWT8YACbzwZbbJ3jRkWE3wKNKiFIcfLTPDB0tZV4Bm9seNw.jpg"
-    ]
-   ],
-   "r": "Not relevant match preview",
-   "h": "🚨 Real Madrid meet a familiar face tonight: La Fabrica's Mario Hermoso!"
-  },
-  {
-   "src": "themadridzone",
-   "id": 31311,
-   "t": "🚨 José Mourinho: \"Vini Jr 4-match ban in La Liga?\n\nI think you need to go ask the Spanish Refereeing Committee WHY did they decide to publish the news about Vini's ban MINUTES BEFORE he plays an important UCL game.\n\nReal Madrid is a Spanish club, so why do they publish that news now?\n\nWhy not this morning? Why not tomorrow morning? Why an hour before the match?\"\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/pswzvdUCNf0qEtMdejaA_qJ8R7PI3BWQbALrkMRuOoN7l0-aAvyouUZS8CZ3n5Csz8Qt_rVHVrxJvqmGp7YgxMkvAp7-C3_Njxdhm9hrEKy2OPA_HAHNzwklY8-7g7dCCR5rE4-PghQr7PjmA9WbTvcVVM4jgVMNxPdE8r-dSMxsu_CuneruyeRy1Q-Vu4OLFFC3ljP45ruff-9cL7SpT676U9mSm6gXN38SaARENrBN5xYvge7tAtaP6UZOueCOJfS6VvRtCJSTWj_ci4xmUfZV3m1MGlfqfcl0oh4GvNbFiK9YL4Epfa3dcG4CepH0aGxutFScIM3eZLmxydUjBw.jpg"
-    ]
-   ],
-   "r": "already covered ban news",
-   "h": "🚨 José Mourinho: \"Vini Jr 4-match ban in La Liga?"
-  },
-  {
-   "src": "themadridzone",
    "id": 31312,
    "t": "🚨 José Mourinho: \"Rudiger-Konaté CB duo tonight?\n\nI liked this duo vs Villarreal, how they protected the team when we were down to 10 men.\n\nI trusted them tonight, taking into account the intense atmosphere that Roma fans will put on.\n\nI'm not saying Huijsen would've done badly, but I think Rudiger's experience will be useful tonight.\"\n\n@TheMadridZone",
    "m": [
@@ -1748,6 +1614,58 @@
    ],
    "r": "No substantive news, likely meme",
    "h": "Camavinga x Trent 💫"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31591,
+   "t": "Eder Militao's return is getting closer! 🔜\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/PfJCferb0GoSK7Jtmdc4HiCx_B3sgLVd5u1SW4yithvIa605urmv3HtuwKNZEmfL-xiHRzpTaGa90zR-np8OUEoqLmGin_89Eli0upfeN6Vhelzb5mhDQoKtW0FYTjD7aRszE-2sydws2nrizHn3u7M2q0kR-JWSCLqsEgivZ0nx_nFOan9PE1SxOgOsjU5DkTB7NxmLxbSAvQzvBEHxKzPxHmZlXfphPVcKX59S276W6QeqsvixUuW4rojsB3gZG0aaEQTRPsJx7TZW3HWTQT4KLJ5J7MdSM_KaiSMHp3b5-70HpEYh6c3vegMU4ypnZ_mUfwW9ysRg1hREKDWa_Q.jpg"
+    ]
+   ],
+   "r": "🚑 Injury is turned off",
+   "h": "Eder Militao's return is getting closer! 🔜"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31592,
+   "t": "Endrick in training 🇧🇷🔫\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/EoQ6EsLelIizNP_EdPdjHqyHhZbHniWcarauJQMGjZywMXI7e1YmGM8C-EMqPpHbIih0JEHu63BzHpNSoR7XBSQU4e-Gdjmt8FgJoowne6pHHLIxcBeaXrFBHELjGV8-Bs_cr8mrsaBM3Perh9gFq-aIwt5_WuotaUkbC06PCoJ35b3NpJRtP6yoAfDESsGQa3AsOe39mQv271o0yd-PDAeOvA44XDPUmEdnmGuACv0grG3_PcVfHY59LUdbdRuMKN_Lv5TjdVhdQhHsHgGew313nBhr6KaAdO7Y0msViG33jKDyGp64eFRz0vc3d6H-M5CitLmohHhsG-kJs53Akg.jpg"
+    ]
+   ],
+   "r": "no significant news",
+   "h": "Endrick in training 🇧🇷🔫"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31593,
+   "t": "Vini Jr x Arda Guler 🇧🇷🇹🇷\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/e0OJVFM7MUajRX3vVxKkG9nNpuYPlKhxv_3lZzsKBBt12riJo6In2HziOmbdy1sNVZVSqIHs_cYLN7-TRCVVMa7vNBiTUpvzFY93twnlJLKhvrNaOzlwnfRhvbg097t3sbhTvfPT6s_uVInprd_3lGFlpEvhuzKnRA3hL-9eQzpRgPCcKuJySPxwdBCs4CANolZSVEtUdxgUED6JGeO8LNjXTmNH466KyqD5O8wr9HvhUdKn7CdE4e_6OpRLVusjXaiaSX9gWGgXsdIRNf9kHxSwFxEtC8-OQ0GFrkDze6rcozH5s7VJci9NFChRLV2ZETzoRlBoQT9Lg-rsAZvozQ.jpg"
+    ]
+   ],
+   "r": "No substantive news, just a pairing",
+   "h": "Vini Jr x Arda Guler 🇧🇷🇹🇷"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31594,
+   "t": "Arda Guler 🇹🇷🤩\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/cb_KUQ-H35URlzmaFKS8SGuOwTyFrSdX4ymmNHxmQ9kEIz9vrnXNpn6wUZhwoUZSRqmOVGF5Q89iKKAGlgaJ-4mhfWvvID1CG4q0AEv9U8Y28g4tTs2dv-w2Og5ljYGRuqi7s3YatQtfNcvfjsGK9dAZHBVQBXy-Nfa2SNPHjbvwpCJYmfKREGX2_PzhElQ0oYqpFq162n24rk5FuX0l0hYs6VDDS6KoKhB5_zrymG4DmfR5IS46Zlla8v6hadfdRiO0HyBrYsrVXE95upbPs_pQxwRY-mpXn4ghKZsJIFvUhmfl3Vaj_vA68OIm5_0AUgBpMpIj5H2XVhSnjekkWA.jpg"
+    ]
+   ],
+   "r": "No substantive Real Madrid news",
+   "h": "Arda Guler 🇹🇷🤩"
   }
  ],
  "summary_date": "2026-10-15",
