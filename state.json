@@ -6,27 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792008681.7596793,
-   "date": "2026-10-14",
-   "tokens": [
-    "1",
-    "2",
-    "donyal",
-    "malen",
-    "roma",
-    "scor"
-   ],
-   "names": [
-    "donyal",
-    "malen",
-    "roma"
-   ],
-   "cat": "other",
-   "status": "fact",
-   "headline": "🚨 Donyal Malen scores.",
-   "link": "https://t.me/RealMadridImportantOnly/270"
-  },
-  {
    "ts": 1792009051.4073217,
    "date": "2026-10-14",
    "tokens": [
