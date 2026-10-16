@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59286,
-  "themadridzone": 31597,
+  "themadridzone": 31598,
   "FabrizioRomanoTG": 67366
  },
  "sent": [
@@ -1267,8 +1267,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 55,
-  "tokens": 93144
+  "calls": 56,
+  "tokens": 94840
  },
  "pending_fb": {},
  "feedback": [
@@ -1490,14 +1490,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31583,
-   "t": "🚨🚨 REAL MADRID OFFICIAL STATEMENT:\n\nIn response to the statements made by Javier Tebas, president of LaLiga and vice-president of the Royal Spanish Football Federation, in which he compares the methods of action of the Real Madrid management with those used by Joseph Goebbels, Minister of Propaganda of the Nazi regime, pointing to Real Madrid Television as an instrument of this alleged strategy, Real Madrid CF states the following:\n\nReal Madrid CF considers it absolutely intolerable and extremely serious that someone holding two top positions of responsibility in Spanish football would resort to comparing the club's propaganda methods to those of the Nazi regime in order to discredit it, its management, and its television channel. The clarification that he is not referring to Nazi ideology does not diminish the deeply offensive, morally repugnant, and institutionally undignified nature of his statements.\n\nThese statements constitute yet another episode in Javier Tebas's repeated attacks against Real Madrid, its president, and its media outlets. It is unacceptable that he even uses questions, information, or opinions from journalists outside the club to direct his disparaging remark",
-   "m": [],
-   "r": "📢 Official is turned off",
-   "h": "🚨🚨 REAL MADRID OFFICIAL STATEMENT:"
-  },
-  {
-   "src": "themadridzone",
    "id": 31584,
    "t": "🚨💣 BREAKING: Real Madrid OFFICIALLY DEMANDS THE IMMEDIATE RESIGNATION of Javier Tebas, due to his words today comparing Real Madrid TV to \"Nazi Germany type propaganda\"\n\n@TheMadridZone",
    "m": [
@@ -1676,6 +1668,23 @@
    ],
    "r": "No substantive news, just hype",
    "h": "Vini Jr vs Trent ⚡️"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31598,
+   "t": "Yan Diomandé is 19 years old. 🇨🇮\nEndrick is 20 years old. 🇧🇷\nArda Güler is 21 years old. 🇹🇷\nJude Bellingham is 23 years old. 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\nReal Madrid are blessed for many years to come 💫\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/grGVbzvZz4ZW7nITr0ZwffqeJs_hVS-GIrUXgNrvHoGTcDmVKPBdNlMAXGh09dZLkIRe3PBNlf2a4_HmZwuWzICHa2ASB4iyCyY4MNZjqppqJ8H1SwCQoGSvTcor5cKrVZUzXUAmqjNvFMqvW6M5jUk8O6z6Vpojf2KwoM7kK6zXaAGacAiqFKtoAwqFa4wEei8dVhM2li0FErohIPqQBucqYa6ZCxRe9KsS0idAGP2OOE5wAoMVq4yzQUPuUKWGANGJHlLPGbmGVf9rTKf7Cx7MGkObJVWBHjjkcvw9NUmm35E054YPCc7CCt_0dy4zSyHlm0AyxXjqbn-x4QoNGQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/u7qt_1OA15QCfMRb_XRGltu_wvDd9NwabDFZpgjkL0oY9hoes0twUUxk7th2eyeSBGfUVNkz-x3TTSNPCPi2WR5IRCVzvpG0mWPsgAzgev4BasqyGgkj6htCDPf3_xhENZltyQENpGW9wiMLcZVf0QFiQez8CZhgR-qXnTJW-yGvl6ZPkpXAuDqrLEHby8HVti2xWlX_eHupnBAk2XNNs8PROnHRGlQvKNRDLMOL1i2ZUY64Ctp3VmNi8MmNVoBry3lmZpUXJkRhtL63TwjukuDPPcb_G-TFFELjxUDOl46poJ6UUdohGJexuDBx93W3_wqQYSLQbvqJgNrE_0ZMmg.jpg"
+    ]
+   ],
+   "r": "No actionable news, just fan commentary",
+   "h": "Yan Diomandé is 19 years old. 🇨🇮"
   }
  ],
  "summary_date": "2026-10-15",
