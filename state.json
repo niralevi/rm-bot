@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59286,
-  "themadridzone": 31584,
+  "themadridzone": 31586,
   "FabrizioRomanoTG": 67366
  },
  "sent": [
@@ -1337,8 +1337,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 43,
-  "tokens": 73373
+  "calls": 44,
+  "tokens": 75062
  },
  "pending_fb": {},
  "feedback": [
@@ -1559,19 +1559,6 @@
  ],
  "skipped": [
   {
-   "src": "themadridzone",
-   "id": 31302,
-   "t": "Dean Huijsen returns to the Olimpico 🔙🇮🇹\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/FyeReZXvGgniHQJ7ZKlpR-GWnKSzhSu-vmfdGvwSnwwer1RY03KrGyNEGaJEucTVB0H5fa6da8Mjlj2MTNH2mJ4Emtb7WW5OxbyW6ii4DDw1fMV60fhf5a1JytDhUu_oiJUIaOh1k9iby63JryUrGQmecMr3OiBElREvSHCSyEzJBzLnGoJDNZcfLlbiLtLJ14jTywCAI9-AVbdkSk3LLtH6mZxC0RPdr3v3mIAn8q7DdtO2xKNGuQVczdAqVOpS5zXluQiYnwooUXyBiS3sk7gqYKoZZBGk1LLq7k1hKOgXEH9xj485Xs7CKS0HDVaPwsoYWzLoDAZoB7p3aNriBg.jpg"
-    ]
-   ],
-   "r": "Not Real Madrid related",
-   "h": "Dean Huijsen returns to the Olimpico 🔙🇮🇹"
-  },
-  {
    "src": "FabrizioRomanoTG",
    "id": 67297,
    "t": "🚨 Real Madrid plan to appeal Vinicius Jr’s suspension for four games after RFEF verdict. https://t.co/yOM8cFxYKo\n — Fabrizio Romano (@FabrizioRomano)\n Oct 14, 2026",
@@ -1747,6 +1734,19 @@
    "m": [],
    "r": "📢 Official is turned off",
    "h": "🚨 Official: Real Madrid statement."
+  },
+  {
+   "src": "themadridzone",
+   "id": 31586,
+   "t": "150 Games with Real Madrid. 🤍🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/CrU_9XWGSDZCeZXpyB4ufDJqi3INzzVwvO5ZjfazU4gRFPdBhipDtqUo-CNOsTa34mcCYbJrwYpylkrZ_MFKJsRE18cAj38tVcCLOaJ-CcoENDyxvNMbjvlHlDDSqNkkIe4CHCC4sr6ueI63W4Hm3kghkNZgCZdVYC_w6VFU2wtiJHQZTVdBK5ZnthU1THSF_SpkzoiqcBxjpnDVuRK9-d7N6bShfLk0wLsJL1R0sSZ89w-7PEnM6xzwcmg-CMLRkB-Lz8WOaZfR05d1hbcpTtZfHGuATOG-ZxT5mb4uNxGJAE2_3qsm7_W0Nr15bkB6Z68lrbCFRZ-IPKxPAPa5yQ.jpg"
+    ]
+   ],
+   "r": "📰 Other is turned off",
+   "h": "150 Games with Real Madrid. 🤍🏴󠁧󠁢󠁥󠁮󠁧󠁿"
   }
  ],
  "summary_date": "2026-10-15",
