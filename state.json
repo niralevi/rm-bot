@@ -6405,6 +6405,15 @@
   "📢 Official": true,
   "📰 Other": false
  },
- "health": {},
+ "health": {
+  "real_madrid": {
+   "since": 1792146726.4820569,
+   "err": "HTTPSConnectionPool(host='t.me', port=443): Max retries exceeded with url: /s/real_madrid (Caused by NewConnectionError(\"HTTPSConnection(host='t.me', "
+  },
+  "themadridzone": {
+   "since": 1792146756.5138335,
+   "err": "HTTPSConnectionPool(host='t.me', port=443): Max retries exceeded with url: /s/themadridzone (Caused by NewConnectionError(\"HTTPSConnection(host='t.me'"
+  }
+ },
  "limit_alert": "2026-10-15"
 }
