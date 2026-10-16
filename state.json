@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59286,
+  "real_madrid": 59287,
   "themadridzone": 31598,
   "FabrizioRomanoTG": 67366
  },
@@ -1260,15 +1260,67 @@
    "status": "official",
    "headline": "🚨 Dani Carvajal is Getafe’s new #14.",
    "link": "https://t.me/RealMadridImportantOnly/525"
+  },
+  {
+   "ts": 1792164502.4001937,
+   "date": "2026-10-16",
+   "tokens": [
+    "alway",
+    "comparison",
+    "creat",
+    "does",
+    "enemi",
+    "enemy",
+    "fact",
+    "fans",
+    "fit",
+    "fuel",
+    "germany",
+    "goebbel",
+    "grievanc",
+    "highlight",
+    "ideology",
+    "joseph",
+    "leadership",
+    "liga",
+    "manipulat",
+    "method",
+    "minister",
+    "mouthpiec",
+    "narrative",
+    "orchestra",
+    "president",
+    "propaganda",
+    "repeat",
+    "repetition",
+    "resemble",
+    "same",
+    "selective",
+    "strategy",
+    "suspicion",
+    "systematic",
+    "target",
+    "techniqu",
+    "these"
+   ],
+   "names": [
+    "president",
+    "their",
+    "these"
+   ],
+   "cat": "quotes",
+   "status": "fact",
+   "headline": "La Liga President criticises Real Madrid media strategy as propaganda",
+   "link": "https://t.me/RealMadridImportantOnly/528"
   }
  ],
- "offset": 769012032,
+ "offset": 769012033,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 56,
-  "tokens": 94840
+  "calls": 57,
+  "tokens": 96083
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1279,7 +1331,10 @@
  "limit_alert": "2026-10-15",
  "version": 2,
  "topics_on": {
-  "quotes": true
+  "quotes": false
  },
- "paused": false
+ "paused": false,
+ "topic_count": {
+  "quotes": 1
+ }
 }
