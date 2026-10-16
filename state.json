@@ -1464,7 +1464,7 @@
    "link": "https://t.me/RealMadridImportantOnly/538"
   }
  ],
- "offset": 769012033,
+ "offset": 769012042,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
@@ -1481,7 +1481,15 @@
  "limit_alert": "2026-10-15",
  "version": 2,
  "topics_on": {
-  "quotes": false
+  "quotes": false,
+  "stats": false,
+  "social": false,
+  "fun": false,
+  "rivals": false,
+  "club": false,
+  "academy": false,
+  "other": false,
+  "match": false
  },
  "paused": false,
  "topic_count": {
