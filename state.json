@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59286,
-  "themadridzone": 31553,
+  "themadridzone": 31577,
   "FabrizioRomanoTG": 67358
  },
  "sent": [
@@ -1206,15 +1206,121 @@
    "status": "fact",
    "headline": "📸 Endrick’s equalizer vs Roma. 🔥",
    "link": "https://t.me/RealMadridImportantOnly/505"
+  },
+  {
+   "ts": 1792155081.040959,
+   "date": "2026-10-16",
+   "tokens": [
+    "3",
+    "9",
+    "attack",
+    "be",
+    "calafat",
+    "carlo",
+    "chose",
+    "compatible",
+    "confirm",
+    "different",
+    "endrick",
+    "espi",
+    "jose",
+    "juni",
+    "mourinho",
+    "number",
+    "option",
+    "present",
+    "profile",
+    "right",
+    "sees",
+    "summer",
+    "team",
+    "than",
+    "together",
+    "two",
+    "when",
+    "who",
+    "why",
+    "winger"
+   ],
+   "names": [
+    "calafat",
+    "carlos",
+    "endrick",
+    "espi",
+    "jose",
+    "juni",
+    "mourinho"
+   ],
+   "cat": "👔 Coach & Board",
+   "status": "fact",
+   "headline": "🚨 CONFIRMED: Jose Mourinho sees Endrick more as a right-winger than as a number 9.",
+   "link": "https://t.me/RealMadridImportantOnly/509"
+  },
+  {
+   "ts": 1792155184.3885415,
+   "date": "2026-10-16",
+   "tokens": [
+    "2031",
+    "bellingham",
+    "contract",
+    "jude",
+    "renew",
+    "until"
+   ],
+   "names": [
+    "bellingham",
+    "jude"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "headline": "🚨💣 BREAKING: Jude Bellingham has RENEWED his contract with Real Madrid until 2031. @diarioas",
+   "link": "https://t.me/RealMadridImportantOnly/519"
+  },
+  {
+   "ts": 1792155188.6480427,
+   "date": "2026-10-16",
+   "tokens": [
+    "asencio",
+    "continu",
+    "raul",
+    "recovery"
+   ],
+   "names": [
+    "asencio",
+    "raul"
+   ],
+   "cat": "🚑 Injury",
+   "status": "fact",
+   "headline": "📲 Raúl Asencio continuing his recovery. 💪",
+   "link": "https://t.me/RealMadridImportantOnly/520"
+  },
+  {
+   "ts": 1792155196.7112722,
+   "date": "2026-10-16",
+   "tokens": [
+    "4",
+    "appeal",
+    "gam",
+    "reject",
+    "suspend",
+    "vini"
+   ],
+   "names": [
+    "vini"
+   ],
+   "cat": "🟥 Discipline",
+   "status": "fact",
+   "headline": "🚨💣 BREAKING: Real Madrid’s appeal is REJECTED.",
+   "link": "https://t.me/RealMadridImportantOnly/523"
   }
  ],
- "offset": 769011999,
+ "offset": 769012008,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 18,
-  "tokens": 30367
+  "calls": 35,
+  "tokens": 58965
  },
  "pending_fb": {},
  "feedback": [
@@ -1641,66 +1747,8 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 348,
+ "train_seq": 364,
  "train_pending": {
-  "3": {
-   "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "none",
-   "src": "real_madrid",
-   "id": 59194,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/Jmi6UYYQFH0LjwEPeZwf_DM2qG-826QPl8LdTUHuqPntvVbVizzorwt2CWLbbJHsBmLVfPIj8EkPYGqdtY59yRiJSf4e21R-klA4LzTxOhlTHGwccaTXKqfhdo26ADxHhloBrUzyN7AFdfK1p-f-Pu2-TBj8B-AGo3QAV3YJoAkMJ3Sb1YTK1AwzALCjNnlUHxeLARS0-PjrbNs5Gy2hNiZZusJhis6dY_PJLLB2dyhDBn9sYDariMnYxm2I2OEhjcJtpI1JqLgcfiaRgNG-8Q0Dg8oZbdIPjAbkp-5EXY94cZFeVC7zcD2j3sHl_Z1Gw3PYB35VNZk9WQ79RHR8Og.jpg"
-    ],
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/m8mZcr5qcEhqHfiRtPLooWNe5U8Gg3inr4kpd3wj-_TmqJ-WNjuJJv1RPt8ncVRtxXZdh_yPHbhUEYAq-vYatPpZuj5j5WnH3cCOi9D2bpC_K4sUnb2yuwm_i3OGBH7c0RXNTBL2StLHK8gVYqP1eY7mRdplwK01zzwH5Tr0Wlt0u_TNxQ0c-1XKL5bCIJur-WcMCnBYrqhKsX1x4vcFtlCQrUF_lhT5mLQdH5YR6Tr80BJg89uRW6-YgKc21N_V8lKuohH-UR1qwerSxGhogtseegPHXT0pjL65JGiGAg4OWJdrPGMn0snsiKoBelD6qbQRFLqIo6d92jEfm-2Hpw.jpg"
-    ]
-   ],
-   "reason": "Not about Real Madrid",
-   "ch": [
-    53
-   ]
-  },
-  "4": {
-   "t": "Yan Diomande x Kylian Mbappé! ⭐️⭐️\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "none",
-   "src": "themadridzone",
-   "id": 31052,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/u_XfCEnpRkwMk54FFwT7DyeMwFfIhtJR4vqBilwL2HOYDFMV7pQKGeBbIVjLNbwnJVH5hnlW1NrMus_2Aqa1xg5MA_i9y-SxYLsrmBDhZeJs9opliLHZrJG6ybGi_6k0ChjAjk9vnR02x0opNepJa1FJ8BFTAzRhrcslSMfret8gRbfhTZRENFWG_Z7YXaSohkOEef6fIUvWOcQ_iYOA9D9speKG7THFWF2R-7X_nPu8nqPehFDD8nHgGzYiDjxGkJDyOaIUXNYsUqrjMzt0J0JbSHS2XOKJoiGkmR2IvwftUAQADM_Jx61I-qmcVArY91VCgNvLs4efuWNlL6HSDg.jpg"
-    ]
-   ],
-   "reason": "Irrelevant meme, no real news",
-   "ch": [
-    54
-   ]
-  },
-  "5": {
-   "t": "Jude Bellingham 🔥\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "none",
-   "src": "themadridzone",
-   "id": 31053,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/qTPPan5Ium6MTqksoPAPQJEr1zpENijk8FcJMevAPAdrUQ0Zu3m8snsJwsR-yrGbRdHKBitnKJDG4CpiK6j-hRsviEZI1b8HzFXYIzbg8TbTOel8UPjo7NyvoG-LcxamLnVly6KOqkL-Ataw8eFJRkoZpu-J3_q7lrNs5b7DT4XvO61wB_wa2KRrK-D_vLEHsiQEyZMYiclp8itGBAc3fkeFGM7fOHaGhMsT6zJcGsG5nT2o3XO32AyVEw46c-CnTFNi-0BovahtzFfOwoD4jFpLImtRWk84Qr8WUP5QDyJRKkGOo1gLmbZlUFMJ1W9pP6nd3zj8jAyFy_SiTXad2A.jpg"
-    ]
-   ],
-   "reason": "No substantive Real Madrid news",
-   "ch": [
-    55
-   ]
-  },
   "6": {
    "t": "Vinicius Jr 🔥\n\n@TheMadridZone",
    "ai": false,
@@ -6664,6 +6712,322 @@
    "ch": [
     507
    ]
+  },
+  "349": {
+   "t": "🚨 REMINDER: Jose Mourinho blocked Endrick’s loan move to Roma this summer.\n\nThe decision paid off with Endrick’s game changing substitution against Roma themselves. @diarioas 🔥\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31555,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/MQklKIJjVLCdLBUJo6SCD-r-ElCt-tY7KAEe3_bj7nuRKeJjS0R1Nzyf0Z3sNhSujRmOdkociSlN_PWU_2wuX5TrB-mv8Obna0vJgzmpfUl-rmmJTpB8e6_wxgVh7GjU6UqOKJ_--sU-bEfhl7yIWmhxVN5K-yhoKcxOZyo-b8N3WMurYy1bBso1dVHqAN0hg0X1GisyJI0hEfYAUK3R1WNKhX8o6vc1nXThsordnfsA5hH_m6x7BHJMosBa1_GbUofJQ6yBmCQT1sWWvndtGKRi5MHYxjLCvDDe82CUnkIgK3Ek3pVcRaQEVV6crpf8vvtadb-uuKkyKNeRdRIu7g.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/SacmOrpChsjZTAGUsmUh82eKBa-UPw58oGAbb5321CqahCS8hjOM7wCKwd4yrQEnYKkOQq9_BQtvtSkGBZErhDibsHetEyostttvjmvBglsJswbX01qrhSWdeiBj0GV3zLWdru0mZcL81Sm6heoPPgGfRfuGAmOyYapjetkguFOv-PKppQs2FD_JMYyDwYGhJrNfGvyFChtKiFv7K657lXp4-nrkNqGcQxLPORCBNa_nZg0mkavr3OzshlrWUfTEwJpTYDgQCrtMigOy6USHE-P3rQKkuvg4PGTikQ7346Flw8l9WyZ0mv1koPr60E9c_17Poe85NnNsBN6dwypHJA.jpg"
+    ]
+   ],
+   "reason": "Reminder, no new actionable info",
+   "ch": [
+    508
+   ]
+  },
+  "350": {
+   "t": "🚨 CONFIRMED: Jose Mourinho sees Endrick more as a right-winger than as a number 9.\n\nThat’s also why when Juni Calafat presented 3 options for the attack in the summer, Jose Mourinho chose Carlos Espí, who was a different profile.\n\nHe sees the two as being compatible in the team together. @diarioas\n\n@TheMadridZone",
+   "ai": true,
+   "label": "👔 Coach & Board",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31557,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/A0JbAU8SI4ndQHrENJDQHugQV1QONKZW_DxA9ku5R4pwRJPt9se1MB2PUfT1zUg9hAlFRAK9Z4BeUybpfZkxUuEt6ep7QDvB_zwBR35FKZXQneAhqhx4GYJ70t6uDziVBwCwmbcVf21qIf282lK1mhygwsI2ISZozK-WA3SuOnsEMPQhex_4wcUnla2BxfZINMRIJdqRxljqtvDUaTJ9dNzODMVHpvLxUXGm9Z6FLffPsYreqF2weoC1nDqSwmDSQcW78DVo3Jxs6s3hGGroJTZ691Yno2RjPHtGcvP6xZmnW5TTCqm27jQyZqznIMjru7JEusqdPAbUvKN9WtNtvw.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/gAfwBxuN3ZeQLx3DrnSYTeFrDaJ2Dwl9gStzUXmShbuETs6ThIytB9_n0O92l1Z8OeBkI_NHcz16U-vMIIOpkiFqO03nRelf4dYUQVuqHv6tTj75TEntQTclLMhZa7kI0EZ0cb50wfKsDpeSvomT_VqkYvm4BnTe7__w3nK2pZat0VVUpi2AsuCxfwp-LaT7qJggvTdAVMUdZOSpEEyhEJanav4RjYwpsTC0ZP4eJby-wL4WEzJGEBQp_yTu7Yk918AyvkATNnReKgAQ49tXRYeZc_RT1X5x-Io_u5A74f4bOEPZOeJnIBX0mEHpgmEuXyNmnGA-71gjophgEm2H1Q.jpg"
+    ]
+   ],
+   "reason": "coach comment on player role",
+   "ch": [
+    509
+   ]
+  },
+  "351": {
+   "t": "Ibrahima Konate. ✈️\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31559,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/huEVylbFA09JxmVUvwqIsaYXjFCv5KQkn9z82exqL5I99PbDEWH_RK3oi6I6UE3oa81_6ENN_aUFGo_vYjkEPk_wC6lUwzJ4RSm5V1PahrBOQ1Rd56KFi0EMAoHjJh4tZe6NwIfBMij2v2Y71pTjxg9gr3xN86bdAO2n78DNTk-uClisur_RasCd5FbxItSEOQ0CNFrzY4WMhTvJD-r9f39OPi1xuXMUZHQpm0oDmHc9rHy-ZlfdSaCHDCfscoO1WJv6WqHY5lKOQCAmiGnVxwBlWEuV6Kddr_8QGTwRtTr86myavNW700iqpObydH9BY8pCQjUTOmGSKs5HerNU1w.jpg"
+    ]
+   ],
+   "reason": "Not about Real Madrid assets",
+   "ch": [
+    510
+   ]
+  },
+  "352": {
+   "t": "🚨 Players with the most goals in their first 100 Champions League games:\n\n1. Robert Lewandowski (81) \n2. Lionel Messi (77) \n3. Kylian Mbappé (72) \n4. Cristiano Ronaldo (64) \n5. Karim Benzema (53) \n\n💫\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31560,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/A8axGrz4glVHXN5sZC1OxcOsX5Y2KtrsGtJ958M2SBJ2rQZKMNz_ggwrI_GAadAX1kq_Ub_wg5i9UuuoeBgU2dV6b_7yPX9ldIW8sovePdDoATqXa1zl4A9bvNk5p8Lj6YkCvWUfOCjMQnWBFwTIbiSnTdoA23NrBXC1O4zBqlYaar5h4CsYZBQGx3AhV8KoThEBV6qfPyctH0ZWO0TnVwYzrHCcCGzfj6HRioU2pMp2bdQLGarTgMXr9Z2xVecStJ6OT1IJirgxjYYpoS-PmjzBlbpvBD2IZEkYoTx1Vzdf3wOf6BoPd40e8hkTTHZem4fU7-iRiF6j5I6Bvm7SFA.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/OEnmxU9_l8oQCZtKKgLK2vbeFBaThYJ53wCPc5m9hfW-iiZuBG4SQLymn1_UNQKWcdDYX62Hjfi_YS_HNfnH8S9PoW0AMQ_PX_Pvld-Uy-F4uYNpYnrypByYoAc5n53po7X8CvAqLbQeThIezF-q74yvPB3JzyBSDJxAQTK4I2U5IziTFNGCqvhPxVXS-iAgxRqSQCwmvJNxA_5LfymDSRvWrb8wmsKRx0aN0w4F5cgevsD_nuQEmpENrSC3MZlfVHntaYeSumB095ZmvAZF_2h-eTV2ETMDuD7lHQYlwh0qGuEeL0aSi1NFKVc9vsdi4JQwZ4g58fp9NWygwWfyRw.jpg"
+    ]
+   ],
+   "reason": "Pure statistical list, no news",
+   "ch": [
+    511
+   ]
+  },
+  "353": {
+   "t": "📸 Sergio Martinez for Adidas.\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31562,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/SALtiVCrwQy6CI_dA6sA8WnaYIBVK8-dtqXkT858P5LGpGnQMAIgTV_IUXZ-lwWjd-15e58V5LGShnIFtuREZSChHYiERYsk6VjB1G9Obqg8C1A3tBljSYI6s0qILJBHoagUBZ4TKT2fkPeUIu3o1QZ7FjKo5WULtrhTyrR3FzpbFat70wKNJXvf5IoKbTNYVePthTxPMNHXFP2UMaAbjEm4U7FkzNjJBHDyZCCniLx7PiWfZ69qSnleFaAIsuJ_wjwxLgMg7aaeXxJ8lGLCcM5dDiGfYLUXyu5jV9R6POOPiJ5cgDcD_Pa8jN79jXhgXOs9sy7flQIo_MVSexVPiA.jpg"
+    ]
+   ],
+   "reason": "Lifestyle promotion, not relevant",
+   "ch": [
+    512
+   ]
+  },
+  "354": {
+   "t": "📲 Joselu on IG. 🤍🥲\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31563,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/JIQJ-NHz-nlHC1Nw9t_nutI4XpY8EGy2A49U6xaoCCGJ2Xcc6ipipC24C6oJapPqWXCitAIiAmCItjgPPktVmbzel7h2zslQRTQH4sMWUpqa7vqY-L-XiuzGd1ZRkhHGfLXeQnKgKANXkVH8ro0Dwy59icwd6bmjJVaVZCWgYsjdZNXUdCVbo5Eh02DMbcjvu2UQXhNeqjWMQ6bbfGR2EWANxNJr9NAqHBBug-T9d7z8CF75Km8N-6_-zadEyR6oBdqb1nT0aJHJDetxEuCOylreNRNpmad7LxYJhrEptLIZkon-lwH_vT_kE0tkri_iROdQ9WvrsJO2Pq1BUvAUBA.jpg"
+    ]
+   ],
+   "reason": "Lifestyle content, not relevant",
+   "ch": [
+    513
+   ]
+  },
+  "355": {
+   "t": "🚨 RECORD: Clubs with the MOST goals scored in UCL Finals:\n\n1. Real Madrid (21) \n2. Barcelona (10) \n3. Milan (9) \n4. Liverpool (7) \n5. Bayern Munich (6) \n\nOur competition. 🔥\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31564,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/raaYbqBuiyIHyD5_JTElaKG9eb1-RqyF45_fZTVRAi8BMuC_BIwzjJjt3lgi7YkbYGWeZnOOFmLfPISxwNMm9UhYOFMJWd0GJ3guFp3-2sJQZ052DoXsWH4SQg354SKsFRQxtP2Mq_Qc2oB_yRZyJUmf2rv_jpJNiLJheu8OQKPVn_m_67SekMKZaUNQZMcjhc9hx81C5egRHxyk_6UKpso7zBf3cFzKqV5xEhHCMZaVo_9dHtuh92FblDUJc7vMEvJp-ieaE9VgDeXPDNzVzLkkeaFdUM7ediTm3jKVB2y0vRLic4Yxqs43ZH6NX74eV6g8W2Ouz_ajQknBWhX_yQ.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/jpHnmIHAzWS47ytlbkOSyUZ-MYyKIZ02k-JEQybYVmapIPiKcA_wG7l5TroeOfLnELkoCVusrpRZa6HqEgwmADFXRJ4CeykWjxEJlygzO-yaK74MWUOGu-pL5CoWttEZAW5DYx2B5lLrDe0HEhTlMxPivJY3FYJ0CJ_aaJtOkUSjI-wTvD5wz0sldCn5ZJfKicErgp8DG4-itvlZtddsNYyq38fXepdDr_OO2bkHQOrFewFmbAM-89ykvhaNqjarmMLZHEEQnNt6cs_VNuLrX0k5WDRhdZ2lZQpL-N8nQ_EO3DUBxyKZTY0fBVNLMMn4wBVAvO3yNXI9PdUsmdOTXA.jpg"
+    ]
+   ],
+   "reason": "no direct club news, just stats",
+   "ch": [
+    514
+   ]
+  },
+  "356": {
+   "t": "🚨 FIFA President Gianni Infantino apologizing for FIFA World Cup sell-off plan and says: “Football is for everyone.” \n\nInfantino also confirms to give all 211 nations $25 MILLION from 2027 to 2030 compared to $1M in 2016 for football development. \n\n🎥 @BBCSport\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31566,
+   "m": [
+    [
+     "video",
+     "https://cdn4.telesco.pe/file/30ea2ee150.mp4?token=VSDUKu-jcEYILxS_ggzRtnWVeFW0fO8L0OrcSjOkLS06JehR5eFpOJBZPVWTrC_pUo031Wjdlp9Ye-pN1jrGpvjM05Z-XNMOZU1MbHV66ksgrNHqFL6QXhAG-RMEC1WIDR1gxabd-IZYCpHWkI1CymiG8XmIPUHt4KrvFhSTXTKctMoHltZAbzyKxjRR1jR0GtSLVlbklSnpuSy0X2OlSCEiCYOph0p8jxVJOjyDGBartq_9AoNrEK9ToIWjss7bMtadMA6BmRc8N0VpyjICKEJkmCH9B5fi920p889Xl8Qb1n1j_krqfqEhq3-QPouKBc8U9i6rZwwbHnMIxDKJA20V7gopb6kpqcMO3rnACiMp9O27w23R2R1uj9vX-fs5DlsF8sE_1GuoOVgxDAmF6QnQ0dqNQx95OVsArKan20ZDI6-XvOGauCHJAnYwXAVlIO7i3mdk3N8T4O0oLLqvMRVKYgrbsm1SbaaBt-TteDVThIbEK0fJkWs60P2lSnB9G828NYaIMUDCnRtzfNNndqPIWKaEWYXPm9ovReoACyLIV7Ps4N2IJCtwoO5EK0gLB_tX6vUkYH4qbXrokrqj00215qP_ybagmAOWky3Z_4ISMsqJzNiUMLo6Xfnm72AemMzYZZkCFwSMXdGnpiNmU81LwVaAsfjo4jgfNW9ClKU"
+    ]
+   ],
+   "reason": "Not about Real Madrid",
+   "ch": [
+    515
+   ]
+  },
+  "357": {
+   "t": "Kylian Mbappé 🤍\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31567,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/CJowfByElDNsBXIQWZa9chg412gGLOSqIRGpNVVq1DRDOc1p1XOQVRTlb6_xb3XDge6GsMtVXZZclDtmjyII7WzPRm3tdCM4uufbkeKh0ljV3aQRnz8vBPfCtTblPQf5SxaHLFxAFjPrWDZ1qY06uvvgzSwV0nk6uugq9q_zKZk4lQr_ucYtxkNfrCxrR-mOOdZ3JG82eE_bbRee-cA7UIYNKdRB_EtV_sJ43fs6YI3uk83qmE5JqlPALa3ds9gRJf053P1PvXuAvu5OOZqPLA59d4BzONkf6_YsoDgSCtIMw4EVBsXBFsF_Q3H8T2M8agLuJQsiJWOwXEeuJez8gw.jpg"
+    ]
+   ],
+   "reason": "No substantive news content",
+   "ch": [
+    516
+   ]
+  },
+  "358": {
+   "t": "Arda Güler x Jose Mourinho 🧠\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31568,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/QV6CZnKAG0a7dcmvuvtJSe-lVlFQjxmxDt8oUdA3O3gAx7cjk931E3rEEDOlRifDj0Yb9wocK8FP3B_y-Tih6xoQec6TfxV6E2d4xh8_e6juxiAf9qx2-OF7iNzgQYEjDJr5MfEKzimszk-gUMLlsLlC9oOu4Q_4BIv7Mt2IRq3EoyJj1W9oD_vazx29e5Epy5Pc2swQu92LVlKj_FlwzE6_qgQiivvzFPmXDXoWIJB7POetwAACdArR_PEdz9aYX-THNTWx5qdp0cfDZo0sdL7vIzDkJX8UZw7EMqfbgr9neYGH6nF3BL0m0RMnMrImiKPkJEE0QTUXGCLG9QnwsQ.jpg"
+    ]
+   ],
+   "reason": "No substantive news, likely meme",
+   "ch": [
+    517
+   ]
+  },
+  "359": {
+   "t": "📲 Jose Mourinho on IG: “When the best moments of a long career are neither goals nor victories, but emotions for which I can only humbly express my gratitude.\n\nThank you Rome, thank you Romanisti.\n\nEmotions and eternal gratitude to you.” 🤍\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31569,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/jfxpWvrdMBj0hE0mu_PUrFzqHKQkxrUaRTVGeyMyjvp5h5q1cWwoMEsZEUjEctY8vS91ld7aRYISzJ7gNvR_aNwhOMgsXf0VcUVP9-ZzRbXRq3p4UJ2ExufTdM9Pqz0y0t5Ty2JEYiRaZWa0QLjjpweo0limU6l1UIlZSXXZVprqZr0c34GF66gZ5SO5lZt8Ac24T37FQNzivRzGwciGJnTFS4o6DVSufZaHeqbVolRWGPxpa0Pn5PvoUtdRTDep9H3b6xXAt7H-pT96F-WhViTwnQEpzrk63zSxpdwAn_yl5y1nIjQJPlb7NtIz36eplAZnFchcYpjphwIrRNdt4Q.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/ogwF_fqPlPFcYPOKC0yU6AZGQVRg44KoaJbKR4t8ca3yluu_7ri4aDAJGI_Sdf4jmVrDmVS_5Zrd7W4prNgfglc-Tz1GxK84XNlQcDPpLWUQoiGiMJAc6YZPOftTmFc_xx_KbWlg57rTdkBUUI8BOamOOLHnb68PZ1Sms2zpoJC1rBqTz-iSWy37_-kCFHzMFiBrwBJSpzCcCadJ22aLSaPVlTAwpC6TixZTWb6lp4BKfJQdQHN0PB_CoOoYVVi9saCLaYf0IwW73bLYubxO72aKm1rEtR-dPgtYtz1_ZLmjAa1DMI8kDdzs8b9I_Ezeu4LL2NT6WqHSp6zfBP97cw.jpg"
+    ]
+   ],
+   "reason": "Personal quote, not essential news",
+   "ch": [
+    518
+   ]
+  },
+  "360": {
+   "t": "🚨💣 BREAKING: Jude Bellingham has RENEWED his contract with Real Madrid until 2031. @diarioas\n\n@TheMadridZone",
+   "ai": true,
+   "label": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31571,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/REb_mfZig0dBjVxjFh-EGoljs6YltIkzMEWl0PB6n3HGCMtBN4BFdAfyVLYiGovtUpFiuNUGoEft0qjcm-3tCy0rWK41d8ymDVsNXQ8l3_64AL-1RoMdnAT83lJJgf_lBTcW2fU-_2cSvxehPuTeejWu2fj3Yq5PPFv3oqA3hJKeeZU-Rwiyvho_NEroqhpS8QDLqhh6RSpws7dO9hldpYT2Ne6fwnVIlPnowsT5k_ZKPUjhB-NvySPVok5j13ajOpXC_V3ZPJYW8-2qM8Zf_NGiiUKecwVCNciL27im0O7jct513arptfteahTBJgQeAPAQ5bm9R47vyVKpnPVWag.jpg"
+    ]
+   ],
+   "reason": "major contract extension news",
+   "ch": [
+    519
+   ]
+  },
+  "361": {
+   "t": "📲 Raúl Asencio continuing his recovery. 💪\n\n@TheMadridZone",
+   "ai": true,
+   "label": "🚑 Injury",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31573,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/t0C0dHr4VipCBF5DGkK0Zux8KHVYiLWvyKSh_STKesSpPyYHVTikidqMwkPyUQD6BYXhEOsEHSUReJ9056we2IxXlAyFkisKLCymPew1vPNwGl2ilD2refo3OnND4kOnINSzI7OK1JdNJ-EVIgqxjlqgY31DLjKdwO8AtPRZNh7NgzpYpnAKuRfKKoiA13t21v8hr_l1Xh0AGdETSiiQqIdw03m3bznZGMgawp8I2Pu3dRPHU-FI6J8jF-bhBqrbrWfoTrqEOPj3Mak6pW4cexP0b0z52S6c-G-mDTaK5ATuSzcYvqjr4JOC4_TIoLeBPTzOMsDisSZc1mn0PdtwQw.jpg"
+    ]
+   ],
+   "reason": "injury recovery update",
+   "ch": [
+    520
+   ]
+  },
+  "362": {
+   "t": "🚨 Sevilla Captain Gabi Suazo: “Vini Jr. getting sent off? I have NEVER seen a player get sent off for pulling someone's hair before.”\n\n@TheMadridZone",
+   "ai": false,
+   "label": "🟥 Discipline",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31574,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/ku5rkHJJ08pObRM06o05oL3P4CrUlbwbcRoHC6unxfnFIrvQYD7gJkSChv90CwjWkKYIroiVv5HD3sh_oFXkcyrY3J-CiVElMvMLASjLvR6uZnKcDLB19uodZaO49KkACaiuJDlgF1jiNLztowC_uYzP9RcKTRflTd5qff5W9FGvql9eph3FASadgll9xesAnCyyjw7AnQtVIRcZyDXY1Q5byaPbeMkMHIXktKMfVQQQ-CYoPv2lCn36fH9-q1g38HVul7gcqi3ks1taifYbtqFY5gBwJJaVugZy839HAu8LQiU1V2kq4-v1Re5sKHbhs8wU1nMzRGEx5LI7xEPDdw.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/uT_5_H1hSVF4psSVfBeh3V6FFTBYbpWZPZGX1ehYPPJ068x4A2VFmkXLIqh03wVxKEMwHhiDSPdXnCxhUEqeOqRFK742yscckcYAY80TAZkLAzdMJGbZ5d37AAjr8WNH1MwXpXRXSL8ZL5Wi9eE9nCmq5bsc_-yI9QxTSJdUluJLhst4NToEyTkeUUVRBF9uaovd-JSv3fpEL-c9e01ufus4eCxPPdUWT7cgBeK1vMicKJbX32X_5u3cPz6HZWXH6-_YGvtwCsmGO8xp2f71VuxBUT-yITRIcOdR2yRhvf9Cz1uaYAMHRw8Ly71x8AQE7YWSyXT8kByCUZMppMuyjg.jpg"
+    ]
+   ],
+   "reason": "duplicate of earlier Vini Jr hair comment",
+   "ch": [
+    521
+   ]
+  },
+  "363": {
+   "t": "The Bernabéu. 🤩\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "none",
+   "src": "themadridzone",
+   "id": 31576,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/Vs465PDaJt3lfFSKFefWr3YS5xSRJjKb9Xt_7SZBG6rtv8WVYTKPli51ObJPU6Qh0JC_BOigM3ctpW34_rwMkqDovMei-syKutzH0C8wV-qoSUBIalOH8wqhfADEqkxmLJeGf15AflDSzu58tB0wW4fUJcQqZUrWp4SgQjpJJNNvrJdz2fmy1_BfHMkKKgDBQdPy3wmpQoL5-sBrkcZ-mysl3Dg3UQKk1GpYuU0vISVqb8b1C7GkZ0sp1jShTgA-iRloWaLiaYNlhkAw4Mo3ldUib84NK0l3otnbAQMiqcU-8vTgydbQpg8aIfhSI59uJmXPx4WsKmCo76kyoujhSQ.jpg"
+    ]
+   ],
+   "reason": "No news content",
+   "ch": [
+    522
+   ]
+  },
+  "364": {
+   "t": "🚨💣 BREAKING: Real Madrid’s appeal is REJECTED. \n\nVini Jr. is SUSPENDED for 4 GAMES. ❌❌❌❌\n\n@TheMadridZone",
+   "ai": true,
+   "label": "🟥 Discipline",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31577,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/gxJKzjhPZ4-0fKl7RLfPmNxz1vTY9rA71L4TTaevMAn4PAhYng4ymyccQrO6-k6Y8wuT7QCoh-PVJoNp9eFWuPPeX6vxSsfBuMM643DvdtueWrMoKNy3vj8b9GKfwdzYKOyGOCL-h_WuY__Zc3PmmkgdqcUtZEjSKJEKeUR0G4wfo22drjmNsu2pfKpJ04mXYCWiCU_4XPIZAgS7d1vkjjyOR48dhqJ0E5P5ntxmzEImRCG2oXlJ-1305Bswog_fEFGWe0k7wr9mOPrVrK6kSqR4OZH808HrNDOXvPmuhvhpgv4lEVwV2H7mbFlEE66rfJng7twrXkZVxYg9HMjqLw.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/ZGXU89mn4GTis2EDTNdAdDCQrhPwzpAhrxFrbO9jlbvQWJzcdJtYedwL_sjyNMs3EQUT6_0yd6kKKK7RfGXPs_TiT3A9LHcBfNWlkTST2FFvsLIMDfIqvqGhXJs3CvP6lZd18yHV5J0CxQQJ8mMlI6o3FOVWaPOQ_tT5vITJKsLztuWQAluMXiiLQIRDxqWqBy3Kj41Zc6O9KHQJ4Nr_E-voR73ksuf8tmrkGRFIqkzVC1hyqP4wZ_YN1dAPIjCX3MBaQ-wxt2zGfZDESQU88bA6SlkV0h5MfVd7VosgECelOCOZzxiuRlEtRKbFobS1WVk5u6QUozNw3wF3y64K6A.jpg"
+    ]
+   ],
+   "reason": "Vini Jr suspension confirmed",
+   "ch": [
+    523
+   ]
   }
  },
  "train_stats": {
@@ -6724,11 +7088,11 @@
  "enabled": {
   "🚑 Injury": true,
   "✍️ Transfer & Contract": true,
-  "📋 Lineup & Squad": true,
-  "🟥 Discipline": true,
-  "👔 Coach & Board": true,
-  "⚽ Result": true,
-  "📢 Official": true,
+  "📋 Lineup & Squad": false,
+  "🟥 Discipline": false,
+  "👔 Coach & Board": false,
+  "⚽ Result": false,
+  "📢 Official": false,
   "📰 Other": false
  },
  "health": {},
