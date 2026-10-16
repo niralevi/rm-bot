@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59289,
-  "themadridzone": 31598,
+  "themadridzone": 31602,
   "FabrizioRomanoTG": 67366
  },
  "sent": [
@@ -1369,6 +1369,42 @@
    "status": "official",
    "headline": "Real Madrid issues official response to LaLiga president's criticism",
    "link": "https://t.me/RealMadridImportantOnly/529"
+  },
+  {
+   "ts": 1792165222.4003685,
+   "date": "2026-10-16",
+   "tokens": [
+    "bellingham",
+    "fede",
+    "jude",
+    "valverde"
+   ],
+   "names": [
+    "bellingham",
+    "fede",
+    "jude",
+    "valverde"
+   ],
+   "cat": "fun",
+   "status": "fact",
+   "headline": "Fede Valverde x Jude Bellingham! ⭐️⭐️",
+   "link": "https://t.me/RealMadridImportantOnly/530"
+  },
+  {
+   "ts": 1792165225.6140902,
+   "date": "2026-10-16",
+   "tokens": [
+    "eder",
+    "militao"
+   ],
+   "names": [
+    "eder",
+    "militao"
+   ],
+   "cat": "social",
+   "status": "fact",
+   "headline": "Eder Militão 🇧🇷",
+   "link": "https://t.me/RealMadridImportantOnly/531"
   }
  ],
  "offset": 769012033,
@@ -1376,8 +1412,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 59,
-  "tokens": 98474
+  "calls": 62,
+  "tokens": 101835
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1393,6 +1429,8 @@
  "paused": false,
  "topic_count": {
   "quotes": 1,
-  "club": 1
+  "club": 1,
+  "fun": 1,
+  "social": 1
  }
 }
