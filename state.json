@@ -6,54 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792005806.367701,
-   "date": "2026-10-14",
-   "tokens": [
-    "box",
-    "careles",
-    "concede",
-    "half",
-    "loss",
-    "martin",
-    "outside",
-    "own",
-    "possession",
-    "roon",
-    "scor"
-   ],
-   "names": [
-    "martin",
-    "roon"
-   ],
-   "cat": "other",
-   "status": "fact",
-   "headline": "🚨 Real Madrid concede after a careless possession loss in their own half.",
-   "link": "https://t.me/RealMadridImportantOnly/215"
-  },
-  {
-   "ts": 1792005859.846382,
-   "date": "2026-10-14",
-   "tokens": [
-    "22",
-    "3",
-    "5",
-    "first",
-    "minut",
-    "one",
-    "roma",
-    "shot",
-    "target",
-    "total"
-   ],
-   "names": [
-    "roma"
-   ],
-   "cat": "other",
-   "status": "rumour",
-   "headline": "🚨 Roma have had 5 shots with 3 on target in the first 22 minutes.",
-   "link": "https://t.me/RealMadridImportantOnly/216"
-  },
-  {
    "ts": 1792006100.5761952,
    "date": "2026-10-14",
    "tokens": [
