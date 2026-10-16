@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59286,
   "themadridzone": 31534,
-  "FabrizioRomanoTG": 67341
+  "FabrizioRomanoTG": 67342
  },
  "sent": [
   {
@@ -1162,8 +1162,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 3,
-  "tokens": 5085
+  "calls": 4,
+  "tokens": 6799
  },
  "pending_fb": {},
  "feedback": [
@@ -1590,7 +1590,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 333,
+ "train_seq": 334,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6324,6 +6324,19 @@
    "reason": "Not real news, just video promo",
    "ch": [
     492
+   ]
+  },
+  "334": {
+   "t": "🚨🔵⚪️ Getafe submit official proposal to Jadon Sancho to try sign him as free agent.\n\nSancho has proposals from Middle East but Getafe want to ‘repeat’ the Greenwood deal and sign Jadon.\n\nAfter Carvajal, Getafe try for one more star signing on a free. https://t.co/Jddhvz0zgR\n — Fabrizio Romano (@FabrizioRomano)\n Oct 16, 2026",
+   "ai": false,
+   "label": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "src": "FabrizioRomanoTG",
+   "id": 67342,
+   "m": [],
+   "reason": "Not about Real Madrid",
+   "ch": [
+    493
    ]
   }
  },
