@@ -6,38 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792013437.9033008,
-   "date": "2026-10-15",
-   "tokens": [
-    "14",
-    "2026",
-    "3rd",
-    "cannot",
-    "conced",
-    "concede",
-    "fabrizio",
-    "goal",
-    "jose",
-    "level",
-    "like",
-    "mourinho",
-    "oct",
-    "ridiculou",
-    "romano"
-   ],
-   "names": [
-    "fabrizio",
-    "jose",
-    "mourinho",
-    "oct",
-    "romano"
-   ],
-   "cat": "other",
-   "status": "fact",
-   "headline": "🚨 José Mourinho: “The 3rd goal we conceded was ridiculous”.",
-   "link": "https://t.me/RealMadridImportantOnly/337"
-  },
-  {
    "ts": 1792014499.8202639,
    "date": "2026-10-15",
    "tokens": [
