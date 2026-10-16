@@ -6,20 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792006100.5761952,
-   "date": "2026-10-14",
-   "tokens": [
-    "goal",
-    "kylian",
-    "mbappe"
-   ],
-   "names": [],
-   "cat": "other",
-   "status": "fact",
-   "headline": "🚨 KYLIAN MBAPPÉ GOAL!",
-   "link": "https://t.me/RealMadridImportantOnly/219"
-  },
-  {
    "ts": 1792006167.9959552,
    "date": "2026-10-14",
    "tokens": [
