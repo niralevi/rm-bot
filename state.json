@@ -6,29 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1791999098.3981445,
-   "date": "2026-10-14",
-   "tokens": [
-    "appeal",
-    "card",
-    "ibrahima",
-    "konate",
-    "overturn",
-    "successful",
-    "villarreal",
-    "yellow"
-   ],
-   "names": [
-    "ibrahima",
-    "konate",
-    "villarreal"
-   ],
-   "cat": "other",
-   "status": "fact",
-   "headline": "🚨 BREAKING: Ibrahima Konaté’s yellow card vs Villarreal has been OVERTURNED.",
-   "link": "https://t.me/RealMadridImportantOnly/184"
-  },
-  {
    "ts": 1791999693.0233927,
    "date": "2026-10-14",
    "tokens": [
