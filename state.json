@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59292,
+  "real_madrid": 59294,
   "themadridzone": 31618,
   "FabrizioRomanoTG": 67366
  },
@@ -1462,6 +1462,29 @@
    "status": "fact",
    "headline": "Thibaut Courtois 🧤",
    "link": "https://t.me/RealMadridImportantOnly/538"
+  },
+  {
+   "ts": 1792170106.3403223,
+   "date": "2026-10-16",
+   "tokens": [
+    "bellingham",
+    "contract",
+    "diarioa",
+    "importance",
+    "improvement",
+    "jude",
+    "line",
+    "quality",
+    "salary"
+   ],
+   "names": [
+    "bellingham",
+    "jude"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 JUST IN: Jude Bellingham’s new with Real Madrid contract will have a salary IMPROVEMENT in line with his qu…",
+   "link": "https://t.me/RealMadridImportantOnly/539"
   }
  ],
  "offset": 769012042,
@@ -1469,8 +1492,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 76,
-  "tokens": 117475
+  "calls": 77,
+  "tokens": 118614
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1498,7 +1521,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 2,
-  "transfer": 1,
+  "transfer": 2,
   "stats": 1
  }
 }
