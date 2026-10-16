@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59286,
-  "themadridzone": 31583,
+  "themadridzone": 31584,
   "FabrizioRomanoTG": 67362
  },
  "sent": [
@@ -1337,8 +1337,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 41,
-  "tokens": 69741
+  "calls": 42,
+  "tokens": 71431
  },
  "pending_fb": {},
  "feedback": [
@@ -1560,19 +1560,6 @@
  "skipped": [
   {
    "src": "themadridzone",
-   "id": 31300,
-   "t": "Jude is here! 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\n@TheMadridZone",
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/a6i4ibq-Z30Iff2xdUbxtDmjWlfFHApKY45vfZG1yw0G6v2Jpt64UAr8DrzOjDU4UO8Sc3ffsKITs96rosYXA6qW27PS8vNF_YLt-agEu_PHscW5mx2uktEIjhWAYfeeaSbO2HEmQmkRYtrWTz1nLigUfHiNyYrMDbt1VAer4IhOneCEgic0lUulzb9zhk9OvZWiPElm8GQQu_xgP1nIXeNFeLIHZv3MkCRwBGM_Pyh4GZu521o9bTZNhWm1_VIia31YO2Ng7lSSv0QYT8lKLF0pLZqAaNzBiD1X5OSFXJOaU-YdXgKAzpTQri9m16TCEwrJot_StshqHIO41vt8rw.jpg"
-    ]
-   ],
-   "r": "No Real Madrid relevance",
-   "h": "Jude is here! 🏴󠁧󠁢󠁥󠁮󠁧󠁿"
-  },
-  {
-   "src": "themadridzone",
    "id": 31301,
    "t": "Ibou is ready 💪🇫🇷\n\n@TheMadridZone",
    "m": [
@@ -1748,6 +1735,23 @@
    "m": [],
    "r": "📢 Official is turned off",
    "h": "🚨🚨 REAL MADRID OFFICIAL STATEMENT:"
+  },
+  {
+   "src": "themadridzone",
+   "id": 31584,
+   "t": "🚨💣 BREAKING: Real Madrid OFFICIALLY DEMANDS THE IMMEDIATE RESIGNATION of Javier Tebas, due to his words today comparing Real Madrid TV to \"Nazi Germany type propaganda\"\n\n@TheMadridZone",
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/S2WCuT6YkhWshT7KOyEg9BfwC9mQ8AeZkZh2DD6IpBRH8XHxaZDkA2v60i4HflEx1hUGC8I4629YDPdYGZyFDqsBuqjZv5RYoMETsuVxMsYg8GaUeNGyHKjrASJb-auIXj5xTIOnISlQD2URD2SeAbUW-oUo-xXMpzQn-Z_GTU82SW7mm8yOcn-AgBm5shAOyuZ3MTPK-YzF2JlGeQQx_ShQgqOTaL79efQgBjhsanpE8hUUWol3BshrToI1ixctUtipi3PmTaU_Cht-lUgt_ICRiSm6fspOzV7T238jA1a0rmLCZf_2VPgr5Z7kZjjlVJ1q_zeY9MDkt7IV5ttiqg.jpg"
+    ],
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/EWgMwF4gamiavHnmxfJ6UNiDhxk1ytxo_AXpUimr8o-KaPDF4KyVdHViLXRBHR6lEG3OPOT3Fqhbv153FqoxBM4FojMulgi5Dzhf99QVIXKXEt5ketqd1pxNkfdn90EB6ck3LnoGgOmPvCY9Lg-oHx2H_uj6sJ096n5_h4ncj7EIYs7oicaJmWmK4n5kOeKTwNNGxUYy2b6wWO2koo7XiJAwwCh-CxRYXsF9OVG4Yxhv_fmuTxjFu_rTCcV0kSekjvZkVB2CvFCR2R22zBmHnD7pGBNZGNRSzUCZJQWQ4aq1KAIRa0TRZ69ErD32qK5ZU6_gagRxXLUx3OAStZdqCQ.jpg"
+    ]
+   ],
+   "r": "Irrelevant political claim",
+   "h": "🚨💣 BREAKING: Real Madrid OFFICIALLY DEMANDS THE IMMEDIATE RESIGNATION of Javier…"
   }
  ],
  "summary_date": "2026-10-15",
