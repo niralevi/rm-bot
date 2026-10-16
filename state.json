@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59286,
-  "themadridzone": 31577,
-  "FabrizioRomanoTG": 67358
+  "themadridzone": 31582,
+  "FabrizioRomanoTG": 67359
  },
  "sent": [
   {
@@ -1312,15 +1312,33 @@
    "status": "fact",
    "headline": "🚨💣 BREAKING: Real Madrid’s appeal is REJECTED.",
    "link": "https://t.me/RealMadridImportantOnly/523"
+  },
+  {
+   "ts": 1792155266.0401623,
+   "date": "2026-10-16",
+   "tokens": [
+    "carvajal",
+    "dani",
+    "getafe"
+   ],
+   "names": [
+    "carvajal",
+    "dani",
+    "getafe"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "official",
+   "headline": "🚨 Dani Carvajal is Getafe’s new #14.",
+   "link": "https://t.me/RealMadridImportantOnly/525"
   }
  ],
- "offset": 769012008,
+ "offset": 769012017,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 35,
-  "tokens": 58965
+  "calls": 39,
+  "tokens": 66026
  },
  "pending_fb": {},
  "feedback": [
@@ -1744,83 +1762,13 @@
   "send anything official about michael olise"
  ],
  "opts": {
-  "training": true
+  "training": false,
+  "quiet": false,
+  "summary": false
  },
  "train_in_channel": true,
- "train_seq": 364,
+ "train_seq": 368,
  "train_pending": {
-  "6": {
-   "t": "Vinicius Jr 🔥\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "none",
-   "src": "themadridzone",
-   "id": 31054,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/OlDdtPx_SIQKkvdbbwncVg7KVagtpheNW1abGvCtkUQT4f2N-3gV8Q_o-3RH2FwX4ko5J0OkmBMdAS7tBPvfajANv6vLQY28tq1zV6oI938YOU-9E2l_13X5FaNGWdI9MWnSmyCP-faBdvl8Bp2nkick2Z8sA_Zt66u1dPWafPuZ3MA02MMhgXesBbLH5-Sj3o1Aq0171BYsYT7vVU6Y677KziryNkuXgzSH5mlf9OJgwbcGBlG2Pf61JroXZdYdXETCZ3mIyJ-FluDLpTli-H-Tmjkx3QwQR9314balppEf8erLlCpgkYxZadl6Ph7-e3Se5ZSfP6KfwJxWlo1Yfg.jpg"
-    ]
-   ],
-   "reason": "No substantive news, just hype",
-   "ch": [
-    56
-   ]
-  },
-  "7": {
-   "t": "Jude Bellingham 🌟\n\n@TheMadridZone",
-   "ai": false,
-   "label": "📰 Other",
-   "status": "none",
-   "src": "themadridzone",
-   "id": 31055,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/YoukSvxilVOHqyDiTo6C8YE3GGI3rvWSCRbY7HQalqE3XCd3A1CxNovqHmOd-3tj5mwMBDzVxYX7lr-KdNblRuSiNICYyESoO0AXiXDjYHU5t6sJjMyTQ0Bcx5ocE-YZVi1T14oYNSZPtnipsoaNewEElAA1l5OCLzoDhA6XRlrn0tId76Zj5LKnF76A2cSeCCkI5BHPliIIzWgjuZPHeNYKvoqOrXhegEg_bOKzIEz86-wYFd9KlgNhUlFqEECBN_sUcTyyK2sKdBvuLCSVjI9qyLUb4dfjfW62Ha_qW-5DK8bNxPi0Ah-grU5uCt6ZJJxYURBJ4r1FkIKl2mGnbg.jpg"
-    ]
-   ],
-   "reason": "No substantive Real Madrid news",
-   "ch": [
-    57
-   ]
-  },
-  "8": {
-   "t": "🚨💣 BREAKING: Ferland Mendy is BACK in team training.\n\n@TheMadridZone",
-   "ai": false,
-   "label": "🚑 Injury",
-   "status": "fact",
-   "src": "themadridzone",
-   "id": 31056,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/aI_FgRJB3znXXx42DybzQggQmKpHbxDlg9IrwtCZDBeH0XjlDFk_fGhZIyTTPyNXG6YNbygs9FffYUVww8K2HgBDf2QUI-yOXCbIl3Sn5xYc4ecAF70bGILqEM0YJWL3pihkWolYlcpfVX7vBH3h0X_b8P8LKuspvPJ8qa_ogr-PG7Ks54y4A1Uud7Al3X0msSpZTZZrGVhJVKh8ajdKnI84IyYpNZm5nLVSLjIQbVsjdslB2nV3qpy3WOtIBTUU9qO9tAJJvQu0pgXQaYvDg-H2fJSm6E3hsKudLJpVT9IoZIwwmkwNZZ2VDQ0m_NPvQpo6kLKiREzLa261YN7tvQ.jpg"
-    ]
-   ],
-   "reason": "🚑 Injury is turned off",
-   "ch": [
-    58
-   ]
-  },
-  "9": {
-   "t": "🚨🚨 Ferland Mendy is TRAINING with the GROUP.\n\n@TheMadridZone",
-   "ai": false,
-   "label": "🚑 Injury",
-   "status": "fact",
-   "src": "themadridzone",
-   "id": 31057,
-   "m": [
-    [
-     "photo",
-     "https://cdn4.telesco.pe/file/TE_Pr9htHVGzWZNmDvmnHunwothr1eQiYEFA7rNopZU9SSayhcmwf9NDnsDJYj_sqzMQswG0k7Hxs5zCqdl_fgY2_gqlwfHcYffCTi0sryf-7RWna62p0KwRTQNLIYoJ0QzYBi4yXPWCIynpfLf6MELvKjoRXqMep5JLx7unimDEe3MlzExXNKTKCskn4xgULqU8oVdHhYi7fo6zNMeFAT3XQV0PF4cH4E40nHtB5Mq3t7NrpXx96t6cDnZppdBplw6g1ok5blkfB1RAR1m5t4iPlcZ19pIkJo7lI25nwr5GAw9n-iVrHELTyNxD4ZiysCtXeluJNEK9vRlRy_iqBw.jpg"
-    ]
-   ],
-   "reason": "🚑 Injury is turned off",
-   "ch": [
-    59
-   ]
-  },
   "23": {
    "t": "🚨💣 BREAKING: Ferland Mendy is BACK in team training.",
    "ai": false,
@@ -7028,6 +6976,78 @@
    "ch": [
     523
    ]
+  },
+  "365": {
+   "t": "🚨 La Liga President: “Real Madrid’s leadership does orchestra of mouthpieces, with Real Madrid TV.\n\nTheir strategy is always the same: selectively highlight, repeat grievances, fuel suspicion, target enemies.\n\nThese methods resemble propaganda by JOSEPH GOEBBELS, N*ZI GERMANY’S propaganda minister: systematic repetition, creating an enemy and manipulating facts to fit a narrative.\n\nThe comparison is about propaganda techniques, NOT ideology or Real Madrid fans.”\n\n@TheMadridZone",
+   "ai": false,
+   "label": "📰 Other",
+   "status": "rumour",
+   "src": "themadridzone",
+   "id": 31579,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/S_97iU7J5EDonSlPJwx5iRJKScxZ5ib3NvD5wxabG828MJEy8QUnLLX7fH09YHrHchGTJMXu2WBp4QLJXfdguQtJzcstdDpoVHqnbkYGWIqUtpt69y1YK23xtM7YUlflzbr69ArT8Q5nUeYvFBkRy7kLVrshENWDuAWq8GJa-CMDXtwxkfc-iOMZnl2n3s8kyzndYRI7FflidIN2J58K_j8hF-KGBeGv00FISmwxkLhq9eVTAMRmcVY7quk5ZM6-pe_SO0HAYJ8831kUlE76V_KpKItqCv0HWEhk9e6qT4-126JPLgnZ2l2-wjyPR652AeDxdXRs6PeAlgLFZKPmhw.jpg"
+    ]
+   ],
+   "reason": "Irrelevant political commentary",
+   "ch": [
+    524
+   ]
+  },
+  "366": {
+   "t": "🚨 Dani Carvajal is Getafe’s new #14.\n\n@TheMadridZone",
+   "ai": true,
+   "label": "✍️ Transfer & Contract",
+   "status": "official",
+   "src": "themadridzone",
+   "id": 31580,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/M54ajtiplQzx_faxaAM20p7MU0rNf8h7Pc6vkmMeeiH4AuD8DkMqsspxU8W6D5qaFn7grD0Hrq6d0uApVNscmmjrjszz1DcWXJnhE0jGhF4nV-6Tdf0LF0NRmHoUCCD9E6d4MYd1kj5sMLKmtUUssKvahD4ziQcJommFpVpTyvBxpkTrA8u3oY39eH5UuB8KlMCEM1fwiuhNYXPBJrXbKRA6G0dJNSJ5-zmA04Xo5MR1ZnYy0mwtR-BOz1p3gI3jmhJEfzVCEdMQ3CYi2OazpHStlrIG5tKF0QluASJFDS8cVZOmLQXUTkjN0I-FJxtQBjHDQKeWE2UWMdnoNTW84w.jpg"
+    ]
+   ],
+   "reason": "Carvajal leaves for Getafe",
+   "ch": [
+    525
+   ]
+  },
+  "367": {
+   "t": "🗣️ Dani Carvajal: “I’ve had offers from top European clubs, to play in the Champions League. Each person knows what they have at home and what motivates them in each project. This project at Getafe motivated me a lot.”\n\n@TheMadridZone",
+   "ai": false,
+   "label": "✍️ Transfer & Contract",
+   "status": "official",
+   "src": "themadridzone",
+   "id": 31581,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/fTen8AClIzFYlrL2NtFQH9V06w_E2QuBA3xDRuUsz0dXdbfTeLkd7BrHqTETR30JsTceYr4xtACvhl9xYRg-O5rffSvTGYbHc-ebacNPv6jtpXeAHHR1d2lEy-3rbdinKBJ-NRJx-Se2UuBlCACXkMYolmwTo25qCGusEefgNK4j8hGR3fLbG21hdxy4Xy5nMdXW0C5vIHTmUxXNHFlZjaG-oqLiovSxglUBSFHZofU-KC5xzjbpv-XgdyjD5y_L58UrRJb2z9qYeW2aVN49FiKf0sToqP6gXjar-Oq7DfuG2CGSON3e5Ox6A_aDwMXQCsVqFoMzFaP19FMnsNMa5Q.jpg"
+    ]
+   ],
+   "reason": "duplicate of departure news",
+   "ch": [
+    526
+   ]
+  },
+  "368": {
+   "t": "🚨 BREAKING: Real Madrid are set to APPEAL Vinicius Jr’s suspension to Spain’s Administrative Court of Sport (TAD) after their appeal was REJECTED by the Appeals Committee. @GuillermoRai_\n\n@TheMadridZone",
+   "ai": false,
+   "label": "🟥 Discipline",
+   "status": "fact",
+   "src": "themadridzone",
+   "id": 31582,
+   "m": [
+    [
+     "photo",
+     "https://cdn4.telesco.pe/file/WfdO3w1O0WswfViDTWQcA0gINENVmGD646AHKIt9qmf0mzxTdxr4rv6BNSIFjNdmy-wMW0E0T0fFTwBREIJM10c40Ixi9iC8d_3ZyTxw8o1jH7OUs5hoDJO5fk9I0rtIwlnXcFL5SAn9iviI0_UYrYlcHCeM-K_JP3EKbMCiQOIGu9zzSPGdBZ5R348s_MiIPUPTY1jqXaTX3lUlB2yjiQxUvd3CG1MT5rhEZ9h_uFKFTbd_86lACasqsbGlFeAkxuVYPdx8X1bdMsueYsCKPctg1bnPz7qoAB6-X-v1hbqURDPA6JouNvooVTeTAQ5kEkRGRpaizuhUapXzw0ZqZA.jpg"
+    ]
+   ],
+   "reason": "🟥 Discipline is turned off",
+   "ch": [
+    527
+   ]
   }
  },
  "train_stats": {
@@ -7086,8 +7106,8 @@
   ]
  },
  "enabled": {
-  "🚑 Injury": true,
-  "✍️ Transfer & Contract": true,
+  "🚑 Injury": false,
+  "✍️ Transfer & Contract": false,
   "📋 Lineup & Squad": false,
   "🟥 Discipline": false,
   "👔 Coach & Board": false,
