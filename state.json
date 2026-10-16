@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59289,
-  "themadridzone": 31607,
+  "real_madrid": 59290,
+  "themadridzone": 31609,
   "FabrizioRomanoTG": 67366
  },
  "sent": [
@@ -1375,6 +1375,53 @@
    "status": "rumour",
    "headline": "🚨💣 BREAKING: Real Madrid want 15yo Spanish midfielder Jacobo Afonso.",
    "link": "https://t.me/RealMadridImportantOnly/533"
+  },
+  {
+   "ts": 1792166570.3324976,
+   "date": "2026-10-16",
+   "tokens": [
+    "1",
+    "100",
+    "2",
+    "3",
+    "4",
+    "5",
+    "53",
+    "64",
+    "72",
+    "77",
+    "81",
+    "benzema",
+    "first",
+    "gam",
+    "goal",
+    "karim",
+    "kylian",
+    "lewandowski",
+    "lionel",
+    "mbappe",
+    "messi",
+    "most",
+    "robert",
+    "ronaldo"
+   ],
+   "names": [
+    "benzema",
+    "cristiano",
+    "karim",
+    "kylian",
+    "lewandowski",
+    "lionel",
+    "mbappe",
+    "messi",
+    "players",
+    "robert",
+    "ronaldo"
+   ],
+   "cat": "stats",
+   "status": "fact",
+   "headline": "🚨 Players with the most goals in their first 100 @UEFA_Champ_League games:",
+   "link": "https://t.me/RealMadridImportantOnly/534"
   }
  ],
  "offset": 769012033,
@@ -1382,8 +1429,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 66,
-  "tokens": 106295
+  "calls": 68,
+  "tokens": 108529
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1403,6 +1450,7 @@
   "fun": 1,
   "social": 1,
   "lineup": 1,
-  "transfer": 1
+  "transfer": 1,
+  "stats": 1
  }
 }
