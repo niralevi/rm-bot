@@ -6,40 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1791999932.1897347,
-   "date": "2026-10-14",
-   "tokens": [
-    "roma",
-    "start"
-   ],
-   "names": [
-    "roma"
-   ],
-   "cat": "other",
-   "status": "fact",
-   "headline": "📋✅ Our starting XI!",
-   "link": "https://t.me/RealMadridImportantOnly/186"
-  },
-  {
-   "ts": 1791999998.851123,
-   "date": "2026-10-14",
-   "tokens": [
-    "4",
-    "appeal",
-    "ban",
-    "decid",
-    "match",
-    "vini"
-   ],
-   "names": [
-    "vini"
-   ],
-   "cat": "other",
-   "status": "official",
-   "headline": "🚨💣 BREAKING: Real Madrid have decided to APPEAL Vini Jr's 4-match ban. @GuillermoRai_",
-   "link": "https://t.me/RealMadridImportantOnly/187"
-  },
-  {
    "ts": 1792003760.821054,
    "date": "2026-10-14",
    "tokens": [
