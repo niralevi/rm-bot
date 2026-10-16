@@ -6,26 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792005459.603877,
-   "date": "2026-10-14",
-   "tokens": [
-    "down",
-    "injur",
-    "kone",
-    "manu",
-    "roma"
-   ],
-   "names": [
-    "kone",
-    "manu",
-    "roma"
-   ],
-   "cat": "other",
-   "status": "none",
-   "headline": "🚨 Roma’s Manu Kone is down injured.",
-   "link": "https://t.me/RealMadridImportantOnly/211"
-  },
-  {
    "ts": 1792005806.367701,
    "date": "2026-10-14",
    "tokens": [
