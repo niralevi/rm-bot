@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59286,
   "themadridzone": 31534,
-  "FabrizioRomanoTG": 67348
+  "FabrizioRomanoTG": 67349
  },
  "sent": [
   {
@@ -1124,6 +1124,54 @@
    "status": "fact",
    "headline": "🚨 Fede Valverde: “Vini Jr did not deserve a four match ban. It was not intentional”. https://t.co/p9z8NYNblX",
    "link": "https://t.me/RealMadridImportantOnly/490"
+  },
+  {
+   "ts": 1792151361.6380544,
+   "date": "2026-10-16",
+   "tokens": [
+    "16",
+    "2026",
+    "agre",
+    "agreement",
+    "arda",
+    "bellingham",
+    "contract",
+    "courtoi",
+    "fabrizio",
+    "five",
+    "formal",
+    "guler",
+    "happen",
+    "jude",
+    "line",
+    "long",
+    "next",
+    "oct",
+    "place",
+    "report",
+    "romano",
+    "sign",
+    "step",
+    "term",
+    "verbal",
+    "year",
+    "yet"
+   ],
+   "names": [
+    "arda",
+    "bellingham",
+    "courtois",
+    "fabrizio",
+    "guler",
+    "jude",
+    "oct",
+    "romano",
+    "verbal"
+   ],
+   "cat": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "headline": "🚨🤍 BREAKING: Jude Bellingham agrees to sign new long term contract at Real Madrid.",
+   "link": "https://t.me/RealMadridImportantOnly/494"
   }
  ],
  "offset": 769011999,
@@ -1131,8 +1179,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 4,
-  "tokens": 6799
+  "calls": 5,
+  "tokens": 8564
  },
  "pending_fb": {},
  "feedback": [
@@ -1559,7 +1607,7 @@
   "training": true
  },
  "train_in_channel": true,
- "train_seq": 334,
+ "train_seq": 335,
  "train_pending": {
   "3": {
    "t": "🗣️ Gary Lineker: “Jude Bellingham will definitely be England’s greatest ever player if he keeps going. \n\nJude has an incredible passing range but Scholes passing edges him slightly. \n\nJude has Gerrard’s drive as a box to box even though he generally plays as a #10. \n\nJude arrives in the box and finishes like Lampard. \n\nJude has all 3 aspects tied up in 1. Thats phenomenal.” \n\n[wearetrackradio]",
@@ -6306,6 +6354,19 @@
    "reason": "Not about Real Madrid",
    "ch": [
     493
+   ]
+  },
+  "335": {
+   "t": "🚨🤍 BREAKING: Jude Bellingham agrees to sign new long term contract at Real Madrid.\n\nVerbal agreement in place, formal steps yet to happen but next in line after Arda Güler and Courtois.\n\nThe agreement will be for five years, as @jfelixdiaz @diarioas report. https://t.co/YAlClL3jnI\n — Fabrizio Romano (@FabrizioRomano)\n Oct 16, 2026",
+   "ai": true,
+   "label": "✍️ Transfer & Contract",
+   "status": "rumour",
+   "src": "FabrizioRomanoTG",
+   "id": 67349,
+   "m": [],
+   "reason": "New long-term Bellingham contract reported",
+   "ch": [
+    494
    ]
   }
  },
