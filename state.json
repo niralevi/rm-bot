@@ -6,27 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1791950507.5044172,
-   "date": "2026-10-14",
-   "tokens": [
-    "arda",
-    "expect",
-    "guler",
-    "right",
-    "roma",
-    "start"
-   ],
-   "names": [
-    "arda",
-    "guler",
-    "roma"
-   ],
-   "cat": "📋 Lineup & Squad",
-   "status": "rumour",
-   "headline": "🚨 NEW: Arda Güler is expected to START on the right vs Roma. @marca 👀",
-   "link": "https://t.me/RealMadridImportantOnly/174"
-  },
-  {
    "ts": 1791954383.2083547,
    "date": "2026-10-14",
    "tokens": [
