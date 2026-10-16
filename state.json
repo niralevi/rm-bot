@@ -6,56 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792006167.9959552,
-   "date": "2026-10-14",
-   "tokens": [
-    "champion",
-    "goal",
-    "gonzalez",
-    "kylian",
-    "league",
-    "mbappe",
-    "official",
-    "overtak",
-    "raul"
-   ],
-   "names": [
-    "gonzalez",
-    "kylian",
-    "mbappe",
-    "raul"
-   ],
-   "cat": "other",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Kylian Mbappé OVERTAKES Raul Gonzalez in Champions League goals.",
-   "link": "https://t.me/RealMadridImportantOnly/221"
-  },
-  {
-   "ts": 1792006240.680792,
-   "date": "2026-10-14",
-   "tokens": [
-    "all",
-    "champion",
-    "fifth",
-    "history",
-    "kylian",
-    "league",
-    "mbappe",
-    "official",
-    "scorer",
-    "time",
-    "top"
-   ],
-   "names": [
-    "kylian",
-    "mbappe"
-   ],
-   "cat": "other",
-   "status": "official",
-   "headline": "🚨💣 OFFICIAL: Kylian Mbappé is the FIFTH ALL TIME TOP SCORER IN CHAMPIONS LEAGUE HISTORY!",
-   "link": "https://t.me/RealMadridImportantOnly/223"
-  },
-  {
    "ts": 1792006714.263738,
    "date": "2026-10-14",
    "tokens": [
