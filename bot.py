@@ -1,37 +1,37 @@
 """
-Real Madrid news filter bot - with an AI "brain" that learns your taste (free via Groq).
+Real Madrid news bot - every post sorted into a topic. You turn topics on/off.
 
-Reads public Telegram channels, keeps only the important news (injuries, transfers,
-lineups...), removes duplicates and ads, tags RUMOUR / OFFICIAL, and posts to your
-own channel with the photos and videos.
+Reads public Telegram channels, puts every Real Madrid post into ONE topic
+(injuries, transfers, match events, quotes, social media...), and posts the topics
+you have turned on to your channel - with photos/videos, no duplicates, no ads,
+tagged OFFICIAL / RUMOUR / NEWS and how reliable the source is.
 
-Send the bot a private message to open the settings menu (buttons).
-Commands in the private chat:
-  /settings          - settings menu
-  /add Vinicius, Mbappe   - add players to your list
-  /remove Mbappe     - remove a player
-  /players           - show your list
-  /summary           - preview today's summary
-  /brain             - what the bot has learned about you
-  (forward a post)   - rate it 👍/👎 so the bot learns
-  (any plain text)   - saved as a preference, e.g. "I don't care about loaned players"
+Private chat with the bot:
+  /settings               - turn topics on/off (buttons)
+  /add Vinicius, Mbappe   - your players (for "Only my players")
+  /remove Mbappe          - remove a player
+  /players                - show your players
+  /summary                - preview today's summary
+  /backfill 48            - post the last 48 hours again (only topics that are on)
+  /status                 - is everything working?
 
 Environment variables:
   SOURCE_CHANNELS  - source channels, comma separated, without @.
-                     Add ":rm" to a general football channel to keep only Real Madrid posts.
+                     ":rm" = general football channel, keep only Real Madrid posts.
                      Example: real_madrid, themadridzone, FabrizioRomanoTG:rm
   BOT_TOKEN        - from @BotFather
   TARGET_CHANNEL   - your channel: @my_channel or -100...
   OWNER_ID         - (optional) your Telegram user id. Otherwise the first person
                      who messages the bot becomes the owner.
   TIMEZONE         - (optional) default Asia/Jerusalem
-  GROQ_API_KEY     - (optional, free) turns on the AI brain - console.groq.com
+  GROQ_API_KEY     - (optional, free) the AI sorts posts much better - console.groq.com
   ANTHROPIC_API_KEY- (optional, paid) use Claude instead of Groq
   AI_MODEL         - (optional) Groq model, default openai/gpt-oss-120b
+  AWAKE_SECONDS    - (optional) how long each run stays awake, default 150
 
 Run:
-  python bot.py          # one check (GitHub Actions)
-  python bot.py --loop   # runs forever, buttons react instantly (computer/server)
+  python bot.py          # one run (GitHub Actions) - stays awake AWAKE_SECONDS
+  python bot.py --loop   # runs forever (computer/server)
 """
 import html
 import json
@@ -72,69 +72,100 @@ AI_DAILY_TOKENS = 185_000   # ...and 200,000 tokens/day
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "state.json")
 
 LOOP_INTERVAL = 60      # seconds between channel checks while awake
-AWAKE_SECONDS = int(os.environ.get("AWAKE_SECONDS") or 150)  # each run stays awake this long
+AWAKE_SECONDS = int(os.environ.get("AWAKE_SECONDS") or 150)
 QUIET_START, QUIET_END = 23, 8   # silent notifications between these hours
 SUMMARY_HOUR = 22       # daily summary is sent after this hour
 DEDUPE_HOURS = 48       # how far back to look for duplicates
-DEDUPE_HOURS_SHORT = 6  # for lineups/results (they repeat every match)
+DEDUPE_HOURS_SHORT = 6  # for lineups / match events (they repeat every match)
 SIMILARITY = 0.5        # 0-1, lower = more aggressive duplicate removal
 
 # ---------------------------------------------------------------------------
-# What counts as important.
-# A word ending with * also matches longer words ("injur*" -> injury, injured).
+# Topics. Every post gets exactly one. (key, button label, what it is, keywords)
+# The AI uses the descriptions; the keywords are the backup when the AI is off.
+# A keyword ending with * also matches longer words ("injur*" -> injury, injured).
 # ---------------------------------------------------------------------------
-CATEGORIES = {
-    "🚑 Injury": [
-        "injur*", "sidelined", "surgery", "hamstring", "muscle*", "strain", "sprain*",
-        "ligament*", "acl", "fracture*", "ruled out", "will miss", "to miss", "doubt for",
-        "doubtful", "medical report", "medical update", "back in training",
-        "return* to training", "fit again", "knock",
-    ],
-    "✍️ Transfer & Contract": [
-        "here we go", "sign*", "transfer*", "loan*", "contract*", "extension", "renew*",
-        "bid", "offer*", "release clause", "agreement", "deal", "joins", "free agent",
-        "buy-back", "buyback", "departure", "leaves", "leaving", "interest*", "target*",
-        "move to", "move for", "swoop", "approach*", "negotiat*", "talks",
-    ],
-    "📋 Lineup & Squad": [
-        "lineup*", "line-up*", "line up", "starting xi", "xi vs", "xi:", "squad list",
-        "called up", "squad for", "bench:", "subs:",
-    ],
-    "🟥 Discipline": [
-        "suspen*", "red card", "sent off", "banned", "ban", "fifth yellow", "5th yellow",
-    ],
-    "👔 Coach & Board": [
-        "sacked", "fired", "new manager", "new coach", "head coach", "appointed",
-        "press conference", "presser", "florentino", "perez",
-    ],
-    "⚽ Result": [
-        "full-time", "full time", "ft:", "final score", "final whistle", "goal!",
-        "scores", "won", "beat", "defeat*", "draw", "win against",
-    ],
-    "📢 Official": ["official*", "confirm*", "statement", "announce*"],
-    "📰 Other": [],  # only the AI uses this - important news that fits nowhere else
-}
-PLAYER_EXEMPT = {"📋 Lineup & Squad", "⚽ Result", "👔 Coach & Board"}  # pass the player filter
-NEEDS_RM = {"👔 Coach & Board", "📢 Official"}  # must mention Real Madrid (not ex-players elsewhere)
-URGENT = {"🚑 Injury", "✍️ Transfer & Contract", "👔 Coach & Board"}  # official ones ring at night
+TOPICS = [
+    ("injury", "🚑 Injuries & fitness",
+     "injuries, fitness, medical updates, players returning, how long someone is out",
+     ["injur*", "sidelined", "surgery", "hamstring", "muscle*", "strain", "sprain*", "ligament*",
+      "acl", "fracture*", "ruled out", "will miss", "doubt for", "doubtful", "medical report",
+      "medical update", "back in training", "return* to training", "fit again", "knock",
+      "recover*", "discomfort"]),
+    ("transfer", "✍️ Transfers & contracts",
+     "signings, departures, transfer rumours, contracts, renewals, buy-back clauses, targets",
+     ["here we go", "sign*", "transfer*", "contract*", "extension", "renew*", "bid", "offer*",
+      "release clause", "agreement", "deal", "joins", "free agent", "buy-back", "buyback",
+      "departure", "leaves", "leaving", "interest*", "target*", "move to", "move for", "swoop",
+      "approach*", "negotiat*", "talks", "fee"]),
+    ("lineup", "📋 Lineups & squad",
+     "starting XIs, squad lists, call-ups, who is on the bench",
+     ["lineup*", "line-up*", "line up", "starting xi", "xi vs", "xi:", "squad list", "called up",
+      "squad for", "bench:", "subs:", "convocatoria"]),
+    ("match", "⚽ Match events",
+     "live match moments and results: goals, assists, half-time, full-time, scores, penalties",
+     ["goal", "goal!", "scores", "full-time", "full time", "ft:", "half-time", "half time", "ht:",
+      "kick-off", "kick off", "final score", "final whistle", "won", "beat", "defeat*", "draw",
+      "win", "assist*", "penalty", "equali*", "brace", "hat-trick", "hattrick"]),
+    ("quotes", "🎤 Quotes & press",
+     "what coaches, players and directors said: press conferences, interviews, statements to media",
+     ["press conference", "presser", "said", "says", "told", "interview", "speaking", "admits",
+      "explains", "reveals"]),
+    ("coach", "👔 Coach & board",
+     "the coach, the president and the board: appointments, sackings, decisions",
+     ["sacked", "fired", "new manager", "new coach", "head coach", "appointed", "florentino",
+      "perez", "board", "president"]),
+    ("discipline", "🟥 Discipline & referees",
+     "red cards, suspensions, bans, fines, referee and VAR decisions",
+     ["suspen*", "red card", "sent off", "banned", "ban", "fifth yellow", "5th yellow",
+      "referee*", "var", "sanction*", "fine", "fined"]),
+    ("stats", "📊 Stats & records",
+     "numbers, ratings, records, player stats after games",
+     ["touches", "passing accuracy", "duels won", "man of the match", "motm", "rating*", "stats",
+      "record*", "top scorer", "key passes", "dribbles", "xg", "most goals", "in numbers"]),
+    ("fixtures", "📅 Fixtures & previews",
+     "upcoming matches, kick-off times, previews, competition draws",
+     ["next match", "up next", "preview", "fixture*", "schedule", "calendar", "tomorrow",
+      "tonight", "matchday", "kick-off time"]),
+    ("academy", "🎓 Academy & loans",
+     "Castilla, youth teams, young players, players out on loan",
+     ["castilla", "academy", "la fabrica", "youth", "juvenil", "on loan", "loanee", "loaned",
+      "loan*"]),
+    ("awards", "🏆 Awards",
+     "Ballon d'Or, player of the month, nominations, individual prizes",
+     ["ballon d'or", "ballon dor", "award*", "player of the month", "nominat*", "golden boy",
+      "the best", "prize"]),
+    ("club", "🏟️ Club & business",
+     "the stadium, kits, sponsors, money, Super League, club elections and business",
+     ["stadium", "kit", "jersey", "sponsor*", "revenue", "financ*", "budget", "super league",
+      "superleague", "socios", "members", "elections", "tickets", "mock-up*", "mockup*"]),
+    ("social", "📸 Social media & lifestyle",
+     "Instagram/TikTok posts, private life, birthdays, holidays, visits, family, fashion, cars",
+     ["instagram", "tiktok", "posted", "story", "birthday", "vacation", "holiday*", "visit*",
+      "hometown", "girlfriend", "wife", "wedding", "fashion", "family"]),
+    ("fun", "😂 Fun & fan content",
+     "memes, throwbacks, polls, wallpapers, fan reactions, celebrations, hype posts",
+     ["meme", "throwback", "on this day", "#otd", "poll", "vote", "quiz", "wallpaper*", "fans",
+      "celebrat*", "edit", "goat", "😂", "🤣"]),
+    ("rivals", "🌍 Other clubs & ex-players",
+     "other clubs' news, rivals (e.g. Barcelona's president), former Real Madrid players elsewhere",
+     ["barcelona", "barca", "laporta", "atletico", "former real madrid", "ex-real madrid",
+      "former madrid"]),
+    ("other", "📰 Other", "anything that fits nowhere else", []),
+]
+TOPIC_LABEL = {k: label for k, label, _, _ in TOPICS}
+TOPIC_KEYS = [k for k, _, _, _ in TOPICS]
+FAST_TOPICS = {"lineup", "match"}                    # shorter duplicate window
+TEAM_TOPICS = {"lineup", "match", "coach", "fixtures"}  # pass "Only my players"
+BIG_TOPICS = {"injury", "transfer", "coach"}         # official ones may ring at night
 
-# Always dropped, even before the AI sees them (ads, gambling, promos)
+# Always dropped (ads, gambling, promos) - not a topic
 HARD_IGNORE = [
     "promo code", "promocode", "bonus", "casino", "betting", "bet", "odds", "deposit",
     "sponsored", "#ad", "advertis*", "giveaway", "subscribe",
 ]
-# Dropped by the keyword filter (the AI judges these itself)
-SOFT_IGNORE = [
-    "visit*", "hometown", "birthday", "vacation", "holiday*", "instagram", "tiktok",
-    "girlfriend", "wedding", "fashion", "kit", "jersey", "mock-up*", "mockup*", "quiz",
-    "poll", "vote", "throwback", "on this day", "#otd", "wallpaper*",
-    "laporta",  # Barcelona president quotes
-]
-IGNORE = HARD_IGNORE + SOFT_IGNORE
 
-OFFICIAL_MARKERS = [
-    "official*", "confirm*", "announce*", "statement", "medical report", "here we go",
-]
+OFFICIAL_MARKERS = ["official*", "confirm*", "announce*", "statement", "medical report",
+                    "here we go"]
 RUMOUR_MARKERS = [
     "report*", "according to", "rumou*", "rumor*", "claim*", "could", "set to", "close to",
     "talks", "interest*", "linked", "consider*", "monitor*", "understand*", "sources",
@@ -142,14 +173,10 @@ RUMOUR_MARKERS = [
     "(marca)", "(as)", "(relevo)", "(mundo deportivo)",
 ]
 
-# For ":rm" sources - post must mention Real Madrid (or one of your players)
+# For ":rm" sources - the post must mention Real Madrid, a squad player, or one of your players
 RM_WORDS = ["real madrid", "realmadrid", "rmcf", "bernabeu", "los blancos", "hala madrid",
             "valdebebas", "castilla", "florentino", "mourinho"]  # add the coach's name if it changes
-
-# Current squad + players the club still controls (buy-back clauses). Posts from general
-# channels (like Fabrizio) that mention any of these are treated as Real Madrid news.
-# Update this list when the squad changes - players you /add count too.
-SQUAD = [
+SQUAD = [  # update when the squad changes - players you /add count too
     "courtois", "lunin",
     "carvajal", "alexander-arnold", "alexander arnold", "militao", "rudiger", "huijsen",
     "asencio", "alaba", "carreras", "fran garcia", "ferland mendy", "mendy",
@@ -161,32 +188,28 @@ SQUAD = [
 ]
 RM_WORDS += SQUAD
 
-# Player-stat posts ("94 touches, 99% passing accuracy...") are dropped - unless they
-# also carry real news (a final score, an injury, a transfer...)
-STAT_WORDS = ["touches", "passing accuracy", "duels won", "man of the match", "motm",
-              "rating*", "heatmap", "stats", "key passes", "dribbles"]
-
-# How reliable is whoever reported a rumour. Used by the keyword filter and as a guide for the AI.
+# How reliable is whoever reported a rumour
 SOURCE_TIERS = {
     "top": ["fabrizio romano", "here we go", "marca", "diario as", "relevo", "the athletic",
             "mario cortegana", "jose felix diaz", "cadena ser", "el larguero", "cope",
             "arancha rodriguez", "matteo moretto", "david ornstein", "real madrid confirm"],
-    "ok": ["mundo deportivo", "sport", "estadio deportivo", "ok diario", "okdiario", "goal",
+    "ok": ["mundo deportivo", "estadio deportivo", "ok diario", "okdiario", "goal",
            "sky sports", "sky germany", "florian plettenberg", "l'equipe", "rmc sport",
            "bild", "kicker", "gazzetta", "the times", "the guardian", "bbc", "espn"],
     "weak": ["defensa central", "el chiringuito", "chiringuito", "fichajes.net", "fichajes",
              "todofichajes", "el nacional", "caught offside", "football insider", "teamtalk",
-             "the sun", "daily mail", "mirror", "express", "fichajes.com"],
+             "the sun", "daily mail", "mirror", "express"],
 }
 TIER_ICON = {"top": "🟢", "ok": "🟠", "weak": "🔴"}
+
+# every post gets exactly one of these
+TAGS = {"official": "✅ OFFICIAL", "rumour": "🟡 RUMOUR", "fact": "📰 NEWS"}
 
 OPTIONS = {
     "quiet": ("🌙 Quiet at night (23:00-08:00)", True),
     "summary": ("📝 Daily summary (22:00)", True),
     "players_only": ("🎯 Only my players", False),
-    "training": ("🎓 Training mode (rate every post)", False),
 }
-MENU_LABELS = list(CATEGORIES.keys())
 
 
 # ---------------------------------------------------------------------------
@@ -209,15 +232,16 @@ def kw_regex(words):
     return re.compile("|".join(parts)) if parts else None
 
 
-CAT_RE = {label: kw_regex(words) for label, words in CATEGORIES.items()}
-IGNORE_RE = kw_regex(IGNORE)
+# order the backup keyword sorter tries the topics in (most specific first)
+KEYWORD_ORDER = ["injury", "discipline", "transfer", "academy", "lineup", "stats", "match",
+                 "awards", "fixtures", "rivals", "coach", "quotes", "club", "social", "fun"]
+_WORDS = {k: words for k, _, _, words in TOPICS}
+TOPIC_RE = [(k, kw_regex(_WORDS[k])) for k in KEYWORD_ORDER]
 HARD_IGNORE_RE = kw_regex(HARD_IGNORE)
-SOFT_IGNORE_RE = kw_regex(SOFT_IGNORE)
 OFFICIAL_RE = kw_regex(OFFICIAL_MARKERS)
 RUMOUR_RE = kw_regex(RUMOUR_MARKERS)
 RM_RE = kw_regex(RM_WORDS)
 TIER_RE = [(t, w, kw_regex([w])) for t in ("weak", "top", "ok") for w in SOURCE_TIERS[t]]
-STAT_RE = kw_regex(STAT_WORDS)
 SCORE_RE = re.compile(r"(?<![\d.:/])\d{1,2}\s*[-–]\s*\d{1,2}(?![\d.:/%])")
 
 STOP = set("""the a an and or of to in on for with at by from is are was were be been has have
@@ -297,8 +321,8 @@ class Post:
     def __init__(self, src, pid, text, media, too_big, ts=None):
         self.src, self.id, self.text, self.media, self.too_big = src, pid, text, media, too_big
         self.ts = ts  # when it was posted (unix time) or None
-        self.source = self.tier = self.headline = None  # filled in when judged
         self.link = f"https://t.me/{src}/{pid}"
+        self.source = self.tier = self.headline = None  # filled in when sorted
 
 
 def parse_page(src, page_html):
@@ -367,8 +391,8 @@ def save_state(state):
         json.dump(state, f, ensure_ascii=False, indent=1)
 
 
-def is_enabled(state, label):
-    return state.get("enabled", {}).get(label, True)
+def topic_on(state, key):
+    return state.get("topics_on", {}).get(key, True)  # every topic starts ON
 
 
 def opt(state, key):
@@ -380,13 +404,24 @@ def players_re(state):
 
 
 # ---------------------------------------------------------------------------
-# Filtering
+# Sorting a post into a topic
 # ---------------------------------------------------------------------------
-def classify(n):
-    for label, rx in CAT_RE.items():
-        if rx and rx.search(n):
-            return label
-    return None
+def keyword_topic(n):
+    """Backup sorter when the AI is off. A score + match words counts as a match event."""
+    if SCORE_RE.search(n) and re.search(r"full[- ]time|ft:|half[- ]time|ht:|goal|vs", n):
+        return "match"
+    for key, rx in TOPIC_RE:
+        if rx.search(n):
+            return key
+    return "other"
+
+
+def get_status(n, topic):
+    if OFFICIAL_RE.search(n):
+        return "official"
+    if RUMOUR_RE.search(n) and topic in ("transfer", "injury", "coach", "lineup"):
+        return "rumour"
+    return "fact"
 
 
 def detect_source(text, src=""):
@@ -402,23 +437,15 @@ def detect_source(text, src=""):
     if not found:
         return None, None
     _, tier, word = min(found)  # the first outlet mentioned
-    pretty = {"as": "AS", "cope": "COPE", "bbc": "BBC", "espn": "ESPN", "rmc sport": "RMC Sport",
+    pretty = {"cope": "COPE", "bbc": "BBC", "espn": "ESPN", "rmc sport": "RMC Sport",
               "here we go": "Fabrizio Romano", "real madrid confirm": "Real Madrid"}
     return pretty.get(word, word.title()), tier
 
 
-def get_status(n, label):
-    if OFFICIAL_RE.search(n):
-        return "official"
-    if RUMOUR_RE.search(n):
-        return "rumour"
-    return "fact" if label in ("📋 Lineup & Squad", "⚽ Result") else "none"
-
-
-def find_duplicate(state, toks, names, label):
+def find_duplicate(state, toks, names, topic):
     now = time.time()
+    hours = DEDUPE_HOURS_SHORT if topic in FAST_TOPICS else DEDUPE_HOURS
     for s in reversed(state.get("sent", [])):
-        hours = DEDUPE_HOURS_SHORT if label in ("📋 Lineup & Squad", "⚽ Result") else DEDUPE_HOURS
         if now - s["ts"] > hours * 3600:
             continue
         old_names = set(s["names"])
@@ -435,32 +462,8 @@ def in_quiet_hours():
 
 
 # ---------------------------------------------------------------------------
-# AI brain
+# AI sorter (free via Groq, or Claude)
 # ---------------------------------------------------------------------------
-GOAL = """You are the brain of a Telegram bot that runs ONE fan's private Real Madrid news channel.
-His goal: a fast, noise-free channel with only the Real Madrid news that actually matters -
-so he always knows what is happening at the club without scrolling through junk.
-When unsure, think: would a serious Real Madrid fan be glad to get a notification about this?"""
-
-BASE_TASTE = """DEFAULT TASTE
-Send:
-- Injuries, fitness news, players returning, how long someone is out
-- Transfers, contracts, renewals, departures, buy-back clauses - involving Real Madrid's
-  current squad, academy players the club still controls, or serious targets
-- Official lineups and squad lists for Real Madrid matches
-- Real Madrid first-team results and goals
-- Suspensions, red cards, disciplinary decisions
-- Real Madrid coach and board news, and the real news inside press conferences
-- Official Real Madrid announcements
-Skip:
-- Stat lists and ratings with no other news ("94 touches, 99% passing...")
-- Lifestyle: social media, birthdays, holidays, visits, family, fashion, cars
-- Former Real Madrid players' news at other clubs
-- Other clubs' news, and rival officials' quotes or arguments (e.g. Barcelona's president)
-- Opinions, fan reactions, memes, polls, throwbacks, kit leaks, wallpapers, celebrations
-- Ads, betting, promotions, 'join our channel' posts"""
-
-
 def ai_provider():
     if ANTHROPIC_KEY:
         return "claude"
@@ -529,142 +532,68 @@ def call_ai(state, prompt):
     return json.loads(m.group(0))
 
 
-def taste_text(state):
-    """Everything the bot knows about what he likes - goes into every AI question."""
-    parts = [GOAL, "", BASE_TASTE]
-    prefs = state.get("prefs", [])
-    if prefs:
-        parts += ["", "HIS OWN WORDS - these override everything above:"]
-        parts += [f"- {p}" for p in prefs]
-    rules = state.get("rules", [])
-    if rules:
-        parts += ["", "LEARNED FROM HIS FEEDBACK:"] + [f"- {r}" for r in rules]
-    allfb = state.get("feedback", [])
-    misses = [f for f in allfb if f.get("miss")][-6:]   # where I got it wrong teach the most
-    others = [f for f in allfb if not f.get("miss")][-(8 - len(misses)):] if len(misses) < 8 else []
-    fb = others + misses
-    if fb:
-        parts += ["", "RECENT POSTS HE RATED:"]
-        for f in fb:
-            parts.append(f'{"WANTED" if f["v"] == "+" else "NOT WANTED"}: {f["t"][:200]}')
-    players = state.get("players", [])
-    if players:
-        parts += ["", f"His favourite players: {', '.join(players)}"]
-    return "\n".join(parts)
-
-
-def ai_judge(state, text, src=""):
+def ai_sort(state, text, src=""):
+    """Ask the AI for the topic, status, source, duplicate and a short headline."""
     now = time.time()
     recent = [s for s in state.get("sent", []) if now - s["ts"] < DEDUPE_HOURS * 3600][-12:]
-    labels = ", ".join(f'"{l}"' for l in CATEGORIES)
-    lines = [taste_text(state)]
+    lines = ["You sort posts for a Real Madrid fan's Telegram news channel.",
+             "Put the post into exactly ONE topic - the one that best describes what it is about:"]
+    lines += [f'- "{k}": {desc}' for k, _, desc, _ in TOPICS]
     if recent:
-        lines += ["", "ALREADY SENT TO HIS CHANNEL (last 2 days):"]
-        lines += [f'{i}. [{s["status"]}] {s["headline"]}' for i, s in enumerate(recent, 1)]
+        lines += ["", "ALREADY POSTED IN THE CHANNEL (last 2 days):"]
+        lines += [f'{i}. {s["headline"]}' for i, s in enumerate(recent, 1)]
+    if src:
+        lines += ["", f"(The post comes from the Telegram channel @{src}.)"]
     lines += [
         "", "NEW POST:", '"""', text[:1500], '"""', "",
-        "Decide what to do with the new post. Reply with JSON only:",
-        '{"send": true or false,',
-        f' "category": one of {labels},',
-        ' "status": "official" (confirmed by the club, or Fabrizio Romano\'s "here we go") |'
-        ' "rumour" (reports, claims, interest, "could", anything not yet confirmed) |'
-        ' "fact" (already happened and not in doubt: results, lineups, training updates, quotes,'
-        ' what was said in a press conference),',
-        ' "duplicate_of": the number of the already-sent item that is the SAME story'
-        ' (also when this one is the official confirmation of that rumour), or null if it is new'
-        ' or adds important new details,',
-        ' "big": true only for major news worth waking him up at night'
-        ' (official signing or departure, serious injury, coach sacked),',
-        ' "source": the journalist or outlet the news comes from (e.g. "Marca", "Fabrizio Romano")'
-        ' or null if not stated,',
-        ' "source_tier": how reliable that source is for Real Madrid news: "top" (Fabrizio Romano,'
-        ' Marca, AS, Relevo, The Athletic, COPE, Cadena SER, Real Madrid itself) | "ok" (mainstream'
-        ' but less accurate) | "weak" (known for invented stories: Defensa Central, El Chiringuito,'
-        ' Fichajes, tabloids) | null,',
+        "Reply with JSON only:",
+        '{"topic": one of the topic keys above,',
+        ' "ad": true if it is an advertisement, betting promo or "join our channel" post, else false,',
+        ' "status": "official" (confirmed by the club or the person, or Fabrizio Romano\'s "here we go") |'
+        ' "rumour" (reports, claims, interest, anything not confirmed) | "fact" (it already happened'
+        ' and is not in doubt: results, lineups, quotes, training updates, stats, social posts),',
+        ' "duplicate_of": the number of the already-posted item that is the SAME story'
+        ' (also when this one is the official confirmation of that rumour), or null,',
+        ' "big": true only for major news (official signing or departure, serious injury, coach sacked),',
+        ' "source": the journalist or outlet a rumour comes from (e.g. "Marca") or null,',
+        ' "source_tier": "top" (Fabrizio Romano, Marca, AS, Relevo, The Athletic, COPE, Cadena SER)'
+        ' | "ok" (mainstream but less accurate) | "weak" (known for invented stories: Defensa Central,'
+        ' El Chiringuito, Fichajes, tabloids) | null,',
         ' "headline": ' + ('"the key news in max 12 words, English, no emojis"' if len(text) > 350
-                           else 'null') + ',',
-        ' "reason": "why, max 8 words"}',
+                           else "null") + "}",
     ]
-    if src:
-        lines.insert(lines.index("NEW POST:"), f"(The post comes from the Telegram channel @{src}.)")
     out = call_ai(state, "\n".join(lines))
-    label = out.get("category")
-    if label not in CATEGORIES:
-        label = classify(norm(text)) or "📰 Other"
-    status = out.get("status") if out.get("status") in ("official", "rumour", "fact", "none") else "none"
+    topic = out.get("topic") if out.get("topic") in TOPIC_LABEL else keyword_topic(norm(text))
+    status = out.get("status") if out.get("status") in TAGS else "fact"
     dup = None
     d = out.get("duplicate_of")
     if isinstance(d, (int, float)) or (isinstance(d, str) and d.strip().isdigit()):
-        i = int(d)
-        if 1 <= i <= len(recent):
-            dup = recent[i - 1]
-    extra = {"source": out.get("source") if isinstance(out.get("source"), str) else None,
-             "tier": out.get("source_tier") if out.get("source_tier") in TIER_ICON else None,
-             "headline": (str(out.get("headline")).strip()[:120]
-                          if isinstance(out.get("headline"), str) and len(text) > 350 else None)}
-    return (bool(out.get("send")), label, status, dup, bool(out.get("big")),
-            str(out.get("reason", ""))[:80], extra)
-
-
-def learn(state, text, verdict):
-    """After he rates a post, update the short list of learned rules. Returns what changed."""
-    if not ai_provider():
-        return None
-    rules = state.get("rules", [])
-    prefs = state.get("prefs", [])
-    prompt = "\n".join([
-        "You maintain a short list of rules describing one Real Madrid fan's news taste,",
-        "used by a bot that filters news for his channel. Default taste:", BASE_TASTE, "",
-        "His own words (never contradict these): " + ("; ".join(prefs) or "(none)"), "",
-        "Current learned rules:", *([f"{i}. {r}" for i, r in enumerate(rules, 1)] or ["(none)"]), "",
-        f"He just rated this post {'👍 WANTED' if verdict == '+' else '👎 NOT WANTED'}:",
-        '"""', text[:900], '"""', "",
-        "Update the rules so the bot gets posts like this right next time.",
-        "Rules must be general (a TYPE of news, not this exact story), max 15 words each,",
-        "max 12 rules, merge overlapping ones, drop rules this rating proves wrong.",
-        "If the default taste already covers it, you may leave the rules unchanged.",
-        'Reply JSON only: {"rules": [...], "learned": "what you added or changed, max 15 words, or empty"}',
-    ])
-    out = call_ai(state, prompt)
-    new = [str(r).strip()[:160] for r in out.get("rules", []) if str(r).strip()][:12]
-    if new or not rules:
-        state["rules"] = new
-    return str(out.get("learned") or "").strip()
-
-
-def remember_skip(state, post, reason):
-    """Keep the last skipped posts so he can say 'you should have sent this' (/skipped)."""
-    sk = state.setdefault("skipped", [])
-    sk.append({"src": post.src, "id": post.id, "t": post.text[:1200], "m": post.media[:4],
-               "r": reason, "h": headline(post.text, 80)})
-    del sk[:-15]
+        if 1 <= int(d) <= len(recent):
+            dup = recent[int(d) - 1]
+    source = out.get("source") if isinstance(out.get("source"), str) else None
+    tier = out.get("source_tier") if out.get("source_tier") in TIER_ICON else None
+    head = out.get("headline")
+    head = head.strip()[:120] if isinstance(head, str) and head.strip() and len(text) > 350 else None
+    return {"topic": topic, "ad": bool(out.get("ad")), "status": status, "dup": dup,
+            "big": bool(out.get("big")), "source": source, "tier": tier, "headline": head}
 
 
 # ---------------------------------------------------------------------------
 # Sending
 # ---------------------------------------------------------------------------
-# every post gets exactly one of these
-TAGS = {"official": "✅ OFFICIAL", "rumour": "🟡 RUMOUR", "fact": "📰 NEWS", "none": "📰 NEWS"}
-
-
-def send_post(post, label, status, quiet, update, when=None, top=None, markup=None, ids_out=None):
-    """Send a post to the channel. Returns the first message id.
-    top = an extra first line (training guess); markup = buttons; ids_out collects every message id."""
-    ids = ids_out if ids_out is not None else []
-    head = f"<b>{esc(label)}</b>"
+def send_post(post, topic, status, quiet, update, when=None):
+    """Send a post to the channel. Returns the first message id."""
+    head = f"<b>{esc(TOPIC_LABEL.get(topic, topic))}</b>"
     if when:  # older post sent by /backfill - show the original time
         head = f"🕒 {datetime.fromtimestamp(when, TZ):%a %d %b, %H:%M}\n" + head
     if status in TAGS:
         head += f"  ·  {TAGS[status]}"
-    src_name, tier = getattr(post, "source", None), getattr(post, "tier", None)
-    if status == "rumour" and src_name:
-        head += f"  ·  {TIER_ICON.get(tier, '⚪')} {esc(src_name)}"
-    if getattr(post, "headline", None):
-        head += f"\n<b>{esc(post.headline)}</b>"
+    if status == "rumour" and post.source:
+        head += f"  ·  {TIER_ICON.get(post.tier, '⚪')} {esc(post.source)}"
     if update:
         head += "  ·  🔁 now official"
-    if top:
-        head = top + "\n" + head
+    if post.headline:
+        head += f"\n<b>{esc(post.headline)}</b>"
     foot = f'\n\n🔗 <a href="{post.link}">@{post.src}</a>'
     if post.too_big:
         foot += "  ·  🎬 video in source"
@@ -673,7 +602,6 @@ def send_post(post, label, status, quiet, update, when=None, top=None, markup=No
         body = body[: 4000 - len(head) - len(foot)] + "…"
     full = f"{head}\n\n{body}{foot}"
     common = {"chat_id": TARGET, "disable_notification": quiet}
-    btn = {"reply_markup": markup} if markup else {}
 
     media = post.media[:10]
     if media:
@@ -683,7 +611,6 @@ def send_post(post, label, status, quiet, update, when=None, top=None, markup=No
             params = dict(common, **{kind: url, "parse_mode": "HTML"})
             if caption:
                 params["caption"] = caption
-                params.update(btn)
             r = tg("sendPhoto" if kind == "photo" else "sendVideo", **params)
         else:
             items = [{"type": k, "media": u} for k, u in media]
@@ -692,28 +619,19 @@ def send_post(post, label, status, quiet, update, when=None, top=None, markup=No
             r = tg("sendMediaGroup", media=items, **common)
         if r.get("ok"):
             res = r["result"] if isinstance(r["result"], list) else [r["result"]]
-            ids += [m["message_id"] for m in res]
-            first_id = ids[0]
-            if not caption:  # text too long for a caption -> send it right after (with the buttons)
-                r2 = tg("sendMessage", text=full, parse_mode="HTML",
-                        link_preview_options={"is_disabled": True},
-                        reply_parameters={"message_id": first_id}, **common, **btn)
-                if r2.get("ok"):
-                    ids.append(r2["result"]["message_id"])
-            elif markup and len(media) > 1:  # albums can't carry buttons -> small message under it
-                r2 = tg("sendMessage", text="👆 Rate this post", reply_markup=markup,
-                        reply_parameters={"message_id": first_id}, **common)
-                if r2.get("ok"):
-                    ids.append(r2["result"]["message_id"])
+            first_id = res[0]["message_id"]
+            if not caption:  # text too long for a caption -> send it right after
+                tg("sendMessage", text=full, parse_mode="HTML",
+                   link_preview_options={"is_disabled": True},
+                   reply_parameters={"message_id": first_id}, **common)
             return first_id
         print("  media failed, sending text with a preview of the source instead")
 
     r = tg("sendMessage", text=full, parse_mode="HTML",
-           link_preview_options={"is_disabled": not (media or post.too_big)}, **common, **btn)
+           link_preview_options={"is_disabled": not (media or post.too_big)}, **common)
     if not r.get("ok"):
         raise RuntimeError(f"sending to channel failed: {r.get('description')}")
-    ids.append(r["result"]["message_id"])
-    return ids[0]
+    return r["result"]["message_id"]
 
 
 def my_link(msg_id, fallback):
@@ -725,187 +643,69 @@ def my_link(msg_id, fallback):
 # ---------------------------------------------------------------------------
 # Processing posts
 # ---------------------------------------------------------------------------
-def decide(state, post, rm_only):
-    """Work out what to do with a post. Returns a dict (see keys below)."""
-    d = {"send": False, "label": None, "status": "none", "dup": None, "update": False,
-         "big": False, "reason": "", "how": "keywords", "hard": False, "dup_skip": False}
+def process_post(state, post, rm_only, backfill=False):
+    """Sort one post into a topic and post it if that topic is on. Returns a log line."""
     if not post.text:
-        return dict(d, hard=True, reason="no text")
+        return "skip: no text"
     n = norm(post.text)
     prx = players_re(state)
     if HARD_IGNORE_RE.search(n):
-        return dict(d, hard=True, reason="ad/promo")
+        return "skip: ad"
     if rm_only and not (RM_RE.search(n) or (prx and prx.search(n))):
-        return dict(d, hard=True, reason="not Real Madrid")
-    toks, names = tokens(post.text), names_of(post.text)
+        return "skip: not Real Madrid"
 
-    verdict = None
+    post.source, post.tier = detect_source(post.text, post.src)
+    info = None
     if ai_provider():
         try:
-            verdict = ai_judge(state, post.text, post.src)
+            info = ai_sort(state, post.text, post.src)
             health_ok(state, "_ai")
         except Exception as e:
             print(f"  AI unavailable ({e}) - using keywords")
             ai_failed(state, e)
-    post.source, post.tier, post.headline = detect_source(post.text, post.src) + (None,)
-    if verdict:
-        send, label, status, dup, big, reason, extra = verdict
-        d.update(send=send, label=label, status=status, dup=dup, big=big, reason=reason, how="AI")
-        if extra["source"]:
-            post.source = extra["source"][:30]
-            post.tier = extra["tier"] or detect_source(extra["source"])[1] or post.tier
-        post.headline = extra["headline"]
-        if send and not dup:
-            d["dup"] = find_duplicate(state, toks, names, label)
+    if info:
+        how = "AI"
+        if info["ad"]:
+            return "skip: ad [AI]"
+        topic, status, dup, big = info["topic"], info["status"], info["dup"], info["big"]
+        if info["source"]:
+            post.source = info["source"][:30]
+            post.tier = info["tier"] or detect_source(info["source"])[1] or post.tier
+        post.headline = info["headline"]
     else:
-        label = classify(n)
-        d.update(label=label or "📰 Other")
-        if SOFT_IGNORE_RE.search(n):
-            d["reason"] = "lifestyle"
-        elif not label:
-            d["reason"] = "no important keywords"
-        elif label in NEEDS_RM and not (RM_RE.search(n) or (prx and prx.search(n))):
-            d["reason"] = "not about Real Madrid"
-        elif label == "⚽ Result" and STAT_RE.search(n) and not SCORE_RE.search(n):
-            d["reason"] = "player stats"
+        how = "keywords"
+        topic = keyword_topic(n)
+        status = get_status(n, topic)
+        dup, big = None, status == "official" and topic in BIG_TOPICS
+
+    label = TOPIC_LABEL[topic]
+    if not topic_on(state, topic):
+        return f"skip: {label} is off [{how}]"
+    if opt(state, "players_only") and prx and topic not in TEAM_TOPICS and not prx.search(n):
+        return f"skip: {label} - not about your players"
+
+    toks, names = tokens(post.text), names_of(post.text)
+    dup = dup or find_duplicate(state, toks, names, topic)
+    update = False
+    if dup:
+        if status == "official" and dup.get("status") != "official":
+            update = True
+            dup["superseded"] = True  # the summary shows only the official version
         else:
-            status = get_status(n, label)
-            d.update(send=True, status=status, dup=find_duplicate(state, toks, names, label),
-                     big=status == "official" and label in URGENT, reason="important keywords")
+            return f"skip: duplicate [{how}]"
 
-    if d["send"] and not is_enabled(state, d["label"]):
-        d.update(send=False, reason=f"{d['label']} is turned off")
-    if (d["send"] and opt(state, "players_only") and prx and d["label"] not in PLAYER_EXEMPT
-            and not prx.search(n)):
-        d.update(send=False, reason="not about your players")
-    if d["send"] and d["dup"]:
-        if d["status"] == "official" and d["dup"]["status"] != "official":
-            d["update"] = True
-        else:
-            d.update(send=False, reason="duplicate", dup_skip=True)
-    return d
-
-
-def publish(state, post, label, status, big=False, update=False, dup=None, backfill=False,
-            top=None, markup=None, ids_out=None, remember=True, quiet=None):
-    """Send a post to the channel and remember it."""
-    if update and dup:
-        dup["superseded"] = True  # the summary shows only the official version
-    if quiet is None:
-        quiet = backfill or (opt(state, "quiet") and in_quiet_hours() and not big)
+    quiet = backfill or (opt(state, "quiet") and in_quiet_hours() and not big)
     when = post.ts if backfill else None
-    msg_id = send_post(post, label, status, quiet, update, when, top, markup, ids_out)
-    if not remember:
-        return quiet
+    msg_id = send_post(post, topic, status, quiet, update, when)
     posted = datetime.fromtimestamp(when, TZ) if when else datetime.now(TZ)
     state.setdefault("sent", []).append({
         "ts": time.time(), "date": posted.date().isoformat(),
-        "tokens": sorted(tokens(post.text)), "names": sorted(names_of(post.text)),
-        "cat": label, "status": status,
-        "headline": getattr(post, "headline", None) or headline(post.text),
-        "link": my_link(msg_id, post.link),
+        "tokens": sorted(toks), "names": sorted(names), "cat": topic, "status": status,
+        "headline": post.headline or headline(post.text), "link": my_link(msg_id, post.link),
     })
-    return quiet
-
-
-def process_post(state, post, rm_only, backfill=False, force=None):
-    """Decide about one post and send it if it's worth it. Returns a short log line.
-    force=(label, status) skips the judging (used when he asks to post a skipped item)."""
-    if force:
-        if not post.text:
-            return "skip: no text"
-        publish(state, post, force[0], force[1])
-        return f"SENT {force[0]} {force[1]} [you]"
-
-    d = decide(state, post, rm_only)
-    if d["hard"]:
-        return f"skip: {d['reason']}"
-    if opt(state, "training") and state.get("train_in_channel", True) and not backfill:
-        if d["dup_skip"]:
-            return "skip: duplicate"
-        return train_in_channel(state, post, d)
-    if opt(state, "training") and not backfill and not d["dup_skip"]:
-        try:
-            send_training_card(state, post, d)
-        except Exception as e:
-            print(f"  training card failed: {e}")
-    if not d["send"]:
-        if not d["dup_skip"]:
-            remember_skip(state, post, d["reason"])
-        return f"skip ({d['how']}): {d['reason']}"
-    quiet = publish(state, post, d["label"], d["status"], d["big"], d["update"], d["dup"], backfill)
-    return f"SENT {d['label']} {d['status']} [{d['how']}]" + (" (silent)" if quiet else "")
-
-
-# ---------------------------------------------------------------------------
-# Training mode: every post goes to his private chat with 👍/👎, showing my guess
-# ---------------------------------------------------------------------------
-def send_training_card(state, post, d):
-    owner = OWNER_ID or state.get("owner")
-    if not owner:
-        return
-    if d["send"]:
-        guess = f"I'd SEND it · {esc(d['label'])}" + (f" · {TAGS[d['status']]}" if d["status"] in TAGS else "")
-        icon = "✅"
-    else:
-        guess = f"I'd SKIP it · <i>{esc(d['reason'] or 'not important')}</i>"
-        icon = "🙈"
-    body = esc(post.text[:3300]) + ("…" if len(post.text) > 3300 else "")
-    text = (f"🎓 {icon} {guess}\n\n{body}\n\n"
-            f'🔗 <a href="{post.link}">@{post.src}</a>')
-    seq = state.get("train_seq", 0) + 1
-    state["train_seq"] = seq
-    pend = state.setdefault("train_pending", {})
-    pend[str(seq)] = {"t": post.text[:1200], "ai": d["send"], "label": d["label"] or "📰 Other",
-                      "status": d["status"], "src": post.src, "id": post.id,
-                      "m": post.media[:4], "reason": d["reason"]}
-    while len(pend) > 150:
-        pend.pop(next(iter(pend)))
-    tg("sendMessage", chat_id=int(owner), text=text, parse_mode="HTML",
-       disable_notification=True,  # don't buzz his phone for every training post
-       link_preview_options={"url": post.link, "prefer_small_media": True,
-                             "is_disabled": not (post.media or post.too_big)},
-       reply_markup={"inline_keyboard": [[
-           {"text": "👍 Want it", "callback_data": f"tr:{seq}:+"},
-           {"text": "👎 Don't want", "callback_data": f"tr:{seq}:-"}]]})
-
-
-def guess_line(d):
-    if d["send"]:
-        return "🎓 ✅ <i>I'd send this</i>"
-    return f"🎓 🙈 <i>I'd skip this - {esc(d['reason'] or 'not important')}</i>"
-
-
-def train_in_channel(state, post, d):
-    """Training in the channel: post EVERYTHING with my guess and 👍/👎 (only he can press them)."""
-    seq = state.get("train_seq", 0) + 1
-    state["train_seq"] = seq
-    label = d["label"] or "📰 Other"
-    markup = {"inline_keyboard": [[
-        {"text": "👍 Want it", "callback_data": f"tr:{seq}:+"},
-        {"text": "👎 Don't want", "callback_data": f"tr:{seq}:-"}]]}
-    # things I'd skip arrive silently, things I'd send follow the normal night rules
-    quiet = True if not d["send"] else None
-    ids = []
-    publish(state, post, label, d["status"], d["big"], d["update"], d["dup"],
-            top=guess_line(d), markup=markup, ids_out=ids, remember=d["send"], quiet=quiet)
-    pend = state.setdefault("train_pending", {})
-    pend[str(seq)] = {"t": post.text[:1200], "ai": d["send"], "label": label,
-                      "status": d["status"], "src": post.src, "id": post.id,
-                      "m": post.media[:4], "reason": d["reason"], "ch": ids}
-    while len(pend) > 300:
-        pend.pop(next(iter(pend)))
-    return f"TRAIN {'send' if d['send'] else 'skip'} {label} [{d['how']}]"
-
-
-def training_stats_text(state):
-    st = state.get("train_stats", {})
-    n, recent = st.get("n", 0), st.get("recent", [])
-    if not n:
-        return "no ratings yet"
-    r = recent[-20:]
-    return (f"you rated {n} · I agreed with you {sum(r)}/{len(r)} "
-            f"({round(100 * sum(r) / len(r))}%) of the last {len(r)}")
+    stats = state.setdefault("topic_count", {})
+    stats[topic] = stats.get(topic, 0) + 1
+    return f"SENT {label} {status} [{how}]" + (" (silent)" if quiet else "")
 
 
 def check_source(state, src, rm_only):
@@ -927,8 +727,7 @@ def check_source(state, src, rm_only):
 
 
 def run_backfill(state, deadline):
-    """Send important posts from the last N hours (started by /backfill).
-    Works in pieces: if time runs out it continues in the next run."""
+    """Post the last N hours again (started by /backfill). Continues next run if time runs out."""
     bf = state.get("backfill")
     if not bf:
         return
@@ -941,9 +740,8 @@ def run_backfill(state, deadline):
             continue
         upto = bf["upto"].get(src, 0)
 
-        # page back through the channel until we pass the cutoff time
         found, before = {}, until + 1
-        for _ in range(40):
+        for _ in range(40):  # page back through the channel until we pass the cutoff time
             page = fetch_posts(src, before=before)
             if not page:
                 break
@@ -970,10 +768,7 @@ def run_backfill(state, deadline):
             save_state(state)
         bf["done"].append(src)
 
-    owner = OWNER_ID or state.get("owner")
-    if owner:
-        tg("sendMessage", chat_id=int(owner),
-           text=f"✅ Done! Sent {bf['sent']} important posts from the last {bf['hours']} hours.")
+    notify_owner(state, f"✅ Done! Posted {bf['sent']} posts from the last {bf['hours']} hours.")
     state.pop("backfill", None)
     print(f"[backfill] finished, {bf['sent']} sent")
 
@@ -984,12 +779,12 @@ def summary_text(state):
     items = [s for s in state.get("sent", []) if s["date"] == today and not s.get("superseded")]
     lines = [f"<b>📝 Daily summary · {now:%a %d %b}</b>"]
     if not items:
-        lines.append("\nA quiet day - nothing important.")
-    for label in CATEGORIES:
-        group = [s for s in items if s["cat"] == label]
+        lines.append("\nA quiet day - nothing posted.")
+    for key in TOPIC_KEYS:
+        group = [s for s in items if s.get("cat") == key]
         if not group:
             continue
-        lines.append(f"\n<b>{esc(label)}</b>")
+        lines.append(f"\n<b>{esc(TOPIC_LABEL[key])}</b>")
         for s in group:
             tag = {"official": "✅ ", "rumour": "🟡 "}.get(s["status"], "")
             line = f'• {tag}<a href="{s["link"]}">{esc(s["headline"])}</a>'
@@ -1017,35 +812,111 @@ def prune(state):
 
 
 # ---------------------------------------------------------------------------
+# Health: tell him when something breaks (and when it's fixed)
+# ---------------------------------------------------------------------------
+SOURCE_ALERT_MIN = 120  # a channel unreadable this long -> alert
+AI_ALERT_MIN = 60       # the AI failing this long -> alert
+
+
+def notify_owner(state, text):
+    owner = OWNER_ID or state.get("owner")
+    if owner:
+        tg("sendMessage", chat_id=int(owner), text=text)
+
+
+def health_ok(state, key):
+    h = state.setdefault("health", {}).get(key)
+    if not h:
+        return
+    if h.get("alerted"):
+        name = "The AI sorter" if key == "_ai" else f"@{key}"
+        notify_owner(state, f"✅ Fixed: {name} is working again.")
+    state["health"].pop(key, None)
+
+
+def health_fail(state, key, err, alert_after_min, message):
+    h = state.setdefault("health", {}).setdefault(key, {"since": time.time()})
+    h["err"] = str(err)[:150]
+    if not h.get("alerted") and time.time() - h["since"] >= alert_after_min * 60:
+        h["alerted"] = True
+        notify_owner(state, message)
+
+
+def ai_failed(state, e):
+    if "daily AI limit" in str(e):
+        today = datetime.now(TZ).date().isoformat()
+        if state.get("limit_alert") != today:
+            state["limit_alert"] = today
+            notify_owner(state, "🧠 I used today's free AI allowance - until midnight I sort posts "
+                                "with keywords (a bit less accurate). It resets by itself.")
+        return
+    health_fail(state, "_ai", e, AI_ALERT_MIN,
+                f"⚠️ The AI sorter hasn't worked for {AI_ALERT_MIN} minutes - I'm sorting with "
+                f"keywords meanwhile, so the channel keeps running.\nError: {str(e)[:150]}\n"
+                "If it lasts a day, check the GROQ_API_KEY in GitHub.")
+
+
+def health_text(state):
+    h = state.get("health", {})
+    if not h:
+        return "✅ All sources and the AI are working"
+    out = []
+    for k, v in h.items():
+        mins = int((time.time() - v["since"]) / 60)
+        out.append(f"⚠️ {'AI sorter' if k == '_ai' else '@' + k}: failing for {mins} min")
+    return "\n".join(out)
+
+
+# ---------------------------------------------------------------------------
 # Settings menu (private chat with the bot)
 # ---------------------------------------------------------------------------
 def menu_text(state):
     players = state.get("players", [])
-    p = ", ".join(players) if players else "(empty)"
+    off = [TOPIC_LABEL[k] for k in TOPIC_KEYS if not topic_on(state, k)]
     return (
-        "⚙️ <b>Settings</b> - tap to turn on ✅ / off ❌\n\n"
-        f"🎯 My players: {esc(p)}\n"
-        "/add Vinicius, Mbappe - add players\n"
-        "/remove Mbappe - remove\n"
-        "/backfill 48 - post the important news from the last 48 hours\n"
-        "/summary - preview today's summary\n\n"
-        "🧠 <b>Teach me</b>\n"
-        "• Forward me any post → rate it 👍/👎\n"
-        "• Just write what you want, e.g. <i>I don't care about loaned players</i>\n"
-        "• /skipped - posts I didn't send (tell me if I missed something)\n"
-        "• /train - training: every post goes to the channel with 👍/👎 so I learn fast\n"
-        "• /brain - what I've learned about you"
+        "⚙️ <b>Topics</b> - every Real Madrid post goes into one topic.\n"
+        "Tap to turn a topic on ✅ / off ❌\n\n"
+        f"Off right now: {esc(', '.join(off)) if off else 'nothing - you get everything'}\n"
+        f"🎯 My players: {esc(', '.join(players)) if players else '(none)'}\n\n"
+        "/add Vinicius - add a player · /remove Vinicius\n"
+        "/summary - today's summary · /backfill 24 - repost the last 24h\n"
+        "/status - is everything working?"
     )
 
 
 def menu_markup(state):
-    rows = [[{"text": f"{'✅' if is_enabled(state, l) else '❌'} {l}", "callback_data": f"t:{i}"}]
-            for i, l in enumerate(MENU_LABELS)]
-    rows += [[{"text": f"{'✅' if opt(state, k) else '❌'} {name}", "callback_data": f"o:{k}"}]
-             for k, (name, _) in OPTIONS.items()]
+    rows, row = [], []
+    for key in TOPIC_KEYS:
+        mark = "✅" if topic_on(state, key) else "❌"
+        row.append({"text": f"{mark} {TOPIC_LABEL[key]}", "callback_data": f"t:{key}"})
+        if len(row) == 2:
+            rows.append(row)
+            row = []
+    if row:
+        rows.append(row)
     rows.append([{"text": "✅ All topics on", "callback_data": "all:1"},
                  {"text": "❌ All topics off", "callback_data": "all:0"}])
+    rows += [[{"text": f"{'✅' if opt(state, k) else '❌'} {name}", "callback_data": f"o:{k}"}]
+             for k, (name, _) in OPTIONS.items()]
     return {"inline_keyboard": rows}
+
+
+def status_text(state):
+    prov = ai_provider()
+    u = ai_usage(state)
+    lines = ["📡 <b>Status</b>", health_text(state)]
+    if prov:
+        name = "Claude" if prov == "claude" else f"Groq ({AI_MODEL})"
+        lines.append(f"🧠 AI sorter: ON - {esc(name)} · today {u['calls']} posts sorted")
+    else:
+        lines.append("🧠 AI sorter: OFF - sorting with keywords (add GROQ_API_KEY to turn it on)")
+    lines.append("Sources: " + ", ".join(f"@{s}" + (" (Madrid only)" if rm else "")
+                                         for s, rm in SOURCES))
+    counts = state.get("topic_count", {})
+    if counts:
+        top = sorted(counts.items(), key=lambda kv: -kv[1])[:6]
+        lines.append("Most posted: " + ", ".join(f"{TOPIC_LABEL.get(k, k)} {v}" for k, v in top))
+    return "\n".join(lines)
 
 
 def is_owner(state, uid):
@@ -1061,76 +932,8 @@ def show_menu(state, chat_id):
        reply_markup=menu_markup(state))
 
 
-def clean_forward(t):
-    """Remove our own header/footer lines from a forwarded channel post."""
-    keep = []
-    for line in t.splitlines():
-        s = line.strip()
-        if s.startswith(("🕒", "🔗")) or any(l in s for l in CATEGORIES):
-            continue
-        keep.append(line)
-    return "\n".join(keep).strip()
-
-
-def brain_text(state):
-    prov = ai_provider()
-    u = ai_usage(state)
-    fb = state.get("feedback", [])
-    lines = ["🧠 <b>My brain</b>"]
-    if prov:
-        name = "Claude" if prov == "claude" else f"Groq ({AI_MODEL})"
-        lines.append(f"Status: ON - {esc(name)}")
-        lines.append(f"Today: {u['calls']} AI checks, {u['tokens']:,} tokens")
-    else:
-        lines.append("Status: OFF - using the keyword filter (add GROQ_API_KEY to turn me on)")
-    where = " (in channel)" if state.get("train_in_channel", True) else " (private chat)"
-    lines.append(f"🎓 Training mode: {'ON' + where if opt(state, 'training') else 'off'} - "
-                 f"{training_stats_text(state)}")
-    lines.append(health_text(state))
-    lines.append(f"Posts you rated: {sum(f['v'] == '-' for f in fb)} 👎, "
-                 f"{sum(f['v'] == '+' for f in fb)} 👍")
-    prefs = state.get("prefs", [])
-    lines.append("\n<b>Your words</b> (/unprefer 2 to remove):")
-    lines += [f"{i}. {esc(p)}" for i, p in enumerate(prefs, 1)] or ["(none yet - just write to me)"]
-    rules = state.get("rules", [])
-    lines.append("\n<b>What I learned from your ratings</b> (/forget 2 or /forget all):")
-    lines += [f"{i}. {esc(r)}" for i, r in enumerate(rules, 1)] or ["(nothing yet - forward me posts)"]
-    return "\n".join(lines)
-
-
-def skipped_markup(sk):
-    rows, row = [], []
-    for i, _ in enumerate(sk, 1):
-        row.append({"text": f"👍 {i}", "callback_data": f"sk:{i - 1}"})
-        if len(row) == 5:
-            rows.append(row)
-            row = []
-    if row:
-        rows.append(row)
-    return {"inline_keyboard": rows}
-
-
 def handle_message(state, m):
     uid, text = m["from"]["id"], (m.get("text") or "").strip()
-
-    # a forwarded post -> ask whether he wants posts like it
-    if m.get("forward_origin") or m.get("forward_date") or m.get("forward_from_chat"):
-        ftext = clean_forward(m.get("text") or m.get("caption") or "")
-        if not ftext:
-            tg("sendMessage", chat_id=uid, text="I can only learn from posts that have text.")
-            return
-        pend = state.setdefault("pending_fb", {})
-        key = str(m["message_id"])
-        pend[key] = ftext[:1200]
-        while len(pend) > 20:
-            pend.pop(next(iter(pend)))
-        tg("sendMessage", chat_id=uid, text="What about posts like this one?",
-           reply_parameters={"message_id": m["message_id"]},
-           reply_markup={"inline_keyboard": [[
-               {"text": "👎 Not interested", "callback_data": f"fb:{key}:-"},
-               {"text": "👍 More like this", "callback_data": f"fb:{key}:+"}]]})
-        return
-
     cmd, _, arg = text.partition(" ")
     cmd = cmd.split("@")[0].lower()
     players = state.setdefault("players", [])
@@ -1148,9 +951,9 @@ def handle_message(state, m):
         drop = {norm(n) for n in names}
         state["players"] = [p for p in players if norm(p) not in drop]
         tg("sendMessage", chat_id=uid,
-           text=f"🗑 Removed. My players: {', '.join(state['players']) or '(empty)'}")
+           text=f"🗑 Removed. My players: {', '.join(state['players']) or '(none)'}")
     elif cmd == "/players":
-        tg("sendMessage", chat_id=uid, text=f"🎯 My players: {', '.join(players) or '(empty)'}")
+        tg("sendMessage", chat_id=uid, text=f"🎯 My players: {', '.join(players) or '(none)'}")
     elif cmd == "/backfill":
         hours = int(arg) if arg.strip().isdigit() else 48
         hours = max(1, min(hours, 72))
@@ -1159,81 +962,13 @@ def handle_message(state, m):
             "until": dict(state.get("last_post", {})), "upto": {}, "done": [], "sent": 0,
         }
         tg("sendMessage", chat_id=uid, text=(
-            f"⏳ OK! In the next few minutes I'll post the important news from the last "
-            f"{hours} hours to the channel (silently, with the original time). "
-            "I'll tell you when it's done."))
+            f"⏳ OK! I'll post the last {hours} hours to the channel (only topics that are on, "
+            "silently, with the original time). I'll tell you when it's done."))
     elif cmd == "/summary":
         tg("sendMessage", chat_id=uid, text=summary_text(state), parse_mode="HTML",
            link_preview_options={"is_disabled": True})
-    elif cmd == "/train":
-        a = arg.strip().lower()
-        if a in ("off", "0", "stop", "no"):
-            state.setdefault("opts", {})["training"] = False
-            tg("sendMessage", chat_id=uid,
-               text=f"🎓 Training mode OFF - the channel is filtered again.\nStats: {training_stats_text(state)}.")
-        else:
-            private = a in ("private", "dm", "here")
-            state.setdefault("opts", {})["training"] = True
-            state["train_in_channel"] = not private
-            if private:
-                where = ("I'll send you <b>every</b> Real Madrid post here in our chat (silently), "
-                         "with my guess. Your channel stays filtered as usual.")
-            else:
-                where = ("Your channel now gets <b>every</b> Real Madrid post (no filter), "
-                         "each with my guess on top:\n"
-                         "🎓 ✅ <i>I'd send this</i>  or  🎓 🙈 <i>I'd skip this</i>\n\n"
-                         "👍 = keep it in the channel\n"
-                         "👎 = it's removed from the channel\n"
-                         "Only you can press the buttons. Posts I'd skip arrive silently.")
-            tg("sendMessage", chat_id=uid, parse_mode="HTML", text=(
-                "🎓 <b>Training mode ON</b>\n\n" + where + "\n\n"
-                "Every time I guessed wrong I learn a rule and tell you here.\n"
-                "Progress: /brain · Stop: /train off"
-                + ("" if private else " · Train in our private chat instead: /train private")))
-    elif cmd == "/brain":
-        tg("sendMessage", chat_id=uid, text=brain_text(state), parse_mode="HTML")
-    elif cmd == "/prefer" and arg.strip():
-        state.setdefault("prefs", []).append(arg.strip()[:200])
-        tg("sendMessage", chat_id=uid, text=f"🧠 Saved: \"{arg.strip()[:200]}\"\nSee everything with /brain")
-    elif cmd == "/unprefer":
-        prefs = state.setdefault("prefs", [])
-        i = int(arg) if arg.strip().isdigit() else 0
-        if 1 <= i <= len(prefs):
-            gone = prefs.pop(i - 1)
-            tg("sendMessage", chat_id=uid, text=f"🗑 Removed: \"{gone}\"")
-        else:
-            tg("sendMessage", chat_id=uid, text="Which one? See the numbers in /brain, then e.g. /unprefer 2")
-    elif cmd == "/forget":
-        rules = state.setdefault("rules", [])
-        if arg.strip().lower() == "all":
-            state["rules"], state["feedback"] = [], []
-            tg("sendMessage", chat_id=uid, text="🧹 Forgot everything I learned from your ratings.")
-        elif arg.strip().isdigit() and 1 <= int(arg) <= len(rules):
-            gone = rules.pop(int(arg) - 1)
-            tg("sendMessage", chat_id=uid, text=f"🗑 Forgot: \"{gone}\"")
-        else:
-            tg("sendMessage", chat_id=uid, text="Which one? See the numbers in /brain, then e.g. /forget 2")
-    elif cmd == "/skipped":
-        sk = state.get("skipped", [])[-10:]
-        if not sk:
-            tg("sendMessage", chat_id=uid, text="Nothing skipped recently.")
-        else:
-            lines = ["🙈 <b>Posts I didn't send</b> - tap 👍 if I should have (I'll post it and learn):\n"]
-            for i, x in enumerate(sk, 1):
-                lines.append(f'{i}. <a href="https://t.me/{x["src"]}/{x["id"]}">{esc(x["h"])}</a>'
-                             f'\n    <i>{esc(x["r"])}</i>')
-            state["skipped_view"] = sk
-            tg("sendMessage", chat_id=uid, text="\n".join(lines), parse_mode="HTML",
-               link_preview_options={"is_disabled": True}, reply_markup=skipped_markup(sk))
-    elif text and not text.startswith("/"):
-        # plain words = a preference in his own words
-        prefs = state.setdefault("prefs", [])
-        prefs.append(text[:200])
-        tg("sendMessage", chat_id=uid, parse_mode="HTML",
-           text=f"🧠 Got it, I'll remember:\n<i>{esc(text[:200])}</i>\n\n"
-                "(/brain shows everything I know · /settings for the menu)",
-           reply_markup={"inline_keyboard": [[
-               {"text": "↩️ Undo", "callback_data": f"up:{len(prefs) - 1}"}]]})
+    elif cmd == "/status":
+        tg("sendMessage", chat_id=uid, text=status_text(state), parse_mode="HTML")
     else:
         show_menu(state, uid)
 
@@ -1241,152 +976,29 @@ def handle_message(state, m):
 def handle_callback(state, q):
     kind, _, val = (q.get("data") or ":").partition(":")
     chat, msg_id = q["message"]["chat"]["id"], q["message"]["message_id"]
-
-    if kind == "noop":
-        tg("answerCallbackQuery", callback_query_id=q["id"])
+    if kind in ("tr", "fb", "sk", "up", "noop"):  # buttons from the old version
+        tg("answerCallbackQuery", callback_query_id=q["id"],
+           text="This button is from the old version - use /settings")
+        tg("editMessageReplyMarkup", chat_id=chat, message_id=msg_id,
+           reply_markup={"inline_keyboard": []})
         return
-
-    if kind == "tr":  # rated a training card
-        key, _, v = val.partition(":")
-        x = state.get("train_pending", {}).pop(key, None)
-        if x is None:
-            tg("answerCallbackQuery", callback_query_id=q["id"], text="Already saved ✔")
-            return
-        wanted = v == "+"
-        agree = wanted == x["ai"]
-        fb = state.setdefault("feedback", [])
-        fb.append({"t": x["t"], "v": v, "miss": not agree})
-        del fb[:-40]
-        st = state.setdefault("train_stats", {"n": 0, "recent": []})
-        st["n"] = st.get("n", 0) + 1
-        st.setdefault("recent", []).append(1 if agree else 0)
-        del st["recent"][:-50]
-
-        owner = OWNER_ID or state.get("owner")
-        if x.get("ch"):  # the card is a post in the channel
-            if wanted:
-                if not x["ai"]:  # keep it in the summary / duplicate memory
-                    state.setdefault("sent", []).append({
-                        "ts": time.time(), "date": datetime.now(TZ).date().isoformat(),
-                        "tokens": sorted(tokens(x["t"])), "names": sorted(names_of(x["t"])),
-                        "cat": x["label"], "status": x.get("status") or "none",
-                        "headline": headline(x["t"]), "link": my_link(x["ch"][0], "")})
-                if (q["message"].get("text") or "") == "👆 Rate this post":
-                    tg("deleteMessage", chat_id=chat, message_id=msg_id)  # helper under an album
-                else:
-                    tg("editMessageReplyMarkup", chat_id=chat, message_id=msg_id,
-                       reply_markup={"inline_keyboard": []})
-            else:  # he doesn't want it -> remove it from the channel
-                for mid in x["ch"]:
-                    tg("deleteMessage", chat_id=chat, message_id=mid)
-                for srec in state.get("sent", []):
-                    if srec.get("link", "").endswith(f"/{x['ch'][0]}"):
-                        srec["superseded"] = True
-            verdict = "✓ same as me" if agree else "✗ I got it wrong - learning"
-            tg("answerCallbackQuery", callback_query_id=q["id"],
-               text=f"{'👍 Kept' if wanted else '👎 Removed'} · {verdict}")
-            if not agree:
-                try:
-                    learned = learn(state, x["t"], v)
-                    if learned and owner:
-                        tg("sendMessage", chat_id=int(owner), disable_notification=True,
-                           text=f"🧠 Learned: {learned}\n(from: {headline(x['t'], 70)})")
-                except Exception as e:
-                    print(f"learn failed: {e}")
-            return
-
-        note = ""
-        if wanted and not x["ai"]:  # I skipped it but he wanted it -> post it now
-            post = Post(x["src"], x["id"], x["t"], [tuple(mm) for mm in x.get("m", [])], False)
-            n = norm(x["t"])
-            label = x["label"] if x["label"] in CATEGORIES else (classify(n) or "📰 Other")
-            try:
-                publish(state, post, label, x.get("status") or get_status(n, label))
-                note = " · posted to channel"
-            except Exception as e:
-                print(f"post failed: {e}")
-        verdict = "✓ same as me" if agree else "✗ I got it wrong - learning"
-        tg("answerCallbackQuery", callback_query_id=q["id"], text=f"Saved · {verdict}")
-        tg("editMessageReplyMarkup", chat_id=chat, message_id=msg_id, reply_markup={
-            "inline_keyboard": [[{"text": f"{'👍' if wanted else '👎'} saved · {verdict}{note}",
-                                  "callback_data": "noop"}]]})
-        if not agree:
-            try:
-                learned = learn(state, x["t"], v)
-                if learned:
-                    tg("sendMessage", chat_id=chat, text=f"🧠 Learned: {learned}",
-                       reply_parameters={"message_id": msg_id}, disable_notification=True)
-            except Exception as e:
-                print(f"learn failed: {e}")
-        return
-
-    if kind == "fb":  # rated a forwarded post
-        key, _, v = val.partition(":")
-        t = state.get("pending_fb", {}).pop(key, None)
-        tg("answerCallbackQuery", callback_query_id=q["id"], text="Thanks!")
-        if t is None:
-            tg("editMessageText", chat_id=chat, message_id=msg_id, text="Already saved ✔")
-            return
-        fb = state.setdefault("feedback", [])
-        fb.append({"t": t, "v": v})
-        del fb[:-30]
-        msg = "👍 Got it - more like this." if v == "+" else "👎 Got it - I'll skip posts like this."
-        try:
-            learned = learn(state, t, v)
-            if learned:
-                msg += f"\n🧠 Learned: {learned}"
-        except Exception as e:
-            print(f"learn failed: {e}")
-        if not ai_provider():
-            msg += "\n(I'll use this once the AI brain is turned on.)"
-        tg("editMessageText", chat_id=chat, message_id=msg_id, text=msg)
-        return
-
-    if kind == "up":  # undo a preference
-        prefs = state.setdefault("prefs", [])
-        i = int(val) if val.isdigit() else -1
-        if 0 <= i < len(prefs):
-            prefs.pop(i)
-        tg("answerCallbackQuery", callback_query_id=q["id"], text="Undone")
-        tg("editMessageText", chat_id=chat, message_id=msg_id, text="↩️ Undone - forgotten.")
-        return
-
-    if kind == "sk":  # "you should have sent this"
-        view = state.get("skipped_view", [])
-        i = int(val) if val.isdigit() else -1
-        tg("answerCallbackQuery", callback_query_id=q["id"], text="Posting it and learning…")
-        if 0 <= i < len(view) and not view[i].get("done"):
-            x = view[i]
-            x["done"] = True
-            fb = state.setdefault("feedback", [])
-            fb.append({"t": x["t"][:1200], "v": "+"})
-            del fb[:-30]
-            post = Post(x["src"], x["id"], x["t"], [tuple(mm) for mm in x.get("m", [])], False)
-            n = norm(x["t"])
-            label = classify(n) or "📰 Other"
-            res = process_post(state, post, False, force=(label, get_status(n, label)))
-            msg = f"✅ Posted #{i + 1} to the channel." if res.startswith("SENT") else f"Couldn't post #{i + 1}."
-            try:
-                learned = learn(state, x["t"], "+")
-                if learned:
-                    msg += f"\n🧠 Learned: {learned}"
-            except Exception as e:
-                print(f"learn failed: {e}")
-            tg("sendMessage", chat_id=chat, text=msg)
-        return
-
-    enabled = state.setdefault("enabled", {})
+    topics_on = state.setdefault("topics_on", {})
     opts = state.setdefault("opts", {})
-    if kind == "t" and val.isdigit() and int(val) < len(MENU_LABELS):
-        label = MENU_LABELS[int(val)]
-        enabled[label] = not is_enabled(state, label)
+    if kind == "t" and val in TOPIC_LABEL:
+        topics_on[val] = not topic_on(state, val)
+        toast = f"{TOPIC_LABEL[val]}: {'ON ✅' if topics_on[val] else 'OFF ❌'}"
     elif kind == "o" and val in OPTIONS:
         opts[val] = not opt(state, val)
+        toast = "Saved ✔"
     elif kind == "all":
-        for label in MENU_LABELS:
-            enabled[label] = val == "1"
-    tg("editMessageReplyMarkup", chat_id=chat, message_id=msg_id, reply_markup=menu_markup(state))
-    tg("answerCallbackQuery", callback_query_id=q["id"], text="Saved ✔")
+        for key in TOPIC_KEYS:
+            topics_on[key] = val == "1"
+        toast = "All topics ON ✅" if val == "1" else "All topics OFF ❌"
+    else:
+        toast = "?"
+    tg("editMessageText", chat_id=chat, message_id=msg_id, text=menu_text(state),
+       parse_mode="HTML", reply_markup=menu_markup(state))
+    tg("answerCallbackQuery", callback_query_id=q["id"], text=toast)
 
 
 def handle_updates(state, timeout=0):
@@ -1412,62 +1024,6 @@ def handle_updates(state, timeout=0):
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
-# ---------------------------------------------------------------------------
-# Health: tell him when something breaks (and when it's fixed)
-# ---------------------------------------------------------------------------
-SOURCE_ALERT_MIN = 120  # a channel unreadable this long -> alert
-AI_ALERT_MIN = 60       # the AI failing this long -> alert
-
-
-def notify_owner(state, text):
-    owner = OWNER_ID or state.get("owner")
-    if owner:
-        tg("sendMessage", chat_id=int(owner), text=text)
-
-
-def health_ok(state, key):
-    h = state.setdefault("health", {}).get(key)
-    if not h:
-        return
-    if h.get("alerted"):
-        name = "My AI brain" if key == "_ai" else f"@{key}"
-        notify_owner(state, f"✅ Fixed: {name} is working again.")
-    state["health"].pop(key, None)
-
-
-def health_fail(state, key, err, alert_after_min, message):
-    h = state.setdefault("health", {}).setdefault(key, {"since": time.time()})
-    h["err"] = str(err)[:150]
-    if not h.get("alerted") and time.time() - h["since"] >= alert_after_min * 60:
-        h["alerted"] = True
-        notify_owner(state, message)
-
-
-def ai_failed(state, e):
-    if "daily AI limit" in str(e):
-        today = datetime.now(TZ).date().isoformat()
-        if state.get("limit_alert") != today:
-            state["limit_alert"] = today
-            notify_owner(state, "🧠 I used today's free AI allowance - until midnight I'm using the "
-                                "simpler keyword filter. Nothing to do, it resets by itself.")
-        return
-    health_fail(state, "_ai", e, AI_ALERT_MIN,
-                f"⚠️ My AI brain hasn't worked for {AI_ALERT_MIN} minutes - I'm using the keyword "
-                f"filter meanwhile, so the channel keeps running.\nError: {str(e)[:150]}\n"
-                "If it lasts a day, check the GROQ_API_KEY in GitHub.")
-
-
-def health_text(state):
-    h = {k: v for k, v in state.get("health", {}).items()}
-    if not h:
-        return "✅ All sources and the AI are working"
-    out = []
-    for k, v in h.items():
-        mins = int((time.time() - v["since"]) / 60)
-        out.append(f"⚠️ {'AI brain' if k == '_ai' else '@' + k}: failing for {mins} min")
-    return "\n".join(out)
-
-
 def check_all(state, deadline=None):
     deadline = min(deadline or time.time() + 200, time.time() + 200)
     for src, rm_only in SOURCES:
@@ -1478,8 +1034,8 @@ def check_all(state, deadline=None):
             print(f"{src}: error: {e}")
             health_fail(state, src, e, SOURCE_ALERT_MIN,
                         f"⚠️ I can't read @{src} for {SOURCE_ALERT_MIN // 60} hours.\n"
-                        "Maybe it changed its name or became private. Open "
-                        f"t.me/s/{src} in a browser to check.\nError: {str(e)[:150]}")
+                        f"Maybe it changed its name or became private. Open t.me/s/{src} "
+                        f"in a browser to check.\nError: {str(e)[:150]}")
     try:
         run_backfill(state, deadline)
     except Exception as e:
@@ -1489,6 +1045,20 @@ def check_all(state, deadline=None):
     save_state(state)
 
 
+def migrate(state):
+    """One-time clean-up of things the old version stored."""
+    if state.get("version") == 2:
+        return
+    for k in ("enabled", "prefs", "rules", "feedback", "pending_fb", "skipped", "skipped_view",
+              "train_pending", "train_stats", "train_seq", "train_in_channel"):
+        state.pop(k, None)
+    state.get("opts", {}).pop("training", None)
+    for s in state.get("sent", []):  # old records used labels, new ones use topic keys
+        if s.get("cat") not in TOPIC_LABEL:
+            s["cat"] = "other"
+    state["version"] = 2
+
+
 def main():
     missing = [n for n, v in [("SOURCE_CHANNELS", SOURCES), ("BOT_TOKEN", BOT_TOKEN),
                               ("TARGET_CHANNEL", TARGET)] if not v]
@@ -1496,18 +1066,17 @@ def main():
         sys.exit(f"missing environment variables: {', '.join(missing)}")
 
     state = load_state()
+    migrate(state)
     tg("setMyCommands", commands=[
-        {"command": "settings", "description": "Choose topics and options"},
+        {"command": "settings", "description": "Turn topics on/off"},
         {"command": "add", "description": "Add players: /add Vinicius, Mbappe"},
         {"command": "remove", "description": "Remove a player"},
         {"command": "players", "description": "Show my players"},
         {"command": "summary", "description": "Preview today's summary"},
-        {"command": "backfill", "description": "Post important news from the last 48h"},
-        {"command": "brain", "description": "What I've learned about your taste"},
-        {"command": "skipped", "description": "Posts I didn't send - tell me if I missed one"},
-        {"command": "train", "description": "Training mode on/off - rate every post"},
+        {"command": "backfill", "description": "Repost the last 48h (topics that are on)"},
+        {"command": "status", "description": "Is everything working?"},
     ])
-    print(f"brain: {ai_provider() or 'off (keyword filter)'}")
+    print(f"sorter: {ai_provider() or 'keywords'}")
 
     if "--loop" in sys.argv:
         last_check = 0.0
