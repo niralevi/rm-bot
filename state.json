@@ -2,49 +2,9 @@
  "last_post": {
   "real_madrid": 59296,
   "themadridzone": 31628,
-  "FabrizioRomanoTG": 67370
+  "FabrizioRomanoTG": 67372
  },
  "sent": [
-  {
-   "ts": 1792016365.2529488,
-   "date": "2026-10-15",
-   "tokens": [
-    "0",
-    "14",
-    "2026",
-    "5",
-    "90",
-    "because",
-    "fabrizio",
-    "finish",
-    "game",
-    "jose",
-    "last",
-    "lost",
-    "minut",
-    "mourinho",
-    "oct",
-    "romano",
-    "situation",
-    "specific",
-    "start",
-    "team",
-    "those",
-    "work",
-    "wouldn"
-   ],
-   "names": [
-    "fabrizio",
-    "jose",
-    "mourinho",
-    "oct",
-    "romano"
-   ],
-   "cat": "other",
-   "status": "fact",
-   "headline": "🚨 José Mourinho: “If the team that finished the game today started… we would've lost 5-0”.",
-   "link": "https://t.me/RealMadridImportantOnly/395"
-  },
   {
    "ts": 1792044265.770034,
    "date": "2026-10-15",
