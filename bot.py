@@ -713,9 +713,10 @@ def check_source(state, src, rm_only):
     posts = fetch_posts(src)
     if not posts:
         return
-    if src not in last:  # first run: don't flood with old posts
-        last[src] = posts[-1].id
-        print(f"{src}: first run, starting after post {posts[-1].id}")
+    if src not in last or state.get("paused"):  # first run / paused: don't post old posts later
+        if src not in last:
+            print(f"{src}: first run, starting after post {posts[-1].id}")
+        last[src] = max(last.get(src, 0), posts[-1].id)
         return
     for post in posts:
         if post.id <= last[src]:
@@ -798,7 +799,8 @@ def summary_text(state):
 def maybe_send_summary(state):
     now = datetime.now(TZ)
     today = now.date().isoformat()
-    if not opt(state, "summary") or now.hour < SUMMARY_HOUR or state.get("summary_date") == today:
+    if (state.get("paused") or not opt(state, "summary") or now.hour < SUMMARY_HOUR
+            or state.get("summary_date") == today):
         return
     tg("sendMessage", chat_id=TARGET, text=summary_text(state), parse_mode="HTML",
        link_preview_options={"is_disabled": True})
@@ -871,6 +873,10 @@ def health_text(state):
 # Settings menu (private chat with the bot)
 # ---------------------------------------------------------------------------
 def menu_text(state):
+    if state.get("paused"):
+        return ("🔴 <b>The bot is OFF</b> - nothing is posted to the channel.\n"
+                "Tap the button to turn it back on.\n"
+                "(Missed something while it was off? /backfill 24 posts the last 24 hours.)")
     players = state.get("players", [])
     off = [TOPIC_LABEL[k] for k in TOPIC_KEYS if not topic_on(state, k)]
     return (
@@ -880,12 +886,14 @@ def menu_text(state):
         f"🎯 My players: {esc(', '.join(players)) if players else '(none)'}\n\n"
         "/add Vinicius - add a player · /remove Vinicius\n"
         "/summary - today's summary · /backfill 24 - repost the last 24h\n"
-        "/status - is everything working?"
+        "/status - is everything working? · /off - turn the bot off"
     )
 
 
 def menu_markup(state):
-    rows, row = [], []
+    if state.get("paused"):
+        return {"inline_keyboard": [[{"text": "▶️ Turn the bot ON", "callback_data": "p:0"}]]}
+    rows, row = [[{"text": "⏸ Turn the bot OFF", "callback_data": "p:1"}]], []
     for key in TOPIC_KEYS:
         mark = "✅" if topic_on(state, key) else "❌"
         row.append({"text": f"{mark} {TOPIC_LABEL[key]}", "callback_data": f"t:{key}"})
@@ -904,7 +912,9 @@ def menu_markup(state):
 def status_text(state):
     prov = ai_provider()
     u = ai_usage(state)
-    lines = ["📡 <b>Status</b>", health_text(state)]
+    lines = ["📡 <b>Status</b>",
+             "🔴 Bot is OFF (/on to start)" if state.get("paused") else "🟢 Bot is ON",
+             health_text(state)]
     if prov:
         name = "Claude" if prov == "claude" else f"Groq ({AI_MODEL})"
         lines.append(f"🧠 AI sorter: ON - {esc(name)} · today {u['calls']} posts sorted")
@@ -967,6 +977,13 @@ def handle_message(state, m):
     elif cmd == "/summary":
         tg("sendMessage", chat_id=uid, text=summary_text(state), parse_mode="HTML",
            link_preview_options={"is_disabled": True})
+    elif cmd in ("/off", "/pause", "/stop"):
+        state["paused"] = True
+        tg("sendMessage", chat_id=uid, text="🔴 The bot is OFF - nothing will be posted.\n/on to turn it back on.")
+    elif cmd in ("/on", "/resume"):
+        state["paused"] = False
+        tg("sendMessage", chat_id=uid, text="🟢 The bot is ON again.\n"
+           "(Want what you missed? /backfill 24)")
     elif cmd == "/status":
         tg("sendMessage", chat_id=uid, text=status_text(state), parse_mode="HTML")
     else:
@@ -984,7 +1001,10 @@ def handle_callback(state, q):
         return
     topics_on = state.setdefault("topics_on", {})
     opts = state.setdefault("opts", {})
-    if kind == "t" and val in TOPIC_LABEL:
+    if kind == "p":
+        state["paused"] = val == "1"
+        toast = "🔴 Bot is OFF" if state["paused"] else "🟢 Bot is ON"
+    elif kind == "t" and val in TOPIC_LABEL:
         topics_on[val] = not topic_on(state, val)
         toast = f"{TOPIC_LABEL[val]}: {'ON ✅' if topics_on[val] else 'OFF ❌'}"
     elif kind == "o" and val in OPTIONS:
@@ -1075,6 +1095,8 @@ def main():
         {"command": "summary", "description": "Preview today's summary"},
         {"command": "backfill", "description": "Repost the last 48h (topics that are on)"},
         {"command": "status", "description": "Is everything working?"},
+        {"command": "off", "description": "Turn the bot off (stop posting)"},
+        {"command": "on", "description": "Turn the bot back on"},
     ])
     print(f"sorter: {ai_provider() or 'keywords'}")
 
