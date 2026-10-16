@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59296,
-  "themadridzone": 31621,
+  "themadridzone": 31622,
   "FabrizioRomanoTG": 67369
  },
  "sent": [
@@ -1154,6 +1154,31 @@
    "status": "rumour",
    "headline": "🚨 JUST IN: Jude Bellingham’s new with Real Madrid contract will have a salary IMPROVEMENT in line with his qu…",
    "link": "https://t.me/RealMadridImportantOnly/539"
+  },
+  {
+   "ts": 1792180702.2040646,
+   "date": "2026-10-16",
+   "tokens": [
+    "continue",
+    "double",
+    "jose",
+    "mourinho",
+    "pivot",
+    "plan",
+    "start",
+    "tchouameni",
+    "valverde"
+   ],
+   "names": [
+    "jose",
+    "mourinho",
+    "tchouameni",
+    "valverde"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 BREAKING: José Mourinho plans to CONTINUE starting the Valverde-Tchouaméni double pivot. @marca",
+   "link": "https://t.me/RealMadridImportantOnly/541"
   }
  ],
  "offset": 769012042,
@@ -1161,8 +1186,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 83,
-  "tokens": 125412
+  "calls": 84,
+  "tokens": 126590
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1189,7 +1214,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 2,
+  "lineup": 3,
   "transfer": 2,
   "stats": 1
  }
