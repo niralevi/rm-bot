@@ -6,24 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1791998548.372394,
-   "date": "2026-10-14",
-   "tokens": [
-    "4",
-    "match",
-    "suspend",
-    "viniciu"
-   ],
-   "names": [
-    "vinicius"
-   ],
-   "cat": "other",
-   "status": "fact",
-   "headline": "🚨💣 BREAKING: Vinicius Jr SUSPENDED FOR 4 MATCHES.",
-   "link": "https://t.me/RealMadridImportantOnly/182",
-   "superseded": true
-  },
-  {
    "ts": 1791998663.048246,
    "date": "2026-10-14",
    "tokens": [
