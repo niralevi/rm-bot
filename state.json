@@ -6,27 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792011707.7161374,
-   "date": "2026-10-15",
-   "tokens": [
-    "1",
-    "2",
-    "3",
-    "4",
-    "comeback",
-    "game",
-    "roma",
-    "what"
-   ],
-   "names": [
-    "roma"
-   ],
-   "cat": "other",
-   "status": "fact",
-   "headline": "AS Roma 1-1 Real Madrid",
-   "link": "https://t.me/RealMadridImportantOnly/313"
-  },
-  {
    "ts": 1792012001.5828688,
    "date": "2026-10-15",
    "tokens": [
