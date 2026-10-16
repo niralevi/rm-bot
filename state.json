@@ -6,37 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1791974606.7712622,
-   "date": "2026-10-14",
-   "tokens": [
-    "against",
-    "because",
-    "bernardo",
-    "could",
-    "different",
-    "game",
-    "issue",
-    "lack",
-    "minut",
-    "physical",
-    "play",
-    "recent",
-    "silva",
-    "some",
-    "via",
-    "villarreal"
-   ],
-   "names": [
-    "bernardo",
-    "silva",
-    "villarreal"
-   ],
-   "cat": "🚑 Injury",
-   "status": "rumour",
-   "headline": "🚨 JUST IN: Bernardo Silva’s lack of minutes recently is because of a PHYSICAL ISSUE.",
-   "link": "https://t.me/RealMadridImportantOnly/177"
-  },
-  {
    "ts": 1791986847.4205508,
    "date": "2026-10-14",
    "tokens": [
