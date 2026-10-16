@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59289,
-  "themadridzone": 31602,
+  "themadridzone": 31603,
   "FabrizioRomanoTG": 67366
  },
  "sent": [
@@ -1405,6 +1405,34 @@
    "status": "fact",
    "headline": "Eder Militão 🇧🇷",
    "link": "https://t.me/RealMadridImportantOnly/531"
+  },
+  {
+   "ts": 1792165465.3116634,
+   "date": "2026-10-16",
+   "tokens": [
+    "181",
+    "call",
+    "consider",
+    "days",
+    "eder",
+    "hasn",
+    "jose",
+    "militao",
+    "mourinho",
+    "sevilla",
+    "sunday"
+   ],
+   "names": [
+    "eder",
+    "jose",
+    "militao",
+    "mourinho",
+    "sevilla"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 JUST IN: Jose Mourinho is CONSIDERING calling up Eder Militão vs Sevilla THIS SUNDAY.",
+   "link": "https://t.me/RealMadridImportantOnly/532"
   }
  ],
  "offset": 769012033,
@@ -1412,8 +1440,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-16",
-  "calls": 62,
-  "tokens": 101835
+  "calls": 63,
+  "tokens": 102957
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1431,6 +1459,7 @@
   "quotes": 1,
   "club": 1,
   "fun": 1,
-  "social": 1
+  "social": 1,
+  "lineup": 1
  }
 }
