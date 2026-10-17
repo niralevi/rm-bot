@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59309,
-  "themadridzone": 31695,
-  "FabrizioRomanoTG": 67396
+  "themadridzone": 31697,
+  "FabrizioRomanoTG": 67397
  },
  "sent": [
   {
@@ -787,6 +787,35 @@
    "status": "fact",
    "headline": "🚨 REAL MADRID SQUAD vs SEVILLA",
    "link": "https://t.me/RealMadridImportantOnly/557"
+  },
+  {
+   "ts": 1792260619.921194,
+   "date": "2026-10-17",
+   "tokens": [
+    "1",
+    "11",
+    "2",
+    "5",
+    "barcelona",
+    "bengoetxea",
+    "burgo",
+    "card",
+    "history",
+    "only",
+    "opponent",
+    "red",
+    "ricardo"
+   ],
+   "names": [
+    "barcelona",
+    "bengoetxea",
+    "burgos",
+    "ricardo"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "🚨 Ricardo de Burgos Bengoetxea's red card history with Barcelona and Real Madrid:",
+   "link": "https://t.me/RealMadridImportantOnly/558"
   }
  ],
  "offset": 769012042,
@@ -794,8 +823,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-17",
-  "calls": 71,
-  "tokens": 82826
+  "calls": 72,
+  "tokens": 83975
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -825,7 +854,7 @@
   "lineup": 7,
   "transfer": 6,
   "stats": 1,
-  "discipline": 1,
+  "discipline": 2,
   "injury": 1
  }
 }
