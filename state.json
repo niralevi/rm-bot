@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59309,
-  "themadridzone": 31709,
+  "themadridzone": 31710,
   "FabrizioRomanoTG": 67399
  },
  "sent": [
@@ -873,6 +873,40 @@
    "status": "fact",
    "headline": "🚨 BREAKING: Alvaro Carreras is set to START vs Sevilla tomorrow.",
    "link": "https://t.me/RealMadridImportantOnly/560"
+  },
+  {
+   "ts": 1792270701.2328134,
+   "date": "2026-10-17",
+   "tokens": [
+    "16",
+    "25",
+    "29",
+    "3",
+    "30",
+    "35",
+    "38",
+    "45",
+    "55",
+    "atletico",
+    "barcelona",
+    "card",
+    "decade",
+    "last",
+    "liga",
+    "opponent",
+    "red",
+    "team",
+    "top"
+   ],
+   "names": [
+    "atletico",
+    "barcelona",
+    "red"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "🚨 Red cards for La Liga's top teams in the last decade:",
+   "link": "https://t.me/RealMadridImportantOnly/561"
   }
  ],
  "offset": 769012042,
@@ -880,8 +914,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-17",
-  "calls": 80,
-  "tokens": 93307
+  "calls": 81,
+  "tokens": 94470
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -911,7 +945,7 @@
   "lineup": 9,
   "transfer": 6,
   "stats": 1,
-  "discipline": 2,
+  "discipline": 3,
   "injury": 1
  }
 }
