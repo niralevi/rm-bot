@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59296,
-  "themadridzone": 31629,
+  "themadridzone": 31632,
   "FabrizioRomanoTG": 67375
  },
  "sent": [
@@ -728,6 +728,26 @@
    "status": "official",
    "headline": "🚨💣 CONFIRMED: Jude Bellingham set to RENEW with Real Madrid till 2031. @FabrizioRomano ✍️",
    "link": "https://t.me/RealMadridImportantOnly/544"
+  },
+  {
+   "ts": 1792221269.3167474,
+   "date": "2026-10-17",
+   "tokens": [
+    "arriv",
+    "bellingham",
+    "jude",
+    "train",
+    "vini"
+   ],
+   "names": [
+    "bellingham",
+    "jude",
+    "vini"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Jude Bellingham x Vini Jr. arrives for training.",
+   "link": "https://t.me/RealMadridImportantOnly/545"
   }
  ],
  "offset": 769012042,
@@ -735,8 +755,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-17",
-  "calls": 3,
-  "tokens": 3542
+  "calls": 5,
+  "tokens": 5886
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -763,7 +783,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 3,
+  "lineup": 4,
   "transfer": 3,
   "stats": 1,
   "discipline": 1
