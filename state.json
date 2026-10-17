@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59298,
-  "themadridzone": 31666,
+  "themadridzone": 31667,
   "FabrizioRomanoTG": 67376
  },
  "sent": [
@@ -811,6 +811,34 @@
    "status": "rumour",
    "headline": "Federico Valverde 💣",
    "link": "https://t.me/RealMadridImportantOnly/550"
+  },
+  {
+   "ts": 1792234494.6269248,
+   "date": "2026-10-17",
+   "tokens": [
+    "4",
+    "bernabeu",
+    "carlo",
+    "espi",
+    "minut",
+    "only",
+    "opportunity",
+    "play",
+    "santiago",
+    "season",
+    "tomorrow"
+   ],
+   "names": [
+    "bernabeu",
+    "carlos",
+    "espi",
+    "new",
+    "santiago"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "Carlos Espi has only played 4 minutes at the Santiago Bernabeu this season!",
+   "link": "https://t.me/RealMadridImportantOnly/554"
   }
  ],
  "offset": 769012042,
@@ -818,8 +846,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-17",
-  "calls": 34,
-  "tokens": 39952
+  "calls": 35,
+  "tokens": 41086
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -846,7 +874,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 5,
+  "lineup": 6,
   "transfer": 6,
   "stats": 1,
   "discipline": 1
