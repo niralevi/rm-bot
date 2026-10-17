@@ -1,42 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59309,
-  "themadridzone": 31711,
+  "themadridzone": 31712,
   "FabrizioRomanoTG": 67400
  },
  "sent": [
-  {
-   "ts": 1792101323.5174403,
-   "date": "2026-10-16",
-   "tokens": [
-    "15",
-    "2026",
-    "ban",
-    "deserve",
-    "did",
-    "fabrizio",
-    "fede",
-    "four",
-    "intentional",
-    "match",
-    "oct",
-    "romano",
-    "valverde",
-    "vini"
-   ],
-   "names": [
-    "fabrizio",
-    "fede",
-    "oct",
-    "romano",
-    "valverde",
-    "vini"
-   ],
-   "cat": "other",
-   "status": "fact",
-   "headline": "🚨 Fede Valverde: “Vini Jr did not deserve a four match ban. It was not intentional”. https://t.co/p9z8NYNblX",
-   "link": "https://t.me/RealMadridImportantOnly/490"
-  },
   {
    "ts": 1792151361.6380544,
    "date": "2026-10-16",
@@ -914,8 +882,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 1,
-  "tokens": 1179
+  "calls": 2,
+  "tokens": 2288
  },
  "summary_date": "2026-10-15",
  "opts": {
