@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59298,
-  "themadridzone": 31655,
+  "themadridzone": 31666,
   "FabrizioRomanoTG": 67376
  },
  "sent": [
@@ -766,6 +766,51 @@
    "status": "rumour",
    "headline": "🚨 Bernardo Silva arrives for training.",
    "link": "https://t.me/RealMadridImportantOnly/546"
+  },
+  {
+   "ts": 1792233690.0001068,
+   "date": "2026-10-17",
+   "tokens": [
+    "kylian",
+    "mbappe"
+   ],
+   "names": [
+    "kylian",
+    "mbappe"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Kylian Mbappé 🤍",
+   "link": "https://t.me/RealMadridImportantOnly/548"
+  },
+  {
+   "ts": 1792233762.2813325,
+   "date": "2026-10-17",
+   "tokens": [
+    "team",
+    "train"
+   ],
+   "names": [],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "The team is training!",
+   "link": "https://t.me/RealMadridImportantOnly/549"
+  },
+  {
+   "ts": 1792233829.9172387,
+   "date": "2026-10-17",
+   "tokens": [
+    "federico",
+    "valverde"
+   ],
+   "names": [
+    "federico",
+    "valverde"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Federico Valverde 💣",
+   "link": "https://t.me/RealMadridImportantOnly/550"
   }
  ],
  "offset": 769012042,
@@ -773,8 +818,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-17",
-  "calls": 25,
-  "tokens": 29503
+  "calls": 34,
+  "tokens": 39952
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -801,8 +846,8 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 4,
-  "transfer": 4,
+  "lineup": 5,
+  "transfer": 6,
   "stats": 1,
   "discipline": 1
  }
