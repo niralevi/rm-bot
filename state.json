@@ -6,38 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792076446.8436327,
-   "date": "2026-10-15",
-   "tokens": [
-    "all",
-    "aspect",
-    "bernd",
-    "busines",
-    "ceo",
-    "direct",
-    "handle",
-    "head",
-    "jas",
-    "join",
-    "merchandis",
-    "reichart",
-    "relat",
-    "report",
-    "sponsorship",
-    "stadium",
-    "superleague"
-   ],
-   "names": [
-    "bernd",
-    "reichart",
-    "superleague"
-   ],
-   "cat": "other",
-   "status": "rumour",
-   "headline": "🚨💣 BREAKING: Superleague CEO Bernd Reichart joins Real Madrid as the club's new HEAD OF BUSINESS.",
-   "link": "https://t.me/RealMadridImportantOnly/473"
-  },
-  {
    "ts": 1792081163.518376,
    "date": "2026-10-15",
    "tokens": [
