@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59296,
-  "themadridzone": 31632,
+  "themadridzone": 31634,
   "FabrizioRomanoTG": 67375
  },
  "sent": [
@@ -748,6 +748,24 @@
    "status": "fact",
    "headline": "🚨 Jude Bellingham x Vini Jr. arrives for training.",
    "link": "https://t.me/RealMadridImportantOnly/545"
+  },
+  {
+   "ts": 1792221389.166877,
+   "date": "2026-10-17",
+   "tokens": [
+    "arriv",
+    "bernardo",
+    "silva",
+    "train"
+   ],
+   "names": [
+    "bernardo",
+    "silva"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 Bernardo Silva arrives for training.",
+   "link": "https://t.me/RealMadridImportantOnly/546"
   }
  ],
  "offset": 769012042,
@@ -755,8 +773,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-17",
-  "calls": 5,
-  "tokens": 5886
+  "calls": 6,
+  "tokens": 7050
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -784,7 +802,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 4,
-  "transfer": 3,
+  "transfer": 4,
   "stats": 1,
   "discipline": 1
  }
