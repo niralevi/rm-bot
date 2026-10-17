@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59309,
-  "themadridzone": 31704,
+  "themadridzone": 31706,
   "FabrizioRomanoTG": 67399
  },
  "sent": [
@@ -816,6 +816,29 @@
    "status": "fact",
    "headline": "🚨 Ricardo de Burgos Bengoetxea's red card history with Barcelona and Real Madrid:",
    "link": "https://t.me/RealMadridImportantOnly/558"
+  },
+  {
+   "ts": 1792266409.7996821,
+   "date": "2026-10-17",
+   "tokens": [
+    "alexander",
+    "arnold",
+    "set",
+    "sevilla",
+    "start",
+    "tomorrow",
+    "trent"
+   ],
+   "names": [
+    "alexander",
+    "arnold",
+    "sevilla",
+    "trent"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 JUST IN: Trent Alexander-Arnold is set to START vs Sevilla tomorrow. @diarioas",
+   "link": "https://t.me/RealMadridImportantOnly/559"
   }
  ],
  "offset": 769012042,
@@ -823,8 +846,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-17",
-  "calls": 76,
-  "tokens": 88651
+  "calls": 78,
+  "tokens": 90997
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -851,7 +874,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 7,
+  "lineup": 8,
   "transfer": 6,
   "stats": 1,
   "discipline": 2,
