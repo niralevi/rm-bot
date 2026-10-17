@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59296,
-  "themadridzone": 31628,
-  "FabrizioRomanoTG": 67372
+  "themadridzone": 31629,
+  "FabrizioRomanoTG": 67373
  },
  "sent": [
   {
@@ -686,7 +686,8 @@
    "cat": "transfer",
    "status": "rumour",
    "headline": "🚨 JUST IN: Jude Bellingham’s new with Real Madrid contract will have a salary IMPROVEMENT in line with his qu…",
-   "link": "https://t.me/RealMadridImportantOnly/539"
+   "link": "https://t.me/RealMadridImportantOnly/539",
+   "superseded": true
   },
   {
    "ts": 1792180702.2040646,
@@ -743,6 +744,27 @@
    "status": "rumour",
    "headline": "🚨🚨 BREAKING: The High Sports Council is now considering PUNISHING Javier Tebas for his words comparing Real M…",
    "link": "https://t.me/RealMadridImportantOnly/542"
+  },
+  {
+   "ts": 1792215263.123052,
+   "date": "2026-10-17",
+   "tokens": [
+    "2031",
+    "bellingham",
+    "confirm",
+    "jude",
+    "renew",
+    "set",
+    "till"
+   ],
+   "names": [
+    "bellingham",
+    "jude"
+   ],
+   "cat": "transfer",
+   "status": "official",
+   "headline": "🚨💣 CONFIRMED: Jude Bellingham set to RENEW with Real Madrid till 2031. @FabrizioRomano ✍️",
+   "link": "https://t.me/RealMadridImportantOnly/544"
   }
  ],
  "offset": 769012042,
@@ -750,8 +772,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-17",
-  "calls": 1,
-  "tokens": 1128
+  "calls": 3,
+  "tokens": 3542
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -779,7 +801,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 3,
-  "transfer": 2,
+  "transfer": 3,
   "stats": 1,
   "discipline": 1
  }
