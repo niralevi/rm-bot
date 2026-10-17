@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59309,
-  "themadridzone": 31706,
+  "themadridzone": 31707,
   "FabrizioRomanoTG": 67399
  },
  "sent": [
@@ -839,6 +839,40 @@
    "status": "rumour",
    "headline": "🚨 JUST IN: Trent Alexander-Arnold is set to START vs Sevilla tomorrow. @diarioas",
    "link": "https://t.me/RealMadridImportantOnly/559"
+  },
+  {
+   "ts": 1792266562.7252247,
+   "date": "2026-10-17",
+   "tokens": [
+    "alvaro",
+    "carrera",
+    "clasico",
+    "cucurella",
+    "jose",
+    "marc",
+    "mourinho",
+    "rest",
+    "set",
+    "sevilla",
+    "start",
+    "tomorrow",
+    "ucl",
+    "want"
+   ],
+   "names": [
+    "alvaro",
+    "carreras",
+    "clasico",
+    "cucurella",
+    "jose",
+    "marc",
+    "mourinho",
+    "sevilla"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 BREAKING: Alvaro Carreras is set to START vs Sevilla tomorrow.",
+   "link": "https://t.me/RealMadridImportantOnly/560"
   }
  ],
  "offset": 769012042,
@@ -846,8 +880,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-17",
-  "calls": 78,
-  "tokens": 90997
+  "calls": 79,
+  "tokens": 92158
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -874,7 +908,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 8,
+  "lineup": 9,
   "transfer": 6,
   "stats": 1,
   "discipline": 2,
