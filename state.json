@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59308,
-  "themadridzone": 31678,
+  "themadridzone": 31682,
   "FabrizioRomanoTG": 67382
  },
  "sent": [
@@ -870,6 +870,19 @@
    "status": "fact",
    "headline": "🚨⚪️ Éder Militão returns available for Real Madrid and back in the squad tomorrow after long injury. https://…",
    "link": "https://t.me/RealMadridImportantOnly/556"
+  },
+  {
+   "ts": 1792239748.7448022,
+   "date": "2026-10-17",
+   "tokens": [
+    "sevilla",
+    "squad"
+   ],
+   "names": [],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 REAL MADRID SQUAD vs SEVILLA",
+   "link": "https://t.me/RealMadridImportantOnly/557"
   }
  ],
  "offset": 769012042,
@@ -877,8 +890,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-17",
-  "calls": 56,
-  "tokens": 65553
+  "calls": 59,
+  "tokens": 68885
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -905,7 +918,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 6,
+  "lineup": 7,
   "transfer": 6,
   "stats": 1,
   "discipline": 1,
