@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59324,
-  "themadridzone": 31823,
+  "themadridzone": 31825,
   "FabrizioRomanoTG": 67428
  },
  "sent": [
@@ -848,6 +848,27 @@
    "status": "fact",
    "headline": "🚨 Brahim Diaz gets his first minutes since the game vs Elche on September 16th.",
    "link": "https://t.me/RealMadridImportantOnly/595"
+  },
+  {
+   "ts": 1792356457.2788117,
+   "date": "2026-10-18",
+   "tokens": [
+    "arda",
+    "camavinga",
+    "eduardo",
+    "guler",
+    "replac"
+   ],
+   "names": [
+    "arda",
+    "camavinga",
+    "eduardo",
+    "guler"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Eduardo Camavinga replaces Arda Güler.",
+   "link": "https://t.me/RealMadridImportantOnly/596"
   }
  ],
  "offset": 769012042,
@@ -855,8 +876,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 126,
-  "tokens": 133033
+  "calls": 128,
+  "tokens": 135093
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -883,7 +904,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 17,
+  "lineup": 18,
   "transfer": 12,
   "stats": 1,
   "discipline": 7,
