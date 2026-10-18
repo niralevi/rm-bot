@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59317,
-  "themadridzone": 31770,
+  "themadridzone": 31773,
   "FabrizioRomanoTG": 67423
  },
  "sent": [
@@ -742,6 +742,38 @@
    "status": "fact",
    "headline": "🚨 Real Madrid fans are chanting: \"JAVIER TEBAS, RESIGN.\"",
    "link": "https://t.me/RealMadridImportantOnly/583"
+  },
+  {
+   "ts": 1792351703.8226504,
+   "date": "2026-10-18",
+   "tokens": [
+    "book",
+    "dean",
+    "huijsen"
+   ],
+   "names": [
+    "dean",
+    "huijsen"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "🚨 Dean Huijsen is booked.",
+   "link": "https://t.me/RealMadridImportantOnly/584"
+  },
+  {
+   "ts": 1792351769.3310654,
+   "date": "2026-10-18",
+   "tokens": [
+    "book",
+    "felix"
+   ],
+   "names": [
+    "felix"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "🚨 Felix is booked.",
+   "link": "https://t.me/RealMadridImportantOnly/585"
   }
  ],
  "offset": 769012042,
@@ -749,8 +781,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 64,
-  "tokens": 69930
+  "calls": 67,
+  "tokens": 72951
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -780,7 +812,7 @@
   "lineup": 15,
   "transfer": 11,
   "stats": 1,
-  "discipline": 3,
+  "discipline": 5,
   "injury": 3,
   "coach": 5
  }
