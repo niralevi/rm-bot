@@ -1,8 +1,8 @@
 {
  "last_post": {
-  "real_madrid": 59322,
-  "themadridzone": 31812,
-  "FabrizioRomanoTG": 67427
+  "real_madrid": 59324,
+  "themadridzone": 31820,
+  "FabrizioRomanoTG": 67428
  },
  "sent": [
   {
@@ -780,6 +780,48 @@
    "status": "fact",
    "headline": "Everyone is suddenly certain that every elbow should be a red card?",
    "link": "https://t.me/RealMadridImportantOnly/592"
+  },
+  {
+   "ts": 1792355856.3645358,
+   "date": "2026-10-18",
+   "tokens": [
+    "bernardo",
+    "brahim",
+    "come",
+    "diaz",
+    "prepar",
+    "silva"
+   ],
+   "names": [
+    "bernardo",
+    "brahim",
+    "diaz",
+    "silva"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Brahim Diaz and Bernardo Silva are preparing to come on.",
+   "link": "https://t.me/RealMadridImportantOnly/593"
+  },
+  {
+   "ts": 1792355923.31961,
+   "date": "2026-10-18",
+   "tokens": [
+    "bellingham",
+    "book",
+    "foul",
+    "iglesia",
+    "jude"
+   ],
+   "names": [
+    "bellingham",
+    "iglesias",
+    "jude"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "🚨 Iglesias is booked for a foul on Jude Bellingham.",
+   "link": "https://t.me/RealMadridImportantOnly/594"
   }
  ],
  "offset": 769012042,
@@ -787,8 +829,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 113,
-  "tokens": 119628
+  "calls": 123,
+  "tokens": 129882
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -815,10 +857,10 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 15,
+  "lineup": 16,
   "transfer": 12,
   "stats": 1,
-  "discipline": 6,
+  "discipline": 7,
   "injury": 3,
   "coach": 6
  }
