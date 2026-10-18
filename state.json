@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59321,
-  "themadridzone": 31806,
+  "themadridzone": 31808,
   "FabrizioRomanoTG": 67427
  },
  "sent": [
@@ -757,6 +757,29 @@
    "status": "fact",
    "headline": "Jose Mourinho. 🧠",
    "link": "https://t.me/RealMadridImportantOnly/591"
+  },
+  {
+   "ts": 1792354342.017073,
+   "date": "2026-10-18",
+   "tokens": [
+    "card",
+    "certain",
+    "elbow",
+    "every",
+    "everyone",
+    "interest",
+    "red",
+    "should",
+    "sudden"
+   ],
+   "names": [
+    "everyone",
+    "interesting"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "Everyone is suddenly certain that every elbow should be a red card?",
+   "link": "https://t.me/RealMadridImportantOnly/592"
   }
  ],
  "offset": 769012042,
@@ -764,8 +787,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 106,
-  "tokens": 112617
+  "calls": 108,
+  "tokens": 114632
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -795,7 +818,7 @@
   "lineup": 15,
   "transfer": 12,
   "stats": 1,
-  "discipline": 5,
+  "discipline": 6,
   "injury": 3,
   "coach": 6
  }
