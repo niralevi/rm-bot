@@ -6,30 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792170106.3403223,
-   "date": "2026-10-16",
-   "tokens": [
-    "bellingham",
-    "contract",
-    "diarioa",
-    "importance",
-    "improvement",
-    "jude",
-    "line",
-    "quality",
-    "salary"
-   ],
-   "names": [
-    "bellingham",
-    "jude"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 JUST IN: Jude Bellingham’s new with Real Madrid contract will have a salary IMPROVEMENT in line with his qu…",
-   "link": "https://t.me/RealMadridImportantOnly/539",
-   "superseded": true
-  },
-  {
    "ts": 1792180702.2040646,
    "date": "2026-10-16",
    "tokens": [
