@@ -2,38 +2,9 @@
  "last_post": {
   "real_madrid": 59314,
   "themadridzone": 31727,
-  "FabrizioRomanoTG": 67417
+  "FabrizioRomanoTG": 67419
  },
  "sent": [
-  {
-   "ts": 1792166185.4000337,
-   "date": "2026-10-16",
-   "tokens": [
-    "15yo",
-    "academy",
-    "afonso",
-    "consider",
-    "jacobo",
-    "midfielder",
-    "one",
-    "play",
-    "spanish",
-    "sport",
-    "talent",
-    "top",
-    "want"
-   ],
-   "names": [
-    "afonso",
-    "jacobo",
-    "spanish",
-    "sporting"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨💣 BREAKING: Real Madrid want 15yo Spanish midfielder Jacobo Afonso.",
-   "link": "https://t.me/RealMadridImportantOnly/533"
-  },
   {
    "ts": 1792166570.3324976,
    "date": "2026-10-16",
@@ -626,6 +597,51 @@
    "status": "rumour",
    "headline": "🚨 JUST IN: Real Madrid are monitoring Chema Andres.",
    "link": "https://t.me/RealMadridImportantOnly/565"
+  },
+  {
+   "ts": 1792338862.2773075,
+   "date": "2026-10-18",
+   "tokens": [
+    "18",
+    "2026",
+    "3",
+    "4",
+    "against",
+    "barcelona",
+    "clasico",
+    "confirm",
+    "eric",
+    "evaluat",
+    "fabrizio",
+    "game",
+    "garcia",
+    "injury",
+    "kounde",
+    "miss",
+    "oct",
+    "psg",
+    "romano",
+    "set",
+    "too",
+    "tuesday",
+    "week"
+   ],
+   "names": [
+    "barcelona",
+    "clasico",
+    "eric",
+    "fabrizio",
+    "garcia",
+    "kounde",
+    "oct",
+    "out",
+    "romano",
+    "tuesday"
+   ],
+   "cat": "injury",
+   "status": "official",
+   "headline": "🚨⚠️ Eric García will be out for 3-4 weeks with an injury, Barcelona confirm. Out against PSG and Real Madrid.",
+   "link": "https://t.me/RealMadridImportantOnly/566"
   }
  ],
  "offset": 769012042,
@@ -633,8 +649,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 20,
-  "tokens": 22146
+  "calls": 21,
+  "tokens": 23298
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -665,7 +681,7 @@
   "transfer": 7,
   "stats": 1,
   "discipline": 3,
-  "injury": 1,
+  "injury": 2,
   "coach": 3
  }
 }
