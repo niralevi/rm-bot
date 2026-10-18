@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59324,
-  "themadridzone": 31820,
+  "themadridzone": 31822,
   "FabrizioRomanoTG": 67428
  },
  "sent": [
@@ -822,6 +822,32 @@
    "status": "fact",
    "headline": "🚨 Iglesias is booked for a foul on Jude Bellingham.",
    "link": "https://t.me/RealMadridImportantOnly/594"
+  },
+  {
+   "ts": 1792356023.1875384,
+   "date": "2026-10-18",
+   "tokens": [
+    "16th",
+    "brahim",
+    "diaz",
+    "elche",
+    "first",
+    "game",
+    "gets",
+    "minut",
+    "september",
+    "since"
+   ],
+   "names": [
+    "brahim",
+    "diaz",
+    "elche",
+    "september"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Brahim Diaz gets his first minutes since the game vs Elche on September 16th.",
+   "link": "https://t.me/RealMadridImportantOnly/595"
   }
  ],
  "offset": 769012042,
@@ -829,8 +855,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 123,
-  "tokens": 129882
+  "calls": 125,
+  "tokens": 131992
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -857,7 +883,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 16,
+  "lineup": 17,
   "transfer": 12,
   "stats": 1,
   "discipline": 7,
