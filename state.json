@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59314,
-  "themadridzone": 31725,
+  "themadridzone": 31727,
   "FabrizioRomanoTG": 67417
  },
  "sent": [
@@ -594,6 +594,38 @@
    "status": "rumour",
    "headline": "🚨💣 JUST IN: Florentino Pérez has informed his inner circle that if things don't improve under José Mourinho, …",
    "link": "https://t.me/RealMadridImportantOnly/564"
+  },
+  {
+   "ts": 1792338803.5987446,
+   "date": "2026-10-18",
+   "tokens": [
+    "activate",
+    "all",
+    "andr",
+    "back",
+    "buy",
+    "chema",
+    "claus",
+    "clause",
+    "close",
+    "despite",
+    "fail",
+    "last",
+    "los",
+    "monitor",
+    "right",
+    "still",
+    "summer",
+    "watch"
+   ],
+   "names": [
+    "andres",
+    "chema"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 JUST IN: Real Madrid are monitoring Chema Andres.",
+   "link": "https://t.me/RealMadridImportantOnly/565"
   }
  ],
  "offset": 769012042,
@@ -601,8 +633,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 19,
-  "tokens": 21015
+  "calls": 20,
+  "tokens": 22146
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -630,7 +662,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 9,
-  "transfer": 6,
+  "transfer": 7,
   "stats": 1,
   "discipline": 3,
   "injury": 1,
