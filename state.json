@@ -1,35 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59321,
-  "themadridzone": 31798,
+  "themadridzone": 31802,
   "FabrizioRomanoTG": 67427
  },
  "sent": [
-  {
-   "ts": 1792180702.2040646,
-   "date": "2026-10-16",
-   "tokens": [
-    "continue",
-    "double",
-    "jose",
-    "mourinho",
-    "pivot",
-    "plan",
-    "start",
-    "tchouameni",
-    "valverde"
-   ],
-   "names": [
-    "jose",
-    "mourinho",
-    "tchouameni",
-    "valverde"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 BREAKING: José Mourinho plans to CONTINUE starting the Valverde-Tchouaméni double pivot. @marca",
-   "link": "https://t.me/RealMadridImportantOnly/541"
-  },
   {
    "ts": 1792180840.4312446,
    "date": "2026-10-16",
@@ -804,8 +779,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 99,
-  "tokens": 105382
+  "calls": 103,
+  "tokens": 109549
  },
  "summary_date": "2026-10-15",
  "opts": {
