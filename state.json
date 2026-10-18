@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59315,
-  "themadridzone": 31761,
+  "themadridzone": 31763,
   "FabrizioRomanoTG": 67423
  },
  "sent": [
@@ -703,6 +703,29 @@
    "status": "rumour",
    "headline": "Ibrahima Konaté 🇫🇷",
    "link": "https://t.me/RealMadridImportantOnly/581"
+  },
+  {
+   "ts": 1792349840.2274437,
+   "date": "2026-10-18",
+   "tokens": [
+    "announcement",
+    "cheer",
+    "dur",
+    "fans",
+    "jose",
+    "line",
+    "loudest",
+    "mourinho",
+    "name"
+   ],
+   "names": [
+    "jose",
+    "mourinho"
+   ],
+   "cat": "coach",
+   "status": "fact",
+   "headline": "🚨 Jose Mourinho's name is the loudest cheered by Real Madrid fans during line-up announcement.",
+   "link": "https://t.me/RealMadridImportantOnly/582"
   }
  ],
  "offset": 769012042,
@@ -710,8 +733,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 53,
-  "tokens": 58484
+  "calls": 55,
+  "tokens": 60633
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -743,6 +766,6 @@
   "stats": 1,
   "discipline": 3,
   "injury": 3,
-  "coach": 3
+  "coach": 4
  }
 }
