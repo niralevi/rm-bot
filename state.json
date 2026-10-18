@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59327,
-  "themadridzone": 31859,
+  "themadridzone": 31862,
   "FabrizioRomanoTG": 67430
  },
  "sent": [
@@ -917,6 +917,25 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Kylian Mbappé MOTM",
    "link": "https://t.me/RealMadridImportantOnly/598"
+  },
+  {
+   "ts": 1792358188.315142,
+   "date": "2026-10-19",
+   "tokens": [
+    "diomande",
+    "galactico",
+    "latest",
+    "yan"
+   ],
+   "names": [
+    "diomande",
+    "galactico",
+    "yan"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Real Madrid’s latest Galactico: Yan Diomande. ⭐️",
+   "link": "https://t.me/RealMadridImportantOnly/599"
   }
  ],
  "offset": 769012042,
@@ -924,8 +943,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-19",
-  "calls": 22,
-  "tokens": 23502
+  "calls": 25,
+  "tokens": 26623
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -953,7 +972,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 19,
-  "transfer": 12,
+  "transfer": 13,
   "stats": 1,
   "discipline": 7,
   "injury": 3,
