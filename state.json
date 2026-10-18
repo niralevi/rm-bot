@@ -6,37 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792180840.4312446,
-   "date": "2026-10-16",
-   "tokens": [
-    "compar",
-    "consider",
-    "council",
-    "germany",
-    "high",
-    "javier",
-    "management",
-    "method",
-    "punish",
-    "sport",
-    "teba",
-    "type",
-    "word"
-   ],
-   "names": [
-    "council",
-    "germany",
-    "high",
-    "javier",
-    "sports",
-    "tebas"
-   ],
-   "cat": "discipline",
-   "status": "rumour",
-   "headline": "🚨🚨 BREAKING: The High Sports Council is now considering PUNISHING Javier Tebas for his words comparing Real M…",
-   "link": "https://t.me/RealMadridImportantOnly/542"
-  },
-  {
    "ts": 1792215263.123052,
    "date": "2026-10-17",
    "tokens": [
