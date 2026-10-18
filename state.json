@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59321,
-  "themadridzone": 31802,
+  "themadridzone": 31806,
   "FabrizioRomanoTG": 67427
  },
  "sent": [
@@ -741,6 +741,22 @@
    "status": "rumour",
    "headline": "Kylian Mbappé 🤝 Jude Bellingham",
    "link": "https://t.me/RealMadridImportantOnly/588"
+  },
+  {
+   "ts": 1792353981.7049844,
+   "date": "2026-10-18",
+   "tokens": [
+    "jose",
+    "mourinho"
+   ],
+   "names": [
+    "jose",
+    "mourinho"
+   ],
+   "cat": "coach",
+   "status": "fact",
+   "headline": "Jose Mourinho. 🧠",
+   "link": "https://t.me/RealMadridImportantOnly/591"
   }
  ],
  "offset": 769012042,
@@ -748,8 +764,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 103,
-  "tokens": 109549
+  "calls": 106,
+  "tokens": 112617
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -781,6 +797,6 @@
   "stats": 1,
   "discipline": 5,
   "injury": 3,
-  "coach": 5
+  "coach": 6
  }
 }
