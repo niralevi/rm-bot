@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59313,
-  "themadridzone": 31722,
+  "themadridzone": 31725,
   "FabrizioRomanoTG": 67417
  },
  "sent": [
@@ -733,6 +733,40 @@
    "status": "rumour",
    "headline": "Real Madrid executives doubt Mourinho's impact despite squad support",
    "link": "https://t.me/RealMadridImportantOnly/563"
+  },
+  {
+   "ts": 1792336284.6049232,
+   "date": "2026-10-18",
+   "tokens": [
+    "circle",
+    "deschamp",
+    "didier",
+    "don",
+    "fire",
+    "florentino",
+    "him",
+    "hire",
+    "improve",
+    "inform",
+    "inner",
+    "jose",
+    "manager",
+    "mourinho",
+    "perez",
+    "plan",
+    "thing",
+    "under"
+   ],
+   "names": [
+    "florentino",
+    "jose",
+    "mourinho",
+    "perez"
+   ],
+   "cat": "coach",
+   "status": "rumour",
+   "headline": "🚨💣 JUST IN: Florentino Pérez has informed his inner circle that if things don't improve under José Mourinho, …",
+   "link": "https://t.me/RealMadridImportantOnly/564"
   }
  ],
  "offset": 769012042,
@@ -740,8 +774,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 16,
-  "tokens": 17656
+  "calls": 18,
+  "tokens": 19835
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -773,6 +807,6 @@
   "stats": 1,
   "discipline": 3,
   "injury": 1,
-  "coach": 2
+  "coach": 3
  }
 }
