@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59314,
-  "themadridzone": 31743,
+  "themadridzone": 31747,
   "FabrizioRomanoTG": 67423
  },
  "sent": [
@@ -615,6 +615,32 @@
    "status": "rumour",
    "headline": "First start of the season for Endrick!",
    "link": "https://t.me/RealMadridImportantOnly/574"
+  },
+  {
+   "ts": 1792346782.385099,
+   "date": "2026-10-18",
+   "tokens": [
+    "arriv",
+    "endrick"
+   ],
+   "names": [],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "ENDRICK HAS ARRIVED. 🔥",
+   "link": "https://t.me/RealMadridImportantOnly/576"
+  },
+  {
+   "ts": 1792346785.083497,
+   "date": "2026-10-18",
+   "tokens": [
+    "arda",
+    "guler"
+   ],
+   "names": [],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "ARDA GÜLER.",
+   "link": "https://t.me/RealMadridImportantOnly/577"
   }
  ],
  "offset": 769012042,
@@ -622,8 +648,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 36,
-  "tokens": 40344
+  "calls": 40,
+  "tokens": 44716
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -651,7 +677,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 14,
-  "transfer": 7,
+  "transfer": 9,
   "stats": 1,
   "discipline": 3,
   "injury": 2,
