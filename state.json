@@ -6,40 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792154977.428969,
-   "date": "2026-10-16",
-   "tokens": [
-    "complet",
-    "pass",
-    "roma",
-    "start"
-   ],
-   "names": [
-    "roma"
-   ],
-   "cat": "other",
-   "status": "fact",
-   "headline": "❗️Real Madrid starting XI completed passes vs Roma.",
-   "link": "https://t.me/RealMadridImportantOnly/503"
-  },
-  {
-   "ts": 1792154996.9666703,
-   "date": "2026-10-16",
-   "tokens": [
-    "endrick",
-    "equalizer",
-    "roma"
-   ],
-   "names": [
-    "endrick",
-    "roma"
-   ],
-   "cat": "other",
-   "status": "fact",
-   "headline": "📸 Endrick’s equalizer vs Roma. 🔥",
-   "link": "https://t.me/RealMadridImportantOnly/505"
-  },
-  {
    "ts": 1792155081.040959,
    "date": "2026-10-16",
    "tokens": [
