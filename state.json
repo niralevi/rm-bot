@@ -6,22 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792167141.3896067,
-   "date": "2026-10-16",
-   "tokens": [
-    "courtoi",
-    "thibaut"
-   ],
-   "names": [
-    "courtois",
-    "thibaut"
-   ],
-   "cat": "social",
-   "status": "fact",
-   "headline": "Thibaut Courtois 🧤",
-   "link": "https://t.me/RealMadridImportantOnly/538"
-  },
-  {
    "ts": 1792170106.3403223,
    "date": "2026-10-16",
    "tokens": [
