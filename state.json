@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59326,
-  "themadridzone": 31842,
-  "FabrizioRomanoTG": 67429
+  "themadridzone": 31847,
+  "FabrizioRomanoTG": 67430
  },
  "sent": [
   {
@@ -78,7 +78,8 @@
    "cat": "transfer",
    "status": "rumour",
    "headline": "Kylian Mbappé 🤍",
-   "link": "https://t.me/RealMadridImportantOnly/548"
+   "link": "https://t.me/RealMadridImportantOnly/548",
+   "superseded": true
   },
   {
    "ts": 1792233762.2813325,
@@ -898,6 +899,24 @@
    "status": "fact",
    "headline": "🚨 Eder Militão and Carlos Espí replace Kylian Mbappé and Fede Valverde.",
    "link": "https://t.me/RealMadridImportantOnly/597"
+  },
+  {
+   "ts": 1792357528.4578824,
+   "date": "2026-10-19",
+   "tokens": [
+    "kylian",
+    "mbappe",
+    "motm",
+    "official"
+   ],
+   "names": [
+    "kylian",
+    "mbappe"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Kylian Mbappé MOTM",
+   "link": "https://t.me/RealMadridImportantOnly/598"
   }
  ],
  "offset": 769012042,
@@ -905,8 +924,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-19",
-  "calls": 5,
-  "tokens": 5370
+  "calls": 10,
+  "tokens": 10756
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -938,6 +957,7 @@
   "stats": 1,
   "discipline": 7,
   "injury": 3,
-  "coach": 6
+  "coach": 6,
+  "awards": 1
  }
 }
