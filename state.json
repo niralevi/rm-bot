@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59314,
-  "themadridzone": 31739,
-  "FabrizioRomanoTG": 67422
+  "themadridzone": 31741,
+  "FabrizioRomanoTG": 67423
  },
  "sent": [
   {
@@ -595,6 +595,26 @@
    "status": "rumour",
    "headline": "🚨 Real Madrid's attack tonight:",
    "link": "https://t.me/RealMadridImportantOnly/573"
+  },
+  {
+   "ts": 1792345761.2933233,
+   "date": "2026-10-18",
+   "tokens": [
+    "endrick",
+    "first",
+    "massive",
+    "opportunity",
+    "season",
+    "start"
+   ],
+   "names": [
+    "endrick",
+    "first"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "First start of the season for Endrick!",
+   "link": "https://t.me/RealMadridImportantOnly/574"
   }
  ],
  "offset": 769012042,
@@ -602,8 +622,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 32,
-  "tokens": 35901
+  "calls": 34,
+  "tokens": 38148
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -630,7 +650,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 13,
+  "lineup": 14,
   "transfer": 7,
   "stats": 1,
   "discipline": 3,
