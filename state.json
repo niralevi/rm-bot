@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59315,
-  "themadridzone": 31764,
+  "themadridzone": 31766,
   "FabrizioRomanoTG": 67423
  },
  "sent": [
@@ -726,6 +726,22 @@
    "status": "fact",
    "headline": "🚨 Jose Mourinho's name is the loudest cheered by Real Madrid fans during line-up announcement.",
    "link": "https://t.me/RealMadridImportantOnly/582"
+  },
+  {
+   "ts": 1792350446.4716847,
+   "date": "2026-10-18",
+   "tokens": [
+    "chant",
+    "fans",
+    "javier",
+    "resign",
+    "teba"
+   ],
+   "names": [],
+   "cat": "coach",
+   "status": "fact",
+   "headline": "🚨 Real Madrid fans are chanting: \"JAVIER TEBAS, RESIGN.\"",
+   "link": "https://t.me/RealMadridImportantOnly/583"
   }
  ],
  "offset": 769012042,
@@ -733,8 +749,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 56,
-  "tokens": 61651
+  "calls": 58,
+  "tokens": 63740
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -766,6 +782,6 @@
   "stats": 1,
   "discipline": 3,
   "injury": 3,
-  "coach": 4
+  "coach": 5
  }
 }
