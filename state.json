@@ -1,46 +1,10 @@
 {
  "last_post": {
-  "real_madrid": 59313,
+  "real_madrid": 59314,
   "themadridzone": 31725,
   "FabrizioRomanoTG": 67417
  },
  "sent": [
-  {
-   "ts": 1792165222.4003685,
-   "date": "2026-10-16",
-   "tokens": [
-    "bellingham",
-    "fede",
-    "jude",
-    "valverde"
-   ],
-   "names": [
-    "bellingham",
-    "fede",
-    "jude",
-    "valverde"
-   ],
-   "cat": "fun",
-   "status": "fact",
-   "headline": "Fede Valverde x Jude Bellingham! ⭐️⭐️",
-   "link": "https://t.me/RealMadridImportantOnly/530"
-  },
-  {
-   "ts": 1792165225.6140902,
-   "date": "2026-10-16",
-   "tokens": [
-    "eder",
-    "militao"
-   ],
-   "names": [
-    "eder",
-    "militao"
-   ],
-   "cat": "social",
-   "status": "fact",
-   "headline": "Eder Militão 🇧🇷",
-   "link": "https://t.me/RealMadridImportantOnly/531"
-  },
   {
    "ts": 1792165465.3116634,
    "date": "2026-10-16",
@@ -665,8 +629,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 18,
-  "tokens": 19835
+  "calls": 19,
+  "tokens": 21015
  },
  "summary_date": "2026-10-15",
  "opts": {
