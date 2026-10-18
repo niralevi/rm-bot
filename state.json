@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59315,
-  "themadridzone": 31753,
+  "themadridzone": 31757,
   "FabrizioRomanoTG": 67423
  },
  "sent": [
@@ -674,6 +674,19 @@
    "status": "rumour",
    "headline": "Marc Cucurella 🇪🇸",
    "link": "https://t.me/RealMadridImportantOnly/579"
+  },
+  {
+   "ts": 1792349003.3553703,
+   "date": "2026-10-18",
+   "tokens": [
+    "starter",
+    "warm"
+   ],
+   "names": [],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "The starters are warming up. 🔥",
+   "link": "https://t.me/RealMadridImportantOnly/580"
   }
  ],
  "offset": 769012042,
@@ -681,8 +694,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 46,
-  "tokens": 51084
+  "calls": 50,
+  "tokens": 55319
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -709,7 +722,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 14,
+  "lineup": 15,
   "transfer": 10,
   "stats": 1,
   "discipline": 3,
