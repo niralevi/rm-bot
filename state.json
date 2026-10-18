@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59315,
-  "themadridzone": 31747,
+  "themadridzone": 31751,
   "FabrizioRomanoTG": 67423
  },
  "sent": [
@@ -641,6 +641,39 @@
    "status": "rumour",
    "headline": "ARDA GÜLER.",
    "link": "https://t.me/RealMadridImportantOnly/577"
+  },
+  {
+   "ts": 1792347454.5508795,
+   "date": "2026-10-18",
+   "tokens": [
+    "back",
+    "eder",
+    "militao"
+   ],
+   "names": [
+    "eder",
+    "militao"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "Eder Militao is BACK! 🤍",
+   "link": "https://t.me/RealMadridImportantOnly/578"
+  },
+  {
+   "ts": 1792347457.1089125,
+   "date": "2026-10-18",
+   "tokens": [
+    "cucurella",
+    "marc"
+   ],
+   "names": [
+    "cucurella",
+    "marc"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Marc Cucurella 🇪🇸",
+   "link": "https://t.me/RealMadridImportantOnly/579"
   }
  ],
  "offset": 769012042,
@@ -648,8 +681,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 41,
-  "tokens": 45767
+  "calls": 44,
+  "tokens": 48978
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -677,10 +710,10 @@
   "fun": 1,
   "social": 2,
   "lineup": 14,
-  "transfer": 9,
+  "transfer": 10,
   "stats": 1,
   "discipline": 3,
-  "injury": 2,
+  "injury": 3,
   "coach": 3
  }
 }
