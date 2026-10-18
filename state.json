@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59310,
-  "themadridzone": 31715,
+  "themadridzone": 31716,
   "FabrizioRomanoTG": 67412
  },
  "sent": [
@@ -875,6 +875,27 @@
    "status": "fact",
    "headline": "🚨 Red cards for La Liga's top teams in the last decade:",
    "link": "https://t.me/RealMadridImportantOnly/561"
+  },
+  {
+   "ts": 1792315101.9780037,
+   "date": "2026-10-18",
+   "tokens": [
+    "consider",
+    "endrick",
+    "jose",
+    "mourinho",
+    "serious",
+    "start"
+   ],
+   "names": [
+    "endrick",
+    "jose",
+    "mourinho"
+   ],
+   "cat": "coach",
+   "status": "rumour",
+   "headline": "🚨🚨 BREAKING: José Mourinho is SERIOUSLY considering STARTING Endrick at RW tonight. @marca",
+   "link": "https://t.me/RealMadridImportantOnly/562"
   }
  ],
  "offset": 769012042,
@@ -882,8 +903,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 6,
-  "tokens": 6698
+  "calls": 7,
+  "tokens": 7759
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -914,6 +935,7 @@
   "transfer": 6,
   "stats": 1,
   "discipline": 3,
-  "injury": 1
+  "injury": 1,
+  "coach": 1
  }
 }
