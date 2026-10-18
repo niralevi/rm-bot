@@ -6,30 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792166786.1652598,
-   "date": "2026-10-16",
-   "tokens": [
-    "endrick",
-    "gam",
-    "give",
-    "jose",
-    "mourinho",
-    "plan",
-    "play",
-    "time",
-    "upcom"
-   ],
-   "names": [
-    "endrick",
-    "jose",
-    "mourinho"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 JUST IN: José Mourinho plans to give MORE PLAYING TIME to Endrick in the upcoming games. @Rodra10_97",
-   "link": "https://t.me/RealMadridImportantOnly/537"
-  },
-  {
    "ts": 1792167141.3896067,
    "date": "2026-10-16",
    "tokens": [
