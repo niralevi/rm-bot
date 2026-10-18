@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59314,
-  "themadridzone": 31734,
+  "themadridzone": 31739,
   "FabrizioRomanoTG": 67422
  },
  "sent": [
@@ -235,7 +235,8 @@
    "cat": "lineup",
    "status": "fact",
    "headline": "🚨 REAL MADRID SQUAD vs SEVILLA",
-   "link": "https://t.me/RealMadridImportantOnly/557"
+   "link": "https://t.me/RealMadridImportantOnly/557",
+   "superseded": true
   },
   {
    "ts": 1792260619.921194,
@@ -531,6 +532,69 @@
    "status": "official",
    "headline": "🚨⚠️ Eric García will be out for 3-4 weeks with an injury, Barcelona confirm. Out against PSG and Real Madrid.",
    "link": "https://t.me/RealMadridImportantOnly/566"
+  },
+  {
+   "ts": 1792345529.3019328,
+   "date": "2026-10-18",
+   "tokens": [
+    "official"
+   ],
+   "names": [],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 OFFICIAL REAL MADRID XI",
+   "link": "https://t.me/RealMadridImportantOnly/570"
+  },
+  {
+   "ts": 1792345531.9522312,
+   "date": "2026-10-18",
+   "tokens": [
+    "fede",
+    "start",
+    "valverde"
+   ],
+   "names": [
+    "fede",
+    "valverde"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨🚨 BREAKING: Fede Valverde STARTS AT RB TONIGHT!",
+   "link": "https://t.me/RealMadridImportantOnly/571"
+  },
+  {
+   "ts": 1792345534.492116,
+   "date": "2026-10-18",
+   "tokens": [
+    "arda",
+    "aurelien",
+    "double",
+    "guler",
+    "pivot",
+    "tchouameni"
+   ],
+   "names": [],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 REAL MADRID'S DOUBLE PIVOT TONIGHT:",
+   "link": "https://t.me/RealMadridImportantOnly/572"
+  },
+  {
+   "ts": 1792345600.2663634,
+   "date": "2026-10-18",
+   "tokens": [
+    "attack",
+    "diomande",
+    "endrick",
+    "kylian",
+    "mbappe",
+    "yan"
+   ],
+   "names": [],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 Real Madrid's attack tonight:",
+   "link": "https://t.me/RealMadridImportantOnly/573"
   }
  ],
  "offset": 769012042,
@@ -538,8 +602,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 27,
-  "tokens": 30160
+  "calls": 32,
+  "tokens": 35901
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -566,7 +630,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 9,
+  "lineup": 13,
   "transfer": 7,
   "stats": 1,
   "discipline": 3,
