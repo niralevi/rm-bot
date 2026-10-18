@@ -1,8 +1,8 @@
 {
  "last_post": {
-  "real_madrid": 59319,
-  "themadridzone": 31782,
-  "FabrizioRomanoTG": 67423
+  "real_madrid": 59320,
+  "themadridzone": 31789,
+  "FabrizioRomanoTG": 67425
  },
  "sent": [
   {
@@ -774,6 +774,29 @@
    "status": "fact",
    "headline": "🚨 Felix is booked.",
    "link": "https://t.me/RealMadridImportantOnly/585"
+  },
+  {
+   "ts": 1792352745.9526105,
+   "date": "2026-10-18",
+   "tokens": [
+    "bellingham",
+    "combo",
+    "jude",
+    "kylian",
+    "mbappe",
+    "what"
+   ],
+   "names": [
+    "bellingham",
+    "jude",
+    "kylian",
+    "mbappe",
+    "what"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Kylian Mbappé 🤝 Jude Bellingham",
+   "link": "https://t.me/RealMadridImportantOnly/588"
   }
  ],
  "offset": 769012042,
@@ -781,8 +804,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 78,
-  "tokens": 84094
+  "calls": 88,
+  "tokens": 94264
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -810,7 +833,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 15,
-  "transfer": 11,
+  "transfer": 12,
   "stats": 1,
   "discipline": 5,
   "injury": 3,
