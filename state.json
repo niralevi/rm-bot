@@ -6,34 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792165465.3116634,
-   "date": "2026-10-16",
-   "tokens": [
-    "181",
-    "call",
-    "consider",
-    "days",
-    "eder",
-    "hasn",
-    "jose",
-    "militao",
-    "mourinho",
-    "sevilla",
-    "sunday"
-   ],
-   "names": [
-    "eder",
-    "jose",
-    "militao",
-    "mourinho",
-    "sevilla"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 JUST IN: Jose Mourinho is CONSIDERING calling up Eder Militão vs Sevilla THIS SUNDAY.",
-   "link": "https://t.me/RealMadridImportantOnly/532"
-  },
-  {
    "ts": 1792166185.4000337,
    "date": "2026-10-16",
    "tokens": [
