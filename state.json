@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59313,
-  "themadridzone": 31719,
+  "themadridzone": 31722,
   "FabrizioRomanoTG": 67417
  },
  "sent": [
@@ -690,6 +690,49 @@
    "status": "rumour",
    "headline": "🚨🚨 BREAKING: José Mourinho is SERIOUSLY considering STARTING Endrick at RW tonight. @marca",
    "link": "https://t.me/RealMadridImportantOnly/562"
+  },
+  {
+   "ts": 1792336111.0734777,
+   "date": "2026-10-18",
+   "tokens": [
+    "back",
+    "believe",
+    "big",
+    "change",
+    "doubt",
+    "enough",
+    "executiv",
+    "full",
+    "hav",
+    "him",
+    "however",
+    "important",
+    "jose",
+    "like",
+    "mourinho",
+    "produc",
+    "return",
+    "see",
+    "since",
+    "some",
+    "squad",
+    "still",
+    "strong",
+    "support",
+    "team",
+    "top",
+    "what"
+   ],
+   "names": [
+    "however",
+    "jose",
+    "mourinho",
+    "some"
+   ],
+   "cat": "coach",
+   "status": "rumour",
+   "headline": "Real Madrid executives doubt Mourinho's impact despite squad support",
+   "link": "https://t.me/RealMadridImportantOnly/563"
   }
  ],
  "offset": 769012042,
@@ -697,8 +740,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 13,
-  "tokens": 14385
+  "calls": 16,
+  "tokens": 17656
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -730,6 +773,6 @@
   "stats": 1,
   "discipline": 3,
   "injury": 1,
-  "coach": 1
+  "coach": 2
  }
 }
