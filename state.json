@@ -1,8 +1,8 @@
 {
  "last_post": {
-  "real_madrid": 59324,
-  "themadridzone": 31835,
-  "FabrizioRomanoTG": 67428
+  "real_madrid": 59326,
+  "themadridzone": 31836,
+  "FabrizioRomanoTG": 67429
  },
  "sent": [
   {
@@ -869,6 +869,35 @@
    "status": "fact",
    "headline": "🚨 Eduardo Camavinga replaces Arda Güler.",
    "link": "https://t.me/RealMadridImportantOnly/596"
+  },
+  {
+   "ts": 1792356928.7768617,
+   "date": "2026-10-18",
+   "tokens": [
+    "carlo",
+    "eder",
+    "espi",
+    "fede",
+    "kylian",
+    "mbappe",
+    "militao",
+    "replace",
+    "valverde"
+   ],
+   "names": [
+    "carlos",
+    "eder",
+    "espi",
+    "fede",
+    "kylian",
+    "mbappe",
+    "militao",
+    "valverde"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Eder Militão and Carlos Espí replace Kylian Mbappé and Fede Valverde.",
+   "link": "https://t.me/RealMadridImportantOnly/597"
   }
  ],
  "offset": 769012042,
@@ -876,8 +905,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-18",
-  "calls": 136,
-  "tokens": 143445
+  "calls": 140,
+  "tokens": 147622
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -904,7 +933,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 18,
+  "lineup": 19,
   "transfer": 12,
   "stats": 1,
   "discipline": 7,
