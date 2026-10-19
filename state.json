@@ -6,26 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792221269.3167474,
-   "date": "2026-10-17",
-   "tokens": [
-    "arriv",
-    "bellingham",
-    "jude",
-    "train",
-    "vini"
-   ],
-   "names": [
-    "bellingham",
-    "jude",
-    "vini"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Jude Bellingham x Vini Jr. arrives for training.",
-   "link": "https://t.me/RealMadridImportantOnly/545"
-  },
-  {
    "ts": 1792221389.166877,
    "date": "2026-10-17",
    "tokens": [
