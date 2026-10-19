@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59328,
-  "themadridzone": 31931,
+  "themadridzone": 31933,
   "FabrizioRomanoTG": 67447
  },
  "sent": [
@@ -883,6 +883,31 @@
    "status": "fact",
    "headline": "🚨🏆 OFFICIAL: The final voting results for 2026 Onze Mondial Player of the Year:",
    "link": "https://t.me/RealMadridImportantOnly/603"
+  },
+  {
+   "ts": 1792417947.195896,
+   "date": "2026-10-19",
+   "tokens": [
+    "2026",
+    "ballon",
+    "henry",
+    "host",
+    "kate",
+    "official",
+    "scott",
+    "thierry"
+   ],
+   "names": [
+    "ballon",
+    "henry",
+    "kate",
+    "scott",
+    "thierry"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨 Official: Thierry Henry and Kate Scott will host Ballon d’Or 2026.",
+   "link": "https://t.me/RealMadridImportantOnly/604"
   }
  ],
  "offset": 769012042,
@@ -890,8 +915,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-19",
-  "calls": 95,
-  "tokens": 104324
+  "calls": 97,
+  "tokens": 106513
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -924,6 +949,6 @@
   "discipline": 7,
   "injury": 3,
   "coach": 6,
-  "awards": 2
+  "awards": 3
  }
 }
