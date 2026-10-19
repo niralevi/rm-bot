@@ -6,24 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792221389.166877,
-   "date": "2026-10-17",
-   "tokens": [
-    "arriv",
-    "bernardo",
-    "silva",
-    "train"
-   ],
-   "names": [
-    "bernardo",
-    "silva"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 Bernardo Silva arrives for training.",
-   "link": "https://t.me/RealMadridImportantOnly/546"
-  },
-  {
    "ts": 1792233690.0001068,
    "date": "2026-10-17",
    "tokens": [
