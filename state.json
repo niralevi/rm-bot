@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59327,
   "themadridzone": 31900,
-  "FabrizioRomanoTG": 67435
+  "FabrizioRomanoTG": 67436
  },
  "sent": [
   {
@@ -939,6 +939,34 @@
    "status": "rumour",
    "headline": "Aurelien Tchouaméni x Kylian Mbappé x Ibrahima Konate. 🇫🇷",
    "link": "https://t.me/RealMadridImportantOnly/600"
+  },
+  {
+   "ts": 1792389858.941575,
+   "date": "2026-10-19",
+   "tokens": [
+    "19",
+    "2026",
+    "2028",
+    "agreement",
+    "clos",
+    "courtoi",
+    "fabrizio",
+    "oct",
+    "romano",
+    "thibaut",
+    "until"
+   ],
+   "names": [
+    "courtois",
+    "fabrizio",
+    "oct",
+    "romano",
+    "thibaut"
+   ],
+   "cat": "transfer",
+   "status": "official",
+   "headline": "⚪️🇧🇪 Thibaut Courtois until 2028: agreement closed with Real Madrid. https://t.co/Op27j1zTuv",
+   "link": "https://t.me/RealMadridImportantOnly/602"
   }
  ],
  "offset": 769012042,
@@ -946,8 +974,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-19",
-  "calls": 64,
-  "tokens": 68326
+  "calls": 65,
+  "tokens": 69421
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -975,7 +1003,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 19,
-  "transfer": 14,
+  "transfer": 15,
   "stats": 1,
   "discipline": 7,
   "injury": 3,
