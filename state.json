@@ -1,56 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59327,
-  "themadridzone": 31924,
+  "themadridzone": 31927,
   "FabrizioRomanoTG": 67438
  },
  "sent": [
-  {
-   "ts": 1792233690.0001068,
-   "date": "2026-10-17",
-   "tokens": [
-    "kylian",
-    "mbappe"
-   ],
-   "names": [
-    "kylian",
-    "mbappe"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "Kylian Mbappé 🤍",
-   "link": "https://t.me/RealMadridImportantOnly/548",
-   "superseded": true
-  },
-  {
-   "ts": 1792233762.2813325,
-   "date": "2026-10-17",
-   "tokens": [
-    "team",
-    "train"
-   ],
-   "names": [],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "The team is training!",
-   "link": "https://t.me/RealMadridImportantOnly/549"
-  },
-  {
-   "ts": 1792233829.9172387,
-   "date": "2026-10-17",
-   "tokens": [
-    "federico",
-    "valverde"
-   ],
-   "names": [
-    "federico",
-    "valverde"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "Federico Valverde 💣",
-   "link": "https://t.me/RealMadridImportantOnly/550"
-  },
   {
    "ts": 1792234494.6269248,
    "date": "2026-10-17",
@@ -936,8 +890,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-19",
-  "calls": 88,
-  "tokens": 96316
+  "calls": 91,
+  "tokens": 99669
  },
  "summary_date": "2026-10-15",
  "opts": {
