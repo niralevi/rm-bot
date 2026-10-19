@@ -6,20 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792239748.7448022,
-   "date": "2026-10-17",
-   "tokens": [
-    "sevilla",
-    "squad"
-   ],
-   "names": [],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 REAL MADRID SQUAD vs SEVILLA",
-   "link": "https://t.me/RealMadridImportantOnly/557",
-   "superseded": true
-  },
-  {
    "ts": 1792260619.921194,
    "date": "2026-10-17",
    "tokens": [
