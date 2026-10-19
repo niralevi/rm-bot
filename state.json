@@ -6,34 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792234494.6269248,
-   "date": "2026-10-17",
-   "tokens": [
-    "4",
-    "bernabeu",
-    "carlo",
-    "espi",
-    "minut",
-    "only",
-    "opportunity",
-    "play",
-    "santiago",
-    "season",
-    "tomorrow"
-   ],
-   "names": [
-    "bernabeu",
-    "carlos",
-    "espi",
-    "new",
-    "santiago"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "Carlos Espi has only played 4 minutes at the Santiago Bernabeu this season!",
-   "link": "https://t.me/RealMadridImportantOnly/554"
-  },
-  {
    "ts": 1792238065.570248,
    "date": "2026-10-17",
    "tokens": [
