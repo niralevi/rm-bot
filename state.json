@@ -6,40 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792266562.7252247,
-   "date": "2026-10-17",
-   "tokens": [
-    "alvaro",
-    "carrera",
-    "clasico",
-    "cucurella",
-    "jose",
-    "marc",
-    "mourinho",
-    "rest",
-    "set",
-    "sevilla",
-    "start",
-    "tomorrow",
-    "ucl",
-    "want"
-   ],
-   "names": [
-    "alvaro",
-    "carreras",
-    "clasico",
-    "cucurella",
-    "jose",
-    "marc",
-    "mourinho",
-    "sevilla"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 BREAKING: Alvaro Carreras is set to START vs Sevilla tomorrow.",
-   "link": "https://t.me/RealMadridImportantOnly/560"
-  },
-  {
    "ts": 1792270701.2328134,
    "date": "2026-10-17",
    "tokens": [
