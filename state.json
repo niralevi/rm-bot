@@ -6,37 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792238065.570248,
-   "date": "2026-10-17",
-   "tokens": [
-    "17",
-    "2026",
-    "available",
-    "back",
-    "eder",
-    "fabrizio",
-    "injury",
-    "long",
-    "militao",
-    "oct",
-    "return",
-    "romano",
-    "squad",
-    "tomorrow"
-   ],
-   "names": [
-    "eder",
-    "fabrizio",
-    "militao",
-    "oct",
-    "romano"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨⚪️ Éder Militão returns available for Real Madrid and back in the squad tomorrow after long injury. https://…",
-   "link": "https://t.me/RealMadridImportantOnly/556"
-  },
-  {
    "ts": 1792239748.7448022,
    "date": "2026-10-17",
    "tokens": [
