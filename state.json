@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59328,
-  "themadridzone": 31928,
+  "themadridzone": 31929,
   "FabrizioRomanoTG": 67438
  },
  "sent": [
@@ -855,6 +855,79 @@
    "status": "official",
    "headline": "⚪️🇧🇪 Thibaut Courtois until 2028: agreement closed with Real Madrid. https://t.co/Op27j1zTuv",
    "link": "https://t.me/RealMadridImportantOnly/602"
+  },
+  {
+   "ts": 1792409189.7082033,
+   "date": "2026-10-19",
+   "tokens": [
+    "0",
+    "1",
+    "10",
+    "11",
+    "2",
+    "2026",
+    "4",
+    "48",
+    "5",
+    "7",
+    "8",
+    "9",
+    "bruno",
+    "declan",
+    "dembele",
+    "fernand",
+    "final",
+    "harry",
+    "joao",
+    "kane",
+    "khvicha",
+    "kvaratskhelia",
+    "kylian",
+    "lamine",
+    "mbappe",
+    "michael",
+    "mondial",
+    "nev",
+    "official",
+    "olise",
+    "onze",
+    "ousmane",
+    "result",
+    "rice",
+    "vitinha",
+    "vot",
+    "yamal",
+    "year"
+   ],
+   "names": [
+    "bruno",
+    "declan",
+    "dembele",
+    "fernandes",
+    "harry",
+    "joao",
+    "kane",
+    "khvicha",
+    "kvaratskhelia",
+    "kylian",
+    "lamine",
+    "mbappe",
+    "michael",
+    "mondial",
+    "neves",
+    "olise",
+    "onze",
+    "ousmane",
+    "player",
+    "rice",
+    "vitinha",
+    "yamal",
+    "year"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨🏆 OFFICIAL: The final voting results for 2026 Onze Mondial Player of the Year:",
+   "link": "https://t.me/RealMadridImportantOnly/603"
   }
  ],
  "offset": 769012042,
@@ -862,8 +935,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-19",
-  "calls": 92,
-  "tokens": 100799
+  "calls": 93,
+  "tokens": 102086
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -896,6 +969,6 @@
   "discipline": 7,
   "injury": 3,
   "coach": 6,
-  "awards": 1
+  "awards": 2
  }
 }
