@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59327,
-  "themadridzone": 31899,
+  "themadridzone": 31900,
   "FabrizioRomanoTG": 67435
  },
  "sent": [
@@ -936,6 +936,30 @@
    "status": "rumour",
    "headline": "Real Madrid’s latest Galactico: Yan Diomande. ⭐️",
    "link": "https://t.me/RealMadridImportantOnly/599"
+  },
+  {
+   "ts": 1792386044.5882103,
+   "date": "2026-10-19",
+   "tokens": [
+    "aurelien",
+    "ibrahima",
+    "konate",
+    "kylian",
+    "mbappe",
+    "tchouameni"
+   ],
+   "names": [
+    "aurelien",
+    "ibrahima",
+    "konate",
+    "kylian",
+    "mbappe",
+    "tchouameni"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Aurelien Tchouaméni x Kylian Mbappé x Ibrahima Konate. 🇫🇷",
+   "link": "https://t.me/RealMadridImportantOnly/600"
   }
  ],
  "offset": 769012042,
@@ -943,8 +967,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-19",
-  "calls": 63,
-  "tokens": 67275
+  "calls": 64,
+  "tokens": 68326
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -972,7 +996,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 19,
-  "transfer": 13,
+  "transfer": 14,
   "stats": 1,
   "discipline": 7,
   "injury": 3,
