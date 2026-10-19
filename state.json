@@ -923,7 +923,20 @@
   "quiet": false,
   "summary": false
  },
- "health": {},
+ "health": {
+  "real_madrid": {
+   "since": 1792428296.6534026,
+   "err": "HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=30)"
+  },
+  "themadridzone": {
+   "since": 1792428326.8853297,
+   "err": "HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=30)"
+  },
+  "FabrizioRomanoTG": {
+   "since": 1792428357.2304063,
+   "err": "HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=30)"
+  }
+ },
  "limit_alert": "2026-10-15",
  "version": 2,
  "topics_on": {
