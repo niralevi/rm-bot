@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59333,
-  "themadridzone": 31938,
+  "themadridzone": 31940,
   "FabrizioRomanoTG": 67460
  },
  "sent": [
@@ -908,6 +908,37 @@
    "status": "official",
    "headline": "🚨 Official: Thierry Henry and Kate Scott will host Ballon d’Or 2026.",
    "link": "https://t.me/RealMadridImportantOnly/604"
+  },
+  {
+   "ts": 1792430661.8692489,
+   "date": "2026-10-19",
+   "tokens": [
+    "255",
+    "30",
+    "apologiz",
+    "camp",
+    "cristiano",
+    "days",
+    "fin",
+    "him",
+    "himself",
+    "leav",
+    "official",
+    "portugal",
+    "punishment",
+    "ronaldo",
+    "suggest",
+    "suspend"
+   ],
+   "names": [
+    "cristiano",
+    "portugal",
+    "ronaldo"
+   ],
+   "cat": "discipline",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Portugal FA has suspended Cristiano Ronaldo for 30 days and fined him for €255.",
+   "link": "https://t.me/RealMadridImportantOnly/605"
   }
  ],
  "offset": 769012042,
@@ -915,8 +946,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-19",
-  "calls": 107,
-  "tokens": 117963
+  "calls": 109,
+  "tokens": 120210
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -946,7 +977,7 @@
   "lineup": 19,
   "transfer": 15,
   "stats": 1,
-  "discipline": 7,
+  "discipline": 8,
   "injury": 3,
   "coach": 6,
   "awards": 3
