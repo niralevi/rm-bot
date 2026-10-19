@@ -6,29 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792266409.7996821,
-   "date": "2026-10-17",
-   "tokens": [
-    "alexander",
-    "arnold",
-    "set",
-    "sevilla",
-    "start",
-    "tomorrow",
-    "trent"
-   ],
-   "names": [
-    "alexander",
-    "arnold",
-    "sevilla",
-    "trent"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 JUST IN: Trent Alexander-Arnold is set to START vs Sevilla tomorrow. @diarioas",
-   "link": "https://t.me/RealMadridImportantOnly/559"
-  },
-  {
    "ts": 1792266562.7252247,
    "date": "2026-10-17",
    "tokens": [
