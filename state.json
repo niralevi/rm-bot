@@ -6,35 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792260619.921194,
-   "date": "2026-10-17",
-   "tokens": [
-    "1",
-    "11",
-    "2",
-    "5",
-    "barcelona",
-    "bengoetxea",
-    "burgo",
-    "card",
-    "history",
-    "only",
-    "opponent",
-    "red",
-    "ricardo"
-   ],
-   "names": [
-    "barcelona",
-    "bengoetxea",
-    "burgos",
-    "ricardo"
-   ],
-   "cat": "discipline",
-   "status": "fact",
-   "headline": "🚨 Ricardo de Burgos Bengoetxea's red card history with Barcelona and Real Madrid:",
-   "link": "https://t.me/RealMadridImportantOnly/558"
-  },
-  {
    "ts": 1792266409.7996821,
    "date": "2026-10-17",
    "tokens": [
