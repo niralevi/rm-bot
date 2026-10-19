@@ -6,40 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792270701.2328134,
-   "date": "2026-10-17",
-   "tokens": [
-    "16",
-    "25",
-    "29",
-    "3",
-    "30",
-    "35",
-    "38",
-    "45",
-    "55",
-    "atletico",
-    "barcelona",
-    "card",
-    "decade",
-    "last",
-    "liga",
-    "opponent",
-    "red",
-    "team",
-    "top"
-   ],
-   "names": [
-    "atletico",
-    "barcelona",
-    "red"
-   ],
-   "cat": "discipline",
-   "status": "fact",
-   "headline": "🚨 Red cards for La Liga's top teams in the last decade:",
-   "link": "https://t.me/RealMadridImportantOnly/561"
-  },
-  {
    "ts": 1792315101.9780037,
    "date": "2026-10-18",
    "tokens": [
