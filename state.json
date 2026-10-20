@@ -6,28 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792355856.3645358,
-   "date": "2026-10-18",
-   "tokens": [
-    "bernardo",
-    "brahim",
-    "come",
-    "diaz",
-    "prepar",
-    "silva"
-   ],
-   "names": [
-    "bernardo",
-    "brahim",
-    "diaz",
-    "silva"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Brahim Diaz and Bernardo Silva are preparing to come on.",
-   "link": "https://t.me/RealMadridImportantOnly/593"
-  },
-  {
    "ts": 1792355923.31961,
    "date": "2026-10-18",
    "tokens": [
