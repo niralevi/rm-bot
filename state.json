@@ -6,19 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792349003.3553703,
-   "date": "2026-10-18",
-   "tokens": [
-    "starter",
-    "warm"
-   ],
-   "names": [],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "The starters are warming up. 🔥",
-   "link": "https://t.me/RealMadridImportantOnly/580"
-  },
-  {
    "ts": 1792349727.8359606,
    "date": "2026-10-18",
    "tokens": [
