@@ -6,21 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792351769.3310654,
-   "date": "2026-10-18",
-   "tokens": [
-    "book",
-    "felix"
-   ],
-   "names": [
-    "felix"
-   ],
-   "cat": "discipline",
-   "status": "fact",
-   "headline": "🚨 Felix is booked.",
-   "link": "https://t.me/RealMadridImportantOnly/585"
-  },
-  {
    "ts": 1792352745.9526105,
    "date": "2026-10-18",
    "tokens": [
