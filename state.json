@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59334,
-  "themadridzone": 31993,
+  "themadridzone": 31994,
   "FabrizioRomanoTG": 67489
  },
  "sent": [
@@ -839,6 +839,19 @@
    "status": "fact",
    "headline": "🚨 Jose Mourinho is late to the press conference.",
    "link": "https://t.me/RealMadridImportantOnly/607"
+  },
+  {
+   "ts": 1792501352.4529173,
+   "date": "2026-10-20",
+   "tokens": [
+    "leipzig",
+    "squad"
+   ],
+   "names": [],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 REAL MADRID'S SQUAD VS RB LEIPZIG! ✅",
+   "link": "https://t.me/RealMadridImportantOnly/609"
   }
  ],
  "offset": 769012042,
@@ -846,8 +859,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-20",
-  "calls": 48,
-  "tokens": 56234
+  "calls": 49,
+  "tokens": 57357
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -874,7 +887,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 20,
+  "lineup": 21,
   "transfer": 15,
   "stats": 1,
   "discipline": 8,
