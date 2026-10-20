@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59353,
-  "themadridzone": 32018,
+  "themadridzone": 32019,
   "FabrizioRomanoTG": 67496
  },
  "sent": [
@@ -443,6 +443,22 @@
    "status": "rumour",
    "headline": "🚨 JUST IN: Real Madrid's expected attack tomorrow:",
    "link": "https://t.me/RealMadridImportantOnly/620"
+  },
+  {
+   "ts": 1792529015.8412232,
+   "date": "2026-10-20",
+   "tokens": [
+    "action",
+    "back",
+    "tomorrow"
+   ],
+   "names": [
+    "back"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "Back in action tomorrow. ⏳⚪️",
+   "link": "https://t.me/RealMadridImportantOnly/621"
   }
  ],
  "offset": 769012042,
@@ -450,8 +466,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-20",
-  "calls": 84,
-  "tokens": 97691
+  "calls": 85,
+  "tokens": 98830
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -478,7 +494,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 25,
+  "lineup": 26,
   "transfer": 15,
   "stats": 1,
   "discipline": 8,
