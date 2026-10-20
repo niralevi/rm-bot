@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59333,
-  "themadridzone": 31975,
+  "themadridzone": 31976,
   "FabrizioRomanoTG": 67481
  },
  "sent": [
@@ -820,6 +820,25 @@
    "status": "rumour",
    "headline": "🚨 BREAKING: Real Madrid's NEW DOUBLE PIVOT:",
    "link": "https://t.me/RealMadridImportantOnly/606"
+  },
+  {
+   "ts": 1792493541.0906541,
+   "date": "2026-10-20",
+   "tokens": [
+    "conference",
+    "jose",
+    "late",
+    "mourinho",
+    "pres"
+   ],
+   "names": [
+    "jose",
+    "mourinho"
+   ],
+   "cat": "coach",
+   "status": "fact",
+   "headline": "🚨 Jose Mourinho is late to the press conference.",
+   "link": "https://t.me/RealMadridImportantOnly/607"
   }
  ],
  "offset": 769012042,
@@ -827,8 +846,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-20",
-  "calls": 25,
-  "tokens": 29233
+  "calls": 26,
+  "tokens": 30345
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -860,7 +879,7 @@
   "stats": 1,
   "discipline": 8,
   "injury": 3,
-  "coach": 6,
+  "coach": 7,
   "awards": 3
  }
 }
