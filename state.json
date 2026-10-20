@@ -2,30 +2,9 @@
  "last_post": {
   "real_madrid": 59353,
   "themadridzone": 32019,
-  "FabrizioRomanoTG": 67496
+  "FabrizioRomanoTG": 67498
  },
  "sent": [
-  {
-   "ts": 1792356457.2788117,
-   "date": "2026-10-18",
-   "tokens": [
-    "arda",
-    "camavinga",
-    "eduardo",
-    "guler",
-    "replac"
-   ],
-   "names": [
-    "arda",
-    "camavinga",
-    "eduardo",
-    "guler"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Eduardo Camavinga replaces Arda Güler.",
-   "link": "https://t.me/RealMadridImportantOnly/596"
-  },
   {
    "ts": 1792356928.7768617,
    "date": "2026-10-18",
