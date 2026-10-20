@@ -6,23 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792351703.8226504,
-   "date": "2026-10-18",
-   "tokens": [
-    "book",
-    "dean",
-    "huijsen"
-   ],
-   "names": [
-    "dean",
-    "huijsen"
-   ],
-   "cat": "discipline",
-   "status": "fact",
-   "headline": "🚨 Dean Huijsen is booked.",
-   "link": "https://t.me/RealMadridImportantOnly/584"
-  },
-  {
    "ts": 1792351769.3310654,
    "date": "2026-10-18",
    "tokens": [
