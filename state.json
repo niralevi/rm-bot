@@ -6,35 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792356928.7768617,
-   "date": "2026-10-18",
-   "tokens": [
-    "carlo",
-    "eder",
-    "espi",
-    "fede",
-    "kylian",
-    "mbappe",
-    "militao",
-    "replace",
-    "valverde"
-   ],
-   "names": [
-    "carlos",
-    "eder",
-    "espi",
-    "fede",
-    "kylian",
-    "mbappe",
-    "militao",
-    "valverde"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Eder Militão and Carlos Espí replace Kylian Mbappé and Fede Valverde.",
-   "link": "https://t.me/RealMadridImportantOnly/597"
-  },
-  {
    "ts": 1792357528.4578824,
    "date": "2026-10-19",
    "tokens": [
