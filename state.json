@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59353,
-  "themadridzone": 32008,
+  "themadridzone": 32010,
   "FabrizioRomanoTG": 67491
  },
  "sent": [
@@ -597,6 +597,26 @@
    "status": "fact",
    "headline": "José Mourinho and Kylian Mbappé in training.",
    "link": "https://t.me/RealMadridImportantOnly/614"
+  },
+  {
+   "ts": 1792521265.5364904,
+   "date": "2026-10-20",
+   "tokens": [
+    "again",
+    "expect",
+    "fede",
+    "start",
+    "tomorrow",
+    "valverde"
+   ],
+   "names": [
+    "fede",
+    "valverde"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 BREAKING: Fede Valverde is expected to start at RB AGAIN tomorrow. @marca",
+   "link": "https://t.me/RealMadridImportantOnly/618"
   }
  ],
  "offset": 769012042,
@@ -604,8 +624,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-20",
-  "calls": 79,
-  "tokens": 91895
+  "calls": 80,
+  "tokens": 92988
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -632,7 +652,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 22,
+  "lineup": 23,
   "transfer": 15,
   "stats": 1,
   "discipline": 8,
