@@ -6,69 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792345529.3019328,
-   "date": "2026-10-18",
-   "tokens": [
-    "official"
-   ],
-   "names": [],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "🚨 OFFICIAL REAL MADRID XI",
-   "link": "https://t.me/RealMadridImportantOnly/570"
-  },
-  {
-   "ts": 1792345531.9522312,
-   "date": "2026-10-18",
-   "tokens": [
-    "fede",
-    "start",
-    "valverde"
-   ],
-   "names": [
-    "fede",
-    "valverde"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨🚨 BREAKING: Fede Valverde STARTS AT RB TONIGHT!",
-   "link": "https://t.me/RealMadridImportantOnly/571"
-  },
-  {
-   "ts": 1792345534.492116,
-   "date": "2026-10-18",
-   "tokens": [
-    "arda",
-    "aurelien",
-    "double",
-    "guler",
-    "pivot",
-    "tchouameni"
-   ],
-   "names": [],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 REAL MADRID'S DOUBLE PIVOT TONIGHT:",
-   "link": "https://t.me/RealMadridImportantOnly/572"
-  },
-  {
-   "ts": 1792345600.2663634,
-   "date": "2026-10-18",
-   "tokens": [
-    "attack",
-    "diomande",
-    "endrick",
-    "kylian",
-    "mbappe",
-    "yan"
-   ],
-   "names": [],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 Real Madrid's attack tonight:",
-   "link": "https://t.me/RealMadridImportantOnly/573"
-  },
-  {
    "ts": 1792345761.2933233,
    "date": "2026-10-18",
    "tokens": [
