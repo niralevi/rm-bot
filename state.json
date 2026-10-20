@@ -6,38 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792338803.5987446,
-   "date": "2026-10-18",
-   "tokens": [
-    "activate",
-    "all",
-    "andr",
-    "back",
-    "buy",
-    "chema",
-    "claus",
-    "clause",
-    "close",
-    "despite",
-    "fail",
-    "last",
-    "los",
-    "monitor",
-    "right",
-    "still",
-    "summer",
-    "watch"
-   ],
-   "names": [
-    "andres",
-    "chema"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 JUST IN: Real Madrid are monitoring Chema Andres.",
-   "link": "https://t.me/RealMadridImportantOnly/565"
-  },
-  {
    "ts": 1792338862.2773075,
    "date": "2026-10-18",
    "tokens": [
