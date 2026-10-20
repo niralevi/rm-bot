@@ -2,27 +2,9 @@
  "last_post": {
   "real_madrid": 59355,
   "themadridzone": 32019,
-  "FabrizioRomanoTG": 67502
+  "FabrizioRomanoTG": 67505
  },
  "sent": [
-  {
-   "ts": 1792357528.4578824,
-   "date": "2026-10-19",
-   "tokens": [
-    "kylian",
-    "mbappe",
-    "motm",
-    "official"
-   ],
-   "names": [
-    "kylian",
-    "mbappe"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Kylian Mbappé MOTM",
-   "link": "https://t.me/RealMadridImportantOnly/598"
-  },
   {
    "ts": 1792358188.315142,
    "date": "2026-10-19",
