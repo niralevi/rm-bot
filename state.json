@@ -6,32 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792346782.385099,
-   "date": "2026-10-18",
-   "tokens": [
-    "arriv",
-    "endrick"
-   ],
-   "names": [],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "ENDRICK HAS ARRIVED. 🔥",
-   "link": "https://t.me/RealMadridImportantOnly/576"
-  },
-  {
-   "ts": 1792346785.083497,
-   "date": "2026-10-18",
-   "tokens": [
-    "arda",
-    "guler"
-   ],
-   "names": [],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "ARDA GÜLER.",
-   "link": "https://t.me/RealMadridImportantOnly/577"
-  },
-  {
    "ts": 1792347454.5508795,
    "date": "2026-10-18",
    "tokens": [
