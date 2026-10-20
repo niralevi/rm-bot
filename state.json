@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59333,
-  "themadridzone": 31949,
+  "themadridzone": 31951,
   "FabrizioRomanoTG": 67466
  },
  "sent": [
@@ -819,6 +819,28 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Portugal FA has suspended Cristiano Ronaldo for 30 days and fined him for €255.",
    "link": "https://t.me/RealMadridImportantOnly/605"
+  },
+  {
+   "ts": 1792455402.794402,
+   "date": "2026-10-20",
+   "tokens": [
+    "arda",
+    "aurelien",
+    "double",
+    "guler",
+    "pivot",
+    "tchouameni"
+   ],
+   "names": [
+    "arda",
+    "aurelien",
+    "guler",
+    "tchouameni"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 BREAKING: Real Madrid's NEW DOUBLE PIVOT:",
+   "link": "https://t.me/RealMadridImportantOnly/606"
   }
  ],
  "offset": 769012042,
@@ -826,8 +848,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-20",
-  "calls": 2,
-  "tokens": 2456
+  "calls": 3,
+  "tokens": 3621
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -854,7 +876,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 19,
+  "lineup": 20,
   "transfer": 15,
   "stats": 1,
   "discipline": 8,
