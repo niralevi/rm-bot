@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59353,
-  "themadridzone": 32010,
+  "themadridzone": 32012,
   "FabrizioRomanoTG": 67491
  },
  "sent": [
@@ -523,7 +523,8 @@
    "cat": "lineup",
    "status": "rumour",
    "headline": "🚨 BREAKING: Real Madrid's NEW DOUBLE PIVOT:",
-   "link": "https://t.me/RealMadridImportantOnly/606"
+   "link": "https://t.me/RealMadridImportantOnly/606",
+   "superseded": true
   },
   {
    "ts": 1792493541.0906541,
@@ -617,6 +618,31 @@
    "status": "fact",
    "headline": "🚨 BREAKING: Fede Valverde is expected to start at RB AGAIN tomorrow. @marca",
    "link": "https://t.me/RealMadridImportantOnly/618"
+  },
+  {
+   "ts": 1792521442.4899776,
+   "date": "2026-10-20",
+   "tokens": [
+    "arda",
+    "aurelien",
+    "confirm",
+    "double",
+    "expect",
+    "guler",
+    "pivot",
+    "tchouameni",
+    "tomorrow"
+   ],
+   "names": [
+    "arda",
+    "aurelien",
+    "guler",
+    "tchouameni"
+   ],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 CONFIRMED: Real Madrid's double pivot tomorrow is expected to be Arda Guler - Aurélien Tchouaméni. @marca",
+   "link": "https://t.me/RealMadridImportantOnly/619"
   }
  ],
  "offset": 769012042,
@@ -624,8 +650,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-20",
-  "calls": 80,
-  "tokens": 92988
+  "calls": 81,
+  "tokens": 94179
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -652,7 +678,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 23,
+  "lineup": 24,
   "transfer": 15,
   "stats": 1,
   "discipline": 8,
