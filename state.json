@@ -6,22 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792350446.4716847,
-   "date": "2026-10-18",
-   "tokens": [
-    "chant",
-    "fans",
-    "javier",
-    "resign",
-    "teba"
-   ],
-   "names": [],
-   "cat": "coach",
-   "status": "fact",
-   "headline": "🚨 Real Madrid fans are chanting: \"JAVIER TEBAS, RESIGN.\"",
-   "link": "https://t.me/RealMadridImportantOnly/583"
-  },
-  {
    "ts": 1792351703.8226504,
    "date": "2026-10-18",
    "tokens": [
