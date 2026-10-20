@@ -6,22 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792353981.7049844,
-   "date": "2026-10-18",
-   "tokens": [
-    "jose",
-    "mourinho"
-   ],
-   "names": [
-    "jose",
-    "mourinho"
-   ],
-   "cat": "coach",
-   "status": "fact",
-   "headline": "Jose Mourinho. 🧠",
-   "link": "https://t.me/RealMadridImportantOnly/591"
-  },
-  {
    "ts": 1792354342.017073,
    "date": "2026-10-18",
    "tokens": [
