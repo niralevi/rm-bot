@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59338,
-  "themadridzone": 31999,
+  "real_madrid": 59340,
+  "themadridzone": 32002,
   "FabrizioRomanoTG": 67489
  },
  "sent": [
@@ -852,6 +852,47 @@
    "status": "fact",
    "headline": "🚨 REAL MADRID'S SQUAD VS RB LEIPZIG! ✅",
    "link": "https://t.me/RealMadridImportantOnly/609"
+  },
+  {
+   "ts": 1792502337.1604939,
+   "date": "2026-10-20",
+   "tokens": [
+    "back",
+    "eder",
+    "list",
+    "militao",
+    "squad",
+    "ucl"
+   ],
+   "names": [
+    "eder",
+    "militao"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "Eder Militao is BACK to a UCL squad list!",
+   "link": "https://t.me/RealMadridImportantOnly/613"
+  },
+  {
+   "ts": 1792502340.7914753,
+   "date": "2026-10-20",
+   "tokens": [
+    "jose",
+    "kylian",
+    "mbappe",
+    "mourinho",
+    "train"
+   ],
+   "names": [
+    "jose",
+    "kylian",
+    "mbappe",
+    "mourinho"
+   ],
+   "cat": "coach",
+   "status": "fact",
+   "headline": "José Mourinho and Kylian Mbappé in training.",
+   "link": "https://t.me/RealMadridImportantOnly/614"
   }
  ],
  "offset": 769012042,
@@ -859,8 +900,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-20",
-  "calls": 58,
-  "tokens": 67745
+  "calls": 63,
+  "tokens": 73427
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -887,12 +928,12 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 21,
+  "lineup": 22,
   "transfer": 15,
   "stats": 1,
   "discipline": 8,
   "injury": 3,
-  "coach": 7,
+  "coach": 8,
   "awards": 3
  }
 }
