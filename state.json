@@ -2,30 +2,9 @@
  "last_post": {
   "real_madrid": 59333,
   "themadridzone": 31953,
-  "FabrizioRomanoTG": 67474
+  "FabrizioRomanoTG": 67476
  },
  "sent": [
-  {
-   "ts": 1792315101.9780037,
-   "date": "2026-10-18",
-   "tokens": [
-    "consider",
-    "endrick",
-    "jose",
-    "mourinho",
-    "serious",
-    "start"
-   ],
-   "names": [
-    "endrick",
-    "jose",
-    "mourinho"
-   ],
-   "cat": "coach",
-   "status": "rumour",
-   "headline": "🚨🚨 BREAKING: José Mourinho is SERIOUSLY considering STARTING Endrick at RW tonight. @marca",
-   "link": "https://t.me/RealMadridImportantOnly/562"
-  },
   {
    "ts": 1792336111.0734777,
    "date": "2026-10-18",
