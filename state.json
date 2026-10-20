@@ -2,32 +2,9 @@
  "last_post": {
   "real_madrid": 59353,
   "themadridzone": 32018,
-  "FabrizioRomanoTG": 67492
+  "FabrizioRomanoTG": 67493
  },
  "sent": [
-  {
-   "ts": 1792354342.017073,
-   "date": "2026-10-18",
-   "tokens": [
-    "card",
-    "certain",
-    "elbow",
-    "every",
-    "everyone",
-    "interest",
-    "red",
-    "should",
-    "sudden"
-   ],
-   "names": [
-    "everyone",
-    "interesting"
-   ],
-   "cat": "discipline",
-   "status": "fact",
-   "headline": "Everyone is suddenly certain that every elbow should be a red card?",
-   "link": "https://t.me/RealMadridImportantOnly/592"
-  },
   {
    "ts": 1792355856.3645358,
    "date": "2026-10-18",
