@@ -6,52 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792355923.31961,
-   "date": "2026-10-18",
-   "tokens": [
-    "bellingham",
-    "book",
-    "foul",
-    "iglesia",
-    "jude"
-   ],
-   "names": [
-    "bellingham",
-    "iglesias",
-    "jude"
-   ],
-   "cat": "discipline",
-   "status": "fact",
-   "headline": "🚨 Iglesias is booked for a foul on Jude Bellingham.",
-   "link": "https://t.me/RealMadridImportantOnly/594"
-  },
-  {
-   "ts": 1792356023.1875384,
-   "date": "2026-10-18",
-   "tokens": [
-    "16th",
-    "brahim",
-    "diaz",
-    "elche",
-    "first",
-    "game",
-    "gets",
-    "minut",
-    "september",
-    "since"
-   ],
-   "names": [
-    "brahim",
-    "diaz",
-    "elche",
-    "september"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Brahim Diaz gets his first minutes since the game vs Elche on September 16th.",
-   "link": "https://t.me/RealMadridImportantOnly/595"
-  },
-  {
    "ts": 1792356457.2788117,
    "date": "2026-10-18",
    "tokens": [
