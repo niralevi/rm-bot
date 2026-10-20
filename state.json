@@ -1,33 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59353,
-  "themadridzone": 32014,
+  "themadridzone": 32018,
   "FabrizioRomanoTG": 67491
  },
  "sent": [
-  {
-   "ts": 1792349840.2274437,
-   "date": "2026-10-18",
-   "tokens": [
-    "announcement",
-    "cheer",
-    "dur",
-    "fans",
-    "jose",
-    "line",
-    "loudest",
-    "mourinho",
-    "name"
-   ],
-   "names": [
-    "jose",
-    "mourinho"
-   ],
-   "cat": "coach",
-   "status": "fact",
-   "headline": "🚨 Jose Mourinho's name is the loudest cheered by Real Madrid fans during line-up announcement.",
-   "link": "https://t.me/RealMadridImportantOnly/582"
-  },
   {
    "ts": 1792350446.4716847,
    "date": "2026-10-18",
@@ -651,8 +628,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-20",
-  "calls": 82,
-  "tokens": 95343
+  "calls": 84,
+  "tokens": 97691
  },
  "summary_date": "2026-10-15",
  "opts": {
