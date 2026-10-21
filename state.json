@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59357,
-  "themadridzone": 32063,
+  "themadridzone": 32064,
   "FabrizioRomanoTG": 67543
  },
  "sent": [
@@ -352,6 +352,23 @@
    "status": "official",
    "headline": "🚨 OFFICIAL REAL MADRID XI",
    "link": "https://t.me/RealMadridImportantOnly/630"
+  },
+  {
+   "ts": 1792604856.5086446,
+   "date": "2026-10-21",
+   "tokens": [
+    "aurelien",
+    "bench",
+    "tchouameni"
+   ],
+   "names": [
+    "aurelien",
+    "tchouameni"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Aurélien Tchouaméni is on the bench tonight.",
+   "link": "https://t.me/RealMadridImportantOnly/631"
   }
  ],
  "offset": 769012042,
@@ -359,8 +376,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-21",
-  "calls": 37,
-  "tokens": 41870
+  "calls": 38,
+  "tokens": 42980
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -387,7 +404,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 29,
+  "lineup": 30,
   "transfer": 17,
   "stats": 1,
   "discipline": 8,
