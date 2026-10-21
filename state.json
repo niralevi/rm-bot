@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59359,
-  "themadridzone": 32076,
+  "themadridzone": 32077,
   "FabrizioRomanoTG": 67545
  },
  "sent": [
@@ -484,6 +484,40 @@
    "status": "fact",
    "headline": "🚨 RB LEIPZIG STARTING XI VS REAL MADRID",
    "link": "https://t.me/RealMadridImportantOnly/636"
+  },
+  {
+   "ts": 1792606468.450978,
+   "date": "2026-10-21",
+   "tokens": [
+    "35",
+    "45",
+    "4th",
+    "clasico",
+    "fede",
+    "leipzig",
+    "match",
+    "mins",
+    "next",
+    "play",
+    "roma",
+    "row",
+    "sevilla",
+    "start",
+    "valverde",
+    "villarreal"
+   ],
+   "names": [
+    "fede",
+    "leipzig",
+    "roma",
+    "sevilla",
+    "valverde",
+    "villarreal"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Fede Valverde is now playing as RB for the 4TH MATCH IN A ROW:",
+   "link": "https://t.me/RealMadridImportantOnly/637"
   }
  ],
  "offset": 769012042,
@@ -491,8 +525,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-21",
-  "calls": 52,
-  "tokens": 58902
+  "calls": 53,
+  "tokens": 60096
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -519,7 +553,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 34,
+  "lineup": 35,
   "transfer": 18,
   "stats": 1,
   "discipline": 8,
