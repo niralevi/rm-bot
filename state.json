@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59357,
-  "themadridzone": 32064,
+  "themadridzone": 32067,
   "FabrizioRomanoTG": 67543
  },
  "sent": [
@@ -369,6 +369,58 @@
    "status": "fact",
    "headline": "🚨 Aurélien Tchouaméni is on the bench tonight.",
    "link": "https://t.me/RealMadridImportantOnly/631"
+  },
+  {
+   "ts": 1792605324.711636,
+   "date": "2026-10-21",
+   "tokens": [
+    "2nd",
+    "back",
+    "bench",
+    "both",
+    "match",
+    "right",
+    "row"
+   ],
+   "names": [
+    "for"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 For the 2nd match in a row, BOTH Real Madrid right-backs are on the BENCH.",
+   "link": "https://t.me/RealMadridImportantOnly/632"
+  },
+  {
+   "ts": 1792605389.0774028,
+   "date": "2026-10-21",
+   "tokens": [
+    "all",
+    "aurelien",
+    "clasico",
+    "cucurella",
+    "diomande",
+    "ibrahima",
+    "konate",
+    "marc",
+    "rest",
+    "tchouameni",
+    "yan"
+   ],
+   "names": [
+    "aurelien",
+    "clasico",
+    "cucurella",
+    "diomande",
+    "ibrahima",
+    "konate",
+    "marc",
+    "tchouameni",
+    "yan"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 Ibrahima Konaté, Marc Cucurella, Yan Diomandé and Aurélien Tchouaméni are all rested for El Clasico.",
+   "link": "https://t.me/RealMadridImportantOnly/633"
   }
  ],
  "offset": 769012042,
@@ -376,8 +428,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-21",
-  "calls": 38,
-  "tokens": 42980
+  "calls": 40,
+  "tokens": 45223
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -404,7 +456,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 30,
+  "lineup": 32,
   "transfer": 17,
   "stats": 1,
   "discipline": 8,
