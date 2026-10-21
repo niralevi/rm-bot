@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59359,
-  "themadridzone": 32094,
+  "themadridzone": 32097,
   "FabrizioRomanoTG": 67547
  },
  "sent": [
@@ -579,6 +579,24 @@
    "status": "rumour",
    "headline": "🚨 Como vs Man United tonight:",
    "link": "https://t.me/RealMadridImportantOnly/640"
+  },
+  {
+   "ts": 1792608327.833149,
+   "date": "2026-10-21",
+   "tokens": [
+    "back",
+    "bernabeu",
+    "pitch",
+    "vini"
+   ],
+   "names": [
+    "bernabeu",
+    "vini"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "Vini Jr is back on the Bernabeu pitch! 🇧🇷🔥",
+   "link": "https://t.me/RealMadridImportantOnly/641"
   }
  ],
  "offset": 769012042,
@@ -586,8 +604,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-21",
-  "calls": 70,
-  "tokens": 79353
+  "calls": 72,
+  "tokens": 81648
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -618,7 +636,7 @@
   "transfer": 19,
   "stats": 1,
   "discipline": 8,
-  "injury": 5,
+  "injury": 6,
   "coach": 8,
   "awards": 3,
   "fixtures": 1
