@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59359,
-  "themadridzone": 32098,
+  "themadridzone": 32102,
   "FabrizioRomanoTG": 67547
  },
  "sent": [
@@ -597,6 +597,36 @@
    "status": "fact",
    "headline": "Vini Jr is back on the Bernabeu pitch! 🇧🇷🔥",
    "link": "https://t.me/RealMadridImportantOnly/641"
+  },
+  {
+   "ts": 1792608991.7168138,
+   "date": "2026-10-21",
+   "tokens": [
+    "kylian",
+    "mbappe",
+    "ready"
+   ],
+   "names": [
+    "kylian",
+    "mbappe"
+   ],
+   "cat": "injury",
+   "status": "rumour",
+   "headline": "Kylian Mbappé is READY! 🔥🇫🇷",
+   "link": "https://t.me/RealMadridImportantOnly/642"
+  },
+  {
+   "ts": 1792608994.9945228,
+   "date": "2026-10-21",
+   "tokens": [
+    "here",
+    "magician"
+   ],
+   "names": [],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "The magician is here 🇹🇷",
+   "link": "https://t.me/RealMadridImportantOnly/643"
   }
  ],
  "offset": 769012042,
@@ -604,8 +634,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-21",
-  "calls": 73,
-  "tokens": 82759
+  "calls": 76,
+  "tokens": 86210
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -633,10 +663,10 @@
   "fun": 1,
   "social": 2,
   "lineup": 37,
-  "transfer": 19,
+  "transfer": 20,
   "stats": 1,
   "discipline": 8,
-  "injury": 6,
+  "injury": 7,
   "coach": 8,
   "awards": 3,
   "fixtures": 1
