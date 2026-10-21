@@ -6,31 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792417947.195896,
-   "date": "2026-10-19",
-   "tokens": [
-    "2026",
-    "ballon",
-    "henry",
-    "host",
-    "kate",
-    "official",
-    "scott",
-    "thierry"
-   ],
-   "names": [
-    "ballon",
-    "henry",
-    "kate",
-    "scott",
-    "thierry"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "🚨 Official: Thierry Henry and Kate Scott will host Ballon d’Or 2026.",
-   "link": "https://t.me/RealMadridImportantOnly/604"
-  },
-  {
    "ts": 1792430661.8692489,
    "date": "2026-10-19",
    "tokens": [
