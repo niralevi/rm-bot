@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59359,
-  "themadridzone": 32084,
+  "themadridzone": 32085,
   "FabrizioRomanoTG": 67545
  },
  "sent": [
@@ -551,6 +551,34 @@
    "status": "fact",
    "headline": "Konaté x Lukeba!",
    "link": "https://t.me/RealMadridImportantOnly/639"
+  },
+  {
+   "ts": 1792607062.6912172,
+   "date": "2026-10-21",
+   "tokens": [
+    "como",
+    "fabrica",
+    "jacobo",
+    "man",
+    "nico",
+    "paz",
+    "ramon",
+    "show",
+    "unit"
+   ],
+   "names": [
+    "como",
+    "jacobo",
+    "man",
+    "nico",
+    "paz",
+    "ramon",
+    "united"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 Como vs Man United tonight:",
+   "link": "https://t.me/RealMadridImportantOnly/640"
   }
  ],
  "offset": 769012042,
@@ -558,8 +586,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-21",
-  "calls": 60,
-  "tokens": 68000
+  "calls": 61,
+  "tokens": 69157
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -586,7 +614,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 36,
+  "lineup": 37,
   "transfer": 19,
   "stats": 1,
   "discipline": 8,
