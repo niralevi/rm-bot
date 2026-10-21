@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59359,
-  "themadridzone": 32077,
+  "themadridzone": 32083,
   "FabrizioRomanoTG": 67545
  },
  "sent": [
@@ -518,6 +518,39 @@
    "status": "fact",
    "headline": "🚨 Fede Valverde is now playing as RB for the 4TH MATCH IN A ROW:",
    "link": "https://t.me/RealMadridImportantOnly/637"
+  },
+  {
+   "ts": 1792606595.05873,
+   "date": "2026-10-21",
+   "tokens": [
+    "bellingham",
+    "here",
+    "jude"
+   ],
+   "names": [
+    "bellingham",
+    "jude"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Jude Bellingham is here! 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+   "link": "https://t.me/RealMadridImportantOnly/638"
+  },
+  {
+   "ts": 1792606661.6450331,
+   "date": "2026-10-21",
+   "tokens": [
+    "konate",
+    "lukeba"
+   ],
+   "names": [
+    "konate",
+    "lukeba"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "Konaté x Lukeba!",
+   "link": "https://t.me/RealMadridImportantOnly/639"
   }
  ],
  "offset": 769012042,
@@ -525,8 +558,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-21",
-  "calls": 53,
-  "tokens": 60096
+  "calls": 59,
+  "tokens": 66908
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -553,8 +586,8 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 35,
-  "transfer": 18,
+  "lineup": 36,
+  "transfer": 19,
   "stats": 1,
   "discipline": 8,
   "injury": 5,
