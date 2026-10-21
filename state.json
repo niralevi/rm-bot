@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59377,
-  "themadridzone": 32149,
-  "FabrizioRomanoTG": 67565
+  "themadridzone": 32150,
+  "FabrizioRomanoTG": 67566
  },
  "sent": [
   {
@@ -640,6 +640,38 @@
    "status": "fact",
    "headline": "🚨 UP NEXT: EL CLASICO 🔥⚔️",
    "link": "https://t.me/RealMadridImportantOnly/644"
+  },
+  {
+   "ts": 1792618167.371122,
+   "date": "2026-10-22",
+   "tokens": [
+    "2026",
+    "21",
+    "against",
+    "fabrizio",
+    "kylian",
+    "leipzig",
+    "man",
+    "match",
+    "mbappe",
+    "oct",
+    "romano",
+    "uefa"
+   ],
+   "names": [
+    "fabrizio",
+    "kylian",
+    "leipzig",
+    "man",
+    "match",
+    "mbappe",
+    "oct",
+    "romano"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🤍🇪🇺 Kylian Mbappé, UEFA Man of the Match for Real Madrid against Leipzig. https://t.co/PQDwvpdxQ4",
+   "link": "https://t.me/RealMadridImportantOnly/645"
   }
  ],
  "offset": 769012042,
@@ -647,8 +679,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-22",
-  "calls": 32,
-  "tokens": 35789
+  "calls": 34,
+  "tokens": 38015
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -681,7 +713,7 @@
   "discipline": 8,
   "injury": 7,
   "coach": 8,
-  "awards": 3,
+  "awards": 4,
   "fixtures": 2
  }
 }
