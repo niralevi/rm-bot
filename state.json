@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59357,
-  "themadridzone": 32053,
+  "themadridzone": 32056,
   "FabrizioRomanoTG": 67543
  },
  "sent": [
@@ -296,6 +296,30 @@
    "status": "fact",
    "headline": "🙏 Cristiano Ronaldo & Marcelo wish Khvicha Kvaratskhelia after his ACL injury.",
    "link": "https://t.me/RealMadridImportantOnly/627"
+  },
+  {
+   "ts": 1792604001.5499313,
+   "date": "2026-10-21",
+   "tokens": [
+    "around",
+    "eder",
+    "expect",
+    "feeling",
+    "good",
+    "militao",
+    "reclaim",
+    "soon",
+    "spot",
+    "start"
+   ],
+   "names": [
+    "eder",
+    "militao"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 JUST IN: The feelings around Eder Militao at Real Madrid are VERY GOOD.",
+   "link": "https://t.me/RealMadridImportantOnly/628"
   }
  ],
  "offset": 769012042,
@@ -303,8 +327,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-21",
-  "calls": 29,
-  "tokens": 32944
+  "calls": 31,
+  "tokens": 35247
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -331,7 +355,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 27,
+  "lineup": 28,
   "transfer": 16,
   "stats": 1,
   "discipline": 8,
