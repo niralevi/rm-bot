@@ -2,37 +2,9 @@
  "last_post": {
   "real_madrid": 59355,
   "themadridzone": 32020,
-  "FabrizioRomanoTG": 67520
+  "FabrizioRomanoTG": 67522
  },
  "sent": [
-  {
-   "ts": 1792389858.941575,
-   "date": "2026-10-19",
-   "tokens": [
-    "19",
-    "2026",
-    "2028",
-    "agreement",
-    "clos",
-    "courtoi",
-    "fabrizio",
-    "oct",
-    "romano",
-    "thibaut",
-    "until"
-   ],
-   "names": [
-    "courtois",
-    "fabrizio",
-    "oct",
-    "romano",
-    "thibaut"
-   ],
-   "cat": "transfer",
-   "status": "official",
-   "headline": "⚪️🇧🇪 Thibaut Courtois until 2028: agreement closed with Real Madrid. https://t.co/Op27j1zTuv",
-   "link": "https://t.me/RealMadridImportantOnly/602"
-  },
   {
    "ts": 1792409189.7082033,
    "date": "2026-10-19",
