@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59357,
-  "themadridzone": 32040,
+  "themadridzone": 32042,
   "FabrizioRomanoTG": 67542
  },
  "sent": [
@@ -302,6 +302,31 @@
    "status": "fact",
    "headline": "🚨❌ UPDATE: Barcelona’s Dani Olmo is OUT vs Real Madrid.",
    "link": "https://t.me/RealMadridImportantOnly/626"
+  },
+  {
+   "ts": 1792591530.0021129,
+   "date": "2026-10-21",
+   "tokens": [
+    "acl",
+    "cristiano",
+    "injury",
+    "khvicha",
+    "kvaratskhelia",
+    "marcelo",
+    "ronaldo",
+    "wish"
+   ],
+   "names": [
+    "cristiano",
+    "khvicha",
+    "kvaratskhelia",
+    "marcelo",
+    "ronaldo"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🙏 Cristiano Ronaldo & Marcelo wish Khvicha Kvaratskhelia after his ACL injury.",
+   "link": "https://t.me/RealMadridImportantOnly/627"
   }
  ],
  "offset": 769012042,
@@ -309,8 +334,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-21",
-  "calls": 18,
-  "tokens": 20789
+  "calls": 19,
+  "tokens": 21879
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -341,7 +366,7 @@
   "transfer": 16,
   "stats": 1,
   "discipline": 8,
-  "injury": 4,
+  "injury": 5,
   "coach": 8,
   "awards": 3,
   "fixtures": 1
