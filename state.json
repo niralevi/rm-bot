@@ -6,30 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792386044.5882103,
-   "date": "2026-10-19",
-   "tokens": [
-    "aurelien",
-    "ibrahima",
-    "konate",
-    "kylian",
-    "mbappe",
-    "tchouameni"
-   ],
-   "names": [
-    "aurelien",
-    "ibrahima",
-    "konate",
-    "kylian",
-    "mbappe",
-    "tchouameni"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "Aurelien Tchouaméni x Kylian Mbappé x Ibrahima Konate. 🇫🇷",
-   "link": "https://t.me/RealMadridImportantOnly/600"
-  },
-  {
    "ts": 1792389858.941575,
    "date": "2026-10-19",
    "tokens": [
