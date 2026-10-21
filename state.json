@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59373,
-  "themadridzone": 32118,
-  "FabrizioRomanoTG": 67558
+  "themadridzone": 32121,
+  "FabrizioRomanoTG": 67561
  },
  "sent": [
   {
@@ -627,6 +627,19 @@
    "status": "rumour",
    "headline": "The magician is here 🇹🇷",
    "link": "https://t.me/RealMadridImportantOnly/643"
+  },
+  {
+   "ts": 1792616368.6517613,
+   "date": "2026-10-21",
+   "tokens": [
+    "clasico",
+    "next"
+   ],
+   "names": [],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "🚨 UP NEXT: EL CLASICO 🔥⚔️",
+   "link": "https://t.me/RealMadridImportantOnly/644"
   }
  ],
  "offset": 769012042,
@@ -634,8 +647,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-21",
-  "calls": 109,
-  "tokens": 122742
+  "calls": 113,
+  "tokens": 127274
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -669,6 +682,6 @@
   "injury": 7,
   "coach": 8,
   "awards": 3,
-  "fixtures": 1
+  "fixtures": 2
  }
 }
