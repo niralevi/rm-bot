@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59359,
-  "themadridzone": 32072,
+  "themadridzone": 32076,
   "FabrizioRomanoTG": 67545
  },
  "sent": [
@@ -450,6 +450,40 @@
    "status": "fact",
    "headline": "🚨 REMINDER: Real Madrid have an €80M buy-back clause for Nico Paz valid ONLY in summer 2027.",
    "link": "https://t.me/RealMadridImportantOnly/634"
+  },
+  {
+   "ts": 1792606222.615175,
+   "date": "2026-10-21",
+   "tokens": [
+    "antonio",
+    "battle",
+    "fede",
+    "nusa",
+    "valverde"
+   ],
+   "names": [
+    "antonio",
+    "fede",
+    "nusa",
+    "valverde"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "Antonio Nusa vs Fede Valverde battle tonight ⚡️",
+   "link": "https://t.me/RealMadridImportantOnly/635"
+  },
+  {
+   "ts": 1792606226.7782893,
+   "date": "2026-10-21",
+   "tokens": [
+    "leipzig",
+    "start"
+   ],
+   "names": [],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 RB LEIPZIG STARTING XI VS REAL MADRID",
+   "link": "https://t.me/RealMadridImportantOnly/636"
   }
  ],
  "offset": 769012042,
@@ -457,8 +491,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-21",
-  "calls": 49,
-  "tokens": 55522
+  "calls": 52,
+  "tokens": 58902
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -485,7 +519,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 32,
+  "lineup": 34,
   "transfer": 18,
   "stats": 1,
   "discipline": 8,
