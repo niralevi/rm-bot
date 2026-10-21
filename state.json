@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59355,
-  "themadridzone": 32020,
+  "themadridzone": 32022,
   "FabrizioRomanoTG": 67524
  },
  "sent": [
@@ -320,6 +320,21 @@
    "status": "fact",
    "headline": "Back in action tomorrow. ⏳⚪️",
    "link": "https://t.me/RealMadridImportantOnly/621"
+  },
+  {
+   "ts": 1792566621.9236012,
+   "date": "2026-10-21",
+   "tokens": [
+    "leipzig",
+    "predict"
+   ],
+   "names": [
+    "leipzig"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 Real Madrid’s predicted XI vs RB Leipzig. @diarioas",
+   "link": "https://t.me/RealMadridImportantOnly/622"
   }
  ],
  "offset": 769012042,
@@ -327,8 +342,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-21",
-  "calls": 1,
-  "tokens": 1153
+  "calls": 3,
+  "tokens": 3420
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -355,7 +370,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 26,
+  "lineup": 27,
   "transfer": 15,
   "stats": 1,
   "discipline": 8,
