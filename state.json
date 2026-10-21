@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59357,
-  "themadridzone": 32030,
+  "themadridzone": 32031,
   "FabrizioRomanoTG": 67537
  },
  "sent": [
@@ -348,6 +348,40 @@
    "status": "fact",
    "headline": "👊 CHAMPIONS. BERNABÉU. TONIGHT.",
    "link": "https://t.me/RealMadridImportantOnly/623"
+  },
+  {
+   "ts": 1792579704.5734987,
+   "date": "2026-10-21",
+   "tokens": [
+    "2025",
+    "because",
+    "couldn",
+    "deal",
+    "didn",
+    "diomande",
+    "find",
+    "happen",
+    "him",
+    "legan",
+    "many",
+    "sign",
+    "spot",
+    "time",
+    "too",
+    "tri",
+    "when",
+    "winger",
+    "yan"
+   ],
+   "names": [
+    "diomande",
+    "leganes",
+    "yan"
+   ],
+   "cat": "transfer",
+   "status": "fact",
+   "headline": "🚨 JUST IN: Real Madrid tried to sign Yan Diomandé in 2025 when he was at Leganes, but the deal didn't happen …",
+   "link": "https://t.me/RealMadridImportantOnly/625"
   }
  ],
  "offset": 769012042,
@@ -355,8 +389,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-21",
-  "calls": 11,
-  "tokens": 12379
+  "calls": 12,
+  "tokens": 13562
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -384,7 +418,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 27,
-  "transfer": 15,
+  "transfer": 16,
   "stats": 1,
   "discipline": 8,
   "injury": 3,
