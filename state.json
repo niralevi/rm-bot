@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59377,
-  "themadridzone": 32196,
+  "themadridzone": 32200,
   "FabrizioRomanoTG": 67568
  },
  "sent": [
@@ -685,6 +685,43 @@
    "status": "rumour",
    "headline": "ARDA GÜLER 🇹🇷💎🔥",
    "link": "https://t.me/RealMadridImportantOnly/646"
+  },
+  {
+   "ts": 1792621281.7396429,
+   "date": "2026-10-22",
+   "tokens": [
+    "ballon",
+    "carragher",
+    "harry",
+    "henry",
+    "jamie",
+    "kane",
+    "kate",
+    "kylian",
+    "lamine",
+    "mbappe",
+    "micah",
+    "richard",
+    "scott",
+    "select",
+    "thierry",
+    "winner",
+    "yamal"
+   ],
+   "names": [
+    "ballon",
+    "harry",
+    "jamie",
+    "kate",
+    "lamine",
+    "micah",
+    "thierry",
+    "yamal"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 @CBSSportsGolazo selecting their Ballon d’Or winners:",
+   "link": "https://t.me/RealMadridImportantOnly/647"
   }
  ],
  "offset": 769012042,
@@ -692,8 +729,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-22",
-  "calls": 78,
-  "tokens": 87308
+  "calls": 81,
+  "tokens": 90707
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -726,7 +763,7 @@
   "discipline": 8,
   "injury": 7,
   "coach": 8,
-  "awards": 4,
+  "awards": 5,
   "fixtures": 2
  }
 }
