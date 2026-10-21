@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59357,
-  "themadridzone": 32037,
+  "themadridzone": 32038,
   "FabrizioRomanoTG": 67539
  },
  "sent": [
@@ -309,6 +309,24 @@
    "status": "fact",
    "headline": "🚨 JUST IN: Real Madrid tried to sign Yan Diomandé in 2025 when he was at Leganes, but the deal didn't happen …",
    "link": "https://t.me/RealMadridImportantOnly/625"
+  },
+  {
+   "ts": 1792585586.4040632,
+   "date": "2026-10-21",
+   "tokens": [
+    "barcelona",
+    "dani",
+    "olmo"
+   ],
+   "names": [
+    "barcelona",
+    "dani",
+    "olmo"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🚨❌ UPDATE: Barcelona’s Dani Olmo is OUT vs Real Madrid.",
+   "link": "https://t.me/RealMadridImportantOnly/626"
   }
  ],
  "offset": 769012042,
@@ -316,8 +334,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-21",
-  "calls": 16,
-  "tokens": 18466
+  "calls": 17,
+  "tokens": 19574
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -348,7 +366,7 @@
   "transfer": 16,
   "stats": 1,
   "discipline": 8,
-  "injury": 3,
+  "injury": 4,
   "coach": 8,
   "awards": 3,
   "fixtures": 1
