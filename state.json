@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59377,
-  "themadridzone": 32158,
+  "themadridzone": 32162,
   "FabrizioRomanoTG": 67567
  },
  "sent": [
@@ -672,6 +672,19 @@
    "status": "fact",
    "headline": "🤍🇪🇺 Kylian Mbappé, UEFA Man of the Match for Real Madrid against Leipzig. https://t.co/PQDwvpdxQ4",
    "link": "https://t.me/RealMadridImportantOnly/645"
+  },
+  {
+   "ts": 1792618694.4933193,
+   "date": "2026-10-22",
+   "tokens": [
+    "arda",
+    "guler"
+   ],
+   "names": [],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "ARDA GÜLER 🇹🇷💎🔥",
+   "link": "https://t.me/RealMadridImportantOnly/646"
   }
  ],
  "offset": 769012042,
@@ -679,8 +692,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-22",
-  "calls": 42,
-  "tokens": 46940
+  "calls": 46,
+  "tokens": 51452
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -708,7 +721,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 37,
-  "transfer": 20,
+  "transfer": 21,
   "stats": 1,
   "discipline": 8,
   "injury": 7,
