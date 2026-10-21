@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59355,
+  "real_madrid": 59356,
   "themadridzone": 32023,
   "FabrizioRomanoTG": 67528
  },
@@ -335,6 +335,19 @@
    "status": "rumour",
    "headline": "🚨 Real Madrid’s predicted XI vs RB Leipzig. @diarioas",
    "link": "https://t.me/RealMadridImportantOnly/622"
+  },
+  {
+   "ts": 1792573579.7458777,
+   "date": "2026-10-21",
+   "tokens": [
+    "bernabeu",
+    "champion"
+   ],
+   "names": [],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "👊 CHAMPIONS. BERNABÉU. TONIGHT.",
+   "link": "https://t.me/RealMadridImportantOnly/623"
   }
  ],
  "offset": 769012042,
@@ -342,8 +355,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-21",
-  "calls": 4,
-  "tokens": 4500
+  "calls": 5,
+  "tokens": 5630
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -376,6 +389,7 @@
   "discipline": 8,
   "injury": 3,
   "coach": 8,
-  "awards": 3
+  "awards": 3,
+  "fixtures": 1
  }
 }
