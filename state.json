@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59387,
-  "themadridzone": 32268,
+  "themadridzone": 32272,
   "FabrizioRomanoTG": 67596
  },
  "sent": [
@@ -1040,6 +1040,34 @@
    "status": "official",
    "headline": "🚨 CONFIRMED: Real Madrid's right-back in El Clasico will be FEDE VALVERDE!",
    "link": "https://t.me/RealMadridImportantOnly/660"
+  },
+  {
+   "ts": 1792706012.2001894,
+   "date": "2026-10-23",
+   "tokens": [
+    "11",
+    "2",
+    "9",
+    "back",
+    "center",
+    "chosen",
+    "clasico",
+    "doubt",
+    "jose",
+    "mourinho",
+    "only",
+    "start",
+    "which"
+   ],
+   "names": [
+    "clasico",
+    "jose",
+    "mourinho"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 BREAKING: José Mourinho has chosen 9/11 players for El Clasico.",
+   "link": "https://t.me/RealMadridImportantOnly/661"
   }
  ],
  "offset": 769012042,
@@ -1047,8 +1075,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-23",
-  "calls": 4,
-  "tokens": 4782
+  "calls": 6,
+  "tokens": 7276
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1075,7 +1103,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 41,
+  "lineup": 42,
   "transfer": 22,
   "stats": 1,
   "discipline": 10,
