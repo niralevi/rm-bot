@@ -6,25 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792493541.0906541,
-   "date": "2026-10-20",
-   "tokens": [
-    "conference",
-    "jose",
-    "late",
-    "mourinho",
-    "pres"
-   ],
-   "names": [
-    "jose",
-    "mourinho"
-   ],
-   "cat": "coach",
-   "status": "fact",
-   "headline": "🚨 Jose Mourinho is late to the press conference.",
-   "link": "https://t.me/RealMadridImportantOnly/607"
-  },
-  {
    "ts": 1792501352.4529173,
    "date": "2026-10-20",
    "tokens": [
