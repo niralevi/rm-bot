@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59387,
-  "themadridzone": 32265,
+  "themadridzone": 32268,
   "FabrizioRomanoTG": 67596
  },
  "sent": [
@@ -992,6 +992,54 @@
    "status": "rumour",
    "headline": "🚨💣 JUST IN: Jose Mourinho is set to START Eduardo Camavinga vs Barcelona. @marca",
    "link": "https://t.me/RealMadridImportantOnly/658"
+  },
+  {
+   "ts": 1792705701.8144896,
+   "date": "2026-10-23",
+   "tokens": [
+    "camavinga",
+    "clasico",
+    "decid",
+    "double",
+    "jose",
+    "mourinho",
+    "pivot",
+    "start",
+    "tchouameni"
+   ],
+   "names": [
+    "camavinga",
+    "clasico",
+    "jose",
+    "mourinho",
+    "tchouameni"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨💣 BREAKING: José Mourinho has decided to start a Tchouaméni-Camavinga double pivot in El Clasico. @marca",
+   "link": "https://t.me/RealMadridImportantOnly/659"
+  },
+  {
+   "ts": 1792705766.3897953,
+   "date": "2026-10-23",
+   "tokens": [
+    "100",
+    "back",
+    "clasico",
+    "confirm",
+    "decision",
+    "done",
+    "fede",
+    "right",
+    "valverde"
+   ],
+   "names": [
+    "clasico"
+   ],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 CONFIRMED: Real Madrid's right-back in El Clasico will be FEDE VALVERDE!",
+   "link": "https://t.me/RealMadridImportantOnly/660"
   }
  ],
  "offset": 769012042,
@@ -999,8 +1047,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-23",
-  "calls": 2,
-  "tokens": 2345
+  "calls": 4,
+  "tokens": 4782
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1027,7 +1075,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 39,
+  "lineup": 41,
   "transfer": 22,
   "stats": 1,
   "discipline": 10,
