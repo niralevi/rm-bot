@@ -6,31 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792521442.4899776,
-   "date": "2026-10-20",
-   "tokens": [
-    "arda",
-    "aurelien",
-    "confirm",
-    "double",
-    "expect",
-    "guler",
-    "pivot",
-    "tchouameni",
-    "tomorrow"
-   ],
-   "names": [
-    "arda",
-    "aurelien",
-    "guler",
-    "tchouameni"
-   ],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "🚨 CONFIRMED: Real Madrid's double pivot tomorrow is expected to be Arda Guler - Aurélien Tchouaméni. @marca",
-   "link": "https://t.me/RealMadridImportantOnly/619"
-  },
-  {
    "ts": 1792521623.1741714,
    "date": "2026-10-20",
    "tokens": [
