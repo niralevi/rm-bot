@@ -6,22 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792529015.8412232,
-   "date": "2026-10-20",
-   "tokens": [
-    "action",
-    "back",
-    "tomorrow"
-   ],
-   "names": [
-    "back"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "Back in action tomorrow. ⏳⚪️",
-   "link": "https://t.me/RealMadridImportantOnly/621"
-  },
-  {
    "ts": 1792566621.9236012,
    "date": "2026-10-21",
    "tokens": [
