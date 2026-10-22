@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59380,
-  "themadridzone": 32221,
+  "themadridzone": 32225,
   "FabrizioRomanoTG": 67587
  },
  "sent": [
@@ -680,6 +680,26 @@
    "status": "fact",
    "headline": "🚨 @CBSSportsGolazo selecting their Ballon d’Or winners:",
    "link": "https://t.me/RealMadridImportantOnly/647"
+  },
+  {
+   "ts": 1792672104.1150944,
+   "date": "2026-10-22",
+   "tokens": [
+    "ballon",
+    "boycott",
+    "ceremony",
+    "end",
+    "london",
+    "present"
+   ],
+   "names": [
+    "ballon",
+    "london"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨💣 BREAKING: Real Madrid are ENDING their Ballon d’Or boycott.",
+   "link": "https://t.me/RealMadridImportantOnly/648"
   }
  ],
  "offset": 769012042,
@@ -687,8 +707,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-22",
-  "calls": 107,
-  "tokens": 119991
+  "calls": 109,
+  "tokens": 122323
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -721,7 +741,7 @@
   "discipline": 8,
   "injury": 7,
   "coach": 8,
-  "awards": 5,
+  "awards": 6,
   "fixtures": 2
  }
 }
