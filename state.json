@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59380,
-  "themadridzone": 32227,
+  "themadridzone": 32229,
   "FabrizioRomanoTG": 67587
  },
  "sent": [
@@ -700,6 +700,36 @@
    "status": "official",
    "headline": "🚨💣 BREAKING: Real Madrid are ENDING their Ballon d’Or boycott.",
    "link": "https://t.me/RealMadridImportantOnly/648"
+  },
+  {
+   "ts": 1792673661.908001,
+   "date": "2026-10-22",
+   "tokens": [
+    "aek",
+    "athen",
+    "away",
+    "barcelona",
+    "break",
+    "international",
+    "long",
+    "rac",
+    "santander",
+    "schedule",
+    "trip",
+    "valencia"
+   ],
+   "names": [
+    "athens",
+    "barcelona",
+    "long",
+    "racing",
+    "santander",
+    "valencia"
+   ],
+   "cat": "fixtures",
+   "status": "official",
+   "headline": "🚨 Real Madrid's schedule before the international break:",
+   "link": "https://t.me/RealMadridImportantOnly/649"
   }
  ],
  "offset": 769012042,
@@ -707,8 +737,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-22",
-  "calls": 110,
-  "tokens": 123429
+  "calls": 112,
+  "tokens": 125689
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -742,6 +772,6 @@
   "injury": 7,
   "coach": 8,
   "awards": 6,
-  "fixtures": 2
+  "fixtures": 3
  }
 }
