@@ -1,51 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59380,
-  "themadridzone": 32233,
+  "themadridzone": 32235,
   "FabrizioRomanoTG": 67587
  },
  "sent": [
-  {
-   "ts": 1792502337.1604939,
-   "date": "2026-10-20",
-   "tokens": [
-    "back",
-    "eder",
-    "list",
-    "militao",
-    "squad",
-    "ucl"
-   ],
-   "names": [
-    "eder",
-    "militao"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "Eder Militao is BACK to a UCL squad list!",
-   "link": "https://t.me/RealMadridImportantOnly/613"
-  },
-  {
-   "ts": 1792502340.7914753,
-   "date": "2026-10-20",
-   "tokens": [
-    "jose",
-    "kylian",
-    "mbappe",
-    "mourinho",
-    "train"
-   ],
-   "names": [
-    "jose",
-    "kylian",
-    "mbappe",
-    "mourinho"
-   ],
-   "cat": "coach",
-   "status": "fact",
-   "headline": "José Mourinho and Kylian Mbappé in training.",
-   "link": "https://t.me/RealMadridImportantOnly/614"
-  },
   {
    "ts": 1792521265.5364904,
    "date": "2026-10-20",
@@ -757,6 +716,46 @@
    "status": "fact",
    "headline": "🚨🚨 BREAKING: The Spanish National Sports Council (CSD) has decided to take action against Javier Tebas for hi…",
    "link": "https://t.me/RealMadridImportantOnly/650"
+  },
+  {
+   "ts": 1792675231.4007213,
+   "date": "2026-10-22",
+   "tokens": [
+    "allow",
+    "attack",
+    "back",
+    "both",
+    "clasico",
+    "consider",
+    "denzel",
+    "double",
+    "down",
+    "dumfri",
+    "fede",
+    "flank",
+    "free",
+    "jose",
+    "mourinho",
+    "right",
+    "run",
+    "special",
+    "start",
+    "tactic",
+    "valverde"
+   ],
+   "names": [
+    "clasico",
+    "denzel",
+    "dumfries",
+    "fede",
+    "jose",
+    "mourinho",
+    "valverde"
+   ],
+   "cat": "coach",
+   "status": "rumour",
+   "headline": "🚨 BREAKING: José Mourinho is considering starting BOTH Fede Valverde & Denzel Dumfries on the RIGHT FLANK in …",
+   "link": "https://t.me/RealMadridImportantOnly/651"
   }
  ],
  "offset": 769012042,
@@ -764,8 +763,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-22",
-  "calls": 114,
-  "tokens": 128052
+  "calls": 115,
+  "tokens": 129183
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -797,7 +796,7 @@
   "stats": 1,
   "discipline": 9,
   "injury": 7,
-  "coach": 8,
+  "coach": 9,
   "awards": 6,
   "fixtures": 3
  }
