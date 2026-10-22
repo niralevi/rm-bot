@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59380,
-  "themadridzone": 32231,
+  "themadridzone": 32233,
   "FabrizioRomanoTG": 67587
  },
  "sent": [
@@ -717,6 +717,46 @@
    "status": "official",
    "headline": "🚨 Real Madrid's schedule before the international break:",
    "link": "https://t.me/RealMadridImportantOnly/649"
+  },
+  {
+   "ts": 1792674685.7807596,
+   "date": "2026-10-22",
+   "tokens": [
+    "action",
+    "administrative",
+    "against",
+    "case",
+    "compar",
+    "council",
+    "court",
+    "csd",
+    "decid",
+    "fil",
+    "germany",
+    "javier",
+    "management",
+    "national",
+    "spanish",
+    "sport",
+    "take",
+    "teba",
+    "word"
+   ],
+   "names": [
+    "administrative",
+    "council",
+    "court",
+    "germany",
+    "javier",
+    "national",
+    "spanish",
+    "sports",
+    "tebas"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "🚨🚨 BREAKING: The Spanish National Sports Council (CSD) has decided to take action against Javier Tebas for hi…",
+   "link": "https://t.me/RealMadridImportantOnly/650"
   }
  ],
  "offset": 769012042,
@@ -724,8 +764,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-22",
-  "calls": 113,
-  "tokens": 126867
+  "calls": 114,
+  "tokens": 128052
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -755,7 +795,7 @@
   "lineup": 37,
   "transfer": 21,
   "stats": 1,
-  "discipline": 8,
+  "discipline": 9,
   "injury": 7,
   "coach": 8,
   "awards": 6,
