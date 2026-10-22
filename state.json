@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59385,
-  "themadridzone": 32252,
-  "FabrizioRomanoTG": 67594
+  "themadridzone": 32254,
+  "FabrizioRomanoTG": 67595
  },
  "sent": [
   {
@@ -981,6 +981,44 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Kylian Mbappé is in the UEFA Champions League Team of the Week! 🇫🇷✨",
    "link": "https://t.me/RealMadridImportantOnly/655"
+  },
+  {
+   "ts": 1792687763.7775195,
+   "date": "2026-10-22",
+   "tokens": [
+    "2026",
+    "22",
+    "agreement",
+    "announcement",
+    "arda",
+    "clos",
+    "contract",
+    "document",
+    "fabrizio",
+    "five",
+    "guler",
+    "next",
+    "oct",
+    "reach",
+    "romano",
+    "seal",
+    "september",
+    "sign",
+    "valid",
+    "year"
+   ],
+   "names": [
+    "arda",
+    "fabrizio",
+    "guler",
+    "oct",
+    "romano",
+    "september"
+   ],
+   "cat": "transfer",
+   "status": "official",
+   "headline": "🚨⚪️ Arda Güler has signed his contract at Real Madrid valid for the next five years. 🔐",
+   "link": "https://t.me/RealMadridImportantOnly/656"
   }
  ],
  "offset": 769012042,
@@ -988,8 +1026,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-22",
-  "calls": 132,
-  "tokens": 149302
+  "calls": 135,
+  "tokens": 152892
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1017,7 +1055,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 38,
-  "transfer": 21,
+  "transfer": 22,
   "stats": 1,
   "discipline": 10,
   "injury": 7,
