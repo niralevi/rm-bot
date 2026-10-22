@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59380,
-  "themadridzone": 32245,
+  "themadridzone": 32250,
   "FabrizioRomanoTG": 67592
  },
  "sent": [
@@ -957,6 +957,30 @@
    "status": "rumour",
    "headline": "Denzel Dumfries x Brahim Diaz 🇳🇱🇲🇦",
    "link": "https://t.me/RealMadridImportantOnly/654"
+  },
+  {
+   "ts": 1792682074.3780603,
+   "date": "2026-10-22",
+   "tokens": [
+    "champion",
+    "kylian",
+    "league",
+    "mbappe",
+    "official",
+    "team",
+    "uefa",
+    "week"
+   ],
+   "names": [
+    "kylian",
+    "mbappe",
+    "team",
+    "week"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Kylian Mbappé is in the UEFA Champions League Team of the Week! 🇫🇷✨",
+   "link": "https://t.me/RealMadridImportantOnly/655"
   }
  ],
  "offset": 769012042,
@@ -964,8 +988,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-22",
-  "calls": 125,
-  "tokens": 141129
+  "calls": 128,
+  "tokens": 144576
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -998,7 +1022,7 @@
   "discipline": 10,
   "injury": 7,
   "coach": 9,
-  "awards": 7,
+  "awards": 8,
   "fixtures": 3
  }
 }
