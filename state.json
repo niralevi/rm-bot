@@ -2,32 +2,9 @@
  "last_post": {
   "real_madrid": 59377,
   "themadridzone": 32209,
-  "FabrizioRomanoTG": 67568
+  "FabrizioRomanoTG": 67569
  },
  "sent": [
-  {
-   "ts": 1792455402.794402,
-   "date": "2026-10-20",
-   "tokens": [
-    "arda",
-    "aurelien",
-    "double",
-    "guler",
-    "pivot",
-    "tchouameni"
-   ],
-   "names": [
-    "arda",
-    "aurelien",
-    "guler",
-    "tchouameni"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 BREAKING: Real Madrid's NEW DOUBLE PIVOT:",
-   "link": "https://t.me/RealMadridImportantOnly/606",
-   "superseded": true
-  },
   {
    "ts": 1792493541.0906541,
    "date": "2026-10-20",
