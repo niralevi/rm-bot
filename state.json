@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59380,
-  "themadridzone": 32238,
+  "themadridzone": 32244,
   "FabrizioRomanoTG": 67592
  },
  "sent": [
@@ -937,6 +937,26 @@
    "status": "official",
    "headline": "⭐️ OFFICIAL: Phil Foden wins UEFA Player of the Week Award for UCL Matchday 3!",
    "link": "https://t.me/RealMadridImportantOnly/653"
+  },
+  {
+   "ts": 1792681683.7581942,
+   "date": "2026-10-22",
+   "tokens": [
+    "brahim",
+    "denzel",
+    "diaz",
+    "dumfri"
+   ],
+   "names": [
+    "brahim",
+    "denzel",
+    "diaz",
+    "dumfries"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "Denzel Dumfries x Brahim Diaz 🇳🇱🇲🇦",
+   "link": "https://t.me/RealMadridImportantOnly/654"
   }
  ],
  "offset": 769012042,
@@ -944,8 +964,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-22",
-  "calls": 119,
-  "tokens": 134262
+  "calls": 124,
+  "tokens": 140006
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -972,7 +992,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 37,
+  "lineup": 38,
   "transfer": 21,
   "stats": 1,
   "discipline": 10,
