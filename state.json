@@ -1,23 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59380,
-  "themadridzone": 32229,
+  "themadridzone": 32231,
   "FabrizioRomanoTG": 67587
  },
  "sent": [
-  {
-   "ts": 1792501352.4529173,
-   "date": "2026-10-20",
-   "tokens": [
-    "leipzig",
-    "squad"
-   ],
-   "names": [],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 REAL MADRID'S SQUAD VS RB LEIPZIG! ✅",
-   "link": "https://t.me/RealMadridImportantOnly/609"
-  },
   {
    "ts": 1792502337.1604939,
    "date": "2026-10-20",
@@ -737,8 +724,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-22",
-  "calls": 112,
-  "tokens": 125689
+  "calls": 113,
+  "tokens": 126867
  },
  "summary_date": "2026-10-15",
  "opts": {
