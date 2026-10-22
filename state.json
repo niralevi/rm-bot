@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59386,
-  "themadridzone": 32256,
+  "themadridzone": 32259,
   "FabrizioRomanoTG": 67596
  },
  "sent": [
@@ -944,6 +944,46 @@
    "status": "official",
    "headline": "🚨⚪️ Arda Güler has signed his contract at Real Madrid valid for the next five years. 🔐",
    "link": "https://t.me/RealMadridImportantOnly/656"
+  },
+  {
+   "ts": 1792697846.128376,
+   "date": "2026-10-22",
+   "tokens": [
+    "1",
+    "2",
+    "2025",
+    "226",
+    "26",
+    "3",
+    "around",
+    "award",
+    "best",
+    "harry",
+    "journalist",
+    "kane",
+    "kylian",
+    "lamine",
+    "mbappe",
+    "podium",
+    "vot",
+    "world",
+    "yamal"
+   ],
+   "names": [
+    "award",
+    "best",
+    "harry",
+    "kane",
+    "kylian",
+    "lamine",
+    "mbappe",
+    "player",
+    "yamal"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 @MARCA Best Player of 2025/26 Award podium:",
+   "link": "https://t.me/RealMadridImportantOnly/657"
   }
  ],
  "offset": 769012042,
@@ -951,8 +991,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-22",
-  "calls": 139,
-  "tokens": 157670
+  "calls": 142,
+  "tokens": 161161
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -985,7 +1025,7 @@
   "discipline": 10,
   "injury": 7,
   "coach": 9,
-  "awards": 8,
+  "awards": 9,
   "fixtures": 3
  }
 }
