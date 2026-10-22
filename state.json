@@ -1,40 +1,10 @@
 {
  "last_post": {
-  "real_madrid": 59385,
+  "real_madrid": 59386,
   "themadridzone": 32254,
   "FabrizioRomanoTG": 67596
  },
  "sent": [
-  {
-   "ts": 1792521623.1741714,
-   "date": "2026-10-20",
-   "tokens": [
-    "attack",
-    "behind",
-    "bellingham",
-    "diomande",
-    "expect",
-    "jude",
-    "kylian",
-    "mbappe",
-    "tomorrow",
-    "vini",
-    "yan"
-   ],
-   "names": [
-    "bellingham",
-    "diomande",
-    "jude",
-    "kylian",
-    "mbappe",
-    "vini",
-    "yan"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 JUST IN: Real Madrid's expected attack tomorrow:",
-   "link": "https://t.me/RealMadridImportantOnly/620"
-  },
   {
    "ts": 1792529015.8412232,
    "date": "2026-10-20",
@@ -981,8 +951,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-22",
-  "calls": 136,
-  "tokens": 154103
+  "calls": 137,
+  "tokens": 155342
  },
  "summary_date": "2026-10-15",
  "opts": {
