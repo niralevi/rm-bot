@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59387,
-  "themadridzone": 32263,
+  "themadridzone": 32265,
   "FabrizioRomanoTG": 67596
  },
  "sent": [
@@ -968,6 +968,30 @@
    "status": "fact",
    "headline": "🚨 @MARCA Best Player of 2025/26 Award podium:",
    "link": "https://t.me/RealMadridImportantOnly/657"
+  },
+  {
+   "ts": 1792705287.6517947,
+   "date": "2026-10-23",
+   "tokens": [
+    "barcelona",
+    "camavinga",
+    "eduardo",
+    "jose",
+    "mourinho",
+    "set",
+    "start"
+   ],
+   "names": [
+    "barcelona",
+    "camavinga",
+    "eduardo",
+    "jose",
+    "mourinho"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨💣 JUST IN: Jose Mourinho is set to START Eduardo Camavinga vs Barcelona. @marca",
+   "link": "https://t.me/RealMadridImportantOnly/658"
   }
  ],
  "offset": 769012042,
@@ -975,8 +999,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-23",
-  "calls": 1,
-  "tokens": 1202
+  "calls": 2,
+  "tokens": 2345
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1003,7 +1027,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 38,
+  "lineup": 39,
   "transfer": 22,
   "stats": 1,
   "discipline": 10,
