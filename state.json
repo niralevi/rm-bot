@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59393,
-  "themadridzone": 32302,
+  "themadridzone": 32304,
   "FabrizioRomanoTG": 67613
  },
  "sent": [
@@ -1010,6 +1010,41 @@
    "status": "rumour",
    "headline": "🚨💣 BREAKING: Real Madrid are now OPTIMISTIC about Kylian Mbappé WINNING THE BALLON D'OR! @Rodra10_97",
    "link": "https://t.me/RealMadridImportantOnly/663"
+  },
+  {
+   "ts": 1792766425.9111102,
+   "date": "2026-10-23",
+   "tokens": [
+    "depend",
+    "despite",
+    "endrick",
+    "guarante",
+    "interest",
+    "january",
+    "jose",
+    "matter",
+    "milan",
+    "mourinho",
+    "play",
+    "roma",
+    "say",
+    "stay",
+    "time",
+    "what",
+    "word"
+   ],
+   "names": [
+    "endrick",
+    "january",
+    "jose",
+    "milan",
+    "mourinho",
+    "roma"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 JUST IN: Endrick is NOT guaranteed to stay at Real Madrid in January, despite José Mourinho's words saying …",
+   "link": "https://t.me/RealMadridImportantOnly/664"
   }
  ],
  "offset": 769012042,
@@ -1017,8 +1052,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-23",
-  "calls": 37,
-  "tokens": 44316
+  "calls": 38,
+  "tokens": 45545
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1046,7 +1081,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 42,
-  "transfer": 22,
+  "transfer": 23,
   "stats": 1,
   "discipline": 10,
   "injury": 7,
