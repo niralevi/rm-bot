@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59393,
-  "themadridzone": 32299,
+  "themadridzone": 32300,
   "FabrizioRomanoTG": 67613
  },
  "sent": [
@@ -991,6 +991,25 @@
    "status": "fact",
    "headline": "🚨 UP NEXT IN LA LIGA: El Clasico at the Camp Nou.",
    "link": "https://t.me/RealMadridImportantOnly/662"
+  },
+  {
+   "ts": 1792766061.851048,
+   "date": "2026-10-23",
+   "tokens": [
+    "ballon",
+    "kylian",
+    "mbappe",
+    "optimistic",
+    "winn"
+   ],
+   "names": [
+    "kylian",
+    "mbappe"
+   ],
+   "cat": "awards",
+   "status": "rumour",
+   "headline": "🚨💣 BREAKING: Real Madrid are now OPTIMISTIC about Kylian Mbappé WINNING THE BALLON D'OR! @Rodra10_97",
+   "link": "https://t.me/RealMadridImportantOnly/663"
   }
  ],
  "offset": 769012042,
@@ -998,8 +1017,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-23",
-  "calls": 35,
-  "tokens": 41930
+  "calls": 36,
+  "tokens": 43115
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1032,7 +1051,7 @@
   "discipline": 10,
   "injury": 7,
   "coach": 9,
-  "awards": 9,
+  "awards": 10,
   "fixtures": 4
  }
 }
