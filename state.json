@@ -1,23 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59388,
-  "themadridzone": 32278,
+  "themadridzone": 32282,
   "FabrizioRomanoTG": 67604
  },
  "sent": [
-  {
-   "ts": 1792573579.7458777,
-   "date": "2026-10-21",
-   "tokens": [
-    "bernabeu",
-    "champion"
-   ],
-   "names": [],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "👊 CHAMPIONS. BERNABÉU. TONIGHT.",
-   "link": "https://t.me/RealMadridImportantOnly/623"
-  },
   {
    "ts": 1792579704.5734987,
    "date": "2026-10-21",
@@ -1088,8 +1075,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-23",
-  "calls": 14,
-  "tokens": 17266
+  "calls": 16,
+  "tokens": 19807
  },
  "summary_date": "2026-10-15",
  "opts": {
