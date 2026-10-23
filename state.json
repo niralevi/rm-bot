@@ -6,24 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792608327.833149,
-   "date": "2026-10-21",
-   "tokens": [
-    "back",
-    "bernabeu",
-    "pitch",
-    "vini"
-   ],
-   "names": [
-    "bernabeu",
-    "vini"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "Vini Jr is back on the Bernabeu pitch! 🇧🇷🔥",
-   "link": "https://t.me/RealMadridImportantOnly/641"
-  },
-  {
    "ts": 1792608991.7168138,
    "date": "2026-10-21",
    "tokens": [
