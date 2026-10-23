@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59394,
-  "themadridzone": 32312,
+  "themadridzone": 32314,
   "FabrizioRomanoTG": 67620
  },
  "sent": [
@@ -714,6 +714,35 @@
    "status": "rumour",
    "headline": "🚨 JUST IN: Endrick is NOT guaranteed to stay at Real Madrid in January, despite José Mourinho's words saying …",
    "link": "https://t.me/RealMadridImportantOnly/664"
+  },
+  {
+   "ts": 1792782263.3828754,
+   "date": "2026-10-23",
+   "tokens": [
+    "clasico",
+    "double",
+    "doubt",
+    "huijsen",
+    "jose",
+    "line",
+    "main",
+    "mourinho",
+    "pivot",
+    "rudiger",
+    "still",
+    "undecid"
+   ],
+   "names": [
+    "clasico",
+    "huijsen",
+    "jose",
+    "mourinho",
+    "rudiger"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 Jose Mourinho is still undecided about his El Clasico line-up, his main doubts are:",
+   "link": "https://t.me/RealMadridImportantOnly/665"
   }
  ],
  "offset": 769012042,
@@ -721,8 +750,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-23",
-  "calls": 44,
-  "tokens": 52976
+  "calls": 45,
+  "tokens": 54243
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -749,7 +778,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 42,
+  "lineup": 43,
   "transfer": 23,
   "stats": 1,
   "discipline": 10,
