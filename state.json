@@ -6,40 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792579704.5734987,
-   "date": "2026-10-21",
-   "tokens": [
-    "2025",
-    "because",
-    "couldn",
-    "deal",
-    "didn",
-    "diomande",
-    "find",
-    "happen",
-    "him",
-    "legan",
-    "many",
-    "sign",
-    "spot",
-    "time",
-    "too",
-    "tri",
-    "when",
-    "winger",
-    "yan"
-   ],
-   "names": [
-    "diomande",
-    "leganes",
-    "yan"
-   ],
-   "cat": "transfer",
-   "status": "fact",
-   "headline": "🚨 JUST IN: Real Madrid tried to sign Yan Diomandé in 2025 when he was at Leganes, but the deal didn't happen …",
-   "link": "https://t.me/RealMadridImportantOnly/625"
-  },
-  {
    "ts": 1792585586.4040632,
    "date": "2026-10-21",
    "tokens": [
