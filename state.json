@@ -6,24 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792585586.4040632,
-   "date": "2026-10-21",
-   "tokens": [
-    "barcelona",
-    "dani",
-    "olmo"
-   ],
-   "names": [
-    "barcelona",
-    "dani",
-    "olmo"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨❌ UPDATE: Barcelona’s Dani Olmo is OUT vs Real Madrid.",
-   "link": "https://t.me/RealMadridImportantOnly/626"
-  },
-  {
    "ts": 1792591530.0021129,
    "date": "2026-10-21",
    "tokens": [
