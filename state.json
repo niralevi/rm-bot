@@ -6,30 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792604001.5499313,
-   "date": "2026-10-21",
-   "tokens": [
-    "around",
-    "eder",
-    "expect",
-    "feeling",
-    "good",
-    "militao",
-    "reclaim",
-    "soon",
-    "spot",
-    "start"
-   ],
-   "names": [
-    "eder",
-    "militao"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 JUST IN: The feelings around Eder Militao at Real Madrid are VERY GOOD.",
-   "link": "https://t.me/RealMadridImportantOnly/628"
-  },
-  {
    "ts": 1792604605.259352,
    "date": "2026-10-21",
    "tokens": [
