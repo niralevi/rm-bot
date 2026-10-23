@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59387,
-  "themadridzone": 32275,
+  "themadridzone": 32278,
   "FabrizioRomanoTG": 67603
  },
  "sent": [
@@ -1068,6 +1068,34 @@
    "status": "rumour",
    "headline": "🚨 BREAKING: José Mourinho has chosen 9/11 players for El Clasico.",
    "link": "https://t.me/RealMadridImportantOnly/661"
+  },
+  {
+   "ts": 1792738165.8408546,
+   "date": "2026-10-23",
+   "tokens": [
+    "21",
+    "against",
+    "barcelona",
+    "camp",
+    "chance",
+    "clasico",
+    "given",
+    "liga",
+    "next",
+    "nou",
+    "only",
+    "win"
+   ],
+   "names": [
+    "barcelona",
+    "camp",
+    "clasico",
+    "nou"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "🚨 UP NEXT IN LA LIGA: El Clasico at the Camp Nou.",
+   "link": "https://t.me/RealMadridImportantOnly/662"
   }
  ],
  "offset": 769012042,
@@ -1075,8 +1103,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-23",
-  "calls": 11,
-  "tokens": 13588
+  "calls": 13,
+  "tokens": 16019
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1110,6 +1138,6 @@
   "injury": 7,
   "coach": 9,
   "awards": 9,
-  "fixtures": 3
+  "fixtures": 4
  }
 }
