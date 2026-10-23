@@ -1,23 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59397,
-  "themadridzone": 32340,
+  "themadridzone": 32341,
   "FabrizioRomanoTG": 67621
  },
  "sent": [
-  {
-   "ts": 1792616368.6517613,
-   "date": "2026-10-21",
-   "tokens": [
-    "clasico",
-    "next"
-   ],
-   "names": [],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "🚨 UP NEXT: EL CLASICO 🔥⚔️",
-   "link": "https://t.me/RealMadridImportantOnly/644"
-  },
   {
    "ts": 1792618167.371122,
    "date": "2026-10-22",
@@ -844,9 +831,9 @@
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
-  "date": "2026-10-23",
-  "calls": 60,
-  "tokens": 72856
+  "date": "2026-10-24",
+  "calls": 1,
+  "tokens": 1167
  },
  "summary_date": "2026-10-15",
  "opts": {
