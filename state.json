@@ -6,40 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792606468.450978,
-   "date": "2026-10-21",
-   "tokens": [
-    "35",
-    "45",
-    "4th",
-    "clasico",
-    "fede",
-    "leipzig",
-    "match",
-    "mins",
-    "next",
-    "play",
-    "roma",
-    "row",
-    "sevilla",
-    "start",
-    "valverde",
-    "villarreal"
-   ],
-   "names": [
-    "fede",
-    "leipzig",
-    "roma",
-    "sevilla",
-    "valverde",
-    "villarreal"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Fede Valverde is now playing as RB for the 4TH MATCH IN A ROW:",
-   "link": "https://t.me/RealMadridImportantOnly/637"
-  },
-  {
    "ts": 1792606595.05873,
    "date": "2026-10-21",
    "tokens": [
