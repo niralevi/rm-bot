@@ -6,58 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792605324.711636,
-   "date": "2026-10-21",
-   "tokens": [
-    "2nd",
-    "back",
-    "bench",
-    "both",
-    "match",
-    "right",
-    "row"
-   ],
-   "names": [
-    "for"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 For the 2nd match in a row, BOTH Real Madrid right-backs are on the BENCH.",
-   "link": "https://t.me/RealMadridImportantOnly/632"
-  },
-  {
-   "ts": 1792605389.0774028,
-   "date": "2026-10-21",
-   "tokens": [
-    "all",
-    "aurelien",
-    "clasico",
-    "cucurella",
-    "diomande",
-    "ibrahima",
-    "konate",
-    "marc",
-    "rest",
-    "tchouameni",
-    "yan"
-   ],
-   "names": [
-    "aurelien",
-    "clasico",
-    "cucurella",
-    "diomande",
-    "ibrahima",
-    "konate",
-    "marc",
-    "tchouameni",
-    "yan"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 Ibrahima Konaté, Marc Cucurella, Yan Diomandé and Aurélien Tchouaméni are all rested for El Clasico.",
-   "link": "https://t.me/RealMadridImportantOnly/633"
-  },
-  {
    "ts": 1792606047.2471578,
    "date": "2026-10-21",
    "tokens": [
