@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59394,
-  "themadridzone": 32325,
+  "themadridzone": 32327,
   "FabrizioRomanoTG": 67620
  },
  "sent": [
@@ -764,6 +764,31 @@
    "status": "rumour",
    "headline": "🚨 BREAKING: Fede Valverde is now aiming to KEEP PLAYING on the RIGHT WING. @diarioas",
    "link": "https://t.me/RealMadridImportantOnly/666"
+  },
+  {
+   "ts": 1792783384.9180331,
+   "date": "2026-10-23",
+   "tokens": [
+    "bernardo",
+    "endrick",
+    "fede",
+    "play",
+    "silva",
+    "sunday",
+    "valverde"
+   ],
+   "names": [
+    "bernardo",
+    "endrick",
+    "fede",
+    "silva",
+    "sunday",
+    "valverde"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 If Fede Valverde plays as RB, Bernardo Silva or Endrick will play as RW on Sunday. @diarioas",
+   "link": "https://t.me/RealMadridImportantOnly/667"
   }
  ],
  "offset": 769012042,
@@ -771,8 +796,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-23",
-  "calls": 51,
-  "tokens": 61536
+  "calls": 52,
+  "tokens": 62789
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -799,7 +824,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 44,
+  "lineup": 45,
   "transfer": 23,
   "stats": 1,
   "discipline": 10,
