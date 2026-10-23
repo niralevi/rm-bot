@@ -6,36 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792608991.7168138,
-   "date": "2026-10-21",
-   "tokens": [
-    "kylian",
-    "mbappe",
-    "ready"
-   ],
-   "names": [
-    "kylian",
-    "mbappe"
-   ],
-   "cat": "injury",
-   "status": "rumour",
-   "headline": "Kylian Mbappé is READY! 🔥🇫🇷",
-   "link": "https://t.me/RealMadridImportantOnly/642"
-  },
-  {
-   "ts": 1792608994.9945228,
-   "date": "2026-10-21",
-   "tokens": [
-    "here",
-    "magician"
-   ],
-   "names": [],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "The magician is here 🇹🇷",
-   "link": "https://t.me/RealMadridImportantOnly/643"
-  },
-  {
    "ts": 1792616368.6517613,
    "date": "2026-10-21",
    "tokens": [
