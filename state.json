@@ -1,47 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59397,
-  "themadridzone": 32347,
+  "themadridzone": 32350,
   "FabrizioRomanoTG": 67621
  },
  "sent": [
-  {
-   "ts": 1792621281.7396429,
-   "date": "2026-10-22",
-   "tokens": [
-    "ballon",
-    "carragher",
-    "harry",
-    "henry",
-    "jamie",
-    "kane",
-    "kate",
-    "kylian",
-    "lamine",
-    "mbappe",
-    "micah",
-    "richard",
-    "scott",
-    "select",
-    "thierry",
-    "winner",
-    "yamal"
-   ],
-   "names": [
-    "ballon",
-    "harry",
-    "jamie",
-    "kate",
-    "lamine",
-    "micah",
-    "thierry",
-    "yamal"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 @CBSSportsGolazo selecting their Ballon d’Or winners:",
-   "link": "https://t.me/RealMadridImportantOnly/647"
-  },
   {
    "ts": 1792672104.1150944,
    "date": "2026-10-22",
@@ -808,8 +771,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-24",
-  "calls": 5,
-  "tokens": 5905
+  "calls": 7,
+  "tokens": 8437
  },
  "summary_date": "2026-10-15",
  "opts": {
