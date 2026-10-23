@@ -6,23 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792604856.5086446,
-   "date": "2026-10-21",
-   "tokens": [
-    "aurelien",
-    "bench",
-    "tchouameni"
-   ],
-   "names": [
-    "aurelien",
-    "tchouameni"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Aurélien Tchouaméni is on the bench tonight.",
-   "link": "https://t.me/RealMadridImportantOnly/631"
-  },
-  {
    "ts": 1792605324.711636,
    "date": "2026-10-21",
    "tokens": [
