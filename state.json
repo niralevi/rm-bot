@@ -6,38 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792604605.259352,
-   "date": "2026-10-21",
-   "tokens": [
-    "castello",
-    "diomande",
-    "lukeba",
-    "yan"
-   ],
-   "names": [
-    "castello",
-    "diomande",
-    "lukeba",
-    "yan"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "Yan Diomandé 🫂 Castello Lukeba",
-   "link": "https://t.me/RealMadridImportantOnly/629"
-  },
-  {
-   "ts": 1792604609.8217359,
-   "date": "2026-10-21",
-   "tokens": [
-    "official"
-   ],
-   "names": [],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "🚨 OFFICIAL REAL MADRID XI",
-   "link": "https://t.me/RealMadridImportantOnly/630"
-  },
-  {
    "ts": 1792604856.5086446,
    "date": "2026-10-21",
    "tokens": [
