@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59397,
-  "themadridzone": 32341,
+  "themadridzone": 32342,
   "FabrizioRomanoTG": 67621
  },
  "sent": [
@@ -825,6 +825,27 @@
    "status": "rumour",
    "headline": "Jude Bellingham tipped for future Ballon d'Or",
    "link": "https://t.me/RealMadridImportantOnly/668"
+  },
+  {
+   "ts": 1792790192.8247616,
+   "date": "2026-10-24",
+   "tokens": [
+    "arda",
+    "close",
+    "earn",
+    "guler",
+    "spot",
+    "start",
+    "undisput"
+   ],
+   "names": [
+    "arda",
+    "guler"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 UPDATE: Arda Güler is VERY CLOSE to earning an undisputed spot in starting XI. @marca",
+   "link": "https://t.me/RealMadridImportantOnly/669"
   }
  ],
  "offset": 769012042,
@@ -832,8 +853,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-24",
-  "calls": 1,
-  "tokens": 1167
+  "calls": 2,
+  "tokens": 2357
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -860,7 +881,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 45,
+  "lineup": 46,
   "transfer": 23,
   "stats": 1,
   "discipline": 10,
