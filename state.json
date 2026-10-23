@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59394,
-  "themadridzone": 32329,
+  "themadridzone": 32331,
   "FabrizioRomanoTG": 67620
  },
  "sent": [
@@ -789,6 +789,55 @@
    "status": "rumour",
    "headline": "🚨 If Fede Valverde plays as RB, Bernardo Silva or Endrick will play as RW on Sunday. @diarioas",
    "link": "https://t.me/RealMadridImportantOnly/667"
+  },
+  {
+   "ts": 1792784038.7259936,
+   "date": "2026-10-23",
+   "tokens": [
+    "around",
+    "ballon",
+    "behind",
+    "believe",
+    "bellingham",
+    "consider",
+    "dedicat",
+    "deliver",
+    "demand",
+    "describ",
+    "high",
+    "him",
+    "jude",
+    "like",
+    "matter",
+    "most",
+    "one",
+    "only",
+    "other",
+    "people",
+    "scen",
+    "sets",
+    "someone",
+    "standard",
+    "star",
+    "those",
+    "time",
+    "train",
+    "who",
+    "wins",
+    "within",
+    "without"
+   ],
+   "names": [
+    "ballon",
+    "behind",
+    "bellingham",
+    "jude",
+    "people"
+   ],
+   "cat": "awards",
+   "status": "rumour",
+   "headline": "Jude Bellingham tipped for future Ballon d'Or",
+   "link": "https://t.me/RealMadridImportantOnly/668"
   }
  ],
  "offset": 769012042,
@@ -796,8 +845,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-23",
-  "calls": 53,
-  "tokens": 64061
+  "calls": 54,
+  "tokens": 65383
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -830,7 +879,7 @@
   "discipline": 10,
   "injury": 7,
   "coach": 9,
-  "awards": 10,
+  "awards": 11,
   "fixtures": 4
  }
 }
