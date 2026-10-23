@@ -6,38 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792618167.371122,
-   "date": "2026-10-22",
-   "tokens": [
-    "2026",
-    "21",
-    "against",
-    "fabrizio",
-    "kylian",
-    "leipzig",
-    "man",
-    "match",
-    "mbappe",
-    "oct",
-    "romano",
-    "uefa"
-   ],
-   "names": [
-    "fabrizio",
-    "kylian",
-    "leipzig",
-    "man",
-    "match",
-    "mbappe",
-    "oct",
-    "romano"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🤍🇪🇺 Kylian Mbappé, UEFA Man of the Match for Real Madrid against Leipzig. https://t.co/PQDwvpdxQ4",
-   "link": "https://t.me/RealMadridImportantOnly/645"
-  },
-  {
    "ts": 1792618694.4933193,
    "date": "2026-10-22",
    "tokens": [
