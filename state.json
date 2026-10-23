@@ -6,31 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792591530.0021129,
-   "date": "2026-10-21",
-   "tokens": [
-    "acl",
-    "cristiano",
-    "injury",
-    "khvicha",
-    "kvaratskhelia",
-    "marcelo",
-    "ronaldo",
-    "wish"
-   ],
-   "names": [
-    "cristiano",
-    "khvicha",
-    "kvaratskhelia",
-    "marcelo",
-    "ronaldo"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🙏 Cristiano Ronaldo & Marcelo wish Khvicha Kvaratskhelia after his ACL injury.",
-   "link": "https://t.me/RealMadridImportantOnly/627"
-  },
-  {
    "ts": 1792604001.5499313,
    "date": "2026-10-21",
    "tokens": [
