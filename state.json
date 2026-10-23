@@ -6,21 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792566621.9236012,
-   "date": "2026-10-21",
-   "tokens": [
-    "leipzig",
-    "predict"
-   ],
-   "names": [
-    "leipzig"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 Real Madrid’s predicted XI vs RB Leipzig. @diarioas",
-   "link": "https://t.me/RealMadridImportantOnly/622"
-  },
-  {
    "ts": 1792573579.7458777,
    "date": "2026-10-21",
    "tokens": [
