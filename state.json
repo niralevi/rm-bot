@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59397,
-  "themadridzone": 32383,
+  "themadridzone": 32385,
   "FabrizioRomanoTG": 67628
  },
  "sent": [
@@ -937,6 +937,39 @@
    "status": "fact",
    "headline": "🚨 NEW: Jose Mourinho prefers to tell the team his starting XI a day before the game.",
    "link": "https://t.me/RealMadridImportantOnly/674"
+  },
+  {
+   "ts": 1792824500.7462614,
+   "date": "2026-10-24",
+   "tokens": [
+    "almost",
+    "close",
+    "day",
+    "every",
+    "hour",
+    "internal",
+    "jose",
+    "mourinho",
+    "number",
+    "said",
+    "sleep",
+    "source",
+    "spend",
+    "staff",
+    "talk",
+    "there",
+    "valdebeba"
+   ],
+   "names": [
+    "jose",
+    "mourinho",
+    "there",
+    "valdebebas"
+   ],
+   "cat": "coach",
+   "status": "rumour",
+   "headline": "🚨 There has been talk internally about the number of hours Jose Mourinho and his staff spend at Valdebebas.",
+   "link": "https://t.me/RealMadridImportantOnly/675"
   }
  ],
  "offset": 769012042,
@@ -944,8 +977,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-24",
-  "calls": 27,
-  "tokens": 32821
+  "calls": 28,
+  "tokens": 34042
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -977,7 +1010,7 @@
   "stats": 1,
   "discipline": 10,
   "injury": 7,
-  "coach": 14,
+  "coach": 15,
   "awards": 11,
   "fixtures": 4
  }
