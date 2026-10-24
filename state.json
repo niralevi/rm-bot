@@ -1,48 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59410,
-  "themadridzone": 32442,
+  "themadridzone": 32447,
   "FabrizioRomanoTG": 67646
  },
  "sent": [
-  {
-   "ts": 1792687763.7775195,
-   "date": "2026-10-22",
-   "tokens": [
-    "2026",
-    "22",
-    "agreement",
-    "announcement",
-    "arda",
-    "clos",
-    "contract",
-    "document",
-    "fabrizio",
-    "five",
-    "guler",
-    "next",
-    "oct",
-    "reach",
-    "romano",
-    "seal",
-    "september",
-    "sign",
-    "valid",
-    "year"
-   ],
-   "names": [
-    "arda",
-    "fabrizio",
-    "guler",
-    "oct",
-    "romano",
-    "september"
-   ],
-   "cat": "transfer",
-   "status": "official",
-   "headline": "🚨⚪️ Arda Güler has signed his contract at Real Madrid valid for the next five years. 🔐",
-   "link": "https://t.me/RealMadridImportantOnly/656"
-  },
   {
    "ts": 1792697846.128376,
    "date": "2026-10-22",
@@ -808,8 +770,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-24",
-  "calls": 82,
-  "tokens": 97745
+  "calls": 85,
+  "tokens": 101130
  },
  "summary_date": "2026-10-15",
  "opts": {
