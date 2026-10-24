@@ -6,30 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792682074.3780603,
-   "date": "2026-10-22",
-   "tokens": [
-    "champion",
-    "kylian",
-    "league",
-    "mbappe",
-    "official",
-    "team",
-    "uefa",
-    "week"
-   ],
-   "names": [
-    "kylian",
-    "mbappe",
-    "team",
-    "week"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Kylian Mbappé is in the UEFA Champions League Team of the Week! 🇫🇷✨",
-   "link": "https://t.me/RealMadridImportantOnly/655"
-  },
-  {
    "ts": 1792687763.7775195,
    "date": "2026-10-22",
    "tokens": [
