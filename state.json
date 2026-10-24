@@ -6,52 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792676363.4188166,
-   "date": "2026-10-22",
-   "tokens": [
-    "1",
-    "2",
-    "2026",
-    "22",
-    "3",
-    "4",
-    "award",
-    "fabrizio",
-    "foden",
-    "matchday",
-    "mctominay",
-    "ngumoha",
-    "nico",
-    "oct",
-    "official",
-    "paz",
-    "phil",
-    "romano",
-    "ucl",
-    "uefa",
-    "week",
-    "wins"
-   ],
-   "names": [
-    "award",
-    "fabrizio",
-    "foden",
-    "matchday",
-    "ngumoha",
-    "nico",
-    "oct",
-    "paz",
-    "phil",
-    "player",
-    "romano",
-    "week"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "⭐️ OFFICIAL: Phil Foden wins UEFA Player of the Week Award for UCL Matchday 3!",
-   "link": "https://t.me/RealMadridImportantOnly/653"
-  },
-  {
    "ts": 1792681683.7581942,
    "date": "2026-10-22",
    "tokens": [
