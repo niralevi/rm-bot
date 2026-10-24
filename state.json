@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59397,
-  "themadridzone": 32380,
+  "themadridzone": 32383,
   "FabrizioRomanoTG": 67628
  },
  "sent": [
@@ -866,6 +866,77 @@
    "status": "fact",
    "headline": "🚨 NEW: Players are required to arrive at training between 1-2 hours before the session, and they MUST have br…",
    "link": "https://t.me/RealMadridImportantOnly/672"
+  },
+  {
+   "ts": 1792824327.4329371,
+   "date": "2026-10-24",
+   "tokens": [
+    "anger",
+    "away",
+    "concern",
+    "does",
+    "dur",
+    "first",
+    "gam",
+    "jose",
+    "leak",
+    "limit",
+    "line",
+    "mourinho",
+    "number",
+    "people",
+    "point",
+    "seem",
+    "spell",
+    "there",
+    "travel",
+    "ups",
+    "which"
+   ],
+   "names": [
+    "jose",
+    "mourinho",
+    "there"
+   ],
+   "cat": "coach",
+   "status": "rumour",
+   "headline": "🚨 Jose Mourinho has limited the number of people traveling to away games.",
+   "link": "https://t.me/RealMadridImportantOnly/673"
+  },
+  {
+   "ts": 1792824329.839471,
+   "date": "2026-10-24",
+   "tokens": [
+    "atmospher",
+    "avoid",
+    "believ",
+    "day",
+    "days",
+    "frame",
+    "game",
+    "get",
+    "good",
+    "jose",
+    "match",
+    "mind",
+    "motivate",
+    "mourinho",
+    "prefer",
+    "right",
+    "start",
+    "team",
+    "tell",
+    "tense",
+    "way"
+   ],
+   "names": [
+    "jose",
+    "mourinho"
+   ],
+   "cat": "coach",
+   "status": "fact",
+   "headline": "🚨 NEW: Jose Mourinho prefers to tell the team his starting XI a day before the game.",
+   "link": "https://t.me/RealMadridImportantOnly/674"
   }
  ],
  "offset": 769012042,
@@ -873,8 +944,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-24",
-  "calls": 25,
-  "tokens": 30387
+  "calls": 27,
+  "tokens": 32821
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -906,7 +977,7 @@
   "stats": 1,
   "discipline": 10,
   "injury": 7,
-  "coach": 12,
+  "coach": 14,
   "awards": 11,
   "fixtures": 4
  }
