@@ -6,26 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792672104.1150944,
-   "date": "2026-10-22",
-   "tokens": [
-    "ballon",
-    "boycott",
-    "ceremony",
-    "end",
-    "london",
-    "present"
-   ],
-   "names": [
-    "ballon",
-    "london"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "🚨💣 BREAKING: Real Madrid are ENDING their Ballon d’Or boycott.",
-   "link": "https://t.me/RealMadridImportantOnly/648"
-  },
-  {
    "ts": 1792673661.908001,
    "date": "2026-10-22",
    "tokens": [
