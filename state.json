@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59397,
+  "real_madrid": 59398,
   "themadridzone": 32411,
   "FabrizioRomanoTG": 67637
  },
@@ -1109,6 +1109,21 @@
    "status": "fact",
    "headline": "Final training session before El Clasico. 💪",
    "link": "https://t.me/RealMadridImportantOnly/679"
+  },
+  {
+   "ts": 1792839388.6811116,
+   "date": "2026-10-24",
+   "tokens": [
+    "clasico",
+    "tomorrow"
+   ],
+   "names": [
+    "clasico"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "El Clásico tomorrow! 🔥",
+   "link": "https://t.me/RealMadridImportantOnly/680"
   }
  ],
  "offset": 769012042,
@@ -1116,8 +1131,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-24",
-  "calls": 53,
-  "tokens": 64388
+  "calls": 54,
+  "tokens": 65490
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1151,6 +1166,6 @@
   "injury": 8,
   "coach": 16,
   "awards": 12,
-  "fixtures": 4
+  "fixtures": 5
  }
 }
