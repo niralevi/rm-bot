@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59397,
-  "themadridzone": 32394,
+  "themadridzone": 32399,
   "FabrizioRomanoTG": 67636
  },
  "sent": [
@@ -583,7 +583,8 @@
    "cat": "awards",
    "status": "rumour",
    "headline": "🚨💣 BREAKING: Real Madrid are now OPTIMISTIC about Kylian Mbappé WINNING THE BALLON D'OR! @Rodra10_97",
-   "link": "https://t.me/RealMadridImportantOnly/663"
+   "link": "https://t.me/RealMadridImportantOnly/663",
+   "superseded": true
   },
   {
    "ts": 1792766425.9111102,
@@ -1044,6 +1045,29 @@
    "status": "fact",
    "headline": "Bayern director confirms Kompany hospitalized after on‑pitch collapse",
    "link": "https://t.me/RealMadridImportantOnly/676"
+  },
+  {
+   "ts": 1792833564.3505726,
+   "date": "2026-10-24",
+   "tokens": [
+    "back",
+    "ballon",
+    "confirm",
+    "kylian",
+    "mbappe",
+    "private",
+    "public",
+    "win"
+   ],
+   "names": [
+    "ballon",
+    "kylian",
+    "mbappe"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨 CONFIRMED: Real Madrid have publicly and privately backed Kylian Mbappé to win the Ballon d’Or. @GuillermoR…",
+   "link": "https://t.me/RealMadridImportantOnly/677"
   }
  ],
  "offset": 769012042,
@@ -1051,8 +1075,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-24",
-  "calls": 41,
-  "tokens": 49915
+  "calls": 44,
+  "tokens": 53648
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1085,7 +1109,7 @@
   "discipline": 10,
   "injury": 8,
   "coach": 15,
-  "awards": 11,
+  "awards": 12,
   "fixtures": 4
  }
 }
