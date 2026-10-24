@@ -6,54 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792705701.8144896,
-   "date": "2026-10-23",
-   "tokens": [
-    "camavinga",
-    "clasico",
-    "decid",
-    "double",
-    "jose",
-    "mourinho",
-    "pivot",
-    "start",
-    "tchouameni"
-   ],
-   "names": [
-    "camavinga",
-    "clasico",
-    "jose",
-    "mourinho",
-    "tchouameni"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨💣 BREAKING: José Mourinho has decided to start a Tchouaméni-Camavinga double pivot in El Clasico. @marca",
-   "link": "https://t.me/RealMadridImportantOnly/659"
-  },
-  {
-   "ts": 1792705766.3897953,
-   "date": "2026-10-23",
-   "tokens": [
-    "100",
-    "back",
-    "clasico",
-    "confirm",
-    "decision",
-    "done",
-    "fede",
-    "right",
-    "valverde"
-   ],
-   "names": [
-    "clasico"
-   ],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "🚨 CONFIRMED: Real Madrid's right-back in El Clasico will be FEDE VALVERDE!",
-   "link": "https://t.me/RealMadridImportantOnly/660"
-  },
-  {
    "ts": 1792706012.2001894,
    "date": "2026-10-23",
    "tokens": [
