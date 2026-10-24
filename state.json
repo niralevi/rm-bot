@@ -6,30 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792705287.6517947,
-   "date": "2026-10-23",
-   "tokens": [
-    "barcelona",
-    "camavinga",
-    "eduardo",
-    "jose",
-    "mourinho",
-    "set",
-    "start"
-   ],
-   "names": [
-    "barcelona",
-    "camavinga",
-    "eduardo",
-    "jose",
-    "mourinho"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨💣 JUST IN: Jose Mourinho is set to START Eduardo Camavinga vs Barcelona. @marca",
-   "link": "https://t.me/RealMadridImportantOnly/658"
-  },
-  {
    "ts": 1792705701.8144896,
    "date": "2026-10-23",
    "tokens": [
