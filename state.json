@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59407,
-  "themadridzone": 32434,
+  "themadridzone": 32438,
   "FabrizioRomanoTG": 67643
  },
  "sent": [
@@ -827,6 +827,24 @@
    "status": "official",
    "headline": "🚨 OFFICIAL REAL MADRID SQUAD VS BARCELONA.",
    "link": "https://t.me/RealMadridImportantOnly/681"
+  },
+  {
+   "ts": 1792853610.867866,
+   "date": "2026-10-24",
+   "tokens": [
+    "bellingham",
+    "jude",
+    "vini"
+   ],
+   "names": [
+    "bellingham",
+    "jude",
+    "vini"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "Jude Bellingham x Viní Jr. 🤍",
+   "link": "https://t.me/RealMadridImportantOnly/682"
   }
  ],
  "offset": 769012042,
@@ -834,8 +852,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-24",
-  "calls": 75,
-  "tokens": 89782
+  "calls": 77,
+  "tokens": 92186
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -862,7 +880,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 48,
+  "lineup": 49,
   "transfer": 23,
   "stats": 1,
   "discipline": 10,
