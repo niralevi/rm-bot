@@ -6,46 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792675231.4007213,
-   "date": "2026-10-22",
-   "tokens": [
-    "allow",
-    "attack",
-    "back",
-    "both",
-    "clasico",
-    "consider",
-    "denzel",
-    "double",
-    "down",
-    "dumfri",
-    "fede",
-    "flank",
-    "free",
-    "jose",
-    "mourinho",
-    "right",
-    "run",
-    "special",
-    "start",
-    "tactic",
-    "valverde"
-   ],
-   "names": [
-    "clasico",
-    "denzel",
-    "dumfries",
-    "fede",
-    "jose",
-    "mourinho",
-    "valverde"
-   ],
-   "cat": "coach",
-   "status": "rumour",
-   "headline": "🚨 BREAKING: José Mourinho is considering starting BOTH Fede Valverde & Denzel Dumfries on the RIGHT FLANK in …",
-   "link": "https://t.me/RealMadridImportantOnly/651"
-  },
-  {
    "ts": 1792675531.3017044,
    "date": "2026-10-22",
    "tokens": [
