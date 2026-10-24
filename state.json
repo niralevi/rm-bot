@@ -6,46 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792697846.128376,
-   "date": "2026-10-22",
-   "tokens": [
-    "1",
-    "2",
-    "2025",
-    "226",
-    "26",
-    "3",
-    "around",
-    "award",
-    "best",
-    "harry",
-    "journalist",
-    "kane",
-    "kylian",
-    "lamine",
-    "mbappe",
-    "podium",
-    "vot",
-    "world",
-    "yamal"
-   ],
-   "names": [
-    "award",
-    "best",
-    "harry",
-    "kane",
-    "kylian",
-    "lamine",
-    "mbappe",
-    "player",
-    "yamal"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 @MARCA Best Player of 2025/26 Award podium:",
-   "link": "https://t.me/RealMadridImportantOnly/657"
-  },
-  {
    "ts": 1792705287.6517947,
    "date": "2026-10-23",
    "tokens": [
