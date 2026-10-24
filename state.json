@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59397,
-  "themadridzone": 32406,
+  "themadridzone": 32409,
   "FabrizioRomanoTG": 67637
  },
  "sent": [
@@ -1068,6 +1068,47 @@
    "status": "official",
    "headline": "🚨 CONFIRMED: Real Madrid have publicly and privately backed Kylian Mbappé to win the Ballon d’Or. @GuillermoR…",
    "link": "https://t.me/RealMadridImportantOnly/677"
+  },
+  {
+   "ts": 1792838065.3154254,
+   "date": "2026-10-24",
+   "tokens": [
+    "arda",
+    "brahim",
+    "dean",
+    "diaz",
+    "guler",
+    "huijsen"
+   ],
+   "names": [
+    "arda",
+    "brahim",
+    "dean",
+    "diaz",
+    "guler",
+    "huijsen"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "Arda Güler x Dean Huijsen x Brahim Diaz. ⭐️",
+   "link": "https://t.me/RealMadridImportantOnly/678"
+  },
+  {
+   "ts": 1792838132.901139,
+   "date": "2026-10-24",
+   "tokens": [
+    "clasico",
+    "final",
+    "session",
+    "train"
+   ],
+   "names": [
+    "clasico"
+   ],
+   "cat": "coach",
+   "status": "fact",
+   "headline": "Final training session before El Clasico. 💪",
+   "link": "https://t.me/RealMadridImportantOnly/679"
   }
  ],
  "offset": 769012042,
@@ -1075,8 +1116,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-24",
-  "calls": 49,
-  "tokens": 59750
+  "calls": 52,
+  "tokens": 63240
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1103,12 +1144,12 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 46,
+  "lineup": 47,
   "transfer": 23,
   "stats": 1,
   "discipline": 10,
   "injury": 8,
-  "coach": 15,
+  "coach": 16,
   "awards": 12,
   "fixtures": 4
  }
