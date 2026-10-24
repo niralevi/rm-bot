@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59412,
-  "themadridzone": 32449,
+  "themadridzone": 32461,
   "FabrizioRomanoTG": 67652
  },
  "sent": [
@@ -651,15 +651,45 @@
    "status": "rumour",
    "headline": "Jude Bellingham x Viní Jr. 🤍",
    "link": "https://t.me/RealMadridImportantOnly/682"
+  },
+  {
+   "ts": 1792878621.6155167,
+   "date": "2026-10-25",
+   "tokens": [
+    "adeyemi",
+    "all",
+    "chance",
+    "diomande",
+    "karim",
+    "mak",
+    "offer",
+    "preferr",
+    "said",
+    "sense",
+    "sign",
+    "summer",
+    "yan"
+   ],
+   "names": [
+    "adeyemi",
+    "diomande",
+    "karim",
+    "now",
+    "yan"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨💣 BREAKING: Real Madrid were offered the chance to sign Karim Adeyemi in the summer, but they said NO, and t…",
+   "link": "https://t.me/RealMadridImportantOnly/683"
   }
  ],
  "offset": 769012042,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
-  "date": "2026-10-24",
-  "calls": 88,
-  "tokens": 104423
+  "date": "2026-10-25",
+  "calls": 8,
+  "tokens": 9001
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -687,7 +717,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 49,
-  "transfer": 23,
+  "transfer": 24,
   "stats": 1,
   "discipline": 10,
   "injury": 8,
