@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59406,
-  "themadridzone": 32429,
+  "themadridzone": 32431,
   "FabrizioRomanoTG": 67637
  },
  "sent": [
@@ -1104,6 +1104,20 @@
    "status": "fact",
    "headline": "El Clásico tomorrow! 🔥",
    "link": "https://t.me/RealMadridImportantOnly/680"
+  },
+  {
+   "ts": 1792845873.0554764,
+   "date": "2026-10-24",
+   "tokens": [
+    "barcelona",
+    "official",
+    "squad"
+   ],
+   "names": [],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 OFFICIAL REAL MADRID SQUAD VS BARCELONA.",
+   "link": "https://t.me/RealMadridImportantOnly/681"
   }
  ],
  "offset": 769012042,
@@ -1111,8 +1125,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-24",
-  "calls": 70,
-  "tokens": 83984
+  "calls": 71,
+  "tokens": 85105
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1139,7 +1153,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 47,
+  "lineup": 48,
   "transfer": 23,
   "stats": 1,
   "discipline": 10,
