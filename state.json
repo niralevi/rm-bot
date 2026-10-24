@@ -6,34 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792706012.2001894,
-   "date": "2026-10-23",
-   "tokens": [
-    "11",
-    "2",
-    "9",
-    "back",
-    "center",
-    "chosen",
-    "clasico",
-    "doubt",
-    "jose",
-    "mourinho",
-    "only",
-    "start",
-    "which"
-   ],
-   "names": [
-    "clasico",
-    "jose",
-    "mourinho"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 BREAKING: José Mourinho has chosen 9/11 players for El Clasico.",
-   "link": "https://t.me/RealMadridImportantOnly/661"
-  },
-  {
    "ts": 1792738165.8408546,
    "date": "2026-10-23",
    "tokens": [
