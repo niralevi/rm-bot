@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59397,
-  "themadridzone": 32372,
+  "themadridzone": 32374,
   "FabrizioRomanoTG": 67627
  },
  "sent": [
@@ -764,6 +764,41 @@
    "status": "rumour",
    "headline": "🚨 UPDATE: Arda Güler is VERY CLOSE to earning an undisputed spot in starting XI. @marca",
    "link": "https://t.me/RealMadridImportantOnly/669"
+  },
+  {
+   "ts": 1792823842.0230672,
+   "date": "2026-10-24",
+   "tokens": [
+    "affect",
+    "area",
+    "ask",
+    "aware",
+    "close",
+    "detail",
+    "every",
+    "everyth",
+    "eye",
+    "jose",
+    "keep",
+    "may",
+    "mourinho",
+    "onward",
+    "practical",
+    "report",
+    "says",
+    "source",
+    "team",
+    "want"
+   ],
+   "names": [
+    "jose",
+    "may",
+    "mourinho"
+   ],
+   "cat": "coach",
+   "status": "rumour",
+   "headline": "🚨 Jose Mourinho asked for detailed reports on the team from May onwards.",
+   "link": "https://t.me/RealMadridImportantOnly/670"
   }
  ],
  "offset": 769012042,
@@ -771,8 +806,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-24",
-  "calls": 21,
-  "tokens": 25496
+  "calls": 22,
+  "tokens": 26733
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -804,7 +839,7 @@
   "stats": 1,
   "discipline": 10,
   "injury": 7,
-  "coach": 9,
+  "coach": 10,
   "awards": 11,
   "fixtures": 4
  }
