@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59485,
-  "themadridzone": 32687,
+  "real_madrid": 59487,
+  "themadridzone": 32692,
   "FabrizioRomanoTG": 67687
  },
  "sent": [
@@ -1640,15 +1640,41 @@
    "status": "fact",
    "headline": "🚨 VAR is checking.",
    "link": "https://t.me/RealMadridImportantOnly/736"
+  },
+  {
+   "ts": 1792965713.9188237,
+   "date": "2026-10-26",
+   "tokens": [
+    "ankle",
+    "bellingham",
+    "book",
+    "front",
+    "jude",
+    "lamine",
+    "referee",
+    "right",
+    "stomp",
+    "yamal"
+   ],
+   "names": [
+    "bellingham",
+    "jude",
+    "lamine",
+    "yamal"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "🚨 Lamine Yamal STOMPS on Jude Bellingham's ankle RIGHT IN FRONT OF THE REFEREE.",
+   "link": "https://t.me/RealMadridImportantOnly/737"
   }
  ],
  "offset": 769012042,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
-  "date": "2026-10-25",
-  "calls": 160,
-  "tokens": 185615
+  "date": "2026-10-26",
+  "calls": 7,
+  "tokens": 7397
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1678,7 +1704,7 @@
   "lineup": 72,
   "transfer": 31,
   "stats": 1,
-  "discipline": 14,
+  "discipline": 15,
   "injury": 20,
   "coach": 17,
   "awards": 15,
