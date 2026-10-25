@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59417,
   "themadridzone": 32503,
-  "FabrizioRomanoTG": 67664
+  "FabrizioRomanoTG": 67665
  },
  "sent": [
   {
@@ -816,6 +816,38 @@
    "status": "fact",
    "headline": "Off to Barcelona! ✈️",
    "link": "https://t.me/RealMadridImportantOnly/691"
+  },
+  {
+   "ts": 1792927238.5387301,
+   "date": "2026-10-25",
+   "tokens": [
+    "2026",
+    "25",
+    "clasico",
+    "courtoi",
+    "fabrizio",
+    "feel",
+    "goal",
+    "lunin",
+    "oct",
+    "romano",
+    "sick",
+    "start",
+    "thibaut"
+   ],
+   "names": [
+    "clasico",
+    "courtois",
+    "fabrizio",
+    "lunin",
+    "oct",
+    "romano",
+    "thibaut"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Lunin starts in goal for Real Madrid in El Clásico as Thibaut Courtois feels sick. 🇺🇦 https://t.co/yLfKvBU1…",
+   "link": "https://t.me/RealMadridImportantOnly/692"
   }
  ],
  "offset": 769012042,
@@ -823,8 +855,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 44,
-  "tokens": 50829
+  "calls": 45,
+  "tokens": 52036
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -851,7 +883,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 55,
+  "lineup": 56,
   "transfer": 24,
   "stats": 1,
   "discipline": 10,
