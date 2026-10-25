@@ -1,8 +1,8 @@
 {
  "last_post": {
-  "real_madrid": 59476,
-  "themadridzone": 32664,
-  "FabrizioRomanoTG": 67686
+  "real_madrid": 59483,
+  "themadridzone": 32671,
+  "FabrizioRomanoTG": 67687
  },
  "sent": [
   {
@@ -1627,6 +1627,19 @@
    "status": "rumour",
    "headline": "71’ GULER shot on target but too weak.",
    "link": "https://t.me/RealMadridImportantOnly/735"
+  },
+  {
+   "ts": 1792965211.7684803,
+   "date": "2026-10-25",
+   "tokens": [
+    "check",
+    "var"
+   ],
+   "names": [],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "🚨 VAR is checking.",
+   "link": "https://t.me/RealMadridImportantOnly/736"
   }
  ],
  "offset": 769012042,
@@ -1665,7 +1678,7 @@
   "lineup": 72,
   "transfer": 31,
   "stats": 1,
-  "discipline": 13,
+  "discipline": 14,
   "injury": 20,
   "coach": 17,
   "awards": 15,
