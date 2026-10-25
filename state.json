@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59434,
-  "themadridzone": 32609,
+  "themadridzone": 32611,
   "FabrizioRomanoTG": 67681
  },
  "sent": [
@@ -1506,6 +1506,42 @@
    "status": "fact",
    "headline": "Lamine is allowed to talk to the referee. Has it been the other way around, direct yellow card.",
    "link": "https://t.me/RealMadridImportantOnly/728"
+  },
+  {
+   "ts": 1792960165.3827982,
+   "date": "2026-10-25",
+   "tokens": [
+    "another",
+    "arda",
+    "chance",
+    "everyth",
+    "far",
+    "one",
+    "try"
+   ],
+   "names": [
+    "another",
+    "arda"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "Another chance for Arda, he's the one trying everything so far.",
+   "link": "https://t.me/RealMadridImportantOnly/729"
+  },
+  {
+   "ts": 1792960167.4255762,
+   "date": "2026-10-25",
+   "tokens": [
+    "fede",
+    "injur",
+    "look",
+    "valverde"
+   ],
+   "names": [],
+   "cat": "injury",
+   "status": "rumour",
+   "headline": "🚨 FEDE VALVERDE LOOKS INJURED.",
+   "link": "https://t.me/RealMadridImportantOnly/730"
   }
  ],
  "offset": 769012042,
@@ -1513,8 +1549,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 150,
-  "tokens": 174851
+  "calls": 152,
+  "tokens": 177052
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1541,11 +1577,11 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 71,
+  "lineup": 72,
   "transfer": 30,
   "stats": 1,
   "discipline": 13,
-  "injury": 15,
+  "injury": 16,
   "coach": 17,
   "awards": 15,
   "fixtures": 8
