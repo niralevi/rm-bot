@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59431,
-  "themadridzone": 32607,
+  "real_madrid": 59432,
+  "themadridzone": 32608,
   "FabrizioRomanoTG": 67681
  },
  "sent": [
@@ -1482,6 +1482,30 @@
    "status": "fact",
    "headline": "REFEREE JUST STOPPED A REAL MADRID COUNTER ATTACK.",
    "link": "https://t.me/RealMadridImportantOnly/727"
+  },
+  {
+   "ts": 1792959563.660683,
+   "date": "2026-10-25",
+   "tokens": [
+    "allow",
+    "around",
+    "card",
+    "direct",
+    "lamine",
+    "other",
+    "referee",
+    "talk",
+    "way",
+    "yellow"
+   ],
+   "names": [
+    "has",
+    "lamine"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "Lamine is allowed to talk to the referee. Has it been the other way around, direct yellow card.",
+   "link": "https://t.me/RealMadridImportantOnly/728"
   }
  ],
  "offset": 769012042,
@@ -1489,8 +1513,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 145,
-  "tokens": 169526
+  "calls": 147,
+  "tokens": 171667
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1520,7 +1544,7 @@
   "lineup": 71,
   "transfer": 30,
   "stats": 1,
-  "discipline": 12,
+  "discipline": 13,
   "injury": 15,
   "coach": 17,
   "awards": 15,
