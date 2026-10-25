@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59448,
-  "themadridzone": 32631,
+  "real_madrid": 59449,
+  "themadridzone": 32634,
   "FabrizioRomanoTG": 67682
  },
  "sent": [
@@ -1562,6 +1562,35 @@
    "status": "fact",
    "headline": "🚨 Xavi Espart is injured. Balde is coming on.",
    "link": "https://t.me/RealMadridImportantOnly/731"
+  },
+  {
+   "ts": 1792961725.7391593,
+   "date": "2026-10-25",
+   "tokens": [
+    "4",
+    "45",
+    "5",
+    "against",
+    "aurelien",
+    "barcelona",
+    "far",
+    "minut",
+    "performance",
+    "recoveri",
+    "tackl",
+    "tchouameni",
+    "what"
+   ],
+   "names": [
+    "aurelien",
+    "barcelona",
+    "tchouameni",
+    "what"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "Aurelien Tchouaméni has 5 tackles and 4 recoveries in just 45 minutes against Barcelona.",
+   "link": "https://t.me/RealMadridImportantOnly/732"
   }
  ],
  "offset": 769012042,
@@ -1601,7 +1630,7 @@
   "transfer": 30,
   "stats": 1,
   "discipline": 13,
-  "injury": 17,
+  "injury": 18,
   "coach": 17,
   "awards": 15,
   "fixtures": 8
