@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59419,
+  "real_madrid": 59420,
   "themadridzone": 32536,
   "FabrizioRomanoTG": 67667
  },
@@ -1131,6 +1131,35 @@
    "status": "fact",
    "headline": "✍️ Yan Diomande at the signing session for fans in Barcelona",
    "link": "https://t.me/RealMadridImportantOnly/705"
+  },
+  {
+   "ts": 1792936902.3814456,
+   "date": "2026-10-25",
+   "tokens": [
+    "02m",
+    "19",
+    "2",
+    "against",
+    "barcelona",
+    "courtoi",
+    "illia",
+    "match",
+    "replac",
+    "squad",
+    "thibaut",
+    "voloshyn"
+   ],
+   "names": [
+    "barcelona",
+    "courtois",
+    "illia",
+    "thibaut",
+    "voloshyn"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 JUST IN: Illia Voloshyn (19, 2.02m) replaces Thibaut Courtois in Real Madrid’s squad for tonight’s match ag…",
+   "link": "https://t.me/RealMadridImportantOnly/706"
   }
  ],
  "offset": 769012042,
@@ -1138,8 +1167,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 76,
-  "tokens": 89297
+  "calls": 77,
+  "tokens": 90447
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1166,7 +1195,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 59,
+  "lineup": 60,
   "transfer": 29,
   "stats": 1,
   "discipline": 10,
