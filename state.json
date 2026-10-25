@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59419,
-  "themadridzone": 32535,
+  "themadridzone": 32536,
   "FabrizioRomanoTG": 67667
  },
  "sent": [
@@ -1110,6 +1110,27 @@
    "status": "official",
    "headline": "🚨 Andriy Lunin will make his 2026/27 season debut tonight 🇺🇦",
    "link": "https://t.me/RealMadridImportantOnly/704"
+  },
+  {
+   "ts": 1792936279.3086734,
+   "date": "2026-10-25",
+   "tokens": [
+    "barcelona",
+    "diomande",
+    "fans",
+    "session",
+    "sign",
+    "yan"
+   ],
+   "names": [
+    "barcelona",
+    "diomande",
+    "yan"
+   ],
+   "cat": "transfer",
+   "status": "fact",
+   "headline": "✍️ Yan Diomande at the signing session for fans in Barcelona",
+   "link": "https://t.me/RealMadridImportantOnly/705"
   }
  ],
  "offset": 769012042,
@@ -1117,8 +1138,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 75,
-  "tokens": 88128
+  "calls": 76,
+  "tokens": 89297
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1146,7 +1167,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 59,
-  "transfer": 28,
+  "transfer": 29,
   "stats": 1,
   "discipline": 10,
   "injury": 12,
