@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59489,
-  "themadridzone": 32703,
+  "real_madrid": 59492,
+  "themadridzone": 32706,
   "FabrizioRomanoTG": 67689
  },
  "sent": [
@@ -1666,6 +1666,23 @@
    "status": "fact",
    "headline": "🚨 Lamine Yamal STOMPS on Jude Bellingham's ankle RIGHT IN FRONT OF THE REFEREE.",
    "link": "https://t.me/RealMadridImportantOnly/737"
+  },
+  {
+   "ts": 1792966135.1196358,
+   "date": "2026-10-26",
+   "tokens": [
+    "back",
+    "jose",
+    "mourinho"
+   ],
+   "names": [
+    "jose",
+    "mourinho"
+   ],
+   "cat": "coach",
+   "status": "rumour",
+   "headline": "José Mourinho is back.",
+   "link": "https://t.me/RealMadridImportantOnly/738"
   }
  ],
  "offset": 769012042,
@@ -1673,8 +1690,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-26",
-  "calls": 22,
-  "tokens": 23667
+  "calls": 27,
+  "tokens": 29033
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1706,7 +1723,7 @@
   "stats": 1,
   "discipline": 15,
   "injury": 20,
-  "coach": 17,
+  "coach": 18,
   "awards": 15,
   "fixtures": 8
  }
