@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59425,
   "themadridzone": 32550,
-  "FabrizioRomanoTG": 67676
+  "FabrizioRomanoTG": 67678
  },
  "sent": [
   {
@@ -1167,6 +1167,37 @@
    "status": "fact",
    "headline": "🚨 The 2026 Ballon d’Or Gala will be held in London, TOMORROW. 🌕✨",
    "link": "https://t.me/RealMadridImportantOnly/708"
+  },
+  {
+   "ts": 1792949005.2319176,
+   "date": "2026-10-25",
+   "tokens": [
+    "2026",
+    "25",
+    "adeyemi",
+    "behind",
+    "clasico",
+    "com",
+    "diomande",
+    "fabrizio",
+    "insight",
+    "oct",
+    "romano",
+    "scend",
+    "stori"
+   ],
+   "names": [
+    "adeyemi",
+    "clasico",
+    "diomande",
+    "fabrizio",
+    "oct",
+    "romano"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "El Clásico is coming! 🍿",
+   "link": "https://t.me/RealMadridImportantOnly/709"
   }
  ],
  "offset": 769012042,
@@ -1174,8 +1205,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 92,
-  "tokens": 107851
+  "calls": 93,
+  "tokens": 109095
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1209,6 +1240,6 @@
   "injury": 12,
   "coach": 16,
   "awards": 15,
-  "fixtures": 7
+  "fixtures": 8
  }
 }
