@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59470,
-  "themadridzone": 32657,
+  "real_madrid": 59471,
+  "themadridzone": 32660,
   "FabrizioRomanoTG": 67685
  },
  "sent": [
@@ -1610,6 +1610,23 @@
    "status": "fact",
    "headline": "59’ Diomande back on but he might be subbed off.",
    "link": "https://t.me/RealMadridImportantOnly/734"
+  },
+  {
+   "ts": 1792964126.4776716,
+   "date": "2026-10-25",
+   "tokens": [
+    "71",
+    "guler",
+    "shot",
+    "target",
+    "too",
+    "weak"
+   ],
+   "names": [],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "71’ GULER shot on target but too weak.",
+   "link": "https://t.me/RealMadridImportantOnly/735"
   }
  ],
  "offset": 769012042,
@@ -1646,7 +1663,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 72,
-  "transfer": 30,
+  "transfer": 31,
   "stats": 1,
   "discipline": 13,
   "injury": 20,
