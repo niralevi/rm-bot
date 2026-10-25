@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59434,
-  "themadridzone": 32611,
+  "real_madrid": 59436,
+  "themadridzone": 32614,
   "FabrizioRomanoTG": 67681
  },
  "sent": [
@@ -1542,6 +1542,26 @@
    "status": "rumour",
    "headline": "🚨 FEDE VALVERDE LOOKS INJURED.",
    "link": "https://t.me/RealMadridImportantOnly/730"
+  },
+  {
+   "ts": 1792960304.824732,
+   "date": "2026-10-25",
+   "tokens": [
+    "balde",
+    "com",
+    "espart",
+    "injur",
+    "xavi"
+   ],
+   "names": [
+    "balde",
+    "espart",
+    "xavi"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🚨 Xavi Espart is injured. Balde is coming on.",
+   "link": "https://t.me/RealMadridImportantOnly/731"
   }
  ],
  "offset": 769012042,
@@ -1549,8 +1569,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 152,
-  "tokens": 177052
+  "calls": 157,
+  "tokens": 182412
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1581,7 +1601,7 @@
   "transfer": 30,
   "stats": 1,
   "discipline": 13,
-  "injury": 16,
+  "injury": 17,
   "coach": 17,
   "awards": 15,
   "fixtures": 8
