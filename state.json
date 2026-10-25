@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59498,
-  "themadridzone": 32744,
-  "FabrizioRomanoTG": 67691
+  "themadridzone": 32749,
+  "FabrizioRomanoTG": 67692
  },
  "sent": [
   {
@@ -1683,6 +1683,38 @@
    "status": "rumour",
    "headline": "José Mourinho is back.",
    "link": "https://t.me/RealMadridImportantOnly/738"
+  },
+  {
+   "ts": 1792967664.6071148,
+   "date": "2026-10-26",
+   "tokens": [
+    "capi",
+    "gracia",
+    "injury",
+    "pain",
+    "play"
+   ],
+   "names": [
+    "gracias",
+    "played"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "Played with pain and injury tonight.",
+   "link": "https://t.me/RealMadridImportantOnly/739"
+  },
+  {
+   "ts": 1792967668.9988987,
+   "date": "2026-10-26",
+   "tokens": [
+    "dean",
+    "huijsen"
+   ],
+   "names": [],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "DEAN HUIJSEN.",
+   "link": "https://t.me/RealMadridImportantOnly/740"
   }
  ],
  "offset": 769012042,
@@ -1690,8 +1722,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-26",
-  "calls": 66,
-  "tokens": 71665
+  "calls": 72,
+  "tokens": 78021
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1719,10 +1751,10 @@
   "fun": 1,
   "social": 2,
   "lineup": 72,
-  "transfer": 31,
+  "transfer": 32,
   "stats": 1,
   "discipline": 15,
-  "injury": 20,
+  "injury": 21,
   "coach": 18,
   "awards": 15,
   "fixtures": 8
