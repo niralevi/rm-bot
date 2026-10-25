@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59426,
-  "themadridzone": 32578,
+  "themadridzone": 32579,
   "FabrizioRomanoTG": 67681
  },
  "sent": [
@@ -1437,6 +1437,31 @@
    "status": "fact",
    "headline": "🚨 Changes compared to the starting line-up vs Leipzig:",
    "link": "https://t.me/RealMadridImportantOnly/720"
+  },
+  {
+   "ts": 1792955790.7723145,
+   "date": "2026-10-25",
+   "tokens": [
+    "3",
+    "bernardo",
+    "camavinga",
+    "guler",
+    "last",
+    "match",
+    "pivot",
+    "start",
+    "tchouameni"
+   ],
+   "names": [
+    "bernardo",
+    "camavinga",
+    "guler",
+    "tchouameni"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Real Madrid's starting pivot in the last 3 matches:",
+   "link": "https://t.me/RealMadridImportantOnly/721"
   }
  ],
  "offset": 769012042,
@@ -1444,8 +1469,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 115,
-  "tokens": 135237
+  "calls": 116,
+  "tokens": 136427
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1472,7 +1497,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 69,
+  "lineup": 70,
   "transfer": 30,
   "stats": 1,
   "discipline": 10,
