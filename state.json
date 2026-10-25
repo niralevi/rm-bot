@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59425,
-  "themadridzone": 32544,
+  "themadridzone": 32550,
   "FabrizioRomanoTG": 67676
  },
  "sent": [
@@ -1125,6 +1125,48 @@
    "status": "fact",
    "headline": "🚨 If Real Madrid lose tonight they’ll go 9 points behind @Barcelonaen.",
    "link": "https://t.me/RealMadridImportantOnly/707"
+  },
+  {
+   "ts": 1792948703.1133556,
+   "date": "2026-10-25",
+   "tokens": [
+    "12",
+    "16",
+    "2026",
+    "71",
+    "award",
+    "ballon",
+    "current",
+    "favorit",
+    "gala",
+    "harry",
+    "held",
+    "kane",
+    "kylian",
+    "lamine",
+    "latest",
+    "london",
+    "mbappe",
+    "probability",
+    "tomorrow",
+    "win",
+    "yamal"
+   ],
+   "names": [
+    "ballon",
+    "gala",
+    "harry",
+    "kane",
+    "kylian",
+    "lamine",
+    "london",
+    "mbappe",
+    "yamal"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 The 2026 Ballon d’Or Gala will be held in London, TOMORROW. 🌕✨",
+   "link": "https://t.me/RealMadridImportantOnly/708"
   }
  ],
  "offset": 769012042,
@@ -1132,8 +1174,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 88,
-  "tokens": 103238
+  "calls": 92,
+  "tokens": 107851
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1166,7 +1208,7 @@
   "discipline": 10,
   "injury": 12,
   "coach": 16,
-  "awards": 14,
+  "awards": 15,
   "fixtures": 7
  }
 }
