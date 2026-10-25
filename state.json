@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59425,
-  "themadridzone": 32562,
+  "themadridzone": 32563,
   "FabrizioRomanoTG": 67679
  },
  "sent": [
@@ -1210,7 +1210,8 @@
    "cat": "lineup",
    "status": "fact",
    "headline": "🚨⚪️ Real Madrid starting XI announcement ⏳🔜",
-   "link": "https://t.me/RealMadridImportantOnly/710"
+   "link": "https://t.me/RealMadridImportantOnly/710",
+   "superseded": true
   },
   {
    "ts": 1792953445.99166,
@@ -1228,6 +1229,16 @@
    "status": "rumour",
    "headline": "🚨🚨 BREAKING: Real Madrid's double pivot tonight will be BERNARDO SILVA - TCHOUAMENI, according to @lejournald…",
    "link": "https://t.me/RealMadridImportantOnly/711"
+  },
+  {
+   "ts": 1792953620.3721237,
+   "date": "2026-10-25",
+   "tokens": [],
+   "names": [],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨🚨 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐑𝐄𝐀𝐋 𝐌𝐀𝐃𝐑𝐈𝐃 𝐗𝐈 🚨🚨",
+   "link": "https://t.me/RealMadridImportantOnly/712"
   }
  ],
  "offset": 769012042,
@@ -1235,8 +1246,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 101,
-  "tokens": 118250
+  "calls": 102,
+  "tokens": 119436
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1263,7 +1274,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 62,
+  "lineup": 63,
   "transfer": 29,
   "stats": 1,
   "discipline": 10,
