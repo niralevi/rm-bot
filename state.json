@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59417,
-  "themadridzone": 32522,
+  "themadridzone": 32523,
   "FabrizioRomanoTG": 67666
  },
  "sent": [
@@ -913,6 +913,28 @@
    "status": "rumour",
    "headline": "Jude Bellingham on the way to Barcelona. ✈️",
    "link": "https://t.me/RealMadridImportantOnly/695"
+  },
+  {
+   "ts": 1792930463.6871738,
+   "date": "2026-10-25",
+   "tokens": [
+    "attend",
+    "ballon",
+    "ceremony",
+    "confirm",
+    "kylian",
+    "mbappe",
+    "tomorrow"
+   ],
+   "names": [
+    "ballon",
+    "kylian",
+    "mbappe"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨💣 CONFIRMED: Kylian Mbappé is ATTENDING the Ballon d’Or ceremony TOMORROW. @RMCsport 🌕✨",
+   "link": "https://t.me/RealMadridImportantOnly/696"
   }
  ],
  "offset": 769012042,
@@ -920,8 +942,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 62,
-  "tokens": 72630
+  "calls": 63,
+  "tokens": 73832
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -954,7 +976,7 @@
   "discipline": 10,
   "injury": 11,
   "coach": 16,
-  "awards": 12,
+  "awards": 13,
   "fixtures": 6
  }
 }
