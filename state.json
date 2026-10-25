@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59412,
-  "themadridzone": 32492,
+  "themadridzone": 32494,
   "FabrizioRomanoTG": 67662
  },
  "sent": [
@@ -692,6 +692,42 @@
    "status": "rumour",
    "headline": "🚨🚨 BREAKING: José Mourinho has decided to play Fede Valverde as a RIGHT WINGER tonight.",
    "link": "https://t.me/RealMadridImportantOnly/686"
+  },
+  {
+   "ts": 1792922061.208318,
+   "date": "2026-10-25",
+   "tokens": [
+    "bellingham",
+    "courtoi",
+    "cucurella",
+    "diomande",
+    "dumfri",
+    "expect",
+    "guler",
+    "huijsen",
+    "konate",
+    "mbappe",
+    "start",
+    "tchouameni",
+    "valverde"
+   ],
+   "names": [
+    "bellingham",
+    "courtois",
+    "cucurella",
+    "diomande",
+    "dumfries",
+    "guler",
+    "huijsen",
+    "konate",
+    "mbappe",
+    "tchouameni",
+    "valverde"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 BREAKING: REAL MADRID EXPECTED STARTING XI TONIGHT:",
+   "link": "https://t.me/RealMadridImportantOnly/687"
   }
  ],
  "offset": 769012042,
@@ -699,8 +735,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 33,
-  "tokens": 38002
+  "calls": 34,
+  "tokens": 39218
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -727,7 +763,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 52,
+  "lineup": 53,
   "transfer": 24,
   "stats": 1,
   "discipline": 10,
