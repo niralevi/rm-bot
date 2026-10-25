@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59428,
-  "themadridzone": 32601,
+  "real_madrid": 59429,
+  "themadridzone": 32603,
   "FabrizioRomanoTG": 67681
  },
  "sent": [
@@ -1451,6 +1451,22 @@
    "status": "fact",
    "headline": "🇫🇷 Aurelien Tchouaméni is ready.",
    "link": "https://t.me/RealMadridImportantOnly/725"
+  },
+  {
+   "ts": 1792958908.5429225,
+   "date": "2026-10-25",
+   "tokens": [
+    "award",
+    "clear",
+    "corner"
+   ],
+   "names": [
+    "clear"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "Clear corner not awarded to Real Madrid.",
+   "link": "https://t.me/RealMadridImportantOnly/726"
   }
  ],
  "offset": 769012042,
@@ -1458,8 +1474,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 136,
-  "tokens": 159532
+  "calls": 139,
+  "tokens": 162956
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1489,7 +1505,7 @@
   "lineup": 71,
   "transfer": 30,
   "stats": 1,
-  "discipline": 10,
+  "discipline": 11,
   "injury": 15,
   "coach": 17,
   "awards": 15,
