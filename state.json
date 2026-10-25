@@ -6,27 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792783061.861919,
-   "date": "2026-10-23",
-   "tokens": [
-    "aim",
-    "fede",
-    "keep",
-    "play",
-    "right",
-    "valverde",
-    "wing"
-   ],
-   "names": [
-    "fede",
-    "valverde"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 BREAKING: Fede Valverde is now aiming to KEEP PLAYING on the RIGHT WING. @diarioas",
-   "link": "https://t.me/RealMadridImportantOnly/666"
-  },
-  {
    "ts": 1792783384.9180331,
    "date": "2026-10-23",
    "tokens": [
