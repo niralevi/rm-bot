@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59503,
-  "themadridzone": 32762,
+  "real_madrid": 59504,
+  "themadridzone": 32765,
   "FabrizioRomanoTG": 67694
  },
  "sent": [
@@ -1715,6 +1715,32 @@
    "status": "rumour",
    "headline": "DEAN HUIJSEN.",
    "link": "https://t.me/RealMadridImportantOnly/740"
+  },
+  {
+   "ts": 1792968562.1257532,
+   "date": "2026-10-26",
+   "tokens": [
+    "almost",
+    "back",
+    "bellingham",
+    "end",
+    "fought",
+    "gabriel",
+    "game",
+    "held",
+    "jesu",
+    "jude"
+   ],
+   "names": [
+    "bellingham",
+    "gabriel",
+    "jesus",
+    "jude"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "🚨🚨 BREAKING: Jude Bellingham and Gabriel Jesus almost FOUGHT after the game ended.",
+   "link": "https://t.me/RealMadridImportantOnly/741"
   }
  ],
  "offset": 769012042,
@@ -1722,8 +1748,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-26",
-  "calls": 90,
-  "tokens": 97181
+  "calls": 93,
+  "tokens": 100311
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1753,7 +1779,7 @@
   "lineup": 72,
   "transfer": 32,
   "stats": 1,
-  "discipline": 15,
+  "discipline": 16,
   "injury": 21,
   "coach": 18,
   "awards": 15,
