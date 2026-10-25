@@ -6,34 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792738165.8408546,
-   "date": "2026-10-23",
-   "tokens": [
-    "21",
-    "against",
-    "barcelona",
-    "camp",
-    "chance",
-    "clasico",
-    "given",
-    "liga",
-    "next",
-    "nou",
-    "only",
-    "win"
-   ],
-   "names": [
-    "barcelona",
-    "camp",
-    "clasico",
-    "nou"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "🚨 UP NEXT IN LA LIGA: El Clasico at the Camp Nou.",
-   "link": "https://t.me/RealMadridImportantOnly/662"
-  },
-  {
    "ts": 1792766061.851048,
    "date": "2026-10-23",
    "tokens": [
