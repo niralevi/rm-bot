@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59426,
-  "themadridzone": 32588,
+  "themadridzone": 32590,
   "FabrizioRomanoTG": 67681
  },
  "sent": [
@@ -1397,6 +1397,43 @@
    "status": "fact",
    "headline": "🚨 On Bernardo Silva - Real Madrid were saying that the player was suffering a lot physically, that he was not…",
    "link": "https://t.me/RealMadridImportantOnly/722"
+  },
+  {
+   "ts": 1792957253.7052925,
+   "date": "2026-10-25",
+   "tokens": [
+    "bernardo",
+    "ready",
+    "silva"
+   ],
+   "names": [
+    "bernardo",
+    "silva"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🇵🇹 Bernardo Silva is ready.",
+   "link": "https://t.me/RealMadridImportantOnly/723"
+  },
+  {
+   "ts": 1792957256.1659372,
+   "date": "2026-10-25",
+   "tokens": [
+    "andriy",
+    "first",
+    "lunin",
+    "ready",
+    "season",
+    "start"
+   ],
+   "names": [
+    "andriy",
+    "lunin"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🇺🇦 Andriy Lunin ready for his first start of the season. 👀",
+   "link": "https://t.me/RealMadridImportantOnly/724"
   }
  ],
  "offset": 769012042,
@@ -1404,8 +1441,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 123,
-  "tokens": 144870
+  "calls": 125,
+  "tokens": 147187
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1432,11 +1469,11 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 70,
+  "lineup": 71,
   "transfer": 30,
   "stats": 1,
   "discipline": 10,
-  "injury": 13,
+  "injury": 14,
   "coach": 17,
   "awards": 15,
   "fixtures": 8
