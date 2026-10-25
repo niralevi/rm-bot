@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59425,
-  "themadridzone": 32563,
-  "FabrizioRomanoTG": 67679
+  "themadridzone": 32566,
+  "FabrizioRomanoTG": 67680
  },
  "sent": [
   {
@@ -1239,6 +1239,91 @@
    "status": "official",
    "headline": "🚨🚨 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐑𝐄𝐀𝐋 𝐌𝐀𝐃𝐑𝐈𝐃 𝐗𝐈 🚨🚨",
    "link": "https://t.me/RealMadridImportantOnly/712"
+  },
+  {
+   "ts": 1792953928.522615,
+   "date": "2026-10-25",
+   "tokens": [
+    "2026",
+    "25",
+    "arda",
+    "bellingham",
+    "bernardo",
+    "cucurella",
+    "diomande",
+    "fabrizio",
+    "guler",
+    "huijsen",
+    "konate",
+    "lunin",
+    "mbappe",
+    "oct",
+    "official",
+    "romano",
+    "silva",
+    "start",
+    "tchouameni",
+    "valverde"
+   ],
+   "names": [
+    "arda",
+    "bellingham",
+    "bernardo",
+    "cucurella",
+    "diomande",
+    "fabrizio",
+    "guler",
+    "huijsen",
+    "konate",
+    "lunin",
+    "mbappe",
+    "oct",
+    "romano",
+    "silva",
+    "tchouameni",
+    "valverde"
+   ],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Real Madrid starting XI.",
+   "link": "https://t.me/RealMadridImportantOnly/713"
+  },
+  {
+   "ts": 1792953993.7416208,
+   "date": "2026-10-25",
+   "tokens": [
+    "attack",
+    "away",
+    "ball",
+    "because",
+    "bernardo",
+    "control",
+    "counter",
+    "decid",
+    "does",
+    "give",
+    "jose",
+    "keep",
+    "match",
+    "mourinho",
+    "only",
+    "possession",
+    "rely",
+    "rmtv",
+    "silva",
+    "start",
+    "want"
+   ],
+   "names": [
+    "bernardo",
+    "jose",
+    "mourinho",
+    "silva"
+   ],
+   "cat": "coach",
+   "status": "rumour",
+   "headline": "🚨 JUST IN: José Mourinho decided to start Bernardo Silva because he wants to KEEP THE BALL and CONTROL the ma…",
+   "link": "https://t.me/RealMadridImportantOnly/714"
   }
  ],
  "offset": 769012042,
@@ -1246,8 +1331,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 102,
-  "tokens": 119436
+  "calls": 105,
+  "tokens": 123204
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1274,12 +1359,12 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 63,
+  "lineup": 64,
   "transfer": 29,
   "stats": 1,
   "discipline": 10,
   "injury": 12,
-  "coach": 16,
+  "coach": 17,
   "awards": 15,
   "fixtures": 8
  }
