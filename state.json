@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59426,
-  "themadridzone": 32576,
+  "themadridzone": 32578,
   "FabrizioRomanoTG": 67681
  },
  "sent": [
@@ -1406,6 +1406,37 @@
    "status": "official",
    "headline": "📋✅ Our starting XI! 🆚 #barcelona",
    "link": "https://t.me/RealMadridImportantOnly/719"
+  },
+  {
+   "ts": 1792955241.5435622,
+   "date": "2026-10-25",
+   "tokens": [
+    "camavinga",
+    "carrera",
+    "chang",
+    "compar",
+    "cucurella",
+    "konate",
+    "leipzig",
+    "line",
+    "rudiger",
+    "start",
+    "tchouameni"
+   ],
+   "names": [
+    "camavinga",
+    "carreras",
+    "changes",
+    "cucurella",
+    "konate",
+    "leipzig",
+    "rudiger",
+    "tchouameni"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Changes compared to the starting line-up vs Leipzig:",
+   "link": "https://t.me/RealMadridImportantOnly/720"
   }
  ],
  "offset": 769012042,
@@ -1413,8 +1444,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 113,
-  "tokens": 132899
+  "calls": 115,
+  "tokens": 135237
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1441,7 +1472,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 68,
+  "lineup": 69,
   "transfer": 30,
   "stats": 1,
   "discipline": 10,
