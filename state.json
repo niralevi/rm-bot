@@ -6,26 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792766061.851048,
-   "date": "2026-10-23",
-   "tokens": [
-    "ballon",
-    "kylian",
-    "mbappe",
-    "optimistic",
-    "winn"
-   ],
-   "names": [
-    "kylian",
-    "mbappe"
-   ],
-   "cat": "awards",
-   "status": "rumour",
-   "headline": "🚨💣 BREAKING: Real Madrid are now OPTIMISTIC about Kylian Mbappé WINNING THE BALLON D'OR! @Rodra10_97",
-   "link": "https://t.me/RealMadridImportantOnly/663",
-   "superseded": true
-  },
-  {
    "ts": 1792766425.9111102,
    "date": "2026-10-23",
    "tokens": [
