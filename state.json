@@ -6,41 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792766425.9111102,
-   "date": "2026-10-23",
-   "tokens": [
-    "depend",
-    "despite",
-    "endrick",
-    "guarante",
-    "interest",
-    "january",
-    "jose",
-    "matter",
-    "milan",
-    "mourinho",
-    "play",
-    "roma",
-    "say",
-    "stay",
-    "time",
-    "what",
-    "word"
-   ],
-   "names": [
-    "endrick",
-    "january",
-    "jose",
-    "milan",
-    "mourinho",
-    "roma"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 JUST IN: Endrick is NOT guaranteed to stay at Real Madrid in January, despite José Mourinho's words saying …",
-   "link": "https://t.me/RealMadridImportantOnly/664"
-  },
-  {
    "ts": 1792782263.3828754,
    "date": "2026-10-23",
    "tokens": [
