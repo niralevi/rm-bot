@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59413,
+  "real_madrid": 59414,
   "themadridzone": 32501,
   "FabrizioRomanoTG": 67663
  },
@@ -800,6 +800,22 @@
    "status": "official",
    "headline": "🚨💣 OFFICIAL: Real Madrid players OUT vs Barcelona tonight:",
    "link": "https://t.me/RealMadridImportantOnly/690"
+  },
+  {
+   "ts": 1792925788.3641076,
+   "date": "2026-10-25",
+   "tokens": [
+    "barcelona",
+    "off"
+   ],
+   "names": [
+    "barcelona",
+    "off"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "Off to Barcelona! ✈️",
+   "link": "https://t.me/RealMadridImportantOnly/691"
   }
  ],
  "offset": 769012042,
@@ -807,8 +823,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 41,
-  "tokens": 47325
+  "calls": 42,
+  "tokens": 48429
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -842,6 +858,6 @@
   "injury": 9,
   "coach": 16,
   "awards": 12,
-  "fixtures": 5
+  "fixtures": 6
  }
 }
