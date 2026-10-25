@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59420,
+  "real_madrid": 59421,
   "themadridzone": 32536,
   "FabrizioRomanoTG": 67667
  },
@@ -1105,6 +1105,26 @@
    "status": "fact",
    "headline": "🚨 JUST IN: Illia Voloshyn (19, 2.02m) replaces Thibaut Courtois in Real Madrid’s squad for tonight’s match ag…",
    "link": "https://t.me/RealMadridImportantOnly/706"
+  },
+  {
+   "ts": 1792940562.1504061,
+   "date": "2026-10-25",
+   "tokens": [
+    "9",
+    "behind",
+    "big",
+    "game",
+    "lose",
+    "point"
+   ],
+   "names": [
+    "barcelonaen",
+    "big"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "🚨 If Real Madrid lose tonight they’ll go 9 points behind @Barcelonaen.",
+   "link": "https://t.me/RealMadridImportantOnly/707"
   }
  ],
  "offset": 769012042,
@@ -1112,8 +1132,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 77,
-  "tokens": 90447
+  "calls": 78,
+  "tokens": 91623
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1147,6 +1167,6 @@
   "injury": 12,
   "coach": 16,
   "awards": 14,
-  "fixtures": 6
+  "fixtures": 7
  }
 }
