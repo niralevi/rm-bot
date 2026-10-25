@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59426,
-  "themadridzone": 32598,
+  "themadridzone": 32599,
   "FabrizioRomanoTG": 67681
  },
  "sent": [
@@ -1434,6 +1434,23 @@
    "status": "fact",
    "headline": "🇺🇦 Andriy Lunin ready for his first start of the season. 👀",
    "link": "https://t.me/RealMadridImportantOnly/724"
+  },
+  {
+   "ts": 1792957940.533238,
+   "date": "2026-10-25",
+   "tokens": [
+    "aurelien",
+    "ready",
+    "tchouameni"
+   ],
+   "names": [
+    "aurelien",
+    "tchouameni"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🇫🇷 Aurelien Tchouaméni is ready.",
+   "link": "https://t.me/RealMadridImportantOnly/725"
   }
  ],
  "offset": 769012042,
@@ -1441,8 +1458,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 132,
-  "tokens": 155105
+  "calls": 133,
+  "tokens": 156253
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1473,7 +1490,7 @@
   "transfer": 30,
   "stats": 1,
   "discipline": 10,
-  "injury": 14,
+  "injury": 15,
   "coach": 17,
   "awards": 15,
   "fixtures": 8
