@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59425,
-  "themadridzone": 32555,
+  "themadridzone": 32557,
   "FabrizioRomanoTG": 67679
  },
  "sent": [
@@ -1198,6 +1198,19 @@
    "status": "fact",
    "headline": "El Clásico is coming! 🍿",
    "link": "https://t.me/RealMadridImportantOnly/709"
+  },
+  {
+   "ts": 1792951890.6002483,
+   "date": "2026-10-25",
+   "tokens": [
+    "announcement",
+    "start"
+   ],
+   "names": [],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨⚪️ Real Madrid starting XI announcement ⏳🔜",
+   "link": "https://t.me/RealMadridImportantOnly/710"
   }
  ],
  "offset": 769012042,
@@ -1205,8 +1218,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 96,
-  "tokens": 112567
+  "calls": 97,
+  "tokens": 113657
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1233,7 +1246,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 60,
+  "lineup": 61,
   "transfer": 29,
   "stats": 1,
   "discipline": 10,
