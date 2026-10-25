@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59412,
-  "themadridzone": 32491,
+  "themadridzone": 32492,
   "FabrizioRomanoTG": 67662
  },
  "sent": [
@@ -663,6 +663,35 @@
    "status": "official",
    "headline": "🚨 CONFIRMED: Real Madrid’s pivot tonight will be Aurelien Tchouaméni AND Eduardo Camavinga, as per @marca, @d…",
    "link": "https://t.me/RealMadridImportantOnly/685"
+  },
+  {
+   "ts": 1792922002.4513633,
+   "date": "2026-10-25",
+   "tokens": [
+    "back",
+    "decid",
+    "denzel",
+    "dumfri",
+    "fede",
+    "jose",
+    "mourinho",
+    "play",
+    "right",
+    "valverde",
+    "winger"
+   ],
+   "names": [
+    "denzel",
+    "dumfries",
+    "fede",
+    "jose",
+    "mourinho",
+    "valverde"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨🚨 BREAKING: José Mourinho has decided to play Fede Valverde as a RIGHT WINGER tonight.",
+   "link": "https://t.me/RealMadridImportantOnly/686"
   }
  ],
  "offset": 769012042,
@@ -670,8 +699,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 32,
-  "tokens": 36821
+  "calls": 33,
+  "tokens": 38002
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -698,7 +727,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 51,
+  "lineup": 52,
   "transfer": 24,
   "stats": 1,
   "discipline": 10,
