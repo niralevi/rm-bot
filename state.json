@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59425,
-  "themadridzone": 32575,
+  "real_madrid": 59426,
+  "themadridzone": 32576,
   "FabrizioRomanoTG": 67681
  },
  "sent": [
@@ -1406,6 +1406,35 @@
    "status": "fact",
    "headline": "🚨 For the 3rd match in a row, BOTH Denzel Dumfries and Trent Alexander-Arnold are on the BENCH.",
    "link": "https://t.me/RealMadridImportantOnly/717"
+  },
+  {
+   "ts": 1792954908.9356008,
+   "date": "2026-10-25",
+   "tokens": [
+    "arriv",
+    "kylian",
+    "mbappe"
+   ],
+   "names": [
+    "kylian",
+    "mbappe"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Kylian Mbappé has arrived 🔥",
+   "link": "https://t.me/RealMadridImportantOnly/718"
+  },
+  {
+   "ts": 1792954973.311474,
+   "date": "2026-10-25",
+   "tokens": [
+    "start"
+   ],
+   "names": [],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "📋✅ Our starting XI! 🆚 #barcelona",
+   "link": "https://t.me/RealMadridImportantOnly/719"
   }
  ],
  "offset": 769012042,
@@ -1413,8 +1442,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 111,
-  "tokens": 130576
+  "calls": 113,
+  "tokens": 132899
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1441,8 +1470,8 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 67,
-  "transfer": 29,
+  "lineup": 68,
+  "transfer": 30,
   "stats": 1,
   "discipline": 10,
   "injury": 12,
