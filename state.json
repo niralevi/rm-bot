@@ -6,35 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792782263.3828754,
-   "date": "2026-10-23",
-   "tokens": [
-    "clasico",
-    "double",
-    "doubt",
-    "huijsen",
-    "jose",
-    "line",
-    "main",
-    "mourinho",
-    "pivot",
-    "rudiger",
-    "still",
-    "undecid"
-   ],
-   "names": [
-    "clasico",
-    "huijsen",
-    "jose",
-    "mourinho",
-    "rudiger"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 Jose Mourinho is still undecided about his El Clasico line-up, his main doubts are:",
-   "link": "https://t.me/RealMadridImportantOnly/665"
-  },
-  {
    "ts": 1792783061.861919,
    "date": "2026-10-23",
    "tokens": [
