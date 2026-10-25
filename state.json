@@ -1,35 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59426,
-  "themadridzone": 32579,
+  "themadridzone": 32580,
   "FabrizioRomanoTG": 67681
  },
  "sent": [
-  {
-   "ts": 1792783384.9180331,
-   "date": "2026-10-23",
-   "tokens": [
-    "bernardo",
-    "endrick",
-    "fede",
-    "play",
-    "silva",
-    "sunday",
-    "valverde"
-   ],
-   "names": [
-    "bernardo",
-    "endrick",
-    "fede",
-    "silva",
-    "sunday",
-    "valverde"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 If Fede Valverde plays as RB, Bernardo Silva or Endrick will play as RW on Sunday. @diarioas",
-   "link": "https://t.me/RealMadridImportantOnly/667"
-  },
   {
    "ts": 1792784038.7259936,
    "date": "2026-10-23",
@@ -1448,8 +1423,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 116,
-  "tokens": 136427
+  "calls": 117,
+  "tokens": 137624
  },
  "summary_date": "2026-10-15",
  "opts": {
