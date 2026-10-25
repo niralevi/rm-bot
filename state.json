@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59460,
-  "themadridzone": 32648,
+  "real_madrid": 59463,
+  "themadridzone": 32651,
   "FabrizioRomanoTG": 67684
  },
  "sent": [
@@ -1570,6 +1570,46 @@
    "status": "fact",
    "headline": "Aurelien Tchouaméni has 5 tackles and 4 recoveries in just 45 minutes against Barcelona.",
    "link": "https://t.me/RealMadridImportantOnly/732"
+  },
+  {
+   "ts": 1792963343.4070685,
+   "date": "2026-10-25",
+   "tokens": [
+    "57",
+    "diomande",
+    "injury"
+   ],
+   "names": [
+    "diomande"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "57’ Diomande injury…",
+   "link": "https://t.me/RealMadridImportantOnly/733"
+  },
+  {
+   "ts": 1792963410.516488,
+   "date": "2026-10-25",
+   "tokens": [
+    "59",
+    "back",
+    "diomande",
+    "discomfort",
+    "lot",
+    "might",
+    "off",
+    "subb",
+    "too",
+    "valverde"
+   ],
+   "names": [
+    "diomande",
+    "valverde"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "59’ Diomande back on but he might be subbed off.",
+   "link": "https://t.me/RealMadridImportantOnly/734"
   }
  ],
  "offset": 769012042,
@@ -1609,7 +1649,7 @@
   "transfer": 30,
   "stats": 1,
   "discipline": 13,
-  "injury": 18,
+  "injury": 20,
   "coach": 17,
   "awards": 15,
   "fixtures": 8
