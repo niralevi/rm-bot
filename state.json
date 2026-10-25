@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59412,
-  "themadridzone": 32496,
+  "themadridzone": 32497,
   "FabrizioRomanoTG": 67663
  },
  "sent": [
@@ -742,6 +742,27 @@
    "status": "rumour",
    "headline": "🚨🚨 BREAKING: THIBAUT COURTOIS IS OUT FOR EL CLASICO",
    "link": "https://t.me/RealMadridImportantOnly/688"
+  },
+  {
+   "ts": 1792922848.133792,
+   "date": "2026-10-25",
+   "tokens": [
+    "2026",
+    "27",
+    "andriy",
+    "debut",
+    "lunin",
+    "make",
+    "season"
+   ],
+   "names": [
+    "andriy",
+    "lunin"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Andriy Lunin will make his 2026/27 season debut tonight 🇺🇦",
+   "link": "https://t.me/RealMadridImportantOnly/689"
   }
  ],
  "offset": 769012042,
@@ -749,8 +770,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 36,
-  "tokens": 41524
+  "calls": 37,
+  "tokens": 42629
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -777,7 +798,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 53,
+  "lineup": 54,
   "transfer": 24,
   "stats": 1,
   "discipline": 10,
