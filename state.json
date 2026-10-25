@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59417,
-  "themadridzone": 32529,
+  "themadridzone": 32534,
   "FabrizioRomanoTG": 67667
  },
  "sent": [
@@ -1040,6 +1040,37 @@
    "status": "official",
    "headline": "🚨💣 OFFICIAL: Barcelona players OUT vs Real Madrid tonight:",
    "link": "https://t.me/RealMadridImportantOnly/701"
+  },
+  {
+   "ts": 1792932024.647487,
+   "date": "2026-10-25",
+   "tokens": [
+    "2026",
+    "5",
+    "all",
+    "around",
+    "ballon",
+    "circulat",
+    "current",
+    "fake",
+    "know",
+    "list",
+    "online",
+    "only",
+    "people",
+    "report",
+    "screenshot",
+    "winner"
+   ],
+   "names": [
+    "all",
+    "ballon",
+    "only"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 JUST IN: Only around 5 people currently know the 2026 Ballon d’Or WINNER. 🌕✨",
+   "link": "https://t.me/RealMadridImportantOnly/702"
   }
  ],
  "offset": 769012042,
@@ -1047,8 +1078,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 68,
-  "tokens": 79812
+  "calls": 72,
+  "tokens": 84525
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1081,7 +1112,7 @@
   "discipline": 10,
   "injury": 11,
   "coach": 16,
-  "awards": 13,
+  "awards": 14,
   "fixtures": 6
  }
 }
