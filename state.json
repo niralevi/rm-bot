@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59430,
-  "themadridzone": 32604,
+  "themadridzone": 32606,
   "FabrizioRomanoTG": 67681
  },
  "sent": [
@@ -1467,6 +1467,21 @@
    "status": "fact",
    "headline": "Clear corner not awarded to Real Madrid.",
    "link": "https://t.me/RealMadridImportantOnly/726"
+  },
+  {
+   "ts": 1792959203.6386344,
+   "date": "2026-10-25",
+   "tokens": [
+    "attack",
+    "counter",
+    "referee",
+    "stopp"
+   ],
+   "names": [],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "REFEREE JUST STOPPED A REAL MADRID COUNTER ATTACK.",
+   "link": "https://t.me/RealMadridImportantOnly/727"
   }
  ],
  "offset": 769012042,
@@ -1474,8 +1489,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 141,
-  "tokens": 165122
+  "calls": 143,
+  "tokens": 167327
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1505,7 +1520,7 @@
   "lineup": 71,
   "transfer": 30,
   "stats": 1,
-  "discipline": 11,
+  "discipline": 12,
   "injury": 15,
   "coach": 17,
   "awards": 15,
