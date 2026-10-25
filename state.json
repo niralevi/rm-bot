@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59507,
-  "themadridzone": 32808,
+  "themadridzone": 32812,
   "FabrizioRomanoTG": 67697
  },
  "sent": [
@@ -1754,6 +1754,30 @@
    "status": "fact",
    "headline": "Real Madrid coaching staff 🤍😁",
    "link": "https://t.me/RealMadridImportantOnly/742"
+  },
+  {
+   "ts": 1792971804.8829107,
+   "date": "2026-10-26",
+   "tokens": [
+    "adeyemi",
+    "bellingham",
+    "confront",
+    "full",
+    "jude",
+    "karim",
+    "seem",
+    "time"
+   ],
+   "names": [
+    "adeyemi",
+    "bellingham",
+    "jude",
+    "karim"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "Jude Bellingham seemed to confront Karim Adeyemi at full-time.",
+   "link": "https://t.me/RealMadridImportantOnly/743"
   }
  ],
  "offset": 769012044,
@@ -1761,8 +1785,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-26",
-  "calls": 139,
-  "tokens": 149067
+  "calls": 141,
+  "tokens": 151214
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1792,7 +1816,7 @@
   "lineup": 72,
   "transfer": 32,
   "stats": 1,
-  "discipline": 16,
+  "discipline": 17,
   "injury": 21,
   "coach": 19,
   "awards": 15,
