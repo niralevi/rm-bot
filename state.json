@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59417,
+  "real_madrid": 59418,
   "themadridzone": 32535,
   "FabrizioRomanoTG": 67667
  },
@@ -869,7 +869,8 @@
    "cat": "injury",
    "status": "fact",
    "headline": "🚨🚨💣 BREAKING: Thibaut Courtois WANTS TO PLAY and is TRYING to RECOVER for El Clasico. @MarioCortegana",
-   "link": "https://t.me/RealMadridImportantOnly/693"
+   "link": "https://t.me/RealMadridImportantOnly/693",
+   "superseded": true
   },
   {
    "ts": 1792928605.5539205,
@@ -1071,6 +1072,22 @@
    "status": "fact",
    "headline": "🚨 JUST IN: Only around 5 people currently know the 2026 Ballon d’Or WINNER. 🌕✨",
    "link": "https://t.me/RealMadridImportantOnly/702"
+  },
+  {
+   "ts": 1792933305.1881073,
+   "date": "2026-10-25",
+   "tokens": [
+    "clasico",
+    "courtoi",
+    "flu",
+    "suffer",
+    "thibaut"
+   ],
+   "names": [],
+   "cat": "injury",
+   "status": "official",
+   "headline": "🚨🚨 BREAKING: THIBAUT COURTOIS IS OUT FOR EL CLASICO",
+   "link": "https://t.me/RealMadridImportantOnly/703"
   }
  ],
  "offset": 769012042,
@@ -1078,8 +1095,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 73,
-  "tokens": 85679
+  "calls": 74,
+  "tokens": 86916
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1110,7 +1127,7 @@
   "transfer": 28,
   "stats": 1,
   "discipline": 10,
-  "injury": 11,
+  "injury": 12,
   "coach": 16,
   "awards": 14,
   "fixtures": 6
