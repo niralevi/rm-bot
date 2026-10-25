@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59412,
-  "themadridzone": 32494,
+  "themadridzone": 32496,
   "FabrizioRomanoTG": 67662
  },
  "sent": [
@@ -728,6 +728,20 @@
    "status": "rumour",
    "headline": "🚨 BREAKING: REAL MADRID EXPECTED STARTING XI TONIGHT:",
    "link": "https://t.me/RealMadridImportantOnly/687"
+  },
+  {
+   "ts": 1792922304.0806932,
+   "date": "2026-10-25",
+   "tokens": [
+    "clasico",
+    "courtoi",
+    "thibaut"
+   ],
+   "names": [],
+   "cat": "injury",
+   "status": "rumour",
+   "headline": "🚨🚨 BREAKING: THIBAUT COURTOIS IS OUT FOR EL CLASICO",
+   "link": "https://t.me/RealMadridImportantOnly/688"
   }
  ],
  "offset": 769012042,
@@ -735,8 +749,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 34,
-  "tokens": 39218
+  "calls": 36,
+  "tokens": 41524
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -767,7 +781,7 @@
   "transfer": 24,
   "stats": 1,
   "discipline": 10,
-  "injury": 8,
+  "injury": 9,
   "coach": 16,
   "awards": 12,
   "fixtures": 5
