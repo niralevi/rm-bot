@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59425,
-  "themadridzone": 32566,
+  "themadridzone": 32567,
   "FabrizioRomanoTG": 67681
  },
  "sent": [
@@ -1324,6 +1324,29 @@
    "status": "rumour",
    "headline": "🚨 JUST IN: José Mourinho decided to start Bernardo Silva because he wants to KEEP THE BALL and CONTROL the ma…",
    "link": "https://t.me/RealMadridImportantOnly/714"
+  },
+  {
+   "ts": 1792954404.6093817,
+   "date": "2026-10-25",
+   "tokens": [
+    "federico",
+    "five",
+    "gam",
+    "position",
+    "row",
+    "start",
+    "third",
+    "valverde"
+   ],
+   "names": [
+    "federico",
+    "five",
+    "valverde"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Five games in a row at RB, and third start in a row in this position for Federico Valverde.",
+   "link": "https://t.me/RealMadridImportantOnly/715"
   }
  ],
  "offset": 769012042,
@@ -1331,8 +1354,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 105,
-  "tokens": 123204
+  "calls": 106,
+  "tokens": 124373
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1359,7 +1382,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 64,
+  "lineup": 65,
   "transfer": 29,
   "stats": 1,
   "discipline": 10,
