@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59412,
-  "themadridzone": 32489,
+  "themadridzone": 32490,
   "FabrizioRomanoTG": 67660
  },
  "sent": [
@@ -640,6 +640,29 @@
    "status": "rumour",
    "headline": "🚨 El Clasico expected XI’s. @marca",
    "link": "https://t.me/RealMadridImportantOnly/684"
+  },
+  {
+   "ts": 1792918459.5155306,
+   "date": "2026-10-25",
+   "tokens": [
+    "aurelien",
+    "camavinga",
+    "confirm",
+    "eduardo",
+    "per",
+    "pivot",
+    "tchouameni"
+   ],
+   "names": [
+    "aurelien",
+    "camavinga",
+    "eduardo",
+    "tchouameni"
+   ],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 CONFIRMED: Real Madrid’s pivot tonight will be Aurelien Tchouaméni AND Eduardo Camavinga, as per @marca, @d…",
+   "link": "https://t.me/RealMadridImportantOnly/685"
   }
  ],
  "offset": 769012042,
@@ -647,8 +670,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 29,
-  "tokens": 33301
+  "calls": 30,
+  "tokens": 34517
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -675,7 +698,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 50,
+  "lineup": 51,
   "transfer": 24,
   "stats": 1,
   "discipline": 10,
