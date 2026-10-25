@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59417,
-  "themadridzone": 32523,
+  "themadridzone": 32528,
   "FabrizioRomanoTG": 67666
  },
  "sent": [
@@ -935,6 +935,67 @@
    "status": "official",
    "headline": "🚨💣 CONFIRMED: Kylian Mbappé is ATTENDING the Ballon d’Or ceremony TOMORROW. @RMCsport 🌕✨",
    "link": "https://t.me/RealMadridImportantOnly/696"
+  },
+  {
+   "ts": 1792931463.9231036,
+   "date": "2026-10-25",
+   "tokens": [
+    "arriv",
+    "diomande"
+   ],
+   "names": [
+    "diomande"
+   ],
+   "cat": "transfer",
+   "status": "fact",
+   "headline": "Diomande has arrived ✈️",
+   "link": "https://t.me/RealMadridImportantOnly/697"
+  },
+  {
+   "ts": 1792931529.9687147,
+   "date": "2026-10-25",
+   "tokens": [
+    "cucurella",
+    "marc"
+   ],
+   "names": [
+    "cucurella",
+    "marc"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Marc Cucurella ✈️🌟",
+   "link": "https://t.me/RealMadridImportantOnly/698"
+  },
+  {
+   "ts": 1792931533.099609,
+   "date": "2026-10-25",
+   "tokens": [
+    "barcelona",
+    "official",
+    "squad"
+   ],
+   "names": [],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨💣 OFFICIAL BARCELONA SQUAD vs REAL MADRID.",
+   "link": "https://t.me/RealMadridImportantOnly/699"
+  },
+  {
+   "ts": 1792931535.8115077,
+   "date": "2026-10-25",
+   "tokens": [
+    "arda",
+    "guler"
+   ],
+   "names": [
+    "arda",
+    "guler"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Arda Güler 🇹🇷✈️",
+   "link": "https://t.me/RealMadridImportantOnly/700"
   }
  ],
  "offset": 769012042,
@@ -942,8 +1003,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 63,
-  "tokens": 73832
+  "calls": 67,
+  "tokens": 78560
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -970,8 +1031,8 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 56,
-  "transfer": 25,
+  "lineup": 57,
+  "transfer": 28,
   "stats": 1,
   "discipline": 10,
   "injury": 11,
