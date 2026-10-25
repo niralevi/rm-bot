@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59412,
-  "themadridzone": 32498,
+  "themadridzone": 32499,
   "FabrizioRomanoTG": 67663
  },
  "sent": [
@@ -763,6 +763,43 @@
    "status": "fact",
    "headline": "🚨 Andriy Lunin will make his 2026/27 season debut tonight 🇺🇦",
    "link": "https://t.me/RealMadridImportantOnly/689"
+  },
+  {
+   "ts": 1792923746.2885654,
+   "date": "2026-10-25",
+   "tokens": [
+    "25",
+    "asencio",
+    "barcelona",
+    "chance",
+    "clasico",
+    "courtoi",
+    "ferland",
+    "mendy",
+    "official",
+    "only",
+    "raul",
+    "rodrygo",
+    "thibaut",
+    "vini",
+    "winn"
+   ],
+   "names": [
+    "asencio",
+    "barcelona",
+    "clasico",
+    "courtois",
+    "ferland",
+    "mendy",
+    "raul",
+    "rodrygo",
+    "thibaut",
+    "vini"
+   ],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨💣 OFFICIAL: Real Madrid players OUT vs Barcelona tonight:",
+   "link": "https://t.me/RealMadridImportantOnly/690"
   }
  ],
  "offset": 769012042,
@@ -770,8 +807,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 38,
-  "tokens": 43758
+  "calls": 39,
+  "tokens": 44984
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -798,7 +835,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 54,
+  "lineup": 55,
   "transfer": 24,
   "stats": 1,
   "discipline": 10,
