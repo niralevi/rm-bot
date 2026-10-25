@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59417,
-  "themadridzone": 32509,
+  "themadridzone": 32512,
   "FabrizioRomanoTG": 67666
  },
  "sent": [
@@ -848,6 +848,71 @@
    "status": "fact",
    "headline": "🚨 Lunin starts in goal for Real Madrid in El Clásico as Thibaut Courtois feels sick. 🇺🇦 https://t.co/yLfKvBU1…",
    "link": "https://t.me/RealMadridImportantOnly/692"
+  },
+  {
+   "ts": 1792928540.2439227,
+   "date": "2026-10-25",
+   "tokens": [
+    "clasico",
+    "courtoi",
+    "play",
+    "recover",
+    "thibaut",
+    "try",
+    "want"
+   ],
+   "names": [
+    "clasico",
+    "courtois",
+    "thibaut"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🚨🚨💣 BREAKING: Thibaut Courtois WANTS TO PLAY and is TRYING to RECOVER for El Clasico. @MarioCortegana",
+   "link": "https://t.me/RealMadridImportantOnly/693"
+  },
+  {
+   "ts": 1792928605.5539205,
+   "date": "2026-10-25",
+   "tokens": [
+    "barcelona",
+    "could",
+    "courtoi",
+    "flu",
+    "hop",
+    "play",
+    "recover",
+    "thibaut",
+    "travel",
+    "while"
+   ],
+   "names": [
+    "courtois",
+    "thibaut"
+   ],
+   "cat": "injury",
+   "status": "rumour",
+   "headline": "🚨💣 JUST IN: Thibaut Courtois could now TRAVEL TO BARCELONA while he recovers from the flu.",
+   "link": "https://t.me/RealMadridImportantOnly/694"
+  },
+  {
+   "ts": 1792928671.0252347,
+   "date": "2026-10-25",
+   "tokens": [
+    "barcelona",
+    "bellingham",
+    "jude",
+    "way"
+   ],
+   "names": [
+    "barcelona",
+    "bellingham",
+    "jude"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Jude Bellingham on the way to Barcelona. ✈️",
+   "link": "https://t.me/RealMadridImportantOnly/695"
   }
  ],
  "offset": 769012042,
@@ -855,8 +920,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 52,
-  "tokens": 60306
+  "calls": 55,
+  "tokens": 63983
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -884,10 +949,10 @@
   "fun": 1,
   "social": 2,
   "lineup": 56,
-  "transfer": 24,
+  "transfer": 25,
   "stats": 1,
   "discipline": 10,
-  "injury": 9,
+  "injury": 11,
   "coach": 16,
   "awards": 12,
   "fixtures": 6
