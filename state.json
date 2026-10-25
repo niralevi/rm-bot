@@ -1,59 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59426,
-  "themadridzone": 32580,
+  "themadridzone": 32584,
   "FabrizioRomanoTG": 67681
  },
  "sent": [
-  {
-   "ts": 1792784038.7259936,
-   "date": "2026-10-23",
-   "tokens": [
-    "around",
-    "ballon",
-    "behind",
-    "believe",
-    "bellingham",
-    "consider",
-    "dedicat",
-    "deliver",
-    "demand",
-    "describ",
-    "high",
-    "him",
-    "jude",
-    "like",
-    "matter",
-    "most",
-    "one",
-    "only",
-    "other",
-    "people",
-    "scen",
-    "sets",
-    "someone",
-    "standard",
-    "star",
-    "those",
-    "time",
-    "train",
-    "who",
-    "wins",
-    "within",
-    "without"
-   ],
-   "names": [
-    "ballon",
-    "behind",
-    "bellingham",
-    "jude",
-    "people"
-   ],
-   "cat": "awards",
-   "status": "rumour",
-   "headline": "Jude Bellingham tipped for future Ballon d'Or",
-   "link": "https://t.me/RealMadridImportantOnly/668"
-  },
   {
    "ts": 1792790192.8247616,
    "date": "2026-10-24",
@@ -1416,6 +1367,36 @@
    "status": "fact",
    "headline": "🚨 Real Madrid's starting pivot in the last 3 matches:",
    "link": "https://t.me/RealMadridImportantOnly/721"
+  },
+  {
+   "ts": 1792956869.5477173,
+   "date": "2026-10-25",
+   "tokens": [
+    "100",
+    "bernardo",
+    "big",
+    "close",
+    "demand",
+    "effort",
+    "first",
+    "form",
+    "lot",
+    "match",
+    "physical",
+    "say",
+    "silva",
+    "starter",
+    "suffer",
+    "team"
+   ],
+   "names": [
+    "bernardo",
+    "silva"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🚨 On Bernardo Silva - Real Madrid were saying that the player was suffering a lot physically, that he was not…",
+   "link": "https://t.me/RealMadridImportantOnly/722"
   }
  ],
  "offset": 769012042,
@@ -1423,8 +1404,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 117,
-  "tokens": 137624
+  "calls": 119,
+  "tokens": 140187
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1455,7 +1436,7 @@
   "transfer": 30,
   "stats": 1,
   "discipline": 10,
-  "injury": 12,
+  "injury": 13,
   "coach": 17,
   "awards": 15,
   "fixtures": 8
