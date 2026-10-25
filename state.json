@@ -1,31 +1,10 @@
 {
  "last_post": {
-  "real_madrid": 59453,
-  "themadridzone": 32645,
+  "real_madrid": 59458,
+  "themadridzone": 32648,
   "FabrizioRomanoTG": 67684
  },
  "sent": [
-  {
-   "ts": 1792790192.8247616,
-   "date": "2026-10-24",
-   "tokens": [
-    "arda",
-    "close",
-    "earn",
-    "guler",
-    "spot",
-    "start",
-    "undisput"
-   ],
-   "names": [
-    "arda",
-    "guler"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 UPDATE: Arda Güler is VERY CLOSE to earning an undisputed spot in starting XI. @marca",
-   "link": "https://t.me/RealMadridImportantOnly/669"
-  },
   {
    "ts": 1792823842.0230672,
    "date": "2026-10-24",
