@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59412,
-  "themadridzone": 32488,
+  "themadridzone": 32489,
   "FabrizioRomanoTG": 67660
  },
  "sent": [
@@ -625,6 +625,21 @@
    "status": "rumour",
    "headline": "🚨💣 BREAKING: Real Madrid were offered the chance to sign Karim Adeyemi in the summer, but they said NO, and t…",
    "link": "https://t.me/RealMadridImportantOnly/683"
+  },
+  {
+   "ts": 1792918281.101677,
+   "date": "2026-10-25",
+   "tokens": [
+    "clasico",
+    "expect"
+   ],
+   "names": [
+    "clasico"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 El Clasico expected XI’s. @marca",
+   "link": "https://t.me/RealMadridImportantOnly/684"
   }
  ],
  "offset": 769012042,
@@ -632,8 +647,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-25",
-  "calls": 28,
-  "tokens": 32189
+  "calls": 29,
+  "tokens": 33301
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -660,7 +675,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 49,
+  "lineup": 50,
   "transfer": 24,
   "stats": 1,
   "discipline": 10,
