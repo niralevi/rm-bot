@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59507,
-  "themadridzone": 32806,
+  "themadridzone": 32807,
   "FabrizioRomanoTG": 67697
  },
  "sent": [
@@ -1741,20 +1741,33 @@
    "status": "fact",
    "headline": "🚨🚨 BREAKING: Jude Bellingham and Gabriel Jesus almost FOUGHT after the game ended.",
    "link": "https://t.me/RealMadridImportantOnly/741"
+  },
+  {
+   "ts": 1792971445.9111726,
+   "date": "2026-10-26",
+   "tokens": [
+    "coach",
+    "staff"
+   ],
+   "names": [],
+   "cat": "coach",
+   "status": "fact",
+   "headline": "Real Madrid coaching staff 🤍😁",
+   "link": "https://t.me/RealMadridImportantOnly/742"
   }
  ],
- "offset": 769012042,
+ "offset": 769012044,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-10-26",
-  "calls": 137,
-  "tokens": 147001
+  "calls": 138,
+  "tokens": 148028
  },
  "summary_date": "2026-10-15",
  "opts": {
-  "quiet": false,
-  "summary": false
+  "quiet": true,
+  "summary": true
  },
  "health": {},
  "limit_alert": "2026-10-25",
@@ -1781,7 +1794,7 @@
   "stats": 1,
   "discipline": 16,
   "injury": 21,
-  "coach": 18,
+  "coach": 19,
   "awards": 15,
   "fixtures": 8
  }
