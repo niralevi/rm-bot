@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59517,
-  "themadridzone": 32927,
+  "themadridzone": 32929,
   "FabrizioRomanoTG": 67735
  },
  "sent": [
@@ -2365,6 +2365,20 @@
    "status": "fact",
    "headline": "🚨 Kylian Mbappé: \"Did I prepare a Ballon d'Or acceptance speech?",
    "link": "https://t.me/RealMadridImportantOnly/779"
+  },
+  {
+   "ts": 1793045066.1453123,
+   "date": "2026-10-26",
+   "tokens": [
+    "arriv",
+    "best",
+    "world"
+   ],
+   "names": [],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "THE BEST PLAYER IN THE WORLD HAS ARRIVED. 🥶",
+   "link": "https://t.me/RealMadridImportantOnly/781"
   }
  ],
  "offset": 769012044,
@@ -2406,7 +2420,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 48,
+  "awards": 49,
   "fixtures": 8
  }
 }
