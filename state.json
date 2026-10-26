@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59516,
+  "real_madrid": 59517,
   "themadridzone": 32908,
   "FabrizioRomanoTG": 67733
  },
@@ -2197,6 +2197,22 @@
    "status": "fact",
    "headline": "🚨 BREAKING: Jude Bellingham is ranked at 11th place in 2026 Ballon d’Or!",
    "link": "https://t.me/RealMadridImportantOnly/773"
+  },
+  {
+   "ts": 1793039124.8536026,
+   "date": "2026-10-26",
+   "tokens": [
+    "ballon",
+    "here",
+    "watch"
+   ],
+   "names": [
+    "watch"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "Watch BALLON D’OR here",
+   "link": "https://t.me/RealMadridImportantOnly/774"
   }
  ],
  "offset": 769012044,
@@ -2238,7 +2254,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 42,
+  "awards": 43,
   "fixtures": 8
  }
 }
