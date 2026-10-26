@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59507,
   "themadridzone": 32831,
-  "FabrizioRomanoTG": 67700
+  "FabrizioRomanoTG": 67701
  },
  "sent": [
   {
@@ -1813,6 +1813,47 @@
    "status": "official",
    "headline": "🚨💣 CONFIRMED: Real Madrid are set to have representation at the Ballon d'Or tomorrow for the first time since…",
    "link": "https://t.me/RealMadridImportantOnly/745"
+  },
+  {
+   "ts": 1792996461.8838146,
+   "date": "2026-10-26",
+   "tokens": [
+    "2024",
+    "2026",
+    "26",
+    "attend",
+    "ballon",
+    "case",
+    "ceremony",
+    "fabrizio",
+    "green",
+    "harry",
+    "kane",
+    "lamine",
+    "light",
+    "london",
+    "mbappe",
+    "oct",
+    "romano",
+    "travel",
+    "yamal"
+   ],
+   "names": [
+    "ballon",
+    "fabrizio",
+    "harry",
+    "kane",
+    "lamine",
+    "london",
+    "mbappe",
+    "oct",
+    "romano",
+    "yamal"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🌕 Mbappé will travel to London for Ballon d’Or today, green light after 2024 case with Real Madrid.",
+   "link": "https://t.me/RealMadridImportantOnly/746"
   }
  ],
  "offset": 769012044,
@@ -1820,8 +1861,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-26",
-  "calls": 159,
-  "tokens": 170423
+  "calls": 160,
+  "tokens": 171583
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1854,7 +1895,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 19,
-  "awards": 17,
+  "awards": 18,
   "fixtures": 8
  }
 }
