@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59508,
+  "real_madrid": 59509,
   "themadridzone": 32844,
   "FabrizioRomanoTG": 67707
  },
@@ -1619,6 +1619,38 @@
    "status": "rumour",
    "headline": "Yan Diomande 🌪️",
    "link": "https://t.me/RealMadridImportantOnly/749"
+  },
+  {
+   "ts": 1793008907.9804459,
+   "date": "2026-10-26",
+   "tokens": [
+    "attend",
+    "ballon",
+    "boycott",
+    "confirm",
+    "cucurella",
+    "end",
+    "gala",
+    "improv",
+    "jfelixdiaz",
+    "league",
+    "marc",
+    "official",
+    "relationship",
+    "saga",
+    "super",
+    "uefa"
+   ],
+   "names": [
+    "ballon",
+    "cucurella",
+    "marc",
+    "super"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨💣 CONFIRMED: @Kylian_Mbappe and Marc Cucurella will attend the Ballon d’Or gala tonight.",
+   "link": "https://t.me/RealMadridImportantOnly/750"
   }
  ],
  "offset": 769012044,
@@ -1660,7 +1692,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 19,
+  "awards": 20,
   "fixtures": 8
  }
 }
