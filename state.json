@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59517,
-  "themadridzone": 32911,
+  "themadridzone": 32912,
   "FabrizioRomanoTG": 67735
  },
  "sent": [
@@ -2298,6 +2298,26 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: BALLON D’OR TOP 10 (in no specific order):",
    "link": "https://t.me/RealMadridImportantOnly/776"
+  },
+  {
+   "ts": 1793043445.3792796,
+   "date": "2026-10-26",
+   "tokens": [
+    "ballon",
+    "hand",
+    "nazario",
+    "ronaldo",
+    "winner"
+   ],
+   "names": [
+    "ballon",
+    "nazario",
+    "ronaldo"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 BREAKING: Ronaldo Nazario will hand the Ballon d'Or to the winner tonight.",
+   "link": "https://t.me/RealMadridImportantOnly/777"
   }
  ],
  "offset": 769012044,
@@ -2339,7 +2359,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 45,
+  "awards": 46,
   "fixtures": 8
  }
 }
