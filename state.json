@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59516,
-  "themadridzone": 32892,
+  "themadridzone": 32895,
   "FabrizioRomanoTG": 67722
  },
  "sent": [
@@ -1991,6 +1991,27 @@
    "status": "fact",
    "headline": "🚨 Lautaro Martinez is ranked 22nd in Ballon d’Or 2026. 🌕✨",
    "link": "https://t.me/RealMadridImportantOnly/764"
+  },
+  {
+   "ts": 1793035523.1544168,
+   "date": "2026-10-26",
+   "tokens": [
+    "2026",
+    "20th",
+    "ballon",
+    "pacho",
+    "rank",
+    "willian"
+   ],
+   "names": [
+    "ballon",
+    "pacho",
+    "willian"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 Willian Pacho is ranked 20th in Ballon d’Or 2026. 🌕✨",
+   "link": "https://t.me/RealMadridImportantOnly/765"
   }
  ],
  "offset": 769012044,
@@ -2032,7 +2053,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 33,
+  "awards": 34,
   "fixtures": 8
  }
 }
