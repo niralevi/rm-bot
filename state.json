@@ -6,29 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792833564.3505726,
-   "date": "2026-10-24",
-   "tokens": [
-    "back",
-    "ballon",
-    "confirm",
-    "kylian",
-    "mbappe",
-    "private",
-    "public",
-    "win"
-   ],
-   "names": [
-    "ballon",
-    "kylian",
-    "mbappe"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "🚨 CONFIRMED: Real Madrid have publicly and privately backed Kylian Mbappé to win the Ballon d’Or. @GuillermoR…",
-   "link": "https://t.me/RealMadridImportantOnly/677"
-  },
-  {
    "ts": 1792838065.3154254,
    "date": "2026-10-24",
    "tokens": [
