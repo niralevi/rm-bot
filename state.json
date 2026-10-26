@@ -6,39 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792824500.7462614,
-   "date": "2026-10-24",
-   "tokens": [
-    "almost",
-    "close",
-    "day",
-    "every",
-    "hour",
-    "internal",
-    "jose",
-    "mourinho",
-    "number",
-    "said",
-    "sleep",
-    "source",
-    "spend",
-    "staff",
-    "talk",
-    "there",
-    "valdebeba"
-   ],
-   "names": [
-    "jose",
-    "mourinho",
-    "there",
-    "valdebebas"
-   ],
-   "cat": "coach",
-   "status": "rumour",
-   "headline": "🚨 There has been talk internally about the number of hours Jose Mourinho and his staff spend at Valdebebas.",
-   "link": "https://t.me/RealMadridImportantOnly/675"
-  },
-  {
    "ts": 1792832957.4981995,
    "date": "2026-10-24",
    "tokens": [
