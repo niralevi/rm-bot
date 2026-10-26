@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59516,
-  "themadridzone": 32907,
+  "themadridzone": 32908,
   "FabrizioRomanoTG": 67733
  },
  "sent": [
@@ -2175,6 +2175,28 @@
    "status": "fact",
    "headline": "🚨 Pau Cubarsi is ranked at the 12th place of the 2026 Ballon d’Or.",
    "link": "https://t.me/RealMadridImportantOnly/772"
+  },
+  {
+   "ts": 1793038827.8790467,
+   "date": "2026-10-26",
+   "tokens": [
+    "11th",
+    "2026",
+    "ballon",
+    "bellingham",
+    "jude",
+    "place",
+    "rank"
+   ],
+   "names": [
+    "ballon",
+    "bellingham",
+    "jude"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 BREAKING: Jude Bellingham is ranked at 11th place in 2026 Ballon d’Or!",
+   "link": "https://t.me/RealMadridImportantOnly/773"
   }
  ],
  "offset": 769012044,
@@ -2216,7 +2238,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 41,
+  "awards": 42,
   "fixtures": 8
  }
 }
