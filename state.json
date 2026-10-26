@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59516,
-  "themadridzone": 32883,
+  "themadridzone": 32886,
   "FabrizioRomanoTG": 67714
  },
  "sent": [
@@ -1844,6 +1844,48 @@
    "status": "fact",
    "headline": "🚨💣 JUST IN: Kylian Mbappé's chances of winning the Ballon d'Or went from 2% on October 5th to 30% today on Po…",
    "link": "https://t.me/RealMadridImportantOnly/757"
+  },
+  {
+   "ts": 1793033364.5486667,
+   "date": "2026-10-26",
+   "tokens": [
+    "2026",
+    "29th",
+    "ballon",
+    "mane",
+    "rank",
+    "sadio"
+   ],
+   "names": [
+    "ballon",
+    "mane",
+    "sadio"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 Sadio Mane is ranked 29th in Ballon d’Or 2026. 🌕✨",
+   "link": "https://t.me/RealMadridImportantOnly/758"
+  },
+  {
+   "ts": 1793033430.2509317,
+   "date": "2026-10-26",
+   "tokens": [
+    "2026",
+    "28th",
+    "ballon",
+    "julian",
+    "quinon",
+    "rank"
+   ],
+   "names": [
+    "ballon",
+    "julian",
+    "quinones"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 Julian Quinones is ranked 28th in Ballon d’Or 2026. 🌕✨",
+   "link": "https://t.me/RealMadridImportantOnly/759"
   }
  ],
  "offset": 769012044,
@@ -1885,7 +1927,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 26,
+  "awards": 28,
   "fixtures": 8
  }
 }
