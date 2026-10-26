@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59507,
-  "themadridzone": 32831,
-  "FabrizioRomanoTG": 67701
+  "themadridzone": 32832,
+  "FabrizioRomanoTG": 67702
  },
  "sent": [
   {
@@ -1648,6 +1648,29 @@
    "status": "fact",
    "headline": "🌕 Mbappé will travel to London for Ballon d’Or today, green light after 2024 case with Real Madrid.",
    "link": "https://t.me/RealMadridImportantOnly/746"
+  },
+  {
+   "ts": 1793000421.4041197,
+   "date": "2026-10-26",
+   "tokens": [
+    "barcelona",
+    "bench",
+    "down",
+    "final",
+    "jose",
+    "minut",
+    "mourinho",
+    "star"
+   ],
+   "names": [
+    "barcelona",
+    "jose",
+    "mourinho"
+   ],
+   "cat": "coach",
+   "status": "fact",
+   "headline": "Jose Mourinho staring down Barcelona’s bench in the final minutes.",
+   "link": "https://t.me/RealMadridImportantOnly/747"
   }
  ],
  "offset": 769012044,
@@ -1655,8 +1678,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-26",
-  "calls": 160,
-  "tokens": 171583
+  "calls": 162,
+  "tokens": 173750
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1688,7 +1711,7 @@
   "stats": 1,
   "discipline": 17,
   "injury": 21,
-  "coach": 19,
+  "coach": 20,
   "awards": 18,
   "fixtures": 8
  }
