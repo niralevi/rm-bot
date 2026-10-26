@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59515,
-  "themadridzone": 32867,
+  "themadridzone": 32868,
   "FabrizioRomanoTG": 67711
  },
  "sent": [
@@ -1831,6 +1831,37 @@
    "status": "fact",
    "headline": "🚨💣 JUST IN: Zinedine Zidane will NOT attend the Ballon d’Or gala tonight. ❌",
    "link": "https://t.me/RealMadridImportantOnly/756"
+  },
+  {
+   "ts": 1793024727.8890665,
+   "date": "2026-10-26",
+   "tokens": [
+    "1200",
+    "2",
+    "30",
+    "5th",
+    "ballon",
+    "chanc",
+    "increase",
+    "kylian",
+    "massive",
+    "mbappe",
+    "october",
+    "polymarket",
+    "went",
+    "winn"
+   ],
+   "names": [
+    "ballon",
+    "kylian",
+    "mbappe",
+    "october",
+    "polymarket"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨💣 JUST IN: Kylian Mbappé's chances of winning the Ballon d'Or went from 2% on October 5th to 30% today on Po…",
+   "link": "https://t.me/RealMadridImportantOnly/757"
   }
  ],
  "offset": 769012044,
@@ -1872,7 +1903,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 25,
+  "awards": 26,
   "fixtures": 8
  }
 }
