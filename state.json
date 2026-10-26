@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59507,
-  "themadridzone": 32822,
+  "themadridzone": 32823,
   "FabrizioRomanoTG": 67698
  },
  "sent": [
@@ -1778,6 +1778,19 @@
    "status": "fact",
    "headline": "Jude Bellingham seemed to confront Karim Adeyemi at full-time.",
    "link": "https://t.me/RealMadridImportantOnly/743"
+  },
+  {
+   "ts": 1792973493.2779799,
+   "date": "2026-10-26",
+   "tokens": [
+    "ballon",
+    "day"
+   ],
+   "names": [],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨🚨 BALLON D'OR DAY 🌕",
+   "link": "https://t.me/RealMadridImportantOnly/744"
   }
  ],
  "offset": 769012044,
@@ -1785,8 +1798,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-26",
-  "calls": 150,
-  "tokens": 160867
+  "calls": 151,
+  "tokens": 161926
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1819,7 +1832,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 19,
-  "awards": 15,
+  "awards": 16,
   "fixtures": 8
  }
 }
