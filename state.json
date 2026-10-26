@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59516,
-  "themadridzone": 32886,
-  "FabrizioRomanoTG": 67719
+  "themadridzone": 32889,
+  "FabrizioRomanoTG": 67721
  },
  "sent": [
   {
@@ -1886,6 +1886,48 @@
    "status": "fact",
    "headline": "🚨 Julian Quinones is ranked 28th in Ballon d’Or 2026. 🌕✨",
    "link": "https://t.me/RealMadridImportantOnly/759"
+  },
+  {
+   "ts": 1793034503.8662157,
+   "date": "2026-10-26",
+   "tokens": [
+    "2026",
+    "27th",
+    "ballon",
+    "bruno",
+    "fernand",
+    "rank"
+   ],
+   "names": [
+    "ballon",
+    "bruno",
+    "fernandes"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 Bruno Fernandes is ranked 27th in Ballon d’Or 2026. 🌕✨",
+   "link": "https://t.me/RealMadridImportantOnly/760"
+  },
+  {
+   "ts": 1793034505.8108733,
+   "date": "2026-10-26",
+   "tokens": [
+    "2026",
+    "26th",
+    "ballon",
+    "dayot",
+    "rank",
+    "upamecano"
+   ],
+   "names": [
+    "ballon",
+    "dayot",
+    "upamecano"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 Dayot Upamecano is ranked 26th in Ballon d’Or 2026. 🌕✨",
+   "link": "https://t.me/RealMadridImportantOnly/761"
   }
  ],
  "offset": 769012044,
@@ -1927,7 +1969,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 28,
+  "awards": 30,
   "fixtures": 8
  }
 }
