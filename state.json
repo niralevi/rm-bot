@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59516,
-  "themadridzone": 32889,
+  "themadridzone": 32891,
   "FabrizioRomanoTG": 67721
  },
  "sent": [
@@ -1928,6 +1928,48 @@
    "status": "fact",
    "headline": "🚨 Dayot Upamecano is ranked 26th in Ballon d’Or 2026. 🌕✨",
    "link": "https://t.me/RealMadridImportantOnly/761"
+  },
+  {
+   "ts": 1793034620.8270476,
+   "date": "2026-10-26",
+   "tokens": [
+    "2026",
+    "24th",
+    "ballon",
+    "diaz",
+    "luis",
+    "rank"
+   ],
+   "names": [
+    "ballon",
+    "diaz",
+    "luis"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 Luis Diaz is ranked 24th in Ballon d’Or 2026. 🌕✨",
+   "link": "https://t.me/RealMadridImportantOnly/762"
+  },
+  {
+   "ts": 1793034622.6764774,
+   "date": "2026-10-26",
+   "tokens": [
+    "2026",
+    "23rd",
+    "ballon",
+    "mend",
+    "nuno",
+    "rank"
+   ],
+   "names": [
+    "ballon",
+    "mendes",
+    "nuno"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 Nuno Mendes is ranked 23rd in Ballon d’Or 2026. 🌕✨",
+   "link": "https://t.me/RealMadridImportantOnly/763"
   }
  ],
  "offset": 769012044,
@@ -1969,7 +2011,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 30,
+  "awards": 32,
   "fixtures": 8
  }
 }
