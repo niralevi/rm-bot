@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59513,
-  "themadridzone": 32850,
-  "FabrizioRomanoTG": 67708
+  "themadridzone": 32854,
+  "FabrizioRomanoTG": 67709
  },
  "sent": [
   {
@@ -1494,7 +1494,8 @@
    "cat": "awards",
    "status": "fact",
    "headline": "🌕 Mbappé will travel to London for Ballon d’Or today, green light after 2024 case with Real Madrid.",
-   "link": "https://t.me/RealMadridImportantOnly/746"
+   "link": "https://t.me/RealMadridImportantOnly/746",
+   "superseded": true
   },
   {
    "ts": 1793000421.4041197,
@@ -1651,6 +1652,47 @@
    "status": "fact",
    "headline": "🎥 Kylian Mbappé has arrived at Real Madrid City before flying to London for Ballon d’Or. @lejournaldureal @ai…",
    "link": "https://t.me/RealMadridImportantOnly/752"
+  },
+  {
+   "ts": 1793015965.442752,
+   "date": "2026-10-26",
+   "tokens": [
+    "2026",
+    "26",
+    "all",
+    "app",
+    "attend",
+    "ballon",
+    "ceremony",
+    "confirm",
+    "download",
+    "fabrizio",
+    "kane",
+    "lamine",
+    "london",
+    "mbappe",
+    "oct",
+    "romano",
+    "who",
+    "winner",
+    "your"
+   ],
+   "names": [
+    "ballon",
+    "download",
+    "fabrizio",
+    "kane",
+    "lamine",
+    "london",
+    "mbappe",
+    "oct",
+    "romano",
+    "who"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "Mbappé, Kane and Lamine are all confirmed attending the Ballon d’Or ceremony today in London. ✨",
+   "link": "https://t.me/RealMadridImportantOnly/753"
   }
  ],
  "offset": 769012044,
@@ -1692,7 +1734,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 22,
+  "awards": 23,
   "fixtures": 8
  }
 }
