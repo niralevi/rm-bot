@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59507,
-  "themadridzone": 32833,
+  "themadridzone": 32837,
   "FabrizioRomanoTG": 67705
  },
  "sent": [
@@ -1700,6 +1700,22 @@
    "status": "rumour",
    "headline": "🚨 It’s 2026 Ballon d’Or day. 🌕✨",
    "link": "https://t.me/RealMadridImportantOnly/748"
+  },
+  {
+   "ts": 1793001643.6462429,
+   "date": "2026-10-26",
+   "tokens": [
+    "diomande",
+    "yan"
+   ],
+   "names": [
+    "diomande",
+    "yan"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Yan Diomande 🌪️",
+   "link": "https://t.me/RealMadridImportantOnly/749"
   }
  ],
  "offset": 769012044,
@@ -1707,8 +1723,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-26",
-  "calls": 165,
-  "tokens": 177159
+  "calls": 168,
+  "tokens": 180335
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1736,7 +1752,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 72,
-  "transfer": 32,
+  "transfer": 33,
   "stats": 1,
   "discipline": 17,
   "injury": 21,
