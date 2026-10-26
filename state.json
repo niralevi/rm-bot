@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59516,
-  "themadridzone": 32905,
-  "FabrizioRomanoTG": 67728
+  "themadridzone": 32906,
+  "FabrizioRomanoTG": 67729
  },
  "sent": [
   {
@@ -2131,6 +2131,28 @@
    "status": "fact",
    "headline": "🚨 Declan Rice is ranked at 15th place of the 2026 Ballon d’Or.",
    "link": "https://t.me/RealMadridImportantOnly/770"
+  },
+  {
+   "ts": 1793037389.334391,
+   "date": "2026-10-26",
+   "tokens": [
+    "13th",
+    "2026",
+    "achraf",
+    "ballon",
+    "hakimi",
+    "place",
+    "rank"
+   ],
+   "names": [
+    "achraf",
+    "ballon",
+    "hakimi"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 Achraf Hakimi is ranked at 13th place of the 2026 Ballon d’Or.",
+   "link": "https://t.me/RealMadridImportantOnly/771"
   }
  ],
  "offset": 769012044,
@@ -2172,7 +2194,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 39,
+  "awards": 40,
   "fixtures": 8
  }
 }
