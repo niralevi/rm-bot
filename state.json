@@ -6,23 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792838132.901139,
-   "date": "2026-10-24",
-   "tokens": [
-    "clasico",
-    "final",
-    "session",
-    "train"
-   ],
-   "names": [
-    "clasico"
-   ],
-   "cat": "coach",
-   "status": "fact",
-   "headline": "Final training session before El Clasico. 💪",
-   "link": "https://t.me/RealMadridImportantOnly/679"
-  },
-  {
    "ts": 1792839388.6811116,
    "date": "2026-10-24",
    "tokens": [
