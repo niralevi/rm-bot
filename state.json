@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59516,
-  "themadridzone": 32898,
+  "themadridzone": 32901,
   "FabrizioRomanoTG": 67726
  },
  "sent": [
@@ -2065,6 +2065,28 @@
    "status": "official",
    "headline": "🚨 BREAKING: There is CHAOS at the Ballon d’Or.",
    "link": "https://t.me/RealMadridImportantOnly/767"
+  },
+  {
+   "ts": 1793036490.4101899,
+   "date": "2026-10-26",
+   "tokens": [
+    "18th",
+    "2026",
+    "ballon",
+    "cucurella",
+    "marc",
+    "place",
+    "rank"
+   ],
+   "names": [
+    "ballon",
+    "cucurella",
+    "marc"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 BREAKING: Marc Cucurella is ranked at 18th place of the 2026 Ballon d’Or!",
+   "link": "https://t.me/RealMadridImportantOnly/768"
   }
  ],
  "offset": 769012044,
@@ -2106,7 +2128,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 36,
+  "awards": 37,
   "fixtures": 8
  }
 }
