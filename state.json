@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59513,
-  "themadridzone": 32847,
+  "themadridzone": 32849,
   "FabrizioRomanoTG": 67707
  },
  "sent": [
@@ -1627,6 +1627,30 @@
    "status": "fact",
    "headline": "🚨 NEW: Emilio Butragueño will travel to the Ballon d’Or gala tonight with Kylian Mbappé, Yan Diomande and Mar…",
    "link": "https://t.me/RealMadridImportantOnly/751"
+  },
+  {
+   "ts": 1793013565.0045662,
+   "date": "2026-10-26",
+   "tokens": [
+    "arriv",
+    "ballon",
+    "city",
+    "fly",
+    "kylian",
+    "london",
+    "mbappe"
+   ],
+   "names": [
+    "ballon",
+    "city",
+    "kylian",
+    "london",
+    "mbappe"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🎥 Kylian Mbappé has arrived at Real Madrid City before flying to London for Ballon d’Or. @lejournaldureal @ai…",
+   "link": "https://t.me/RealMadridImportantOnly/752"
   }
  ],
  "offset": 769012044,
@@ -1668,7 +1692,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 21,
+  "awards": 22,
   "fixtures": 8
  }
 }
