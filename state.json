@@ -1,25 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59509,
-  "themadridzone": 32845,
+  "themadridzone": 32846,
   "FabrizioRomanoTG": 67707
  },
  "sent": [
-  {
-   "ts": 1792839388.6811116,
-   "date": "2026-10-24",
-   "tokens": [
-    "clasico",
-    "tomorrow"
-   ],
-   "names": [
-    "clasico"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "El Clásico tomorrow! 🔥",
-   "link": "https://t.me/RealMadridImportantOnly/680"
-  },
   {
    "ts": 1792845873.0554764,
    "date": "2026-10-24",
