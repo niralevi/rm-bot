@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59526,
-  "themadridzone": 32949,
+  "real_madrid": 59527,
+  "themadridzone": 32950,
   "FabrizioRomanoTG": 67745
  },
  "sent": [
@@ -2468,6 +2468,24 @@
    "status": "fact",
    "headline": "🏆✨ Best Young Talent Award 2026.",
    "link": "https://t.me/RealMadridImportantOnly/784"
+  },
+  {
+   "ts": 1793055140.2301326,
+   "date": "2026-10-27",
+   "tokens": [
+    "harry",
+    "kane",
+    "official",
+    "won"
+   ],
+   "names": [
+    "harry",
+    "kane"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Harry Kane has won #BallonDor",
+   "link": "https://t.me/RealMadridImportantOnly/785"
   }
  ],
  "offset": 769012044,
@@ -2475,8 +2493,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 1,
-  "tokens": 1148
+  "calls": 3,
+  "tokens": 3376
  },
  "summary_date": "2026-10-26",
  "opts": {
@@ -2509,7 +2527,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 52,
+  "awards": 53,
   "fixtures": 8
  }
 }
