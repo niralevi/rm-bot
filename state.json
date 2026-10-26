@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59528,
   "themadridzone": 32955,
-  "FabrizioRomanoTG": 67748
+  "FabrizioRomanoTG": 67757
  },
  "sent": [
   {
@@ -2506,7 +2506,36 @@
    "cat": "awards",
    "status": "fact",
    "headline": "🚨💣 BREAKING: Kylian Mbappé finishes 2ND in Ballon d'Or rankings.",
-   "link": "https://t.me/RealMadridImportantOnly/786"
+   "link": "https://t.me/RealMadridImportantOnly/786",
+   "superseded": true
+  },
+  {
+   "ts": 1793056158.1177907,
+   "date": "2026-10-27",
+   "tokens": [
+    "2026",
+    "26",
+    "2nd",
+    "ballon",
+    "fabrizio",
+    "kylian",
+    "mbappe",
+    "oct",
+    "official",
+    "romano"
+   ],
+   "names": [
+    "ballon",
+    "fabrizio",
+    "kylian",
+    "mbappe",
+    "oct",
+    "romano"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Kylian Mbappé, 2nd at the Ballon d’Or 2026.",
+   "link": "https://t.me/RealMadridImportantOnly/787"
   }
  ],
  "offset": 769012044,
@@ -2514,8 +2543,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 9,
-  "tokens": 10402
+  "calls": 10,
+  "tokens": 11577
  },
  "summary_date": "2026-10-26",
  "opts": {
@@ -2548,7 +2577,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 54,
+  "awards": 55,
   "fixtures": 8
  }
 }
