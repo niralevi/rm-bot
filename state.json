@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59527,
-  "themadridzone": 32950,
-  "FabrizioRomanoTG": 67746
+  "themadridzone": 32952,
+  "FabrizioRomanoTG": 67747
  },
  "sent": [
   {
@@ -2486,6 +2486,27 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Harry Kane has won #BallonDor",
    "link": "https://t.me/RealMadridImportantOnly/785"
+  },
+  {
+   "ts": 1793055438.795035,
+   "date": "2026-10-27",
+   "tokens": [
+    "2nd",
+    "ballon",
+    "finish",
+    "kylian",
+    "mbappe",
+    "ranking"
+   ],
+   "names": [
+    "ballon",
+    "kylian",
+    "mbappe"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨💣 BREAKING: Kylian Mbappé finishes 2ND in Ballon d'Or rankings.",
+   "link": "https://t.me/RealMadridImportantOnly/786"
   }
  ],
  "offset": 769012044,
@@ -2493,8 +2514,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 3,
-  "tokens": 3376
+  "calls": 5,
+  "tokens": 5672
  },
  "summary_date": "2026-10-26",
  "opts": {
@@ -2527,7 +2548,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 53,
+  "awards": 54,
   "fixtures": 8
  }
 }
