@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59517,
-  "themadridzone": 32908,
+  "themadridzone": 32909,
   "FabrizioRomanoTG": 67734
  },
  "sent": [
@@ -2242,6 +2242,62 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Jude Bellingham, 11th at Ballon d’Or 2026.",
    "link": "https://t.me/RealMadridImportantOnly/775"
+  },
+  {
+   "ts": 1793039437.1480484,
+   "date": "2026-10-26",
+   "tokens": [
+    "10",
+    "ballon",
+    "dembele",
+    "erl",
+    "fabian",
+    "haaland",
+    "harry",
+    "kane",
+    "khvicha",
+    "kvaratskhelia",
+    "kylian",
+    "lamine",
+    "lionel",
+    "mbappe",
+    "messi",
+    "michael",
+    "official",
+    "olise",
+    "order",
+    "ousmane",
+    "rodri",
+    "ruiz",
+    "specific",
+    "top",
+    "yamal"
+   ],
+   "names": [
+    "dembele",
+    "erling",
+    "fabian",
+    "haaland",
+    "harry",
+    "kane",
+    "khvicha",
+    "kvaratskhelia",
+    "kylian",
+    "lamine",
+    "lionel",
+    "mbappe",
+    "messi",
+    "michael",
+    "olise",
+    "ousmane",
+    "rodri",
+    "ruiz",
+    "yamal"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: BALLON D’OR TOP 10 (in no specific order):",
+   "link": "https://t.me/RealMadridImportantOnly/776"
   }
  ],
  "offset": 769012044,
@@ -2283,7 +2339,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 44,
+  "awards": 45,
   "fixtures": 8
  }
 }
