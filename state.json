@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59530,
-  "themadridzone": 32957,
+  "themadridzone": 32958,
   "FabrizioRomanoTG": 67760
  },
  "sent": [
@@ -2536,6 +2536,49 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Kylian Mbappé, 2nd at the Ballon d’Or 2026.",
    "link": "https://t.me/RealMadridImportantOnly/787"
+  },
+  {
+   "ts": 1793058925.4319077,
+   "date": "2026-10-27",
+   "tokens": [
+    "2024",
+    "40",
+    "41",
+    "announc",
+    "away",
+    "ballon",
+    "difference",
+    "even",
+    "football",
+    "france",
+    "harry",
+    "kane",
+    "kylian",
+    "less",
+    "lost",
+    "margin",
+    "mbappe",
+    "point",
+    "rodri",
+    "smallest",
+    "than",
+    "vini"
+   ],
+   "names": [
+    "ballon",
+    "football",
+    "france",
+    "harry",
+    "kane",
+    "kylian",
+    "mbappe",
+    "rodri",
+    "vini"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 BREAKING: Kylian Mbappé was LESS than 40 points away from Harry Kane.",
+   "link": "https://t.me/RealMadridImportantOnly/788"
   }
  ],
  "offset": 769012044,
@@ -2543,8 +2586,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 16,
-  "tokens": 18629
+  "calls": 17,
+  "tokens": 19829
  },
  "summary_date": "2026-10-26",
  "opts": {
@@ -2577,7 +2620,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 55,
+  "awards": 56,
   "fixtures": 8
  }
 }
