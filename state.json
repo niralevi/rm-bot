@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59516,
-  "themadridzone": 32895,
-  "FabrizioRomanoTG": 67722
+  "themadridzone": 32896,
+  "FabrizioRomanoTG": 67723
  },
  "sent": [
   {
@@ -2012,6 +2012,27 @@
    "status": "fact",
    "headline": "🚨 Willian Pacho is ranked 20th in Ballon d’Or 2026. 🌕✨",
    "link": "https://t.me/RealMadridImportantOnly/765"
+  },
+  {
+   "ts": 1793035704.4277227,
+   "date": "2026-10-26",
+   "tokens": [
+    "19th",
+    "2026",
+    "ballon",
+    "joao",
+    "nev",
+    "rank"
+   ],
+   "names": [
+    "ballon",
+    "joao",
+    "neves"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 João Neves is ranked 19th in Ballon d’Or 2026. 🌕✨",
+   "link": "https://t.me/RealMadridImportantOnly/766"
   }
  ],
  "offset": 769012044,
@@ -2053,7 +2074,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 34,
+  "awards": 35,
   "fixtures": 8
  }
 }
