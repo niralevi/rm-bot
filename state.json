@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59523,
-  "themadridzone": 32943,
+  "real_madrid": 59524,
+  "themadridzone": 32944,
   "FabrizioRomanoTG": 67736
  },
  "sent": [
@@ -2399,6 +2399,28 @@
    "status": "fact",
    "headline": "🚨 BREAKING: The Ballon d'Or has suffered ANOTHER DELAY.",
    "link": "https://t.me/RealMadridImportantOnly/782"
+  },
+  {
+   "ts": 1793048965.153069,
+   "date": "2026-10-26",
+   "tokens": [
+    "5th",
+    "award",
+    "diomande",
+    "kopa",
+    "rank",
+    "yan"
+   ],
+   "names": [
+    "award",
+    "diomande",
+    "kopa",
+    "yan"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 BREAKING: Yan Diomande ranked 5TH in Kopa Award.",
+   "link": "https://t.me/RealMadridImportantOnly/783"
   }
  ],
  "offset": 769012044,
@@ -2440,7 +2462,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 50,
+  "awards": 51,
   "fixtures": 8
  }
 }
