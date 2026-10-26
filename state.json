@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59522,
-  "themadridzone": 32940,
+  "themadridzone": 32942,
   "FabrizioRomanoTG": 67735
  },
  "sent": [
@@ -2379,6 +2379,26 @@
    "status": "fact",
    "headline": "THE BEST PLAYER IN THE WORLD HAS ARRIVED. 🥶",
    "link": "https://t.me/RealMadridImportantOnly/781"
+  },
+  {
+   "ts": 1793046503.9048517,
+   "date": "2026-10-26",
+   "tokens": [
+    "15",
+    "another",
+    "ballon",
+    "delay",
+    "further",
+    "minute",
+    "suffer"
+   ],
+   "names": [
+    "ballon"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 BREAKING: The Ballon d'Or has suffered ANOTHER DELAY.",
+   "link": "https://t.me/RealMadridImportantOnly/782"
   }
  ],
  "offset": 769012044,
@@ -2420,7 +2440,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 49,
+  "awards": 50,
   "fixtures": 8
  }
 }
