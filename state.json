@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59516,
-  "themadridzone": 32891,
+  "themadridzone": 32892,
   "FabrizioRomanoTG": 67722
  },
  "sent": [
@@ -1970,6 +1970,27 @@
    "status": "fact",
    "headline": "🚨 Nuno Mendes is ranked 23rd in Ballon d’Or 2026. 🌕✨",
    "link": "https://t.me/RealMadridImportantOnly/763"
+  },
+  {
+   "ts": 1793035055.5858495,
+   "date": "2026-10-26",
+   "tokens": [
+    "2026",
+    "22nd",
+    "ballon",
+    "lautaro",
+    "martinez",
+    "rank"
+   ],
+   "names": [
+    "ballon",
+    "lautaro",
+    "martinez"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 Lautaro Martinez is ranked 22nd in Ballon d’Or 2026. 🌕✨",
+   "link": "https://t.me/RealMadridImportantOnly/764"
   }
  ],
  "offset": 769012044,
@@ -2011,7 +2032,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 32,
+  "awards": 33,
   "fixtures": 8
  }
 }
