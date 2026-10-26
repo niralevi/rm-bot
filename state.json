@@ -6,41 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792823842.0230672,
-   "date": "2026-10-24",
-   "tokens": [
-    "affect",
-    "area",
-    "ask",
-    "aware",
-    "close",
-    "detail",
-    "every",
-    "everyth",
-    "eye",
-    "jose",
-    "keep",
-    "may",
-    "mourinho",
-    "onward",
-    "practical",
-    "report",
-    "says",
-    "source",
-    "team",
-    "want"
-   ],
-   "names": [
-    "jose",
-    "may",
-    "mourinho"
-   ],
-   "cat": "coach",
-   "status": "rumour",
-   "headline": "🚨 Jose Mourinho asked for detailed reports on the team from May onwards.",
-   "link": "https://t.me/RealMadridImportantOnly/670"
-  },
-  {
    "ts": 1792824145.718921,
    "date": "2026-10-24",
    "tokens": [
