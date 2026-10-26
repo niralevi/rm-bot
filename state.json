@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59507,
-  "themadridzone": 32827,
+  "themadridzone": 32828,
   "FabrizioRomanoTG": 67698
  },
  "sent": [
@@ -1791,6 +1791,28 @@
    "status": "fact",
    "headline": "🚨🚨 BALLON D'OR DAY 🌕",
    "link": "https://t.me/RealMadridImportantOnly/744"
+  },
+  {
+   "ts": 1792977987.8799076,
+   "date": "2026-10-26",
+   "tokens": [
+    "2024",
+    "ballon",
+    "confirm",
+    "first",
+    "representation",
+    "set",
+    "since",
+    "time",
+    "tomorrow"
+   ],
+   "names": [
+    "ballon"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨💣 CONFIRMED: Real Madrid are set to have representation at the Ballon d'Or tomorrow for the first time since…",
+   "link": "https://t.me/RealMadridImportantOnly/745"
   }
  ],
  "offset": 769012044,
@@ -1798,8 +1820,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-26",
-  "calls": 155,
-  "tokens": 166080
+  "calls": 156,
+  "tokens": 167137
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1832,7 +1854,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 19,
-  "awards": 16,
+  "awards": 17,
   "fixtures": 8
  }
 }
