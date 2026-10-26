@@ -1,24 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59514,
-  "themadridzone": 32859,
+  "themadridzone": 32860,
   "FabrizioRomanoTG": 67710
  },
  "sent": [
-  {
-   "ts": 1792845873.0554764,
-   "date": "2026-10-24",
-   "tokens": [
-    "barcelona",
-    "official",
-    "squad"
-   ],
-   "names": [],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "🚨 OFFICIAL REAL MADRID SQUAD VS BARCELONA.",
-   "link": "https://t.me/RealMadridImportantOnly/681"
-  },
   {
    "ts": 1792853610.867866,
    "date": "2026-10-24",
@@ -1791,6 +1777,30 @@
    "status": "rumour",
    "headline": "🚨 JUST IN: José Mourinho had a VERY SPECIFIC TACTICAL PLAN for El Clasico last night.",
    "link": "https://t.me/RealMadridImportantOnly/754"
+  },
+  {
+   "ts": 1793018858.4598489,
+   "date": "2026-10-26",
+   "tokens": [
+    "attend",
+    "ballon",
+    "bellingham",
+    "ceremony",
+    "decid",
+    "jude",
+    "stay",
+    "vini"
+   ],
+   "names": [
+    "ballon",
+    "bellingham",
+    "jude",
+    "vini"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 BREAKING: Jude Bellingham and Vini Jr will NOT attend the Ballon d'Or ceremony tonight.",
+   "link": "https://t.me/RealMadridImportantOnly/755"
   }
  ],
  "offset": 769012044,
@@ -1832,7 +1842,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 23,
+  "awards": 24,
   "fixtures": 8
  }
 }
