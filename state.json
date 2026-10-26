@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59516,
-  "themadridzone": 32906,
+  "themadridzone": 32907,
   "FabrizioRomanoTG": 67730
  },
  "sent": [
@@ -2153,6 +2153,28 @@
    "status": "fact",
    "headline": "🚨 Achraf Hakimi is ranked at 13th place of the 2026 Ballon d’Or.",
    "link": "https://t.me/RealMadridImportantOnly/771"
+  },
+  {
+   "ts": 1793037642.2518418,
+   "date": "2026-10-26",
+   "tokens": [
+    "12th",
+    "2026",
+    "ballon",
+    "cubarsi",
+    "pau",
+    "place",
+    "rank"
+   ],
+   "names": [
+    "ballon",
+    "cubarsi",
+    "pau"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 Pau Cubarsi is ranked at the 12th place of the 2026 Ballon d’Or.",
+   "link": "https://t.me/RealMadridImportantOnly/772"
   }
  ],
  "offset": 769012044,
@@ -2194,7 +2216,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 40,
+  "awards": 41,
   "fixtures": 8
  }
 }
