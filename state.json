@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59507,
-  "themadridzone": 32832,
+  "themadridzone": 32833,
   "FabrizioRomanoTG": 67705
  },
  "sent": [
@@ -1671,6 +1671,35 @@
    "status": "fact",
    "headline": "Jose Mourinho staring down Barcelona’s bench in the final minutes.",
    "link": "https://t.me/RealMadridImportantOnly/747"
+  },
+  {
+   "ts": 1793001567.6953776,
+   "date": "2026-10-26",
+   "tokens": [
+    "2026",
+    "23",
+    "again",
+    "ballon",
+    "chanc",
+    "day",
+    "kylian",
+    "last",
+    "mbappe",
+    "night",
+    "polymarket",
+    "risen",
+    "since"
+   ],
+   "names": [
+    "ballon",
+    "kylian",
+    "mbappe",
+    "polymarket"
+   ],
+   "cat": "awards",
+   "status": "rumour",
+   "headline": "🚨 It’s 2026 Ballon d’Or day. 🌕✨",
+   "link": "https://t.me/RealMadridImportantOnly/748"
   }
  ],
  "offset": 769012044,
@@ -1678,8 +1707,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-26",
-  "calls": 164,
-  "tokens": 176020
+  "calls": 165,
+  "tokens": 177159
  },
  "summary_date": "2026-10-15",
  "opts": {
@@ -1712,7 +1741,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 18,
+  "awards": 19,
   "fixtures": 8
  }
 }
