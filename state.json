@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59516,
-  "themadridzone": 32897,
+  "themadridzone": 32898,
   "FabrizioRomanoTG": 67726
  },
  "sent": [
@@ -2033,6 +2033,38 @@
    "status": "fact",
    "headline": "🚨 João Neves is ranked 19th in Ballon d’Or 2026. 🌕✨",
    "link": "https://t.me/RealMadridImportantOnly/766"
+  },
+  {
+   "ts": 1793036247.7686272,
+   "date": "2026-10-26",
+   "tokens": [
+    "3",
+    "announc",
+    "articl",
+    "ballon",
+    "chao",
+    "different",
+    "go",
+    "investigat",
+    "official",
+    "organiser",
+    "publish",
+    "shock",
+    "sudden",
+    "there",
+    "website",
+    "what",
+    "winner"
+   ],
+   "names": [
+    "ballon",
+    "organisers",
+    "there"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨 BREAKING: There is CHAOS at the Ballon d’Or.",
+   "link": "https://t.me/RealMadridImportantOnly/767"
   }
  ],
  "offset": 769012044,
@@ -2074,7 +2106,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 35,
+  "awards": 36,
   "fixtures": 8
  }
 }
