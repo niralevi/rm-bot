@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59517,
-  "themadridzone": 32924,
+  "themadridzone": 32927,
   "FabrizioRomanoTG": 67735
  },
  "sent": [
@@ -2336,6 +2336,35 @@
    "status": "fact",
    "headline": "🚨 BREAKING: The Ballon d'Or ceremony has been delayed by 30 minutes.",
    "link": "https://t.me/RealMadridImportantOnly/778"
+  },
+  {
+   "ts": 1793044838.7905526,
+   "date": "2026-10-26",
+   "tokens": [
+    "acceptance",
+    "bad",
+    "ballon",
+    "bring",
+    "did",
+    "everyth",
+    "kylian",
+    "luck",
+    "mbappe",
+    "prepare",
+    "speech",
+    "think",
+    "well"
+   ],
+   "names": [
+    "ballon",
+    "did",
+    "kylian",
+    "mbappe"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 Kylian Mbappé: \"Did I prepare a Ballon d'Or acceptance speech?",
+   "link": "https://t.me/RealMadridImportantOnly/779"
   }
  ],
  "offset": 769012044,
@@ -2346,7 +2375,7 @@
   "calls": 173,
   "tokens": 185961
  },
- "summary_date": "2026-10-15",
+ "summary_date": "2026-10-26",
  "opts": {
   "quiet": true,
   "summary": true
@@ -2377,7 +2406,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 47,
+  "awards": 48,
   "fixtures": 8
  }
 }
