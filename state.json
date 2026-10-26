@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59516,
-  "themadridzone": 32902,
-  "FabrizioRomanoTG": 67726
+  "themadridzone": 32904,
+  "FabrizioRomanoTG": 67728
  },
  "sent": [
   {
@@ -2087,6 +2087,50 @@
    "status": "fact",
    "headline": "🚨 BREAKING: Marc Cucurella is ranked at 18th place of the 2026 Ballon d’Or!",
    "link": "https://t.me/RealMadridImportantOnly/768"
+  },
+  {
+   "ts": 1793036966.1800919,
+   "date": "2026-10-26",
+   "tokens": [
+    "16th",
+    "2026",
+    "ballon",
+    "ferran",
+    "place",
+    "rank",
+    "torr"
+   ],
+   "names": [
+    "ballon",
+    "ferran",
+    "torres"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 Ferran Torres is ranked at 16th place of the 2026 Ballon d’Or.",
+   "link": "https://t.me/RealMadridImportantOnly/769"
+  },
+  {
+   "ts": 1793037032.3520217,
+   "date": "2026-10-26",
+   "tokens": [
+    "15th",
+    "2026",
+    "ballon",
+    "declan",
+    "place",
+    "rank",
+    "rice"
+   ],
+   "names": [
+    "ballon",
+    "declan",
+    "rice"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 Declan Rice is ranked at 15th place of the 2026 Ballon d’Or.",
+   "link": "https://t.me/RealMadridImportantOnly/770"
   }
  ],
  "offset": 769012044,
@@ -2128,7 +2172,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 37,
+  "awards": 39,
   "fixtures": 8
  }
 }
