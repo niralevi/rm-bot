@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59530,
-  "themadridzone": 32958,
+  "themadridzone": 32961,
   "FabrizioRomanoTG": 67760
  },
  "sent": [
@@ -2579,6 +2579,46 @@
    "status": "fact",
    "headline": "🚨 BREAKING: Kylian Mbappé was LESS than 40 points away from Harry Kane.",
    "link": "https://t.me/RealMadridImportantOnly/788"
+  },
+  {
+   "ts": 1793059465.0152247,
+   "date": "2026-10-27",
+   "tokens": [
+    "3rd",
+    "4th",
+    "accord",
+    "between",
+    "difference",
+    "finish",
+    "football",
+    "france",
+    "got",
+    "kane",
+    "lamine",
+    "mbappe",
+    "meanwhile",
+    "result",
+    "rodri",
+    "small",
+    "split",
+    "vot",
+    "which",
+    "yamal"
+   ],
+   "names": [
+    "football",
+    "france",
+    "kane",
+    "lamine",
+    "mbappe",
+    "meanwhile",
+    "rodri",
+    "yamal"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 According to France Football, Rodri & Lamine Yamal got split votes which resulted in them finishing 3rd & 4…",
+   "link": "https://t.me/RealMadridImportantOnly/789"
   }
  ],
  "offset": 769012044,
@@ -2586,8 +2626,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 17,
-  "tokens": 19829
+  "calls": 19,
+  "tokens": 22332
  },
  "summary_date": "2026-10-26",
  "opts": {
@@ -2620,7 +2660,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 56,
+  "awards": 57,
   "fixtures": 8
  }
 }
