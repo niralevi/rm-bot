@@ -6,37 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792955241.5435622,
-   "date": "2026-10-25",
-   "tokens": [
-    "camavinga",
-    "carrera",
-    "chang",
-    "compar",
-    "cucurella",
-    "konate",
-    "leipzig",
-    "line",
-    "rudiger",
-    "start",
-    "tchouameni"
-   ],
-   "names": [
-    "camavinga",
-    "carreras",
-    "changes",
-    "cucurella",
-    "konate",
-    "leipzig",
-    "rudiger",
-    "tchouameni"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Changes compared to the starting line-up vs Leipzig:",
-   "link": "https://t.me/RealMadridImportantOnly/720"
-  },
-  {
    "ts": 1792955790.7723145,
    "date": "2026-10-25",
    "tokens": [
