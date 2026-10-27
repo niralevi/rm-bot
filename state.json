@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59538,
-  "themadridzone": 33022,
+  "themadridzone": 33023,
   "FabrizioRomanoTG": 67776
  },
  "sent": [
@@ -2193,6 +2193,28 @@
    "status": "fact",
    "headline": "📆 Three games left for Real Madrid before the International Break:",
    "link": "https://t.me/RealMadridImportantOnly/793"
+  },
+  {
+   "ts": 1793113824.0081396,
+   "date": "2026-10-27",
+   "tokens": [
+    "champion",
+    "face",
+    "jovic",
+    "league",
+    "luka",
+    "next",
+    "striker",
+    "week"
+   ],
+   "names": [
+    "jovic",
+    "luka"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "Real Madrid will face ex-striker Luka Jovic next week in the Champions League.",
+   "link": "https://t.me/RealMadridImportantOnly/794"
   }
  ],
  "offset": 769012044,
@@ -2200,8 +2222,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 69,
-  "tokens": 80495
+  "calls": 70,
+  "tokens": 81630
  },
  "summary_date": "2026-10-26",
  "opts": {
@@ -2235,6 +2257,6 @@
   "injury": 22,
   "coach": 20,
   "awards": 59,
-  "fixtures": 9
+  "fixtures": 10
  }
 }
