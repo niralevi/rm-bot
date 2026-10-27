@@ -6,26 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792940562.1504061,
-   "date": "2026-10-25",
-   "tokens": [
-    "9",
-    "behind",
-    "big",
-    "game",
-    "lose",
-    "point"
-   ],
-   "names": [
-    "barcelonaen",
-    "big"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "🚨 If Real Madrid lose tonight they’ll go 9 points behind @Barcelonaen.",
-   "link": "https://t.me/RealMadridImportantOnly/707"
-  },
-  {
    "ts": 1792948703.1133556,
    "date": "2026-10-25",
    "tokens": [
