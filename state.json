@@ -1,71 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59534,
-  "themadridzone": 33000,
+  "themadridzone": 33003,
   "FabrizioRomanoTG": 67772
  },
  "sent": [
-  {
-   "ts": 1792931463.9231036,
-   "date": "2026-10-25",
-   "tokens": [
-    "arriv",
-    "diomande"
-   ],
-   "names": [
-    "diomande"
-   ],
-   "cat": "transfer",
-   "status": "fact",
-   "headline": "Diomande has arrived ✈️",
-   "link": "https://t.me/RealMadridImportantOnly/697"
-  },
-  {
-   "ts": 1792931529.9687147,
-   "date": "2026-10-25",
-   "tokens": [
-    "cucurella",
-    "marc"
-   ],
-   "names": [
-    "cucurella",
-    "marc"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "Marc Cucurella ✈️🌟",
-   "link": "https://t.me/RealMadridImportantOnly/698"
-  },
-  {
-   "ts": 1792931533.099609,
-   "date": "2026-10-25",
-   "tokens": [
-    "barcelona",
-    "official",
-    "squad"
-   ],
-   "names": [],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "🚨💣 OFFICIAL BARCELONA SQUAD vs REAL MADRID.",
-   "link": "https://t.me/RealMadridImportantOnly/699"
-  },
-  {
-   "ts": 1792931535.8115077,
-   "date": "2026-10-25",
-   "tokens": [
-    "arda",
-    "guler"
-   ],
-   "names": [
-    "arda",
-    "guler"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "Arda Güler 🇹🇷✈️",
-   "link": "https://t.me/RealMadridImportantOnly/700"
-  },
   {
    "ts": 1792931690.6781814,
    "date": "2026-10-25",
@@ -2352,8 +2291,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 49,
-  "tokens": 57622
+  "calls": 51,
+  "tokens": 59915
  },
  "summary_date": "2026-10-26",
  "opts": {
