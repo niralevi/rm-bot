@@ -6,22 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792925788.3641076,
-   "date": "2026-10-25",
-   "tokens": [
-    "barcelona",
-    "off"
-   ],
-   "names": [
-    "barcelona",
-    "off"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "Off to Barcelona! ✈️",
-   "link": "https://t.me/RealMadridImportantOnly/691"
-  },
-  {
    "ts": 1792927238.5387301,
    "date": "2026-10-25",
    "tokens": [
