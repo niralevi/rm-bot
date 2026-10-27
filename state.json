@@ -6,25 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792928671.0252347,
-   "date": "2026-10-25",
-   "tokens": [
-    "barcelona",
-    "bellingham",
-    "jude",
-    "way"
-   ],
-   "names": [
-    "barcelona",
-    "bellingham",
-    "jude"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "Jude Bellingham on the way to Barcelona. ✈️",
-   "link": "https://t.me/RealMadridImportantOnly/695"
-  },
-  {
    "ts": 1792930463.6871738,
    "date": "2026-10-25",
    "tokens": [
