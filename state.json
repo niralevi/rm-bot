@@ -6,31 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792955790.7723145,
-   "date": "2026-10-25",
-   "tokens": [
-    "3",
-    "bernardo",
-    "camavinga",
-    "guler",
-    "last",
-    "match",
-    "pivot",
-    "start",
-    "tchouameni"
-   ],
-   "names": [
-    "bernardo",
-    "camavinga",
-    "guler",
-    "tchouameni"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Real Madrid's starting pivot in the last 3 matches:",
-   "link": "https://t.me/RealMadridImportantOnly/721"
-  },
-  {
    "ts": 1792956869.5477173,
    "date": "2026-10-25",
    "tokens": [
