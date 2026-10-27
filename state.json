@@ -6,43 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792923746.2885654,
-   "date": "2026-10-25",
-   "tokens": [
-    "25",
-    "asencio",
-    "barcelona",
-    "chance",
-    "clasico",
-    "courtoi",
-    "ferland",
-    "mendy",
-    "official",
-    "only",
-    "raul",
-    "rodrygo",
-    "thibaut",
-    "vini",
-    "winn"
-   ],
-   "names": [
-    "asencio",
-    "barcelona",
-    "clasico",
-    "courtois",
-    "ferland",
-    "mendy",
-    "raul",
-    "rodrygo",
-    "thibaut",
-    "vini"
-   ],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "🚨💣 OFFICIAL: Real Madrid players OUT vs Barcelona tonight:",
-   "link": "https://t.me/RealMadridImportantOnly/690"
-  },
-  {
    "ts": 1792925788.3641076,
    "date": "2026-10-25",
    "tokens": [
