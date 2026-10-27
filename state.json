@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59540,
-  "themadridzone": 33076,
+  "themadridzone": 33077,
   "FabrizioRomanoTG": 67777
  },
  "sent": [
@@ -1897,6 +1897,38 @@
    "status": "fact",
    "headline": "🧐 In your opinion, what would be the fairest voting procedure to decide the Ballon d'Or winner?",
    "link": "https://t.me/RealMadridImportantOnly/806"
+  },
+  {
+   "ts": 1793137675.1332266,
+   "date": "2026-10-27",
+   "tokens": [
+    "como",
+    "fabrica",
+    "gems",
+    "jacobo",
+    "last",
+    "man",
+    "nico",
+    "paz",
+    "ramon",
+    "torino",
+    "unit",
+    "week"
+   ],
+   "names": [
+    "como",
+    "jacobo",
+    "man",
+    "nico",
+    "paz",
+    "ramon",
+    "torino",
+    "united"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Como vs Man United last week:",
+   "link": "https://t.me/RealMadridImportantOnly/807"
   }
  ],
  "offset": 769012044,
@@ -1904,8 +1936,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 105,
-  "tokens": 124073
+  "calls": 106,
+  "tokens": 125284
  },
  "summary_date": "2026-10-27",
  "opts": {
@@ -1932,7 +1964,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 73,
+  "lineup": 74,
   "transfer": 35,
   "stats": 1,
   "discipline": 19,
