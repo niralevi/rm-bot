@@ -1,25 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59540,
-  "themadridzone": 33056,
+  "themadridzone": 33060,
   "FabrizioRomanoTG": 67777
  },
  "sent": [
-  {
-   "ts": 1792959203.6386344,
-   "date": "2026-10-25",
-   "tokens": [
-    "attack",
-    "counter",
-    "referee",
-    "stopp"
-   ],
-   "names": [],
-   "cat": "discipline",
-   "status": "fact",
-   "headline": "REFEREE JUST STOPPED A REAL MADRID COUNTER ATTACK.",
-   "link": "https://t.me/RealMadridImportantOnly/727"
-  },
   {
    "ts": 1792959563.660683,
    "date": "2026-10-25",
@@ -2025,6 +2010,37 @@
    "status": "fact",
    "headline": "🚨 According to CAT, Joao Cancelo's tackle on Diomande should have been a yellow card.",
    "link": "https://t.me/RealMadridImportantOnly/803"
+  },
+  {
+   "ts": 1793131943.6994612,
+   "date": "2026-10-27",
+   "tokens": [
+    "1",
+    "2",
+    "3",
+    "ballon",
+    "ita",
+    "journalist",
+    "khvicha",
+    "kvaratskhelia",
+    "kylian",
+    "mbappe",
+    "rodri",
+    "top"
+   ],
+   "names": [
+    "ballon",
+    "italy",
+    "khvicha",
+    "kvaratskhelia",
+    "kylian",
+    "mbappe",
+    "rodri"
+   ],
+   "cat": "awards",
+   "status": "rumour",
+   "headline": "🚨🇮🇹 Italy journalist Ballon d'Or top 3:",
+   "link": "https://t.me/RealMadridImportantOnly/805"
   }
  ],
  "offset": 769012044,
@@ -2032,8 +2048,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 93,
-  "tokens": 109275
+  "calls": 95,
+  "tokens": 111759
  },
  "summary_date": "2026-10-27",
  "opts": {
@@ -2066,7 +2082,7 @@
   "discipline": 19,
   "injury": 23,
   "coach": 20,
-  "awards": 60,
+  "awards": 61,
   "fixtures": 13
  }
 }
