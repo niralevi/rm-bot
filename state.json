@@ -6,42 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792922061.208318,
-   "date": "2026-10-25",
-   "tokens": [
-    "bellingham",
-    "courtoi",
-    "cucurella",
-    "diomande",
-    "dumfri",
-    "expect",
-    "guler",
-    "huijsen",
-    "konate",
-    "mbappe",
-    "start",
-    "tchouameni",
-    "valverde"
-   ],
-   "names": [
-    "bellingham",
-    "courtois",
-    "cucurella",
-    "diomande",
-    "dumfries",
-    "guler",
-    "huijsen",
-    "konate",
-    "mbappe",
-    "tchouameni",
-    "valverde"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 BREAKING: REAL MADRID EXPECTED STARTING XI TONIGHT:",
-   "link": "https://t.me/RealMadridImportantOnly/687"
-  },
-  {
    "ts": 1792922304.0806932,
    "date": "2026-10-25",
    "tokens": [
