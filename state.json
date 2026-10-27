@@ -1,57 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59533,
-  "themadridzone": 32997,
+  "themadridzone": 32998,
   "FabrizioRomanoTG": 67772
  },
  "sent": [
-  {
-   "ts": 1792928540.2439227,
-   "date": "2026-10-25",
-   "tokens": [
-    "clasico",
-    "courtoi",
-    "play",
-    "recover",
-    "thibaut",
-    "try",
-    "want"
-   ],
-   "names": [
-    "clasico",
-    "courtois",
-    "thibaut"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨🚨💣 BREAKING: Thibaut Courtois WANTS TO PLAY and is TRYING to RECOVER for El Clasico. @MarioCortegana",
-   "link": "https://t.me/RealMadridImportantOnly/693",
-   "superseded": true
-  },
-  {
-   "ts": 1792928605.5539205,
-   "date": "2026-10-25",
-   "tokens": [
-    "barcelona",
-    "could",
-    "courtoi",
-    "flu",
-    "hop",
-    "play",
-    "recover",
-    "thibaut",
-    "travel",
-    "while"
-   ],
-   "names": [
-    "courtois",
-    "thibaut"
-   ],
-   "cat": "injury",
-   "status": "rumour",
-   "headline": "🚨💣 JUST IN: Thibaut Courtois could now TRAVEL TO BARCELONA while he recovers from the flu.",
-   "link": "https://t.me/RealMadridImportantOnly/694"
-  },
   {
    "ts": 1792928671.0252347,
    "date": "2026-10-25",
@@ -2402,8 +2355,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 46,
-  "tokens": 53974
+  "calls": 47,
+  "tokens": 55185
  },
  "summary_date": "2026-10-26",
  "opts": {
