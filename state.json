@@ -6,35 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792954908.9356008,
-   "date": "2026-10-25",
-   "tokens": [
-    "arriv",
-    "kylian",
-    "mbappe"
-   ],
-   "names": [
-    "kylian",
-    "mbappe"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "Kylian Mbappé has arrived 🔥",
-   "link": "https://t.me/RealMadridImportantOnly/718"
-  },
-  {
-   "ts": 1792954973.311474,
-   "date": "2026-10-25",
-   "tokens": [
-    "start"
-   ],
-   "names": [],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "📋✅ Our starting XI! 🆚 #barcelona",
-   "link": "https://t.me/RealMadridImportantOnly/719"
-  },
-  {
    "ts": 1792955241.5435622,
    "date": "2026-10-25",
    "tokens": [
