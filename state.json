@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59533,
-  "themadridzone": 32998,
+  "themadridzone": 33000,
   "FabrizioRomanoTG": 67772
  },
  "sent": [
@@ -2329,6 +2329,44 @@
    "status": "fact",
    "headline": "🚨 According to France Football, Rodri & Lamine Yamal got split votes which resulted in them finishing 3rd & 4…",
    "link": "https://t.me/RealMadridImportantOnly/789"
+  },
+  {
+   "ts": 1793102242.941207,
+   "date": "2026-10-27",
+   "tokens": [
+    "articl",
+    "article",
+    "ballon",
+    "be",
+    "coincidence",
+    "confirm",
+    "declar",
+    "first",
+    "harry",
+    "kane",
+    "last",
+    "may",
+    "mbappe",
+    "mistake",
+    "night",
+    "publish",
+    "soon",
+    "website",
+    "winner",
+    "yamal"
+   ],
+   "names": [
+    "ballon",
+    "harry",
+    "kane",
+    "mbappe",
+    "soon",
+    "yamal"
+   ],
+   "cat": "awards",
+   "status": "rumour",
+   "headline": "🚨💣 CONFIRMED: The articles published last night on Ballon d’Or website was by MISTAKE.",
+   "link": "https://t.me/RealMadridImportantOnly/790"
   }
  ],
  "offset": 769012044,
@@ -2336,8 +2374,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 47,
-  "tokens": 55185
+  "calls": 48,
+  "tokens": 56413
  },
  "summary_date": "2026-10-26",
  "opts": {
@@ -2370,7 +2408,7 @@
   "discipline": 17,
   "injury": 21,
   "coach": 20,
-  "awards": 57,
+  "awards": 58,
   "fixtures": 8
  }
 }
