@@ -6,37 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792949005.2319176,
-   "date": "2026-10-25",
-   "tokens": [
-    "2026",
-    "25",
-    "adeyemi",
-    "behind",
-    "clasico",
-    "com",
-    "diomande",
-    "fabrizio",
-    "insight",
-    "oct",
-    "romano",
-    "scend",
-    "stori"
-   ],
-   "names": [
-    "adeyemi",
-    "clasico",
-    "diomande",
-    "fabrizio",
-    "oct",
-    "romano"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "El Clásico is coming! 🍿",
-   "link": "https://t.me/RealMadridImportantOnly/709"
-  },
-  {
    "ts": 1792951890.6002483,
    "date": "2026-10-25",
    "tokens": [
