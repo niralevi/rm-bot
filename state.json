@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59540,
-  "themadridzone": 33032,
+  "themadridzone": 33033,
   "FabrizioRomanoTG": 67776
  },
  "sent": [
@@ -2282,6 +2282,34 @@
    "status": "fact",
    "headline": "🚨 Including El Clasico, Real Madrid are scheduled to play THREE away games in a row in La Liga - not with a r…",
    "link": "https://t.me/RealMadridImportantOnly/796"
+  },
+  {
+   "ts": 1793121395.4846385,
+   "date": "2026-10-27",
+   "tokens": [
+    "2",
+    "3",
+    "between",
+    "december",
+    "due",
+    "game",
+    "reschedul",
+    "set",
+    "sociedad",
+    "spanish",
+    "supercup"
+   ],
+   "names": [
+    "december",
+    "due",
+    "sociedad",
+    "spanish",
+    "supercup"
+   ],
+   "cat": "fixtures",
+   "status": "official",
+   "headline": "🚨 Due to Spanish Supercup, the game between Real Sociedad & Real Madrid is set to be rescheduled for December…",
+   "link": "https://t.me/RealMadridImportantOnly/797"
   }
  ],
  "offset": 769012044,
@@ -2289,8 +2317,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 76,
-  "tokens": 88645
+  "calls": 77,
+  "tokens": 89818
  },
  "summary_date": "2026-10-26",
  "opts": {
@@ -2324,6 +2352,6 @@
   "injury": 22,
   "coach": 20,
   "awards": 59,
-  "fixtures": 11
+  "fixtures": 12
  }
 }
