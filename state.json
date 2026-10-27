@@ -1,27 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59540,
-  "themadridzone": 33070,
+  "themadridzone": 33073,
   "FabrizioRomanoTG": 67777
  },
  "sent": [
-  {
-   "ts": 1792964126.4776716,
-   "date": "2026-10-25",
-   "tokens": [
-    "71",
-    "guler",
-    "shot",
-    "target",
-    "too",
-    "weak"
-   ],
-   "names": [],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "71’ GULER shot on target but too weak.",
-   "link": "https://t.me/RealMadridImportantOnly/735"
-  },
   {
    "ts": 1792965211.7684803,
    "date": "2026-10-25",
@@ -1892,6 +1875,28 @@
    "status": "rumour",
    "headline": "🚨🇮🇹 Italy journalist Ballon d'Or top 3:",
    "link": "https://t.me/RealMadridImportantOnly/805"
+  },
+  {
+   "ts": 1793137043.6745074,
+   "date": "2026-10-27",
+   "tokens": [
+    "ballon",
+    "decide",
+    "fairest",
+    "opinion",
+    "procedure",
+    "vot",
+    "what",
+    "winner",
+    "your"
+   ],
+   "names": [
+    "ballon"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🧐 In your opinion, what would be the fairest voting procedure to decide the Ballon d'Or winner?",
+   "link": "https://t.me/RealMadridImportantOnly/806"
   }
  ],
  "offset": 769012044,
@@ -1899,8 +1904,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 100,
-  "tokens": 118020
+  "calls": 103,
+  "tokens": 121605
  },
  "summary_date": "2026-10-27",
  "opts": {
@@ -1933,7 +1938,7 @@
   "discipline": 19,
   "injury": 23,
   "coach": 20,
-  "awards": 61,
+  "awards": 62,
   "fixtures": 13
  }
 }
