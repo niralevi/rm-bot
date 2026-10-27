@@ -1,33 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59540,
-  "themadridzone": 33037,
+  "themadridzone": 33038,
   "FabrizioRomanoTG": 67776
  },
  "sent": [
-  {
-   "ts": 1792954404.6093817,
-   "date": "2026-10-25",
-   "tokens": [
-    "federico",
-    "five",
-    "gam",
-    "position",
-    "row",
-    "start",
-    "third",
-    "valverde"
-   ],
-   "names": [
-    "federico",
-    "five",
-    "valverde"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Five games in a row at RB, and third start in a row in this position for Federico Valverde.",
-   "link": "https://t.me/RealMadridImportantOnly/715"
-  },
   {
    "ts": 1792954462.6665099,
    "date": "2026-10-25",
@@ -2195,6 +2172,40 @@
    "status": "fact",
    "headline": "🚨 UPDATE: Rodrygo is back training on the ball. ✅",
    "link": "https://t.me/RealMadridImportantOnly/800"
+  },
+  {
+   "ts": 1793127205.4493551,
+   "date": "2026-10-27",
+   "tokens": [
+    "1",
+    "2",
+    "3",
+    "ballon",
+    "cubarsi",
+    "harry",
+    "journalist",
+    "kane",
+    "lamine",
+    "pau",
+    "switzerland",
+    "top",
+    "vot",
+    "yamal"
+   ],
+   "names": [
+    "ballon",
+    "cubarsi",
+    "harry",
+    "kane",
+    "lamine",
+    "pau",
+    "switzerland",
+    "yamal"
+   ],
+   "cat": "awards",
+   "status": "rumour",
+   "headline": "🚨🇨🇭 Switzerland journalist Ballon d'Or top 3 votes:",
+   "link": "https://t.me/RealMadridImportantOnly/801"
   }
  ],
  "offset": 769012044,
@@ -2202,8 +2213,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 81,
-  "tokens": 94585
+  "calls": 82,
+  "tokens": 95857
  },
  "summary_date": "2026-10-26",
  "opts": {
@@ -2236,7 +2247,7 @@
   "discipline": 17,
   "injury": 23,
   "coach": 20,
-  "awards": 59,
+  "awards": 60,
   "fixtures": 13
  }
 }
