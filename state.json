@@ -6,30 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792971804.8829107,
-   "date": "2026-10-26",
-   "tokens": [
-    "adeyemi",
-    "bellingham",
-    "confront",
-    "full",
-    "jude",
-    "karim",
-    "seem",
-    "time"
-   ],
-   "names": [
-    "adeyemi",
-    "bellingham",
-    "jude",
-    "karim"
-   ],
-   "cat": "discipline",
-   "status": "fact",
-   "headline": "Jude Bellingham seemed to confront Karim Adeyemi at full-time.",
-   "link": "https://t.me/RealMadridImportantOnly/743"
-  },
-  {
    "ts": 1792973493.2779799,
    "date": "2026-10-26",
    "tokens": [
