@@ -6,28 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792930463.6871738,
-   "date": "2026-10-25",
-   "tokens": [
-    "attend",
-    "ballon",
-    "ceremony",
-    "confirm",
-    "kylian",
-    "mbappe",
-    "tomorrow"
-   ],
-   "names": [
-    "ballon",
-    "kylian",
-    "mbappe"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "🚨💣 CONFIRMED: Kylian Mbappé is ATTENDING the Ballon d’Or ceremony TOMORROW. @RMCsport 🌕✨",
-   "link": "https://t.me/RealMadridImportantOnly/696"
-  },
-  {
    "ts": 1792931463.9231036,
    "date": "2026-10-25",
    "tokens": [
