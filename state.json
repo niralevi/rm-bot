@@ -1,69 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59540,
-  "themadridzone": 33038,
+  "themadridzone": 33042,
   "FabrizioRomanoTG": 67776
  },
  "sent": [
-  {
-   "ts": 1792954462.6665099,
-   "date": "2026-10-25",
-   "tokens": [
-    "available",
-    "be",
-    "belief",
-    "can",
-    "consider",
-    "despite",
-    "fede",
-    "injur",
-    "option",
-    "other",
-    "there",
-    "tim",
-    "unlike",
-    "used",
-    "valverde"
-   ],
-   "names": [
-    "fede",
-    "there",
-    "unlike",
-    "valverde"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 Unlike other times, Fede Valverde is now being used a RB despite the other options being available & not in…",
-   "link": "https://t.me/RealMadridImportantOnly/716"
-  },
-  {
-   "ts": 1792954528.9586263,
-   "date": "2026-10-25",
-   "tokens": [
-    "3rd",
-    "alexander",
-    "arnold",
-    "bench",
-    "both",
-    "denzel",
-    "dumfri",
-    "match",
-    "row",
-    "trent"
-   ],
-   "names": [
-    "alexander",
-    "arnold",
-    "denzel",
-    "dumfries",
-    "for",
-    "trent"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 For the 3rd match in a row, BOTH Denzel Dumfries and Trent Alexander-Arnold are on the BENCH.",
-   "link": "https://t.me/RealMadridImportantOnly/717"
-  },
   {
    "ts": 1792954908.9356008,
    "date": "2026-10-25",
@@ -2213,8 +2154,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 82,
-  "tokens": 95857
+  "calls": 84,
+  "tokens": 98245
  },
  "summary_date": "2026-10-26",
  "opts": {
