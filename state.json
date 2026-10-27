@@ -1,41 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59534,
-  "themadridzone": 33005,
+  "themadridzone": 33007,
   "FabrizioRomanoTG": 67772
  },
  "sent": [
-  {
-   "ts": 1792932024.647487,
-   "date": "2026-10-25",
-   "tokens": [
-    "2026",
-    "5",
-    "all",
-    "around",
-    "ballon",
-    "circulat",
-    "current",
-    "fake",
-    "know",
-    "list",
-    "online",
-    "only",
-    "people",
-    "report",
-    "screenshot",
-    "winner"
-   ],
-   "names": [
-    "all",
-    "ballon",
-    "only"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 JUST IN: Only around 5 people currently know the 2026 Ballon d’Or WINNER. 🌕✨",
-   "link": "https://t.me/RealMadridImportantOnly/702"
-  },
   {
    "ts": 1792933305.1881073,
    "date": "2026-10-25",
@@ -2247,8 +2216,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 53,
-  "tokens": 62139
+  "calls": 54,
+  "tokens": 63319
  },
  "summary_date": "2026-10-26",
  "opts": {
