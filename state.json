@@ -6,35 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792936902.3814456,
-   "date": "2026-10-25",
-   "tokens": [
-    "02m",
-    "19",
-    "2",
-    "against",
-    "barcelona",
-    "courtoi",
-    "illia",
-    "match",
-    "replac",
-    "squad",
-    "thibaut",
-    "voloshyn"
-   ],
-   "names": [
-    "barcelona",
-    "courtois",
-    "illia",
-    "thibaut",
-    "voloshyn"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 JUST IN: Illia Voloshyn (19, 2.02m) replaces Thibaut Courtois in Real Madrid’s squad for tonight’s match ag…",
-   "link": "https://t.me/RealMadridImportantOnly/706"
-  },
-  {
    "ts": 1792940562.1504061,
    "date": "2026-10-25",
    "tokens": [
