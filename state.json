@@ -6,32 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792968562.1257532,
-   "date": "2026-10-26",
-   "tokens": [
-    "almost",
-    "back",
-    "bellingham",
-    "end",
-    "fought",
-    "gabriel",
-    "game",
-    "held",
-    "jesu",
-    "jude"
-   ],
-   "names": [
-    "bellingham",
-    "gabriel",
-    "jesus",
-    "jude"
-   ],
-   "cat": "discipline",
-   "status": "fact",
-   "headline": "🚨🚨 BREAKING: Jude Bellingham and Gabriel Jesus almost FOUGHT after the game ended.",
-   "link": "https://t.me/RealMadridImportantOnly/741"
-  },
-  {
    "ts": 1792971445.9111726,
    "date": "2026-10-26",
    "tokens": [
