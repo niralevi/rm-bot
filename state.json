@@ -6,50 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792931690.6781814,
-   "date": "2026-10-25",
-   "tokens": [
-    "25",
-    "60",
-    "andrea",
-    "barcelona",
-    "bardghji",
-    "chance",
-    "christensen",
-    "clasico",
-    "dani",
-    "eric",
-    "garcia",
-    "given",
-    "jul",
-    "kounde",
-    "official",
-    "olmo",
-    "only",
-    "roony",
-    "while",
-    "winn"
-   ],
-   "names": [
-    "andreas",
-    "barcelona",
-    "bardghji",
-    "christensen",
-    "clasico",
-    "dani",
-    "eric",
-    "garcia",
-    "jules",
-    "kounde",
-    "olmo",
-    "roony"
-   ],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "🚨💣 OFFICIAL: Barcelona players OUT vs Real Madrid tonight:",
-   "link": "https://t.me/RealMadridImportantOnly/701"
-  },
-  {
    "ts": 1792932024.647487,
    "date": "2026-10-25",
    "tokens": [
