@@ -6,38 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792967664.6071148,
-   "date": "2026-10-26",
-   "tokens": [
-    "capi",
-    "gracia",
-    "injury",
-    "pain",
-    "play"
-   ],
-   "names": [
-    "gracias",
-    "played"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "Played with pain and injury tonight.",
-   "link": "https://t.me/RealMadridImportantOnly/739"
-  },
-  {
-   "ts": 1792967668.9988987,
-   "date": "2026-10-26",
-   "tokens": [
-    "dean",
-    "huijsen"
-   ],
-   "names": [],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "DEAN HUIJSEN.",
-   "link": "https://t.me/RealMadridImportantOnly/740"
-  },
-  {
    "ts": 1792968562.1257532,
    "date": "2026-10-26",
    "tokens": [
