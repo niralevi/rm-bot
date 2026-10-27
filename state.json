@@ -6,27 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792936279.3086734,
-   "date": "2026-10-25",
-   "tokens": [
-    "barcelona",
-    "diomande",
-    "fans",
-    "session",
-    "sign",
-    "yan"
-   ],
-   "names": [
-    "barcelona",
-    "diomande",
-    "yan"
-   ],
-   "cat": "transfer",
-   "status": "fact",
-   "headline": "✍️ Yan Diomande at the signing session for fans in Barcelona",
-   "link": "https://t.me/RealMadridImportantOnly/705"
-  },
-  {
    "ts": 1792936902.3814456,
    "date": "2026-10-25",
    "tokens": [
