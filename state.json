@@ -1,26 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59540,
-  "themadridzone": 33066,
+  "themadridzone": 33068,
   "FabrizioRomanoTG": 67777
  },
  "sent": [
-  {
-   "ts": 1792963343.4070685,
-   "date": "2026-10-25",
-   "tokens": [
-    "57",
-    "diomande",
-    "injury"
-   ],
-   "names": [
-    "diomande"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "57’ Diomande injury…",
-   "link": "https://t.me/RealMadridImportantOnly/733"
-  },
   {
    "ts": 1792963410.516488,
    "date": "2026-10-25",
@@ -1939,8 +1923,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 98,
-  "tokens": 115489
+  "calls": 99,
+  "tokens": 116849
  },
  "summary_date": "2026-10-27",
  "opts": {
