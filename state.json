@@ -6,36 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792956869.5477173,
-   "date": "2026-10-25",
-   "tokens": [
-    "100",
-    "bernardo",
-    "big",
-    "close",
-    "demand",
-    "effort",
-    "first",
-    "form",
-    "lot",
-    "match",
-    "physical",
-    "say",
-    "silva",
-    "starter",
-    "suffer",
-    "team"
-   ],
-   "names": [
-    "bernardo",
-    "silva"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨 On Bernardo Silva - Real Madrid were saying that the player was suffering a lot physically, that he was not…",
-   "link": "https://t.me/RealMadridImportantOnly/722"
-  },
-  {
    "ts": 1792957253.7052925,
    "date": "2026-10-25",
    "tokens": [
