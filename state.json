@@ -6,30 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792963410.516488,
-   "date": "2026-10-25",
-   "tokens": [
-    "59",
-    "back",
-    "diomande",
-    "discomfort",
-    "lot",
-    "might",
-    "off",
-    "subb",
-    "too",
-    "valverde"
-   ],
-   "names": [
-    "diomande",
-    "valverde"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "59’ Diomande back on but he might be subbed off.",
-   "link": "https://t.me/RealMadridImportantOnly/734"
-  },
-  {
    "ts": 1792964126.4776716,
    "date": "2026-10-25",
    "tokens": [
