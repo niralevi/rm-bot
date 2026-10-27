@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59540,
-  "themadridzone": 33046,
+  "themadridzone": 33049,
   "FabrizioRomanoTG": 67777
  },
  "sent": [
@@ -2062,6 +2062,38 @@
    "status": "rumour",
    "headline": "🚨🇨🇭 Switzerland journalist Ballon d'Or top 3 votes:",
    "link": "https://t.me/RealMadridImportantOnly/801"
+  },
+  {
+   "ts": 1793128879.1360044,
+   "date": "2026-10-27",
+   "tokens": [
+    "accord",
+    "alejandro",
+    "balde",
+    "cat",
+    "comittee",
+    "correct",
+    "decision",
+    "give",
+    "handball",
+    "natural",
+    "penalty",
+    "position",
+    "referee",
+    "technical",
+    "therefore"
+   ],
+   "names": [
+    "alejandro",
+    "balde",
+    "comittee",
+    "refereeing",
+    "technical"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "🚨 According to CAT (Refereeing Technical Comittee), Alejandro Balde's 'handball' was in a natural position - …",
+   "link": "https://t.me/RealMadridImportantOnly/802"
   }
  ],
  "offset": 769012044,
@@ -2069,8 +2101,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 87,
-  "tokens": 101909
+  "calls": 89,
+  "tokens": 104366
  },
  "summary_date": "2026-10-26",
  "opts": {
@@ -2100,7 +2132,7 @@
   "lineup": 73,
   "transfer": 35,
   "stats": 1,
-  "discipline": 17,
+  "discipline": 18,
   "injury": 23,
   "coach": 20,
   "awards": 60,
