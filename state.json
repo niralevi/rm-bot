@@ -6,23 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792957940.533238,
-   "date": "2026-10-25",
-   "tokens": [
-    "aurelien",
-    "ready",
-    "tchouameni"
-   ],
-   "names": [
-    "aurelien",
-    "tchouameni"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🇫🇷 Aurelien Tchouaméni is ready.",
-   "link": "https://t.me/RealMadridImportantOnly/725"
-  },
-  {
    "ts": 1792958908.5429225,
    "date": "2026-10-25",
    "tokens": [
