@@ -6,20 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792951890.6002483,
-   "date": "2026-10-25",
-   "tokens": [
-    "announcement",
-    "start"
-   ],
-   "names": [],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨⚪️ Real Madrid starting XI announcement ⏳🔜",
-   "link": "https://t.me/RealMadridImportantOnly/710",
-   "superseded": true
-  },
-  {
    "ts": 1792953445.99166,
    "date": "2026-10-25",
    "tokens": [
