@@ -6,21 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792918281.101677,
-   "date": "2026-10-25",
-   "tokens": [
-    "clasico",
-    "expect"
-   ],
-   "names": [
-    "clasico"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 El Clasico expected XI’s. @marca",
-   "link": "https://t.me/RealMadridImportantOnly/684"
-  },
-  {
    "ts": 1792918459.5155306,
    "date": "2026-10-25",
    "tokens": [
