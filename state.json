@@ -6,30 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792959563.660683,
-   "date": "2026-10-25",
-   "tokens": [
-    "allow",
-    "around",
-    "card",
-    "direct",
-    "lamine",
-    "other",
-    "referee",
-    "talk",
-    "way",
-    "yellow"
-   ],
-   "names": [
-    "has",
-    "lamine"
-   ],
-   "cat": "discipline",
-   "status": "fact",
-   "headline": "Lamine is allowed to talk to the referee. Has it been the other way around, direct yellow card.",
-   "link": "https://t.me/RealMadridImportantOnly/728"
-  },
-  {
    "ts": 1792960165.3827982,
    "date": "2026-10-25",
    "tokens": [
