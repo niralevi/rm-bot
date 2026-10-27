@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59538,
-  "themadridzone": 33019,
+  "themadridzone": 33022,
   "FabrizioRomanoTG": 67776
  },
  "sent": [
@@ -2163,6 +2163,36 @@
    "status": "official",
    "headline": "🚨 BREAKING: @Kylian_Mbappe was LESS than 40 points away from Harry Kane.",
    "link": "https://t.me/RealMadridImportantOnly/792"
+  },
+  {
+   "ts": 1793113711.7063568,
+   "date": "2026-10-27",
+   "tokens": [
+    "aek",
+    "athen",
+    "break",
+    "gam",
+    "how",
+    "international",
+    "left",
+    "many",
+    "rac",
+    "three",
+    "valencia"
+   ],
+   "names": [
+    "athens",
+    "break",
+    "how",
+    "international",
+    "racing",
+    "three",
+    "valencia"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "📆 Three games left for Real Madrid before the International Break:",
+   "link": "https://t.me/RealMadridImportantOnly/793"
   }
  ],
  "offset": 769012044,
@@ -2170,8 +2200,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 66,
-  "tokens": 77125
+  "calls": 69,
+  "tokens": 80495
  },
  "summary_date": "2026-10-26",
  "opts": {
@@ -2205,6 +2235,6 @@
   "injury": 22,
   "coach": 20,
   "awards": 59,
-  "fixtures": 8
+  "fixtures": 9
  }
 }
