@@ -1,26 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59540,
-  "themadridzone": 33052,
+  "themadridzone": 33056,
   "FabrizioRomanoTG": 67777
  },
  "sent": [
-  {
-   "ts": 1792958908.5429225,
-   "date": "2026-10-25",
-   "tokens": [
-    "award",
-    "clear",
-    "corner"
-   ],
-   "names": [
-    "clear"
-   ],
-   "cat": "discipline",
-   "status": "fact",
-   "headline": "Clear corner not awarded to Real Madrid.",
-   "link": "https://t.me/RealMadridImportantOnly/726"
-  },
   {
    "ts": 1792959203.6386344,
    "date": "2026-10-25",
@@ -2048,8 +2032,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 91,
-  "tokens": 106829
+  "calls": 93,
+  "tokens": 109275
  },
  "summary_date": "2026-10-27",
  "opts": {
