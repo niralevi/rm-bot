@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59534,
-  "themadridzone": 33010,
+  "themadridzone": 33011,
   "FabrizioRomanoTG": 67772
  },
  "sent": [
@@ -2209,6 +2209,27 @@
    "status": "rumour",
    "headline": "🚨💣 CONFIRMED: The articles published last night on Ballon d’Or website was by MISTAKE.",
    "link": "https://t.me/RealMadridImportantOnly/790"
+  },
+  {
+   "ts": 1793105129.059386,
+   "date": "2026-10-27",
+   "tokens": [
+    "federico",
+    "injury",
+    "preliminary",
+    "show",
+    "test",
+    "valverde"
+   ],
+   "names": [
+    "federico",
+    "preliminary",
+    "valverde"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🚨 BREAKING: Preliminary tests shows NO INJURY for Federico Valverde. @GuillermoRai_",
+   "link": "https://t.me/RealMadridImportantOnly/791"
   }
  ],
  "offset": 769012044,
@@ -2216,8 +2237,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 56,
-  "tokens": 65689
+  "calls": 57,
+  "tokens": 66846
  },
  "summary_date": "2026-10-26",
  "opts": {
@@ -2248,7 +2269,7 @@
   "transfer": 34,
   "stats": 1,
   "discipline": 17,
-  "injury": 21,
+  "injury": 22,
   "coach": 20,
   "awards": 58,
   "fixtures": 8
