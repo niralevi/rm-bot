@@ -6,28 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792922848.133792,
-   "date": "2026-10-25",
-   "tokens": [
-    "2026",
-    "27",
-    "andriy",
-    "debut",
-    "lunin",
-    "make",
-    "season"
-   ],
-   "names": [
-    "andriy",
-    "lunin"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Andriy Lunin will make his 2026/27 season debut tonight 🇺🇦",
-   "link": "https://t.me/RealMadridImportantOnly/689",
-   "superseded": true
-  },
-  {
    "ts": 1792923746.2885654,
    "date": "2026-10-25",
    "tokens": [
