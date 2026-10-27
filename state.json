@@ -6,43 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792957253.7052925,
-   "date": "2026-10-25",
-   "tokens": [
-    "bernardo",
-    "ready",
-    "silva"
-   ],
-   "names": [
-    "bernardo",
-    "silva"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🇵🇹 Bernardo Silva is ready.",
-   "link": "https://t.me/RealMadridImportantOnly/723"
-  },
-  {
-   "ts": 1792957256.1659372,
-   "date": "2026-10-25",
-   "tokens": [
-    "andriy",
-    "first",
-    "lunin",
-    "ready",
-    "season",
-    "start"
-   ],
-   "names": [
-    "andriy",
-    "lunin"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🇺🇦 Andriy Lunin ready for his first start of the season. 👀",
-   "link": "https://t.me/RealMadridImportantOnly/724"
-  },
-  {
    "ts": 1792957940.533238,
    "date": "2026-10-25",
    "tokens": [
