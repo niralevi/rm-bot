@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59540,
-  "themadridzone": 33030,
+  "themadridzone": 33032,
   "FabrizioRomanoTG": 67776
  },
  "sent": [
@@ -2245,6 +2245,43 @@
    "status": "rumour",
    "headline": "🚨💣 BREAKING: Real Madrid are VERY INTERESTED in signing Alexis Mac Allister.",
    "link": "https://t.me/RealMadridImportantOnly/795"
+  },
+  {
+   "ts": 1793121266.2550669,
+   "date": "2026-10-27",
+   "tokens": [
+    "2",
+    "3",
+    "away",
+    "between",
+    "clasico",
+    "gam",
+    "game",
+    "includ",
+    "liga",
+    "match",
+    "most",
+    "occasion",
+    "original",
+    "play",
+    "rare",
+    "reschedul",
+    "row",
+    "schedul",
+    "schedule",
+    "set",
+    "team",
+    "three"
+   ],
+   "names": [
+    "clasico",
+    "including",
+    "teams"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "🚨 Including El Clasico, Real Madrid are scheduled to play THREE away games in a row in La Liga - not with a r…",
+   "link": "https://t.me/RealMadridImportantOnly/796"
   }
  ],
  "offset": 769012044,
@@ -2252,8 +2289,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-27",
-  "calls": 75,
-  "tokens": 87467
+  "calls": 76,
+  "tokens": 88645
  },
  "summary_date": "2026-10-26",
  "opts": {
@@ -2287,6 +2324,6 @@
   "injury": 22,
   "coach": 20,
   "awards": 59,
-  "fixtures": 10
+  "fixtures": 11
  }
 }
