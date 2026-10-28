@@ -6,29 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793038827.8790467,
-   "date": "2026-10-26",
-   "tokens": [
-    "11th",
-    "2026",
-    "ballon",
-    "bellingham",
-    "jude",
-    "place",
-    "rank"
-   ],
-   "names": [
-    "ballon",
-    "bellingham",
-    "jude"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 BREAKING: Jude Bellingham is ranked at 11th place in 2026 Ballon d’Or!",
-   "link": "https://t.me/RealMadridImportantOnly/773",
-   "superseded": true
-  },
-  {
    "ts": 1793039124.8536026,
    "date": "2026-10-26",
    "tokens": [
