@@ -1,32 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59545,
-  "themadridzone": 33158,
+  "themadridzone": 33162,
   "FabrizioRomanoTG": 67789
  },
  "sent": [
-  {
-   "ts": 1793037642.2518418,
-   "date": "2026-10-26",
-   "tokens": [
-    "12th",
-    "2026",
-    "ballon",
-    "cubarsi",
-    "pau",
-    "place",
-    "rank"
-   ],
-   "names": [
-    "ballon",
-    "cubarsi",
-    "pau"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 Pau Cubarsi is ranked at the 12th place of the 2026 Ballon d’Or.",
-   "link": "https://t.me/RealMadridImportantOnly/772"
-  },
   {
    "ts": 1793038827.8790467,
    "date": "2026-10-26",
@@ -1222,8 +1200,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-28",
-  "calls": 58,
-  "tokens": 69377
+  "calls": 60,
+  "tokens": 72008
  },
  "summary_date": "2026-10-27",
  "opts": {
