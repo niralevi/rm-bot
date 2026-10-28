@@ -6,26 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793043445.3792796,
-   "date": "2026-10-26",
-   "tokens": [
-    "ballon",
-    "hand",
-    "nazario",
-    "ronaldo",
-    "winner"
-   ],
-   "names": [
-    "ballon",
-    "nazario",
-    "ronaldo"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 BREAKING: Ronaldo Nazario will hand the Ballon d'Or to the winner tonight.",
-   "link": "https://t.me/RealMadridImportantOnly/777"
-  },
-  {
    "ts": 1793044162.6233678,
    "date": "2026-10-26",
    "tokens": [
