@@ -2,37 +2,9 @@
  "last_post": {
   "real_madrid": 59545,
   "themadridzone": 33166,
-  "FabrizioRomanoTG": 67789
+  "FabrizioRomanoTG": 67790
  },
  "sent": [
-  {
-   "ts": 1793039303.7532465,
-   "date": "2026-10-26",
-   "tokens": [
-    "11th",
-    "2026",
-    "26",
-    "ballon",
-    "bellingham",
-    "fabrizio",
-    "jude",
-    "oct",
-    "official",
-    "romano"
-   ],
-   "names": [
-    "ballon",
-    "bellingham",
-    "fabrizio",
-    "jude",
-    "oct",
-    "romano"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Jude Bellingham, 11th at Ballon d’Or 2026.",
-   "link": "https://t.me/RealMadridImportantOnly/775"
-  },
   {
    "ts": 1793039437.1480484,
    "date": "2026-10-26",
