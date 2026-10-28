@@ -6,26 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793046503.9048517,
-   "date": "2026-10-26",
-   "tokens": [
-    "15",
-    "another",
-    "ballon",
-    "delay",
-    "further",
-    "minute",
-    "suffer"
-   ],
-   "names": [
-    "ballon"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 BREAKING: The Ballon d'Or has suffered ANOTHER DELAY.",
-   "link": "https://t.me/RealMadridImportantOnly/782"
-  },
-  {
    "ts": 1793048965.153069,
    "date": "2026-10-26",
    "tokens": [
