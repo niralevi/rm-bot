@@ -6,30 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793018858.4598489,
-   "date": "2026-10-26",
-   "tokens": [
-    "attend",
-    "ballon",
-    "bellingham",
-    "ceremony",
-    "decid",
-    "jude",
-    "stay",
-    "vini"
-   ],
-   "names": [
-    "ballon",
-    "bellingham",
-    "jude",
-    "vini"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 BREAKING: Jude Bellingham and Vini Jr will NOT attend the Ballon d'Or ceremony tonight.",
-   "link": "https://t.me/RealMadridImportantOnly/755"
-  },
-  {
    "ts": 1793020589.252302,
    "date": "2026-10-26",
    "tokens": [
