@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59540,
-  "themadridzone": 33098,
+  "themadridzone": 33100,
   "FabrizioRomanoTG": 67781
  },
  "sent": [
@@ -1772,6 +1772,80 @@
    "status": "fact",
    "headline": "🚨 NEW: Jose Mourinho and his staff analyzed El Clasico on the flight back to Madrid.",
    "link": "https://t.me/RealMadridImportantOnly/808"
+  },
+  {
+   "ts": 1793160996.0126245,
+   "date": "2026-10-28",
+   "tokens": [
+    "33",
+    "absence",
+    "another",
+    "ballon",
+    "benefit",
+    "beyond",
+    "candidate",
+    "career",
+    "choic",
+    "condo",
+    "could",
+    "decide",
+    "every",
+    "exceptional",
+    "feel",
+    "frenchman",
+    "harry",
+    "him",
+    "hop",
+    "indisputable",
+    "italian",
+    "journalist",
+    "kane",
+    "kylian",
+    "lamine",
+    "level",
+    "list",
+    "look",
+    "made",
+    "mbappe",
+    "michael",
+    "olise",
+    "paolo",
+    "plac",
+    "prevent",
+    "probab",
+    "regular",
+    "retir",
+    "rival",
+    "soon",
+    "start",
+    "striker",
+    "tied",
+    "top",
+    "winn",
+    "without",
+    "wonderful",
+    "yamal",
+    "year"
+   ],
+   "names": [
+    "ballon",
+    "condo",
+    "frenchman",
+    "harry",
+    "italian",
+    "kane",
+    "kylian",
+    "lamine",
+    "mbappe",
+    "michael",
+    "olise",
+    "paolo",
+    "yamal"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "Journalist predicts Mbappé tops Ballon d'Or, Yamal future",
+   "link": "https://t.me/RealMadridImportantOnly/809"
   }
  ],
  "offset": 769012044,
@@ -1779,8 +1853,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-28",
-  "calls": 13,
-  "tokens": 16100
+  "calls": 14,
+  "tokens": 17439
  },
  "summary_date": "2026-10-27",
  "opts": {
@@ -1813,7 +1887,7 @@
   "discipline": 19,
   "injury": 23,
   "coach": 21,
-  "awards": 62,
+  "awards": 63,
   "fixtures": 13
  }
 }
