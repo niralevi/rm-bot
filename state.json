@@ -6,22 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793039124.8536026,
-   "date": "2026-10-26",
-   "tokens": [
-    "ballon",
-    "here",
-    "watch"
-   ],
-   "names": [
-    "watch"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "Watch BALLON D’OR here",
-   "link": "https://t.me/RealMadridImportantOnly/774"
-  },
-  {
    "ts": 1793039303.7532465,
    "date": "2026-10-26",
    "tokens": [
