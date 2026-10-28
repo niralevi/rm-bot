@@ -6,27 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793035055.5858495,
-   "date": "2026-10-26",
-   "tokens": [
-    "2026",
-    "22nd",
-    "ballon",
-    "lautaro",
-    "martinez",
-    "rank"
-   ],
-   "names": [
-    "ballon",
-    "lautaro",
-    "martinez"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 Lautaro Martinez is ranked 22nd in Ballon d’Or 2026. 🌕✨",
-   "link": "https://t.me/RealMadridImportantOnly/764"
-  },
-  {
    "ts": 1793035523.1544168,
    "date": "2026-10-26",
    "tokens": [
