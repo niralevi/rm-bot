@@ -6,28 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793048965.153069,
-   "date": "2026-10-26",
-   "tokens": [
-    "5th",
-    "award",
-    "diomande",
-    "kopa",
-    "rank",
-    "yan"
-   ],
-   "names": [
-    "award",
-    "diomande",
-    "kopa",
-    "yan"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 BREAKING: Yan Diomande ranked 5TH in Kopa Award.",
-   "link": "https://t.me/RealMadridImportantOnly/783"
-  },
-  {
    "ts": 1793049625.5475738,
    "date": "2026-10-26",
    "tokens": [
