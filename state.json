@@ -6,50 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793058925.4319077,
-   "date": "2026-10-27",
-   "tokens": [
-    "2024",
-    "40",
-    "41",
-    "announc",
-    "away",
-    "ballon",
-    "difference",
-    "even",
-    "football",
-    "france",
-    "harry",
-    "kane",
-    "kylian",
-    "less",
-    "lost",
-    "margin",
-    "mbappe",
-    "point",
-    "rodri",
-    "smallest",
-    "than",
-    "vini"
-   ],
-   "names": [
-    "ballon",
-    "football",
-    "france",
-    "harry",
-    "kane",
-    "kylian",
-    "mbappe",
-    "rodri",
-    "vini"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 BREAKING: Kylian Mbappé was LESS than 40 points away from Harry Kane.",
-   "link": "https://t.me/RealMadridImportantOnly/788",
-   "superseded": true
-  },
-  {
    "ts": 1793059465.0152247,
    "date": "2026-10-27",
    "tokens": [
