@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59540,
-  "themadridzone": 33097,
+  "themadridzone": 33098,
   "FabrizioRomanoTG": 67781
  },
  "sent": [
@@ -1743,6 +1743,35 @@
    "status": "fact",
    "headline": "🚨 Como vs Man United last week:",
    "link": "https://t.me/RealMadridImportantOnly/807"
+  },
+  {
+   "ts": 1793160270.1891708,
+   "date": "2026-10-28",
+   "tokens": [
+    "analyz",
+    "back",
+    "began",
+    "clasico",
+    "flight",
+    "game",
+    "immediate",
+    "jose",
+    "mistak",
+    "mourinho",
+    "prepare",
+    "staff",
+    "time",
+    "wast"
+   ],
+   "names": [
+    "clasico",
+    "jose",
+    "mourinho"
+   ],
+   "cat": "coach",
+   "status": "fact",
+   "headline": "🚨 NEW: Jose Mourinho and his staff analyzed El Clasico on the flight back to Madrid.",
+   "link": "https://t.me/RealMadridImportantOnly/808"
   }
  ],
  "offset": 769012044,
@@ -1750,8 +1779,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-28",
-  "calls": 12,
-  "tokens": 14914
+  "calls": 13,
+  "tokens": 16100
  },
  "summary_date": "2026-10-27",
  "opts": {
@@ -1783,7 +1812,7 @@
   "stats": 1,
   "discipline": 19,
   "injury": 23,
-  "coach": 20,
+  "coach": 21,
   "awards": 62,
   "fixtures": 13
  }
