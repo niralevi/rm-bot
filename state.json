@@ -6,48 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792996461.8838146,
-   "date": "2026-10-26",
-   "tokens": [
-    "2024",
-    "2026",
-    "26",
-    "attend",
-    "ballon",
-    "case",
-    "ceremony",
-    "fabrizio",
-    "green",
-    "harry",
-    "kane",
-    "lamine",
-    "light",
-    "london",
-    "mbappe",
-    "oct",
-    "romano",
-    "travel",
-    "yamal"
-   ],
-   "names": [
-    "ballon",
-    "fabrizio",
-    "harry",
-    "kane",
-    "lamine",
-    "london",
-    "mbappe",
-    "oct",
-    "romano",
-    "yamal"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🌕 Mbappé will travel to London for Ballon d’Or today, green light after 2024 case with Real Madrid.",
-   "link": "https://t.me/RealMadridImportantOnly/746",
-   "superseded": true
-  },
-  {
    "ts": 1793000421.4041197,
    "date": "2026-10-26",
    "tokens": [
