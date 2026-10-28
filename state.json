@@ -2,33 +2,9 @@
  "last_post": {
   "real_madrid": 59542,
   "themadridzone": 33129,
-  "FabrizioRomanoTG": 67786
+  "FabrizioRomanoTG": 67787
  },
  "sent": [
-  {
-   "ts": 1793013565.0045662,
-   "date": "2026-10-26",
-   "tokens": [
-    "arriv",
-    "ballon",
-    "city",
-    "fly",
-    "kylian",
-    "london",
-    "mbappe"
-   ],
-   "names": [
-    "ballon",
-    "city",
-    "kylian",
-    "london",
-    "mbappe"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🎥 Kylian Mbappé has arrived at Real Madrid City before flying to London for Ballon d’Or. @lejournaldureal @ai…",
-   "link": "https://t.me/RealMadridImportantOnly/752"
-  },
   {
    "ts": 1793015965.442752,
    "date": "2026-10-26",
