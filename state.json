@@ -1,32 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59545,
-  "themadridzone": 33154,
+  "themadridzone": 33158,
   "FabrizioRomanoTG": 67789
  },
  "sent": [
-  {
-   "ts": 1793037389.334391,
-   "date": "2026-10-26",
-   "tokens": [
-    "13th",
-    "2026",
-    "achraf",
-    "ballon",
-    "hakimi",
-    "place",
-    "rank"
-   ],
-   "names": [
-    "achraf",
-    "ballon",
-    "hakimi"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 Achraf Hakimi is ranked at 13th place of the 2026 Ballon d’Or.",
-   "link": "https://t.me/RealMadridImportantOnly/771"
-  },
   {
    "ts": 1793037642.2518418,
    "date": "2026-10-26",
@@ -1214,6 +1192,29 @@
    "status": "fact",
    "headline": "🚨 Real Madrid in training ahead of Racing Club match this Sunday. 💪",
    "link": "https://t.me/RealMadridImportantOnly/813"
+  },
+  {
+   "ts": 1793210303.5232093,
+   "date": "2026-10-28",
+   "tokens": [
+    "2008",
+    "all",
+    "ballon",
+    "best",
+    "cristiano",
+    "official",
+    "ronaldo",
+    "time",
+    "vot"
+   ],
+   "names": [
+    "cristiano",
+    "ronaldo"
+   ],
+   "cat": "awards",
+   "status": "rumour",
+   "headline": "🚨🚨💣 BREAKING: Cristiano Ronaldo 2008 has been OFFICIALLY voted as the BEST BALLON D’OR OF ALL TIME. 🏆",
+   "link": "https://t.me/RealMadridImportantOnly/814"
   }
  ],
  "offset": 769012044,
@@ -1221,8 +1222,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-28",
-  "calls": 57,
-  "tokens": 68253
+  "calls": 58,
+  "tokens": 69377
  },
  "summary_date": "2026-10-27",
  "opts": {
@@ -1255,7 +1256,7 @@
   "discipline": 19,
   "injury": 25,
   "coach": 21,
-  "awards": 64,
+  "awards": 65,
   "fixtures": 14
  }
 }
