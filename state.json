@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59545,
-  "themadridzone": 33173,
+  "themadridzone": 33175,
   "FabrizioRomanoTG": 67797
  },
  "sent": [
@@ -913,6 +913,25 @@
    "status": "rumour",
    "headline": "Militão x Jude x Viní. 🥶",
    "link": "https://t.me/RealMadridImportantOnly/817"
+  },
+  {
+   "ts": 1793228672.2577372,
+   "date": "2026-10-29",
+   "tokens": [
+    "kylian",
+    "liga",
+    "mbappe",
+    "month",
+    "nominat"
+   ],
+   "names": [
+    "kylian",
+    "mbappe"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 BREAKING: Kylian Mbappé is nominated for La Liga PLAYER OF THE MONTH. @FutSheriff ⭐️",
+   "link": "https://t.me/RealMadridImportantOnly/819"
   }
  ],
  "offset": 769012044,
@@ -920,8 +939,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 1,
-  "tokens": 1186
+  "calls": 2,
+  "tokens": 2305
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -954,7 +973,7 @@
   "discipline": 19,
   "injury": 25,
   "coach": 21,
-  "awards": 67,
+  "awards": 68,
   "fixtures": 14
  }
 }
