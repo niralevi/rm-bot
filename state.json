@@ -6,34 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793056158.1177907,
-   "date": "2026-10-27",
-   "tokens": [
-    "2026",
-    "26",
-    "2nd",
-    "ballon",
-    "fabrizio",
-    "kylian",
-    "mbappe",
-    "oct",
-    "official",
-    "romano"
-   ],
-   "names": [
-    "ballon",
-    "fabrizio",
-    "kylian",
-    "mbappe",
-    "oct",
-    "romano"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Kylian Mbappé, 2nd at the Ballon d’Or 2026.",
-   "link": "https://t.me/RealMadridImportantOnly/787"
-  },
-  {
    "ts": 1793058925.4319077,
    "date": "2026-10-27",
    "tokens": [
