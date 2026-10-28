@@ -6,24 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793055140.2301326,
-   "date": "2026-10-27",
-   "tokens": [
-    "harry",
-    "kane",
-    "official",
-    "won"
-   ],
-   "names": [
-    "harry",
-    "kane"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Harry Kane has won #BallonDor",
-   "link": "https://t.me/RealMadridImportantOnly/785"
-  },
-  {
    "ts": 1793055438.795035,
    "date": "2026-10-27",
    "tokens": [
