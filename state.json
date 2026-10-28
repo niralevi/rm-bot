@@ -6,29 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793000421.4041197,
-   "date": "2026-10-26",
-   "tokens": [
-    "barcelona",
-    "bench",
-    "down",
-    "final",
-    "jose",
-    "minut",
-    "mourinho",
-    "star"
-   ],
-   "names": [
-    "barcelona",
-    "jose",
-    "mourinho"
-   ],
-   "cat": "coach",
-   "status": "fact",
-   "headline": "Jose Mourinho staring down Barcelona’s bench in the final minutes.",
-   "link": "https://t.me/RealMadridImportantOnly/747"
-  },
-  {
    "ts": 1793001567.6953776,
    "date": "2026-10-26",
    "tokens": [
