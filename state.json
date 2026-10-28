@@ -6,27 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793033364.5486667,
-   "date": "2026-10-26",
-   "tokens": [
-    "2026",
-    "29th",
-    "ballon",
-    "mane",
-    "rank",
-    "sadio"
-   ],
-   "names": [
-    "ballon",
-    "mane",
-    "sadio"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 Sadio Mane is ranked 29th in Ballon d’Or 2026. 🌕✨",
-   "link": "https://t.me/RealMadridImportantOnly/758"
-  },
-  {
    "ts": 1793033430.2509317,
    "date": "2026-10-26",
    "tokens": [
