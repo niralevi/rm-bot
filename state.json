@@ -6,48 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793034503.8662157,
-   "date": "2026-10-26",
-   "tokens": [
-    "2026",
-    "27th",
-    "ballon",
-    "bruno",
-    "fernand",
-    "rank"
-   ],
-   "names": [
-    "ballon",
-    "bruno",
-    "fernandes"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 Bruno Fernandes is ranked 27th in Ballon d’Or 2026. 🌕✨",
-   "link": "https://t.me/RealMadridImportantOnly/760"
-  },
-  {
-   "ts": 1793034505.8108733,
-   "date": "2026-10-26",
-   "tokens": [
-    "2026",
-    "26th",
-    "ballon",
-    "dayot",
-    "rank",
-    "upamecano"
-   ],
-   "names": [
-    "ballon",
-    "dayot",
-    "upamecano"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 Dayot Upamecano is ranked 26th in Ballon d’Or 2026. 🌕✨",
-   "link": "https://t.me/RealMadridImportantOnly/761"
-  },
-  {
    "ts": 1793034620.8270476,
    "date": "2026-10-26",
    "tokens": [
