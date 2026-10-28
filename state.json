@@ -6,24 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793044162.6233678,
-   "date": "2026-10-26",
-   "tokens": [
-    "30",
-    "ballon",
-    "ceremony",
-    "delay",
-    "minut"
-   ],
-   "names": [
-    "ballon"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 BREAKING: The Ballon d'Or ceremony has been delayed by 30 minutes.",
-   "link": "https://t.me/RealMadridImportantOnly/778"
-  },
-  {
    "ts": 1793044838.7905526,
    "date": "2026-10-26",
    "tokens": [
