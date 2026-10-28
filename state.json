@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59545,
-  "themadridzone": 33150,
+  "themadridzone": 33151,
   "FabrizioRomanoTG": 67789
  },
  "sent": [
@@ -1443,6 +1443,27 @@
    "status": "fact",
    "headline": "🚨 Real Madrid’s highest ranked players for the Ballon d’Or in the last 10 years. @Score90_",
    "link": "https://t.me/RealMadridImportantOnly/810"
+  },
+  {
+   "ts": 1793205381.4183567,
+   "date": "2026-10-28",
+   "tokens": [
+    "100",
+    "fede",
+    "injur",
+    "play",
+    "ready",
+    "valverde",
+    "weekend"
+   ],
+   "names": [
+    "fede",
+    "valverde"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🚨 BREAKING: Fede Valverde is NOT INJURED.",
+   "link": "https://t.me/RealMadridImportantOnly/811"
   }
  ],
  "offset": 769012044,
@@ -1450,8 +1471,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-28",
-  "calls": 54,
-  "tokens": 64832
+  "calls": 55,
+  "tokens": 65982
  },
  "summary_date": "2026-10-27",
  "opts": {
@@ -1482,7 +1503,7 @@
   "transfer": 35,
   "stats": 1,
   "discipline": 19,
-  "injury": 23,
+  "injury": 24,
   "coach": 21,
   "awards": 64,
   "fixtures": 13
