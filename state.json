@@ -6,27 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793035523.1544168,
-   "date": "2026-10-26",
-   "tokens": [
-    "2026",
-    "20th",
-    "ballon",
-    "pacho",
-    "rank",
-    "willian"
-   ],
-   "names": [
-    "ballon",
-    "pacho",
-    "willian"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 Willian Pacho is ranked 20th in Ballon d’Or 2026. 🌕✨",
-   "link": "https://t.me/RealMadridImportantOnly/765"
-  },
-  {
    "ts": 1793035704.4277227,
    "date": "2026-10-26",
    "tokens": [
