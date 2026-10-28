@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59545,
-  "themadridzone": 33168,
+  "themadridzone": 33169,
   "FabrizioRomanoTG": 67793
  },
  "sent": [
@@ -1097,6 +1097,24 @@
    "status": "fact",
    "headline": "🚨 Portugal National Team Statement:",
    "link": "https://t.me/RealMadridImportantOnly/816"
+  },
+  {
+   "ts": 1793217146.372061,
+   "date": "2026-10-28",
+   "tokens": [
+    "jude",
+    "militao",
+    "vini"
+   ],
+   "names": [
+    "jude",
+    "militao",
+    "vini"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "Militão x Jude x Viní. 🥶",
+   "link": "https://t.me/RealMadridImportantOnly/817"
   }
  ],
  "offset": 769012044,
@@ -1104,8 +1122,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-28",
-  "calls": 65,
-  "tokens": 77834
+  "calls": 66,
+  "tokens": 78957
  },
  "summary_date": "2026-10-27",
  "opts": {
@@ -1132,7 +1150,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 74,
+  "lineup": 75,
   "transfer": 35,
   "stats": 1,
   "discipline": 19,
