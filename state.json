@@ -6,36 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793020589.252302,
-   "date": "2026-10-26",
-   "tokens": [
-    "attend",
-    "ballon",
-    "diallo",
-    "fff",
-    "france",
-    "gala",
-    "philippe",
-    "president",
-    "represent",
-    "zidane",
-    "zinedine"
-   ],
-   "names": [
-    "ballon",
-    "diallo",
-    "france",
-    "philippe",
-    "president",
-    "zidane",
-    "zinedine"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨💣 JUST IN: Zinedine Zidane will NOT attend the Ballon d’Or gala tonight. ❌",
-   "link": "https://t.me/RealMadridImportantOnly/756"
-  },
-  {
    "ts": 1793024727.8890665,
    "date": "2026-10-26",
    "tokens": [
