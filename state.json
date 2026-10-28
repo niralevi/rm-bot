@@ -6,28 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793036490.4101899,
-   "date": "2026-10-26",
-   "tokens": [
-    "18th",
-    "2026",
-    "ballon",
-    "cucurella",
-    "marc",
-    "place",
-    "rank"
-   ],
-   "names": [
-    "ballon",
-    "cucurella",
-    "marc"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 BREAKING: Marc Cucurella is ranked at 18th place of the 2026 Ballon d’Or!",
-   "link": "https://t.me/RealMadridImportantOnly/768"
-  },
-  {
    "ts": 1793036966.1800919,
    "date": "2026-10-26",
    "tokens": [
