@@ -1,42 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59542,
-  "themadridzone": 33126,
+  "themadridzone": 33127,
   "FabrizioRomanoTG": 67786
  },
  "sent": [
-  {
-   "ts": 1793012731.2627742,
-   "date": "2026-10-26",
-   "tokens": [
-    "ballon",
-    "butragueno",
-    "cucurella",
-    "diomande",
-    "emilio",
-    "gala",
-    "kylian",
-    "marc",
-    "mbappe",
-    "travel",
-    "yan"
-   ],
-   "names": [
-    "ballon",
-    "butragueno",
-    "cucurella",
-    "diomande",
-    "emilio",
-    "kylian",
-    "marc",
-    "mbappe",
-    "yan"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 NEW: Emilio Butragueño will travel to the Ballon d’Or gala tonight with Kylian Mbappé, Yan Diomande and Mar…",
-   "link": "https://t.me/RealMadridImportantOnly/751"
-  },
   {
    "ts": 1793013565.0045662,
    "date": "2026-10-26",
@@ -1730,8 +1698,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-28",
-  "calls": 35,
-  "tokens": 42881
+  "calls": 36,
+  "tokens": 44092
  },
  "summary_date": "2026-10-27",
  "opts": {
