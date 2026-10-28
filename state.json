@@ -1,51 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59542,
-  "themadridzone": 33131,
+  "themadridzone": 33132,
   "FabrizioRomanoTG": 67789
  },
  "sent": [
-  {
-   "ts": 1793015965.442752,
-   "date": "2026-10-26",
-   "tokens": [
-    "2026",
-    "26",
-    "all",
-    "app",
-    "attend",
-    "ballon",
-    "ceremony",
-    "confirm",
-    "download",
-    "fabrizio",
-    "kane",
-    "lamine",
-    "london",
-    "mbappe",
-    "oct",
-    "romano",
-    "who",
-    "winner",
-    "your"
-   ],
-   "names": [
-    "ballon",
-    "download",
-    "fabrizio",
-    "kane",
-    "lamine",
-    "london",
-    "mbappe",
-    "oct",
-    "romano",
-    "who"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "Mbappé, Kane and Lamine are all confirmed attending the Ballon d’Or ceremony today in London. ✨",
-   "link": "https://t.me/RealMadridImportantOnly/753"
-  },
   {
    "ts": 1793018241.6029181,
    "date": "2026-10-26",
@@ -1674,8 +1633,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-28",
-  "calls": 39,
-  "tokens": 47589
+  "calls": 40,
+  "tokens": 48746
  },
  "summary_date": "2026-10-27",
  "opts": {
