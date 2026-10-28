@@ -6,35 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793044838.7905526,
-   "date": "2026-10-26",
-   "tokens": [
-    "acceptance",
-    "bad",
-    "ballon",
-    "bring",
-    "did",
-    "everyth",
-    "kylian",
-    "luck",
-    "mbappe",
-    "prepare",
-    "speech",
-    "think",
-    "well"
-   ],
-   "names": [
-    "ballon",
-    "did",
-    "kylian",
-    "mbappe"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 Kylian Mbappé: \"Did I prepare a Ballon d'Or acceptance speech?",
-   "link": "https://t.me/RealMadridImportantOnly/779"
-  },
-  {
    "ts": 1793045066.1453123,
    "date": "2026-10-26",
    "tokens": [
@@ -1125,7 +1096,7 @@
   "calls": 66,
   "tokens": 78957
  },
- "summary_date": "2026-10-27",
+ "summary_date": "2026-10-28",
  "opts": {
   "quiet": true,
   "summary": true
