@@ -6,28 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793055438.795035,
-   "date": "2026-10-27",
-   "tokens": [
-    "2nd",
-    "ballon",
-    "finish",
-    "kylian",
-    "mbappe",
-    "ranking"
-   ],
-   "names": [
-    "ballon",
-    "kylian",
-    "mbappe"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨💣 BREAKING: Kylian Mbappé finishes 2ND in Ballon d'Or rankings.",
-   "link": "https://t.me/RealMadridImportantOnly/786",
-   "superseded": true
-  },
-  {
    "ts": 1793056158.1177907,
    "date": "2026-10-27",
    "tokens": [
