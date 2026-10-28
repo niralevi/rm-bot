@@ -6,27 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793035704.4277227,
-   "date": "2026-10-26",
-   "tokens": [
-    "19th",
-    "2026",
-    "ballon",
-    "joao",
-    "nev",
-    "rank"
-   ],
-   "names": [
-    "ballon",
-    "joao",
-    "neves"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 João Neves is ranked 19th in Ballon d’Or 2026. 🌕✨",
-   "link": "https://t.me/RealMadridImportantOnly/766"
-  },
-  {
    "ts": 1793036247.7686272,
    "date": "2026-10-26",
    "tokens": [
