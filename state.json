@@ -1,31 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59545,
-  "themadridzone": 33151,
+  "themadridzone": 33154,
   "FabrizioRomanoTG": 67789
  },
  "sent": [
-  {
-   "ts": 1793033430.2509317,
-   "date": "2026-10-26",
-   "tokens": [
-    "2026",
-    "28th",
-    "ballon",
-    "julian",
-    "quinon",
-    "rank"
-   ],
-   "names": [
-    "ballon",
-    "julian",
-    "quinones"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 Julian Quinones is ranked 28th in Ballon d’Or 2026. 🌕✨",
-   "link": "https://t.me/RealMadridImportantOnly/759"
-  },
   {
    "ts": 1793034503.8662157,
    "date": "2026-10-26",
@@ -1443,6 +1422,43 @@
    "status": "fact",
    "headline": "🚨 BREAKING: Fede Valverde is NOT INJURED.",
    "link": "https://t.me/RealMadridImportantOnly/811"
+  },
+  {
+   "ts": 1793206282.8836262,
+   "date": "2026-10-28",
+   "tokens": [
+    "ferland",
+    "mendy",
+    "team",
+    "train"
+   ],
+   "names": [
+    "ferland",
+    "mendy"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🚨 Ferland Mendy in training with the team. 🧱",
+   "link": "https://t.me/RealMadridImportantOnly/812"
+  },
+  {
+   "ts": 1793206349.3177748,
+   "date": "2026-10-28",
+   "tokens": [
+    "ahead",
+    "match",
+    "rac",
+    "sunday",
+    "train"
+   ],
+   "names": [
+    "racing",
+    "sunday"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "🚨 Real Madrid in training ahead of Racing Club match this Sunday. 💪",
+   "link": "https://t.me/RealMadridImportantOnly/813"
   }
  ],
  "offset": 769012044,
@@ -1450,8 +1466,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-28",
-  "calls": 55,
-  "tokens": 65982
+  "calls": 57,
+  "tokens": 68253
  },
  "summary_date": "2026-10-27",
  "opts": {
@@ -1482,9 +1498,9 @@
   "transfer": 35,
   "stats": 1,
   "discipline": 19,
-  "injury": 24,
+  "injury": 25,
   "coach": 21,
   "awards": 64,
-  "fixtures": 13
+  "fixtures": 14
  }
 }
