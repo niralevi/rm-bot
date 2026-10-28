@@ -6,51 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793001567.6953776,
-   "date": "2026-10-26",
-   "tokens": [
-    "2026",
-    "23",
-    "again",
-    "ballon",
-    "chanc",
-    "day",
-    "kylian",
-    "last",
-    "mbappe",
-    "night",
-    "polymarket",
-    "risen",
-    "since"
-   ],
-   "names": [
-    "ballon",
-    "kylian",
-    "mbappe",
-    "polymarket"
-   ],
-   "cat": "awards",
-   "status": "rumour",
-   "headline": "🚨 It’s 2026 Ballon d’Or day. 🌕✨",
-   "link": "https://t.me/RealMadridImportantOnly/748"
-  },
-  {
-   "ts": 1793001643.6462429,
-   "date": "2026-10-26",
-   "tokens": [
-    "diomande",
-    "yan"
-   ],
-   "names": [
-    "diomande",
-    "yan"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "Yan Diomande 🌪️",
-   "link": "https://t.me/RealMadridImportantOnly/749"
-  },
-  {
    "ts": 1793008907.9804459,
    "date": "2026-10-26",
    "tokens": [
