@@ -6,48 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793034620.8270476,
-   "date": "2026-10-26",
-   "tokens": [
-    "2026",
-    "24th",
-    "ballon",
-    "diaz",
-    "luis",
-    "rank"
-   ],
-   "names": [
-    "ballon",
-    "diaz",
-    "luis"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 Luis Diaz is ranked 24th in Ballon d’Or 2026. 🌕✨",
-   "link": "https://t.me/RealMadridImportantOnly/762"
-  },
-  {
-   "ts": 1793034622.6764774,
-   "date": "2026-10-26",
-   "tokens": [
-    "2026",
-    "23rd",
-    "ballon",
-    "mend",
-    "nuno",
-    "rank"
-   ],
-   "names": [
-    "ballon",
-    "mendes",
-    "nuno"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 Nuno Mendes is ranked 23rd in Ballon d’Or 2026. 🌕✨",
-   "link": "https://t.me/RealMadridImportantOnly/763"
-  },
-  {
    "ts": 1793035055.5858495,
    "date": "2026-10-26",
    "tokens": [
