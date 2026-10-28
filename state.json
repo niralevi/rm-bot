@@ -6,38 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793036247.7686272,
-   "date": "2026-10-26",
-   "tokens": [
-    "3",
-    "announc",
-    "articl",
-    "ballon",
-    "chao",
-    "different",
-    "go",
-    "investigat",
-    "official",
-    "organiser",
-    "publish",
-    "shock",
-    "sudden",
-    "there",
-    "website",
-    "what",
-    "winner"
-   ],
-   "names": [
-    "ballon",
-    "organisers",
-    "there"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "🚨 BREAKING: There is CHAOS at the Ballon d’Or.",
-   "link": "https://t.me/RealMadridImportantOnly/767"
-  },
-  {
    "ts": 1793036490.4101899,
    "date": "2026-10-26",
    "tokens": [
