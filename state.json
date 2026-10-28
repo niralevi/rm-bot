@@ -1,41 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59544,
-  "themadridzone": 33138,
+  "themadridzone": 33139,
   "FabrizioRomanoTG": 67789
  },
  "sent": [
-  {
-   "ts": 1793024727.8890665,
-   "date": "2026-10-26",
-   "tokens": [
-    "1200",
-    "2",
-    "30",
-    "5th",
-    "ballon",
-    "chanc",
-    "increase",
-    "kylian",
-    "massive",
-    "mbappe",
-    "october",
-    "polymarket",
-    "went",
-    "winn"
-   ],
-   "names": [
-    "ballon",
-    "kylian",
-    "mbappe",
-    "october",
-    "polymarket"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨💣 JUST IN: Kylian Mbappé's chances of winning the Ballon d'Or went from 2% on October 5th to 30% today on Po…",
-   "link": "https://t.me/RealMadridImportantOnly/757"
-  },
   {
    "ts": 1793033364.5486667,
    "date": "2026-10-26",
@@ -1481,8 +1450,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-28",
-  "calls": 46,
-  "tokens": 55666
+  "calls": 47,
+  "tokens": 56801
  },
  "summary_date": "2026-10-27",
  "opts": {
