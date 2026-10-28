@@ -6,28 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1792977987.8799076,
-   "date": "2026-10-26",
-   "tokens": [
-    "2024",
-    "ballon",
-    "confirm",
-    "first",
-    "representation",
-    "set",
-    "since",
-    "time",
-    "tomorrow"
-   ],
-   "names": [
-    "ballon"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "🚨💣 CONFIRMED: Real Madrid are set to have representation at the Ballon d'Or tomorrow for the first time since…",
-   "link": "https://t.me/RealMadridImportantOnly/745"
-  },
-  {
    "ts": 1792996461.8838146,
    "date": "2026-10-26",
    "tokens": [
