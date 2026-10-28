@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59545,
-  "themadridzone": 33162,
+  "themadridzone": 33165,
   "FabrizioRomanoTG": 67789
  },
  "sent": [
@@ -1193,6 +1193,36 @@
    "status": "rumour",
    "headline": "🚨🚨💣 BREAKING: Cristiano Ronaldo 2008 has been OFFICIALLY voted as the BEST BALLON D’OR OF ALL TIME. 🏆",
    "link": "https://t.me/RealMadridImportantOnly/814"
+  },
+  {
+   "ts": 1793210788.934978,
+   "date": "2026-10-28",
+   "tokens": [
+    "5",
+    "6",
+    "8",
+    "all",
+    "ballon",
+    "cristiano",
+    "five",
+    "four",
+    "greatest",
+    "rank",
+    "ronaldo",
+    "time",
+    "top",
+    "trophi"
+   ],
+   "names": [
+    "all",
+    "ballon",
+    "cristiano",
+    "ronaldo"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 FOUR out of FIVE Cristiano Ronaldo's Ballon d'Or trophies are ranked in the TOP 6.",
+   "link": "https://t.me/RealMadridImportantOnly/815"
   }
  ],
  "offset": 769012044,
@@ -1200,8 +1230,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-28",
-  "calls": 60,
-  "tokens": 72008
+  "calls": 62,
+  "tokens": 74325
  },
  "summary_date": "2026-10-27",
  "opts": {
@@ -1234,7 +1264,7 @@
   "discipline": 19,
   "injury": 25,
   "coach": 21,
-  "awards": 65,
+  "awards": 66,
   "fixtures": 14
  }
 }
