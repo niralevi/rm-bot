@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59545,
-  "themadridzone": 33166,
+  "themadridzone": 33167,
   "FabrizioRomanoTG": 67791
  },
  "sent": [
@@ -1100,6 +1100,41 @@
    "status": "fact",
    "headline": "🚨 FOUR out of FIVE Cristiano Ronaldo's Ballon d'Or trophies are ranked in the TOP 6.",
    "link": "https://t.me/RealMadridImportantOnly/815"
+  },
+  {
+   "ts": 1793215706.0656753,
+   "date": "2026-10-28",
+   "tokens": [
+    "2008",
+    "all",
+    "ballon",
+    "best",
+    "captain",
+    "congratulation",
+    "eternity",
+    "national",
+    "portugal",
+    "portuguese",
+    "statement",
+    "team",
+    "time"
+   ],
+   "names": [
+    "all",
+    "ballon",
+    "best",
+    "captain",
+    "congratulations",
+    "from",
+    "national",
+    "portugal",
+    "portuguese",
+    "team"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 Portugal National Team Statement:",
+   "link": "https://t.me/RealMadridImportantOnly/816"
   }
  ],
  "offset": 769012044,
@@ -1107,8 +1142,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-28",
-  "calls": 63,
-  "tokens": 75519
+  "calls": 64,
+  "tokens": 76752
  },
  "summary_date": "2026-10-27",
  "opts": {
@@ -1141,7 +1176,7 @@
   "discipline": 19,
   "injury": 25,
   "coach": 21,
-  "awards": 66,
+  "awards": 67,
   "fixtures": 14
  }
 }
