@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59555,
-  "themadridzone": 33246,
+  "themadridzone": 33247,
   "FabrizioRomanoTG": 67818
  },
  "sent": [
@@ -619,7 +619,8 @@
    "cat": "awards",
    "status": "rumour",
    "headline": "🚨🚨💣 BREAKING: Cristiano Ronaldo 2008 has been OFFICIALLY voted as the BEST BALLON D’OR OF ALL TIME. 🏆",
-   "link": "https://t.me/RealMadridImportantOnly/814"
+   "link": "https://t.me/RealMadridImportantOnly/814",
+   "superseded": true
   },
   {
    "ts": 1793210788.934978,
@@ -1183,6 +1184,72 @@
    "status": "fact",
    "headline": "Back in action 🔜",
    "link": "https://t.me/RealMadridImportantOnly/834"
+  },
+  {
+   "ts": 1793285394.7690587,
+   "date": "2026-10-29",
+   "tokens": [
+    "2008",
+    "2013",
+    "2014",
+    "2016",
+    "2017",
+    "achiev",
+    "all",
+    "arriv",
+    "award",
+    "ball",
+    "ballon",
+    "best",
+    "career",
+    "chosen",
+    "cristiano",
+    "dur",
+    "edition",
+    "first",
+    "five",
+    "football",
+    "four",
+    "france",
+    "golden",
+    "history",
+    "individual",
+    "manchester",
+    "other",
+    "recogniz",
+    "ronaldo",
+    "season",
+    "statement",
+    "striker",
+    "through",
+    "throughout",
+    "time",
+    "unit",
+    "user",
+    "vot",
+    "vote",
+    "website",
+    "when",
+    "which",
+    "won"
+   ],
+   "names": [
+    "all",
+    "ballon",
+    "balls",
+    "best",
+    "cristiano",
+    "football",
+    "france",
+    "golden",
+    "manchester",
+    "ronaldo",
+    "united"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "Cristiano Ronaldo voted Best Ballon d'Or of All Time",
+   "link": "https://t.me/RealMadridImportantOnly/835"
   }
  ],
  "offset": 769012044,
@@ -1190,8 +1257,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 55,
-  "tokens": 64899
+  "calls": 56,
+  "tokens": 66187
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -1224,7 +1291,7 @@
   "discipline": 19,
   "injury": 27,
   "coach": 22,
-  "awards": 69,
+  "awards": 70,
   "fixtures": 15
  }
 }
