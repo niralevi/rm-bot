@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59557,
-  "themadridzone": 33259,
+  "themadridzone": 33260,
   "FabrizioRomanoTG": 67818
  },
  "sent": [
@@ -1367,6 +1367,27 @@
    "status": "fact",
    "headline": "🚨 BREAKING: The fan who hit Eduardo Camavinga in El Clasico will be BANNED from sport events 2 to 5 years - a…",
    "link": "https://t.me/RealMadridImportantOnly/838"
+  },
+  {
+   "ts": 1793290700.9961536,
+   "date": "2026-10-29",
+   "tokens": [
+    "650",
+    "barcelona",
+    "behavior",
+    "clasico",
+    "fans",
+    "fin",
+    "set"
+   ],
+   "names": [
+    "barcelona",
+    "clasico"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "🚨 Barcelona are set to be fined up to €650 for the behavior of their fans in El Clasico. @marca",
+   "link": "https://t.me/RealMadridImportantOnly/839"
   }
  ],
  "offset": 769012044,
@@ -1374,8 +1395,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 64,
-  "tokens": 75260
+  "calls": 65,
+  "tokens": 76320
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -1405,7 +1426,7 @@
   "lineup": 78,
   "transfer": 43,
   "stats": 1,
-  "discipline": 20,
+  "discipline": 21,
   "injury": 28,
   "coach": 22,
   "awards": 70,
