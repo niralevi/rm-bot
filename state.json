@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59553,
-  "themadridzone": 33235,
+  "themadridzone": 33237,
   "FabrizioRomanoTG": 67808
  },
  "sent": [
@@ -1213,6 +1213,26 @@
    "status": "fact",
    "headline": "Coach Jose Mourinho. 🤍",
    "link": "https://t.me/RealMadridImportantOnly/830"
+  },
+  {
+   "ts": 1793273126.0547209,
+   "date": "2026-10-29",
+   "tokens": [
+    "aurelien",
+    "ferland",
+    "mendy",
+    "tchouameni"
+   ],
+   "names": [
+    "aurelien",
+    "ferland",
+    "mendy",
+    "tchouameni"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Aurelien Tchouameni x Ferland Mendy. 🇫🇷",
+   "link": "https://t.me/RealMadridImportantOnly/831"
   }
  ],
  "offset": 769012044,
@@ -1220,8 +1240,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 43,
-  "tokens": 50911
+  "calls": 45,
+  "tokens": 53268
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -1249,7 +1269,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 78,
-  "transfer": 40,
+  "transfer": 41,
   "stats": 1,
   "discipline": 19,
   "injury": 25,
