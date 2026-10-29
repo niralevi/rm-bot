@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59548,
-  "themadridzone": 33231,
+  "themadridzone": 33233,
   "FabrizioRomanoTG": 67805
  },
  "sent": [
@@ -1148,6 +1148,53 @@
    "status": "rumour",
    "headline": "🧐 How much would the Greatest Ballon d'Or of all time, 2008 Cristiano, cost in today's transfer market?",
    "link": "https://t.me/RealMadridImportantOnly/828"
+  },
+  {
+   "ts": 1793265270.0024216,
+   "date": "2026-10-29",
+   "tokens": [
+    "2026",
+    "aek",
+    "against",
+    "alav",
+    "arsenal",
+    "athletic",
+    "celta",
+    "coruna",
+    "december",
+    "deportivo",
+    "left",
+    "liga",
+    "match",
+    "osasuna",
+    "psv",
+    "rac",
+    "reschedul",
+    "schedul",
+    "set",
+    "sociedad",
+    "valencia",
+    "vigo"
+   ],
+   "names": [
+    "alaves",
+    "arsenal",
+    "athletic",
+    "celta",
+    "coruna",
+    "december",
+    "deportivo",
+    "osasuna",
+    "racing",
+    "scheduled",
+    "sociedad",
+    "valencia",
+    "vigo"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "🚨 Scheduled matches left in 2026 for Real Madrid:",
+   "link": "https://t.me/RealMadridImportantOnly/829"
   }
  ],
  "offset": 769012044,
@@ -1155,8 +1202,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 37,
-  "tokens": 43591
+  "calls": 38,
+  "tokens": 44813
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -1190,6 +1237,6 @@
   "injury": 25,
   "coach": 21,
   "awards": 69,
-  "fixtures": 14
+  "fixtures": 15
  }
 }
