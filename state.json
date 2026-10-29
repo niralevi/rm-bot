@@ -1,41 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59557,
-  "themadridzone": 33275,
+  "themadridzone": 33276,
   "FabrizioRomanoTG": 67818
  },
  "sent": [
-  {
-   "ts": 1793129905.743601,
-   "date": "2026-10-27",
-   "tokens": [
-    "accord",
-    "because",
-    "cancelo",
-    "card",
-    "cat",
-    "diomande",
-    "doesn",
-    "excessive",
-    "force",
-    "joao",
-    "red",
-    "say",
-    "should",
-    "tackle",
-    "use",
-    "yellow"
-   ],
-   "names": [
-    "cancelo",
-    "diomande",
-    "joao"
-   ],
-   "cat": "discipline",
-   "status": "fact",
-   "headline": "🚨 According to CAT, Joao Cancelo's tackle on Diomande should have been a yellow card.",
-   "link": "https://t.me/RealMadridImportantOnly/803"
-  },
   {
    "ts": 1793131943.6994612,
    "date": "2026-10-27",
@@ -1313,8 +1282,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 78,
-  "tokens": 91344
+  "calls": 79,
+  "tokens": 92508
  },
  "summary_date": "2026-10-28",
  "opts": {
