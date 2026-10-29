@@ -6,38 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793128879.1360044,
-   "date": "2026-10-27",
-   "tokens": [
-    "accord",
-    "alejandro",
-    "balde",
-    "cat",
-    "comittee",
-    "correct",
-    "decision",
-    "give",
-    "handball",
-    "natural",
-    "penalty",
-    "position",
-    "referee",
-    "technical",
-    "therefore"
-   ],
-   "names": [
-    "alejandro",
-    "balde",
-    "comittee",
-    "refereeing",
-    "technical"
-   ],
-   "cat": "discipline",
-   "status": "fact",
-   "headline": "🚨 According to CAT (Refereeing Technical Comittee), Alejandro Balde's 'handball' was in a natural position - …",
-   "link": "https://t.me/RealMadridImportantOnly/802"
-  },
-  {
    "ts": 1793129905.743601,
    "date": "2026-10-27",
    "tokens": [
