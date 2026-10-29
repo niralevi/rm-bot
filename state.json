@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59545,
-  "themadridzone": 33188,
+  "themadridzone": 33192,
   "FabrizioRomanoTG": 67800
  },
  "sent": [
@@ -896,6 +896,47 @@
    "status": "fact",
    "headline": "🚨 FACT: The last 10 Ballon d’Or winners have all been over the age of 30.",
    "link": "https://t.me/RealMadridImportantOnly/821"
+  },
+  {
+   "ts": 1793249128.8907673,
+   "date": "2026-10-29",
+   "tokens": [
+    "90",
+    "action",
+    "all",
+    "clasico",
+    "dean",
+    "decisive",
+    "defensive",
+    "deliver",
+    "doubt",
+    "duel",
+    "exact",
+    "focus",
+    "full",
+    "huijsen",
+    "jose",
+    "minut",
+    "mourinho",
+    "performance",
+    "place",
+    "seek",
+    "shut",
+    "starter",
+    "strong",
+    "type"
+   ],
+   "names": [
+    "clasico",
+    "dean",
+    "huijsen",
+    "jose",
+    "mourinho"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 NEW: In El Clasico, Dean Huijsen delivered the exact type of performance Jose Mourinho was seeking.",
+   "link": "https://t.me/RealMadridImportantOnly/822"
   }
  ],
  "offset": 769012044,
@@ -903,8 +944,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 10,
-  "tokens": 11410
+  "calls": 12,
+  "tokens": 13756
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -931,7 +972,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 76,
+  "lineup": 77,
   "transfer": 35,
   "stats": 1,
   "discipline": 19,
