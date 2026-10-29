@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59545,
-  "themadridzone": 33214,
+  "themadridzone": 33216,
   "FabrizioRomanoTG": 67802
  },
  "sent": [
@@ -1079,6 +1079,48 @@
    "status": "rumour",
    "headline": "🚨 CONFIRMED: Bernardo Silva REJECTED previous offers from Barcelona and Atletico Madrid to join Real Madrid.",
    "link": "https://t.me/RealMadridImportantOnly/826"
+  },
+  {
+   "ts": 1793259309.2716987,
+   "date": "2026-10-29",
+   "tokens": [
+    "atletico",
+    "barcelona",
+    "believ",
+    "bernardo",
+    "big",
+    "club",
+    "convinc",
+    "insistence",
+    "jose",
+    "justifi",
+    "know",
+    "like",
+    "mourinho",
+    "obligat",
+    "offer",
+    "other",
+    "proven",
+    "risk",
+    "say",
+    "sign",
+    "silva",
+    "titl",
+    "win",
+    "worth"
+   ],
+   "names": [
+    "atletico",
+    "barcelona",
+    "bernardo",
+    "jose",
+    "mourinho",
+    "silva"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 Jose Mourinho’s INSISTENCE on signing Bernardo Silva has been proven to be justified.",
+   "link": "https://t.me/RealMadridImportantOnly/827"
   }
  ],
  "offset": 769012044,
@@ -1086,8 +1128,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 24,
-  "tokens": 28153
+  "calls": 25,
+  "tokens": 29468
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -1115,7 +1157,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 78,
-  "transfer": 38,
+  "transfer": 39,
   "stats": 1,
   "discipline": 19,
   "injury": 25,
