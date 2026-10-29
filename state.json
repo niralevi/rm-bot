@@ -1,38 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59557,
-  "themadridzone": 33262,
+  "themadridzone": 33263,
   "FabrizioRomanoTG": 67818
  },
  "sent": [
-  {
-   "ts": 1793121395.4846385,
-   "date": "2026-10-27",
-   "tokens": [
-    "2",
-    "3",
-    "between",
-    "december",
-    "due",
-    "game",
-    "reschedul",
-    "set",
-    "sociedad",
-    "spanish",
-    "supercup"
-   ],
-   "names": [
-    "december",
-    "due",
-    "sociedad",
-    "spanish",
-    "supercup"
-   ],
-   "cat": "fixtures",
-   "status": "official",
-   "headline": "🚨 Due to Spanish Supercup, the game between Real Sociedad & Real Madrid is set to be rescheduled for December…",
-   "link": "https://t.me/RealMadridImportantOnly/797"
-  },
   {
    "ts": 1793121565.0720546,
    "date": "2026-10-27",
@@ -1376,6 +1348,40 @@
    "status": "official",
    "headline": "🚨 BREAKING: Jose Mourinho is nominated for La Liga COACH OF THE MONTH.",
    "link": "https://t.me/RealMadridImportantOnly/841"
+  },
+  {
+   "ts": 1793294131.9175396,
+   "date": "2026-10-29",
+   "tokens": [
+    "alexander",
+    "arnold",
+    "club",
+    "does",
+    "however",
+    "january",
+    "league",
+    "leave",
+    "multiple",
+    "plan",
+    "premier",
+    "sign",
+    "stay",
+    "succe",
+    "trent",
+    "want"
+   ],
+   "names": [
+    "alexander",
+    "arnold",
+    "however",
+    "january",
+    "premier",
+    "trent"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨💣 BREAKING: MULTIPLE Premier League clubs want to sign Trent Alexander-Arnold in January.",
+   "link": "https://t.me/RealMadridImportantOnly/842"
   }
  ],
  "offset": 769012044,
@@ -1383,8 +1389,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 67,
-  "tokens": 78542
+  "calls": 68,
+  "tokens": 79671
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -1412,7 +1418,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 78,
-  "transfer": 43,
+  "transfer": 44,
   "stats": 1,
   "discipline": 22,
   "injury": 28,
