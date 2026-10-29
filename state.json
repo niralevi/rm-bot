@@ -6,43 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793121266.2550669,
-   "date": "2026-10-27",
-   "tokens": [
-    "2",
-    "3",
-    "away",
-    "between",
-    "clasico",
-    "gam",
-    "game",
-    "includ",
-    "liga",
-    "match",
-    "most",
-    "occasion",
-    "original",
-    "play",
-    "rare",
-    "reschedul",
-    "row",
-    "schedul",
-    "schedule",
-    "set",
-    "team",
-    "three"
-   ],
-   "names": [
-    "clasico",
-    "including",
-    "teams"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "🚨 Including El Clasico, Real Madrid are scheduled to play THREE away games in a row in La Liga - not with a r…",
-   "link": "https://t.me/RealMadridImportantOnly/796"
-  },
-  {
    "ts": 1793121395.4846385,
    "date": "2026-10-27",
    "tokens": [
