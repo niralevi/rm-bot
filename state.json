@@ -6,23 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793123786.4823434,
-   "date": "2026-10-27",
-   "tokens": [
-    "back",
-    "ball",
-    "rodrygo",
-    "train"
-   ],
-   "names": [
-    "rodrygo"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨 UPDATE: Rodrygo is back training on the ball. ✅",
-   "link": "https://t.me/RealMadridImportantOnly/800"
-  },
-  {
    "ts": 1793127205.4493551,
    "date": "2026-10-27",
    "tokens": [
