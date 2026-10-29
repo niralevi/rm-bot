@@ -6,38 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793137675.1332266,
-   "date": "2026-10-27",
-   "tokens": [
-    "como",
-    "fabrica",
-    "gems",
-    "jacobo",
-    "last",
-    "man",
-    "nico",
-    "paz",
-    "ramon",
-    "torino",
-    "unit",
-    "week"
-   ],
-   "names": [
-    "como",
-    "jacobo",
-    "man",
-    "nico",
-    "paz",
-    "ramon",
-    "torino",
-    "united"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Como vs Man United last week:",
-   "link": "https://t.me/RealMadridImportantOnly/807"
-  },
-  {
    "ts": 1793160270.1891708,
    "date": "2026-10-28",
    "tokens": [
