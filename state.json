@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59555,
-  "themadridzone": 33253,
+  "themadridzone": 33256,
   "FabrizioRomanoTG": 67818
  },
  "sent": [
@@ -1291,6 +1291,82 @@
    "status": "fact",
    "headline": "Real Madrid report reduced injuries thanks to new recovery program",
    "link": "https://t.me/RealMadridImportantOnly/836"
+  },
+  {
+   "ts": 1793288185.7522097,
+   "date": "2026-10-29",
+   "tokens": [
+    "100",
+    "2027",
+    "activate",
+    "back",
+    "buy",
+    "clause",
+    "club",
+    "cost",
+    "decid",
+    "decision",
+    "done",
+    "either",
+    "english",
+    "future",
+    "him",
+    "jacobo",
+    "league",
+    "less",
+    "made",
+    "many",
+    "negotiat",
+    "premier",
+    "ramon",
+    "stay",
+    "than",
+    "transfer",
+    "want"
+   ],
+   "names": [
+    "english",
+    "jacobo",
+    "premier",
+    "ramon"
+   ],
+   "cat": "transfer",
+   "status": "official",
+   "headline": "🚨💣 BREAKING: Real Madrid have decided to activate their buy-back clause for Jacobo Ramon in 2027.",
+   "link": "https://t.me/RealMadridImportantOnly/837"
+  },
+  {
+   "ts": 1793288252.679858,
+   "date": "2026-10-29",
+   "tokens": [
+    "2",
+    "5",
+    "bann",
+    "between",
+    "camavinga",
+    "clasico",
+    "eduardo",
+    "event",
+    "fan",
+    "fine",
+    "hit",
+    "identifi",
+    "police",
+    "sport",
+    "successful",
+    "well",
+    "who",
+    "year"
+   ],
+   "names": [
+    "camavinga",
+    "clasico",
+    "eduardo"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "🚨 BREAKING: The fan who hit Eduardo Camavinga in El Clasico will be BANNED from sport events 2 to 5 years - a…",
+   "link": "https://t.me/RealMadridImportantOnly/838"
   }
  ],
  "offset": 769012044,
@@ -1298,8 +1374,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 59,
-  "tokens": 69677
+  "calls": 61,
+  "tokens": 71951
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -1327,9 +1403,9 @@
   "fun": 1,
   "social": 2,
   "lineup": 78,
-  "transfer": 42,
+  "transfer": 43,
   "stats": 1,
-  "discipline": 19,
+  "discipline": 20,
   "injury": 28,
   "coach": 22,
   "awards": 70,
