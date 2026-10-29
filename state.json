@@ -6,40 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793127205.4493551,
-   "date": "2026-10-27",
-   "tokens": [
-    "1",
-    "2",
-    "3",
-    "ballon",
-    "cubarsi",
-    "harry",
-    "journalist",
-    "kane",
-    "lamine",
-    "pau",
-    "switzerland",
-    "top",
-    "vot",
-    "yamal"
-   ],
-   "names": [
-    "ballon",
-    "cubarsi",
-    "harry",
-    "kane",
-    "lamine",
-    "pau",
-    "switzerland",
-    "yamal"
-   ],
-   "cat": "awards",
-   "status": "rumour",
-   "headline": "🚨🇨🇭 Switzerland journalist Ballon d'Or top 3 votes:",
-   "link": "https://t.me/RealMadridImportantOnly/801"
-  },
-  {
    "ts": 1793128879.1360044,
    "date": "2026-10-27",
    "tokens": [
