@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59557,
-  "themadridzone": 33261,
+  "themadridzone": 33262,
   "FabrizioRomanoTG": 67818
  },
  "sent": [
@@ -1033,7 +1033,8 @@
    "cat": "coach",
    "status": "fact",
    "headline": "Coach Jose Mourinho. 🤍",
-   "link": "https://t.me/RealMadridImportantOnly/830"
+   "link": "https://t.me/RealMadridImportantOnly/830",
+   "superseded": true
   },
   {
    "ts": 1793273126.0547209,
@@ -1392,6 +1393,26 @@
    "status": "fact",
    "headline": "🚨 Viní Jr. is suspended for two more games in La Liga, he will not play in the league until after the Interna…",
    "link": "https://t.me/RealMadridImportantOnly/840"
+  },
+  {
+   "ts": 1793291847.2653685,
+   "date": "2026-10-29",
+   "tokens": [
+    "coach",
+    "jose",
+    "liga",
+    "month",
+    "mourinho",
+    "nominat"
+   ],
+   "names": [
+    "jose",
+    "mourinho"
+   ],
+   "cat": "coach",
+   "status": "official",
+   "headline": "🚨 BREAKING: Jose Mourinho is nominated for La Liga COACH OF THE MONTH.",
+   "link": "https://t.me/RealMadridImportantOnly/841"
   }
  ],
  "offset": 769012044,
@@ -1399,8 +1420,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 66,
-  "tokens": 77459
+  "calls": 67,
+  "tokens": 78542
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -1432,7 +1453,7 @@
   "stats": 1,
   "discipline": 22,
   "injury": 28,
-  "coach": 22,
+  "coach": 23,
   "awards": 70,
   "fixtures": 15
  }
