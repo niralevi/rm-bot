@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59545,
-  "themadridzone": 33194,
+  "themadridzone": 33198,
   "FabrizioRomanoTG": 67800
  },
  "sent": [
@@ -937,6 +937,34 @@
    "status": "fact",
    "headline": "🚨 NEW: In El Clasico, Dean Huijsen delivered the exact type of performance Jose Mourinho was seeking.",
    "link": "https://t.me/RealMadridImportantOnly/822"
+  },
+  {
+   "ts": 1793249614.1990662,
+   "date": "2026-10-29",
+   "tokens": [
+    "confirm",
+    "dean",
+    "defensive",
+    "huijsen",
+    "ibrahima",
+    "jose",
+    "konate",
+    "mourinho",
+    "partnership",
+    "preferr"
+   ],
+   "names": [
+    "dean",
+    "huijsen",
+    "ibrahima",
+    "jose",
+    "konate",
+    "mourinho"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 CONFIRMED: Ibrahima Konate and Dean Huijsen is Jose Mourinho’s preferred defensive partnership. @diarioas",
+   "link": "https://t.me/RealMadridImportantOnly/823"
   }
  ],
  "offset": 769012044,
@@ -944,8 +972,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 13,
-  "tokens": 15015
+  "calls": 15,
+  "tokens": 17440
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -972,7 +1000,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 77,
+  "lineup": 78,
   "transfer": 35,
   "stats": 1,
   "discipline": 19,
