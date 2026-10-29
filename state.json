@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59545,
-  "themadridzone": 33179,
+  "themadridzone": 33181,
   "FabrizioRomanoTG": 67800
  },
  "sent": [
@@ -820,6 +820,38 @@
    "status": "fact",
    "headline": "🚨 BREAKING: Kylian Mbappé is nominated for La Liga PLAYER OF THE MONTH. @FutSheriff ⭐️",
    "link": "https://t.me/RealMadridImportantOnly/819"
+  },
+  {
+   "ts": 1793246369.0400403,
+   "date": "2026-10-29",
+   "tokens": [
+    "ahead",
+    "alvaro",
+    "carrera",
+    "cucurella",
+    "however",
+    "jose",
+    "marc",
+    "mourinho",
+    "noteworthy",
+    "order",
+    "peck",
+    "performanc",
+    "right"
+   ],
+   "names": [
+    "alvaro",
+    "carreras",
+    "cucurella",
+    "however",
+    "jose",
+    "marc",
+    "mourinho"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 JUST IN: Marc Cucurella is ahead of Alvaro Carreras in the pecking order right now.",
+   "link": "https://t.me/RealMadridImportantOnly/820"
   }
  ],
  "offset": 769012044,
@@ -827,8 +859,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 5,
-  "tokens": 5633
+  "calls": 6,
+  "tokens": 6790
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -855,7 +887,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 75,
+  "lineup": 76,
   "transfer": 35,
   "stats": 1,
   "discipline": 19,
