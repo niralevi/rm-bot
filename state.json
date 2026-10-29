@@ -6,46 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793121565.0720546,
-   "date": "2026-10-27",
-   "tokens": [
-    "2nd",
-    "atletico",
-    "barcelona",
-    "both",
-    "calendar",
-    "december",
-    "due",
-    "first",
-    "game",
-    "league",
-    "liga",
-    "match",
-    "november",
-    "one",
-    "plann",
-    "play",
-    "schedul",
-    "season",
-    "second",
-    "supercopa",
-    "unbelievable"
-   ],
-   "names": [
-    "atletico",
-    "barcelona",
-    "december",
-    "first",
-    "november",
-    "supercopa",
-    "unbelievable"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "🚨 Barcelona & Atletico Madrid will play their both league matches of the season by December 2nd, as their gam…",
-   "link": "https://t.me/RealMadridImportantOnly/798"
-  },
-  {
    "ts": 1793121741.0057094,
    "date": "2026-10-27",
    "tokens": [
