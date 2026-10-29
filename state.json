@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59555,
-  "themadridzone": 33242,
+  "themadridzone": 33243,
   "FabrizioRomanoTG": 67808
  },
  "sent": [
@@ -1228,6 +1228,21 @@
    "status": "fact",
    "headline": "Thibaut Courtois is BACK. 🧱",
    "link": "https://t.me/RealMadridImportantOnly/833"
+  },
+  {
+   "ts": 1793277444.0353012,
+   "date": "2026-10-29",
+   "tokens": [
+    "action",
+    "back"
+   ],
+   "names": [
+    "back"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "Back in action 🔜",
+   "link": "https://t.me/RealMadridImportantOnly/834"
   }
  ],
  "offset": 769012044,
@@ -1235,8 +1250,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 51,
-  "tokens": 60249
+  "calls": 52,
+  "tokens": 61403
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -1267,7 +1282,7 @@
   "transfer": 42,
   "stats": 1,
   "discipline": 19,
-  "injury": 26,
+  "injury": 27,
   "coach": 22,
   "awards": 69,
   "fixtures": 15
