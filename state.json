@@ -6,28 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793137043.6745074,
-   "date": "2026-10-27",
-   "tokens": [
-    "ballon",
-    "decide",
-    "fairest",
-    "opinion",
-    "procedure",
-    "vot",
-    "what",
-    "winner",
-    "your"
-   ],
-   "names": [
-    "ballon"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🧐 In your opinion, what would be the fairest voting procedure to decide the Ballon d'Or winner?",
-   "link": "https://t.me/RealMadridImportantOnly/806"
-  },
-  {
    "ts": 1793137675.1332266,
    "date": "2026-10-27",
    "tokens": [
