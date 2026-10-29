@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59555,
-  "themadridzone": 33239,
+  "themadridzone": 33241,
   "FabrizioRomanoTG": 67808
  },
  "sent": [
@@ -1195,6 +1195,22 @@
    "status": "rumour",
    "headline": "Aurelien Tchouameni x Ferland Mendy. 🇫🇷",
    "link": "https://t.me/RealMadridImportantOnly/831"
+  },
+  {
+   "ts": 1793275887.5807707,
+   "date": "2026-10-29",
+   "tokens": [
+    "kylian",
+    "mbappe"
+   ],
+   "names": [
+    "kylian",
+    "mbappe"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Kylian Mbappé 🌟",
+   "link": "https://t.me/RealMadridImportantOnly/832"
   }
  ],
  "offset": 769012044,
@@ -1202,8 +1218,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 48,
-  "tokens": 56799
+  "calls": 50,
+  "tokens": 59096
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -1231,7 +1247,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 78,
-  "transfer": 41,
+  "transfer": 42,
   "stats": 1,
   "discipline": 19,
   "injury": 25,
