@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59546,
-  "themadridzone": 33229,
+  "themadridzone": 33230,
   "FabrizioRomanoTG": 67803
  },
  "sent": [
@@ -1121,6 +1121,33 @@
    "status": "rumour",
    "headline": "🚨 Jose Mourinho’s INSISTENCE on signing Bernardo Silva has been proven to be justified.",
    "link": "https://t.me/RealMadridImportantOnly/827"
+  },
+  {
+   "ts": 1793261317.367633,
+   "date": "2026-10-29",
+   "tokens": [
+    "2008",
+    "all",
+    "ballon",
+    "cost",
+    "cristiano",
+    "greatest",
+    "how",
+    "market",
+    "much",
+    "time",
+    "transfer"
+   ],
+   "names": [
+    "ballon",
+    "cristiano",
+    "greatest",
+    "how"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🧐 How much would the Greatest Ballon d'Or of all time, 2008 Cristiano, cost in today's transfer market?",
+   "link": "https://t.me/RealMadridImportantOnly/828"
   }
  ],
  "offset": 769012044,
@@ -1128,8 +1155,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 34,
-  "tokens": 40062
+  "calls": 35,
+  "tokens": 41236
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -1157,7 +1184,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 78,
-  "transfer": 39,
+  "transfer": 40,
   "stats": 1,
   "discipline": 19,
   "injury": 25,
