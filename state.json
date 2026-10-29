@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59545,
-  "themadridzone": 33210,
+  "themadridzone": 33214,
   "FabrizioRomanoTG": 67802
  },
  "sent": [
@@ -1010,6 +1010,75 @@
    "status": "rumour",
    "headline": "🚨 NEW: In June, Jose Mourinho made it very clear to Jose Angel Sanchez and Juni Calafat that they NEEDED Bern…",
    "link": "https://t.me/RealMadridImportantOnly/824"
+  },
+  {
+   "ts": 1793259146.785572,
+   "date": "2026-10-29",
+   "tokens": [
+    "2026",
+    "again",
+    "back",
+    "became",
+    "bernardo",
+    "coach",
+    "did",
+    "dream",
+    "ear",
+    "himself",
+    "jose",
+    "knew",
+    "month",
+    "mourinho",
+    "offer",
+    "open",
+    "play",
+    "silva",
+    "soon",
+    "then",
+    "think",
+    "worth"
+   ],
+   "names": [
+    "bernardo",
+    "jose",
+    "mourinho",
+    "silva"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 JUST IN: Bernardo Silva had OFFERED HIMSELF to Real Madrid in the early months of 2026, but Real Madrid did…",
+   "link": "https://t.me/RealMadridImportantOnly/825"
+  },
+  {
+   "ts": 1793259149.6375666,
+   "date": "2026-10-29",
+   "tokens": [
+    "atletico",
+    "barcelona",
+    "bernardo",
+    "circle",
+    "confid",
+    "confirm",
+    "gamble",
+    "inner",
+    "join",
+    "offer",
+    "previou",
+    "reject",
+    "risky",
+    "silva",
+    "worth"
+   ],
+   "names": [
+    "atletico",
+    "barcelona",
+    "bernardo",
+    "silva"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 CONFIRMED: Bernardo Silva REJECTED previous offers from Barcelona and Atletico Madrid to join Real Madrid.",
+   "link": "https://t.me/RealMadridImportantOnly/826"
   }
  ],
  "offset": 769012044,
@@ -1017,8 +1086,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 22,
-  "tokens": 25684
+  "calls": 24,
+  "tokens": 28153
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -1046,7 +1115,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 78,
-  "transfer": 36,
+  "transfer": 38,
   "stats": 1,
   "discipline": 19,
   "injury": 25,
