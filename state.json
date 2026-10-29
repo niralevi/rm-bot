@@ -6,44 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793102242.941207,
-   "date": "2026-10-27",
-   "tokens": [
-    "articl",
-    "article",
-    "ballon",
-    "be",
-    "coincidence",
-    "confirm",
-    "declar",
-    "first",
-    "harry",
-    "kane",
-    "last",
-    "may",
-    "mbappe",
-    "mistake",
-    "night",
-    "publish",
-    "soon",
-    "website",
-    "winner",
-    "yamal"
-   ],
-   "names": [
-    "ballon",
-    "harry",
-    "kane",
-    "mbappe",
-    "soon",
-    "yamal"
-   ],
-   "cat": "awards",
-   "status": "rumour",
-   "headline": "🚨💣 CONFIRMED: The articles published last night on Ballon d’Or website was by MISTAKE.",
-   "link": "https://t.me/RealMadridImportantOnly/790"
-  },
-  {
    "ts": 1793105129.059386,
    "date": "2026-10-27",
    "tokens": [
