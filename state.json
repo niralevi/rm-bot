@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59557,
-  "themadridzone": 33266,
+  "themadridzone": 33267,
   "FabrizioRomanoTG": 67818
  },
  "sent": [
@@ -1264,6 +1264,31 @@
    "status": "rumour",
    "headline": "🚨💣 BREAKING: MULTIPLE Premier League clubs want to sign Trent Alexander-Arnold in January.",
    "link": "https://t.me/RealMadridImportantOnly/842"
+  },
+  {
+   "ts": 1793301391.8262794,
+   "date": "2026-10-29",
+   "tokens": [
+    "andriy",
+    "barcelona",
+    "liga",
+    "lunin",
+    "month",
+    "nominat",
+    "official",
+    "save"
+   ],
+   "names": [
+    "andriy",
+    "barcelona",
+    "lunin",
+    "month",
+    "save"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Andriy Lunin vs Barcelona is nominated for La Liga Save of the Month. ⛔️",
+   "link": "https://t.me/RealMadridImportantOnly/843"
   }
  ],
  "offset": 769012044,
@@ -1271,8 +1296,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 70,
-  "tokens": 81965
+  "calls": 71,
+  "tokens": 83083
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -1305,7 +1330,7 @@
   "discipline": 22,
   "injury": 28,
   "coach": 23,
-  "awards": 70,
+  "awards": 71,
   "fixtures": 15
  }
 }
