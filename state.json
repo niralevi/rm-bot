@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59548,
-  "themadridzone": 33233,
+  "themadridzone": 33234,
   "FabrizioRomanoTG": 67805
  },
  "sent": [
@@ -1195,6 +1195,24 @@
    "status": "fact",
    "headline": "🚨 Scheduled matches left in 2026 for Real Madrid:",
    "link": "https://t.me/RealMadridImportantOnly/829"
+  },
+  {
+   "ts": 1793265562.820033,
+   "date": "2026-10-29",
+   "tokens": [
+    "coach",
+    "jose",
+    "mourinho"
+   ],
+   "names": [
+    "coach",
+    "jose",
+    "mourinho"
+   ],
+   "cat": "coach",
+   "status": "fact",
+   "headline": "Coach Jose Mourinho. 🤍",
+   "link": "https://t.me/RealMadridImportantOnly/830"
   }
  ],
  "offset": 769012044,
@@ -1202,8 +1220,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 38,
-  "tokens": 44813
+  "calls": 39,
+  "tokens": 46016
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -1235,7 +1253,7 @@
   "stats": 1,
   "discipline": 19,
   "injury": 25,
-  "coach": 21,
+  "coach": 22,
   "awards": 69,
   "fixtures": 15
  }
