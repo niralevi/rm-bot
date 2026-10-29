@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59557,
-  "themadridzone": 33267,
+  "themadridzone": 33269,
   "FabrizioRomanoTG": 67818
  },
  "sent": [
@@ -457,7 +457,8 @@
    "cat": "awards",
    "status": "fact",
    "headline": "🚨 BREAKING: Kylian Mbappé is nominated for La Liga PLAYER OF THE MONTH. @FutSheriff ⭐️",
-   "link": "https://t.me/RealMadridImportantOnly/819"
+   "link": "https://t.me/RealMadridImportantOnly/819",
+   "superseded": true
   },
   {
    "ts": 1793246369.0400403,
@@ -1289,6 +1290,54 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Andriy Lunin vs Barcelona is nominated for La Liga Save of the Month. ⛔️",
    "link": "https://t.me/RealMadridImportantOnly/843"
+  },
+  {
+   "ts": 1793301501.1231196,
+   "date": "2026-10-29",
+   "tokens": [
+    "goal",
+    "kylian",
+    "liga",
+    "mbappe",
+    "month",
+    "nominat",
+    "official",
+    "sevilla"
+   ],
+   "names": [
+    "goal",
+    "kylian",
+    "mbappe",
+    "month",
+    "sevilla"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Kylian Mbappé’s goal vs Sevilla is nominated for La Liga Goal of the Month. 🚀",
+   "link": "https://t.me/RealMadridImportantOnly/844"
+  },
+  {
+   "ts": 1793301565.9822454,
+   "date": "2026-10-29",
+   "tokens": [
+    "diomande",
+    "liga",
+    "month",
+    "nominat",
+    "official",
+    "u23",
+    "yan"
+   ],
+   "names": [
+    "diomande",
+    "month",
+    "player",
+    "yan"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Yan Diomande is nominated for La Liga U23 Player of the Month. 💎",
+   "link": "https://t.me/RealMadridImportantOnly/845"
   }
  ],
  "offset": 769012044,
@@ -1296,8 +1345,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 71,
-  "tokens": 83083
+  "calls": 73,
+  "tokens": 85402
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -1330,7 +1379,7 @@
   "discipline": 22,
   "injury": 28,
   "coach": 23,
-  "awards": 71,
+  "awards": 73,
   "fixtures": 15
  }
 }
