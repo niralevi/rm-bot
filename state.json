@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59557,
-  "themadridzone": 33260,
+  "themadridzone": 33261,
   "FabrizioRomanoTG": 67818
  },
  "sent": [
@@ -1388,6 +1388,40 @@
    "status": "fact",
    "headline": "🚨 Barcelona are set to be fined up to €650 for the behavior of their fans in El Clasico. @marca",
    "link": "https://t.me/RealMadridImportantOnly/839"
+  },
+  {
+   "ts": 1793291127.462857,
+   "date": "2026-10-29",
+   "tokens": [
+    "4th",
+    "aek",
+    "break",
+    "champion",
+    "gam",
+    "however",
+    "international",
+    "league",
+    "liga",
+    "november",
+    "play",
+    "set",
+    "suspend",
+    "two",
+    "uefa",
+    "until",
+    "vini"
+   ],
+   "names": [
+    "break",
+    "however",
+    "international",
+    "november",
+    "vini"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "🚨 Viní Jr. is suspended for two more games in La Liga, he will not play in the league until after the Interna…",
+   "link": "https://t.me/RealMadridImportantOnly/840"
   }
  ],
  "offset": 769012044,
@@ -1395,8 +1429,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 65,
-  "tokens": 76320
+  "calls": 66,
+  "tokens": 77459
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -1426,7 +1460,7 @@
   "lineup": 78,
   "transfer": 43,
   "stats": 1,
-  "discipline": 21,
+  "discipline": 22,
   "injury": 28,
   "coach": 22,
   "awards": 70,
