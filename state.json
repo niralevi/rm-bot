@@ -1,41 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59557,
-  "themadridzone": 33285,
+  "themadridzone": 33286,
   "FabrizioRomanoTG": 67820
  },
  "sent": [
-  {
-   "ts": 1793131943.6994612,
-   "date": "2026-10-27",
-   "tokens": [
-    "1",
-    "2",
-    "3",
-    "ballon",
-    "ita",
-    "journalist",
-    "khvicha",
-    "kvaratskhelia",
-    "kylian",
-    "mbappe",
-    "rodri",
-    "top"
-   ],
-   "names": [
-    "ballon",
-    "italy",
-    "khvicha",
-    "kvaratskhelia",
-    "kylian",
-    "mbappe",
-    "rodri"
-   ],
-   "cat": "awards",
-   "status": "rumour",
-   "headline": "🚨🇮🇹 Italy journalist Ballon d'Or top 3:",
-   "link": "https://t.me/RealMadridImportantOnly/805"
-  },
   {
    "ts": 1793137043.6745074,
    "date": "2026-10-27",
@@ -1282,8 +1251,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 86,
-  "tokens": 100770
+  "calls": 87,
+  "tokens": 101961
  },
  "summary_date": "2026-10-29",
  "opts": {
