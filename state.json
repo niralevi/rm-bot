@@ -6,58 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793113711.7063568,
-   "date": "2026-10-27",
-   "tokens": [
-    "aek",
-    "athen",
-    "break",
-    "gam",
-    "how",
-    "international",
-    "left",
-    "many",
-    "rac",
-    "three",
-    "valencia"
-   ],
-   "names": [
-    "athens",
-    "break",
-    "how",
-    "international",
-    "racing",
-    "three",
-    "valencia"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "📆 Three games left for Real Madrid before the International Break:",
-   "link": "https://t.me/RealMadridImportantOnly/793"
-  },
-  {
-   "ts": 1793113824.0081396,
-   "date": "2026-10-27",
-   "tokens": [
-    "champion",
-    "face",
-    "jovic",
-    "league",
-    "luka",
-    "next",
-    "striker",
-    "week"
-   ],
-   "names": [
-    "jovic",
-    "luka"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "Real Madrid will face ex-striker Luka Jovic next week in the Champions League.",
-   "link": "https://t.me/RealMadridImportantOnly/794"
-  },
-  {
    "ts": 1793118927.3584924,
    "date": "2026-10-27",
    "tokens": [
