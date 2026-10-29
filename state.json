@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59545,
-  "themadridzone": 33187,
+  "themadridzone": 33188,
   "FabrizioRomanoTG": 67800
  },
  "sent": [
@@ -852,6 +852,50 @@
    "status": "rumour",
    "headline": "🚨 JUST IN: Marc Cucurella is ahead of Alvaro Carreras in the pecking order right now.",
    "link": "https://t.me/RealMadridImportantOnly/820"
+  },
+  {
+   "ts": 1793247922.8874865,
+   "date": "2026-10-29",
+   "tokens": [
+    "10",
+    "2016",
+    "2022",
+    "2023",
+    "30",
+    "31",
+    "34",
+    "36",
+    "age",
+    "all",
+    "ballon",
+    "benzema",
+    "cristiano",
+    "fact",
+    "karim",
+    "last",
+    "lionel",
+    "messi",
+    "oldest",
+    "ronaldo",
+    "when",
+    "while",
+    "winner",
+    "won",
+    "youngest"
+   ],
+   "names": [
+    "ballon",
+    "benzema",
+    "cristiano",
+    "karim",
+    "lionel",
+    "messi",
+    "ronaldo"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 FACT: The last 10 Ballon d’Or winners have all been over the age of 30.",
+   "link": "https://t.me/RealMadridImportantOnly/821"
   }
  ],
  "offset": 769012044,
@@ -859,8 +903,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-29",
-  "calls": 9,
-  "tokens": 10227
+  "calls": 10,
+  "tokens": 11410
  },
  "summary_date": "2026-10-28",
  "opts": {
@@ -893,7 +937,7 @@
   "discipline": 19,
   "injury": 25,
   "coach": 21,
-  "awards": 68,
+  "awards": 69,
   "fixtures": 14
  }
 }
