@@ -6,43 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793206282.8836262,
-   "date": "2026-10-28",
-   "tokens": [
-    "ferland",
-    "mendy",
-    "team",
-    "train"
-   ],
-   "names": [
-    "ferland",
-    "mendy"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨 Ferland Mendy in training with the team. 🧱",
-   "link": "https://t.me/RealMadridImportantOnly/812"
-  },
-  {
-   "ts": 1793206349.3177748,
-   "date": "2026-10-28",
-   "tokens": [
-    "ahead",
-    "match",
-    "rac",
-    "sunday",
-    "train"
-   ],
-   "names": [
-    "racing",
-    "sunday"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "🚨 Real Madrid in training ahead of Racing Club match this Sunday. 💪",
-   "link": "https://t.me/RealMadridImportantOnly/813"
-  },
-  {
    "ts": 1793210303.5232093,
    "date": "2026-10-28",
    "tokens": [
