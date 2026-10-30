@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59575,
-  "themadridzone": 33392,
+  "themadridzone": 33398,
   "FabrizioRomanoTG": 67845
  },
  "sent": [
@@ -1330,6 +1330,34 @@
    "status": "rumour",
    "headline": "🚨💣 JUST IN: Yan Diomande has a BALLON D’OR clause in his contract.",
    "link": "https://t.me/RealMadridImportantOnly/858"
+  },
+  {
+   "ts": 1793387423.8196168,
+   "date": "2026-10-30",
+   "tokens": [
+    "1028",
+    "1055",
+    "27",
+    "ballon",
+    "harry",
+    "kane",
+    "kylian",
+    "mbappe",
+    "only",
+    "point",
+    "won"
+   ],
+   "names": [
+    "ballon",
+    "harry",
+    "kane",
+    "kylian",
+    "mbappe"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 BREAKING: Harry Kane won the Ballon d'Or over Kylian Mbappé for only 27 points.",
+   "link": "https://t.me/RealMadridImportantOnly/859"
   }
  ],
  "offset": 769012044,
@@ -1337,8 +1365,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 75,
-  "tokens": 89369
+  "calls": 78,
+  "tokens": 92853
  },
  "summary_date": "2026-10-29",
  "opts": {
@@ -1371,7 +1399,7 @@
   "discipline": 22,
   "injury": 31,
   "coach": 24,
-  "awards": 74,
+  "awards": 75,
   "fixtures": 17
  }
 }
