@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59567,
-  "themadridzone": 33370,
+  "themadridzone": 33371,
   "FabrizioRomanoTG": 67837
  },
  "sent": [
@@ -1303,6 +1303,50 @@
    "status": "fact",
    "headline": "🚨 Jose Mourinho vs Racing Club:",
    "link": "https://t.me/RealMadridImportantOnly/854"
+  },
+  {
+   "ts": 1793373090.1276608,
+   "date": "2026-10-30",
+   "tokens": [
+    "asencio",
+    "bas",
+    "believe",
+    "clas",
+    "combination",
+    "count",
+    "cover",
+    "duo",
+    "eder",
+    "feel",
+    "four",
+    "ful",
+    "game",
+    "injury",
+    "many",
+    "militao",
+    "nature",
+    "position",
+    "proces",
+    "raul",
+    "recovery",
+    "relax",
+    "return",
+    "still",
+    "too",
+    "who",
+    "world"
+   ],
+   "names": [
+    "asencio",
+    "eder",
+    "militao",
+    "raul",
+    "with"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🚨 With Eder Militão returning from injury, Real Madrid feel very relaxed about the CB position, they believe …",
+   "link": "https://t.me/RealMadridImportantOnly/855"
   }
  ],
  "offset": 769012044,
@@ -1310,8 +1354,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 52,
-  "tokens": 62258
+  "calls": 53,
+  "tokens": 63515
  },
  "summary_date": "2026-10-29",
  "opts": {
@@ -1342,7 +1386,7 @@
   "transfer": 47,
   "stats": 1,
   "discipline": 22,
-  "injury": 30,
+  "injury": 31,
   "coach": 24,
   "awards": 73,
   "fixtures": 16
