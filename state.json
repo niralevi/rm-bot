@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59575,
-  "themadridzone": 33387,
+  "themadridzone": 33388,
   "FabrizioRomanoTG": 67843
  },
  "sent": [
@@ -1306,6 +1306,30 @@
    "status": "fact",
    "headline": "🟡🇪🇸The Yellow Submarine picking up steam  Villarreal is riding a winning streak and ready to secure another v…",
    "link": "https://t.me/RealMadridImportantOnly/857"
+  },
+  {
+   "ts": 1793384908.0139723,
+   "date": "2026-10-30",
+   "tokens": [
+    "2",
+    "ballon",
+    "clause",
+    "contract",
+    "diomande",
+    "leipzig",
+    "pay",
+    "wins",
+    "yan"
+   ],
+   "names": [
+    "diomande",
+    "leipzig",
+    "yan"
+   ],
+   "cat": "awards",
+   "status": "rumour",
+   "headline": "🚨💣 JUST IN: Yan Diomande has a BALLON D’OR clause in his contract.",
+   "link": "https://t.me/RealMadridImportantOnly/858"
   }
  ],
  "offset": 769012044,
@@ -1313,8 +1337,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 71,
-  "tokens": 84694
+  "calls": 72,
+  "tokens": 85869
  },
  "summary_date": "2026-10-29",
  "opts": {
@@ -1347,7 +1371,7 @@
   "discipline": 22,
   "injury": 31,
   "coach": 24,
-  "awards": 73,
+  "awards": 74,
   "fixtures": 17
  }
 }
