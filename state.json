@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59575,
-  "themadridzone": 33429,
+  "themadridzone": 33431,
   "FabrizioRomanoTG": 67850
  },
  "sent": [
@@ -1757,6 +1757,25 @@
    "status": "rumour",
    "headline": "When everyone is fit, who should be Real Madrid's starting CB duo?",
    "link": "https://t.me/RealMadridImportantOnly/870"
+  },
+  {
+   "ts": 1793395269.078372,
+   "date": "2026-10-30",
+   "tokens": [
+    "december",
+    "make",
+    "reminder",
+    "return",
+    "rodrygo"
+   ],
+   "names": [
+    "december",
+    "rodrygo"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 REMINDER: Rodrygo will make his Real Madrid return in December 🇧🇷🔜",
+   "link": "https://t.me/RealMadridImportantOnly/871"
   }
  ],
  "offset": 769012044,
@@ -1764,8 +1783,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 98,
-  "tokens": 118252
+  "calls": 99,
+  "tokens": 119447
  },
  "summary_date": "2026-10-30",
  "opts": {
@@ -1792,7 +1811,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 80,
+  "lineup": 81,
   "transfer": 48,
   "stats": 1,
   "discipline": 22,
