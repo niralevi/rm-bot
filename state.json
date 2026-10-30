@@ -6,35 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793160270.1891708,
-   "date": "2026-10-28",
-   "tokens": [
-    "analyz",
-    "back",
-    "began",
-    "clasico",
-    "flight",
-    "game",
-    "immediate",
-    "jose",
-    "mistak",
-    "mourinho",
-    "prepare",
-    "staff",
-    "time",
-    "wast"
-   ],
-   "names": [
-    "clasico",
-    "jose",
-    "mourinho"
-   ],
-   "cat": "coach",
-   "status": "fact",
-   "headline": "🚨 NEW: Jose Mourinho and his staff analyzed El Clasico on the flight back to Madrid.",
-   "link": "https://t.me/RealMadridImportantOnly/808"
-  },
-  {
    "ts": 1793160996.0126245,
    "date": "2026-10-28",
    "tokens": [
