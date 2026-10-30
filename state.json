@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59568,
+  "real_madrid": 59572,
   "themadridzone": 33386,
   "FabrizioRomanoTG": 67839
  },
@@ -1352,6 +1352,51 @@
    "status": "rumour",
    "headline": "🚨 BREAKING: Real Madrid are VERY CLOSE to signing talented 19yo midfielder Latif Issman for Castilla.",
    "link": "https://t.me/RealMadridImportantOnly/856"
+  },
+  {
+   "ts": 1793379040.231637,
+   "date": "2026-10-30",
+   "tokens": [
+    "another",
+    "build",
+    "can",
+    "desperate",
+    "espanyol",
+    "even",
+    "host",
+    "keep",
+    "meanwhile",
+    "momentum",
+    "need",
+    "pick",
+    "point",
+    "ready",
+    "relegation",
+    "rid",
+    "secure",
+    "steam",
+    "streak",
+    "stuck",
+    "submarine",
+    "victory",
+    "villarreal",
+    "visitor",
+    "winn",
+    "yellow",
+    "zone"
+   ],
+   "names": [
+    "can",
+    "espanyol",
+    "meanwhile",
+    "submarine",
+    "villarreal",
+    "yellow"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "🟡🇪🇸The Yellow Submarine picking up steam  Villarreal is riding a winning streak and ready to secure another v…",
+   "link": "https://t.me/RealMadridImportantOnly/857"
   }
  ],
  "offset": 769012044,
@@ -1359,8 +1404,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 67,
-  "tokens": 79942
+  "calls": 68,
+  "tokens": 81116
  },
  "summary_date": "2026-10-29",
  "opts": {
@@ -1394,6 +1439,6 @@
   "injury": 31,
   "coach": 24,
   "awards": 73,
-  "fixtures": 16
+  "fixtures": 17
  }
 }
