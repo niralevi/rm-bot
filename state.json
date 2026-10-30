@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59575,
-  "themadridzone": 33398,
+  "themadridzone": 33400,
   "FabrizioRomanoTG": 67845
  },
  "sent": [
@@ -1358,6 +1358,78 @@
    "status": "fact",
    "headline": "🚨 BREAKING: Harry Kane won the Ballon d'Or over Kylian Mbappé for only 27 points.",
    "link": "https://t.me/RealMadridImportantOnly/859"
+  },
+  {
+   "ts": 1793387728.2819464,
+   "date": "2026-10-30",
+   "tokens": [
+    "23",
+    "bahrain",
+    "ballon",
+    "benin",
+    "bulgaria",
+    "cameroon",
+    "coast",
+    "congo",
+    "countri",
+    "ecuador",
+    "egypt",
+    "finland",
+    "football",
+    "france",
+    "germany",
+    "ghana",
+    "guinea",
+    "iraq",
+    "ita",
+    "ivory",
+    "kylian",
+    "mali",
+    "mbappe",
+    "netherland",
+    "palestine",
+    "paraguay",
+    "qatar",
+    "romania",
+    "spain",
+    "via",
+    "vot",
+    "zambia"
+   ],
+   "names": [
+    "bahrain",
+    "ballon",
+    "benin",
+    "bulgaria",
+    "cameroon",
+    "coast",
+    "congo",
+    "ecuador",
+    "egypt",
+    "finland",
+    "football",
+    "france",
+    "germany",
+    "ghana",
+    "guinea",
+    "iraq",
+    "italy",
+    "ivory",
+    "kylian",
+    "mali",
+    "mbappe",
+    "netherlands",
+    "palestine",
+    "paraguay",
+    "qatar",
+    "romania",
+    "spain",
+    "zambia"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 23 countries voted Kylian Mbappé as Ballon d'Or:",
+   "link": "https://t.me/RealMadridImportantOnly/860"
   }
  ],
  "offset": 769012044,
@@ -1365,8 +1437,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 78,
-  "tokens": 92853
+  "calls": 79,
+  "tokens": 94184
  },
  "summary_date": "2026-10-29",
  "opts": {
@@ -1399,7 +1471,7 @@
   "discipline": 22,
   "injury": 31,
   "coach": 24,
-  "awards": 75,
+  "awards": 76,
   "fixtures": 17
  }
 }
