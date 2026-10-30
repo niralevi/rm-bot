@@ -6,41 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793215706.0656753,
-   "date": "2026-10-28",
-   "tokens": [
-    "2008",
-    "all",
-    "ballon",
-    "best",
-    "captain",
-    "congratulation",
-    "eternity",
-    "national",
-    "portugal",
-    "portuguese",
-    "statement",
-    "team",
-    "time"
-   ],
-   "names": [
-    "all",
-    "ballon",
-    "best",
-    "captain",
-    "congratulations",
-    "from",
-    "national",
-    "portugal",
-    "portuguese",
-    "team"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 Portugal National Team Statement:",
-   "link": "https://t.me/RealMadridImportantOnly/816"
-  },
-  {
    "ts": 1793217146.372061,
    "date": "2026-10-28",
    "tokens": [
