@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59560,
-  "themadridzone": 33315,
+  "themadridzone": 33319,
   "FabrizioRomanoTG": 67829
  },
  "sent": [
@@ -1116,6 +1116,38 @@
    "status": "fact",
    "headline": "🚨 NEW: Viní Jr. is conducting scientific work with the club to recover his best form.",
    "link": "https://t.me/RealMadridImportantOnly/847"
+  },
+  {
+   "ts": 1793345446.9359314,
+   "date": "2026-10-30",
+   "tokens": [
+    "2012",
+    "2026",
+    "27",
+    "82",
+    "against",
+    "chance",
+    "current",
+    "first",
+    "home",
+    "liga",
+    "rac",
+    "return",
+    "santander",
+    "season",
+    "since",
+    "time",
+    "unbeaten",
+    "winn"
+   ],
+   "names": [
+    "racing",
+    "santander"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "🚨 Real Madrid return to Racing Santander for the first time since 2012.",
+   "link": "https://t.me/RealMadridImportantOnly/848"
   }
  ],
  "offset": 769012044,
@@ -1123,8 +1155,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 14,
-  "tokens": 16629
+  "calls": 16,
+  "tokens": 19081
  },
  "summary_date": "2026-10-29",
  "opts": {
@@ -1158,6 +1190,6 @@
   "injury": 29,
   "coach": 23,
   "awards": 73,
-  "fixtures": 15
+  "fixtures": 16
  }
 }
