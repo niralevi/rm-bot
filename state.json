@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59561,
-  "themadridzone": 33331,
+  "themadridzone": 33332,
   "FabrizioRomanoTG": 67829
  },
  "sent": [
@@ -1148,6 +1148,32 @@
    "status": "fact",
    "headline": "🚨 Real Madrid return to Racing Santander for the first time since 2012.",
    "link": "https://t.me/RealMadridImportantOnly/848"
+  },
+  {
+   "ts": 1793354358.4708607,
+   "date": "2026-10-30",
+   "tokens": [
+    "confirm",
+    "desire",
+    "fight",
+    "hard",
+    "intention",
+    "january",
+    "leave",
+    "position",
+    "situation",
+    "there",
+    "trent"
+   ],
+   "names": [
+    "january",
+    "there",
+    "trent"
+   ],
+   "cat": "transfer",
+   "status": "official",
+   "headline": "🚨 CONFIRMED: There are no intentions for Trent to leave Real Madrid in January.",
+   "link": "https://t.me/RealMadridImportantOnly/849"
   }
  ],
  "offset": 769012044,
@@ -1155,8 +1181,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 24,
-  "tokens": 28872
+  "calls": 25,
+  "tokens": 30067
  },
  "summary_date": "2026-10-29",
  "opts": {
@@ -1184,7 +1210,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 78,
-  "transfer": 44,
+  "transfer": 45,
   "stats": 1,
   "discipline": 22,
   "injury": 29,
