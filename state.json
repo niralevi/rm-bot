@@ -6,30 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793210303.5232093,
-   "date": "2026-10-28",
-   "tokens": [
-    "2008",
-    "all",
-    "ballon",
-    "best",
-    "cristiano",
-    "official",
-    "ronaldo",
-    "time",
-    "vot"
-   ],
-   "names": [
-    "cristiano",
-    "ronaldo"
-   ],
-   "cat": "awards",
-   "status": "rumour",
-   "headline": "🚨🚨💣 BREAKING: Cristiano Ronaldo 2008 has been OFFICIALLY voted as the BEST BALLON D’OR OF ALL TIME. 🏆",
-   "link": "https://t.me/RealMadridImportantOnly/814",
-   "superseded": true
-  },
-  {
    "ts": 1793210788.934978,
    "date": "2026-10-28",
    "tokens": [
