@@ -6,25 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793183189.201667,
-   "date": "2026-10-28",
-   "tokens": [
-    "10",
-    "ballon",
-    "highest",
-    "last",
-    "rank",
-    "year"
-   ],
-   "names": [
-    "ballon"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 Real Madrid’s highest ranked players for the Ballon d’Or in the last 10 years. @Score90_",
-   "link": "https://t.me/RealMadridImportantOnly/810"
-  },
-  {
    "ts": 1793205381.4183567,
    "date": "2026-10-28",
    "tokens": [
