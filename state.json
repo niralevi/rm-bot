@@ -6,36 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793210788.934978,
-   "date": "2026-10-28",
-   "tokens": [
-    "5",
-    "6",
-    "8",
-    "all",
-    "ballon",
-    "cristiano",
-    "five",
-    "four",
-    "greatest",
-    "rank",
-    "ronaldo",
-    "time",
-    "top",
-    "trophi"
-   ],
-   "names": [
-    "all",
-    "ballon",
-    "cristiano",
-    "ronaldo"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 FOUR out of FIVE Cristiano Ronaldo's Ballon d'Or trophies are ranked in the TOP 6.",
-   "link": "https://t.me/RealMadridImportantOnly/815"
-  },
-  {
    "ts": 1793215706.0656753,
    "date": "2026-10-28",
    "tokens": [
