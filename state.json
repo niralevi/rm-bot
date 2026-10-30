@@ -6,27 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793205381.4183567,
-   "date": "2026-10-28",
-   "tokens": [
-    "100",
-    "fede",
-    "injur",
-    "play",
-    "ready",
-    "valverde",
-    "weekend"
-   ],
-   "names": [
-    "fede",
-    "valverde"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨 BREAKING: Fede Valverde is NOT INJURED.",
-   "link": "https://t.me/RealMadridImportantOnly/811"
-  },
-  {
    "ts": 1793206282.8836262,
    "date": "2026-10-28",
    "tokens": [
