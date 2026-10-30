@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59575,
-  "themadridzone": 33432,
+  "themadridzone": 33433,
   "FabrizioRomanoTG": 67851
  },
  "sent": [
@@ -1776,6 +1776,39 @@
    "status": "fact",
    "headline": "🚨 REMINDER: Rodrygo will make his Real Madrid return in December 🇧🇷🔜",
    "link": "https://t.me/RealMadridImportantOnly/871"
+  },
+  {
+   "ts": 1793397503.473023,
+   "date": "2026-10-30",
+   "tokens": [
+    "clos",
+    "despite",
+    "doesn",
+    "door",
+    "endrick",
+    "get",
+    "january",
+    "jose",
+    "leave",
+    "loan",
+    "minut",
+    "mourinho",
+    "possible",
+    "rul",
+    "say",
+    "want"
+   ],
+   "names": [
+    "despite",
+    "endrick",
+    "january",
+    "jose",
+    "mourinho"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 Endrick has NOT closed the door to a possible loan in January.",
+   "link": "https://t.me/RealMadridImportantOnly/872"
   }
  ],
  "offset": 769012044,
@@ -1783,8 +1816,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 100,
-  "tokens": 120680
+  "calls": 101,
+  "tokens": 121907
  },
  "summary_date": "2026-10-30",
  "opts": {
@@ -1812,7 +1845,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 81,
-  "transfer": 48,
+  "transfer": 49,
   "stats": 1,
   "discipline": 22,
   "injury": 31,
