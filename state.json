@@ -6,26 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793228672.2577372,
-   "date": "2026-10-29",
-   "tokens": [
-    "kylian",
-    "liga",
-    "mbappe",
-    "month",
-    "nominat"
-   ],
-   "names": [
-    "kylian",
-    "mbappe"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 BREAKING: Kylian Mbappé is nominated for La Liga PLAYER OF THE MONTH. @FutSheriff ⭐️",
-   "link": "https://t.me/RealMadridImportantOnly/819",
-   "superseded": true
-  },
-  {
    "ts": 1793246369.0400403,
    "date": "2026-10-29",
    "tokens": [
