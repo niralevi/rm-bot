@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59575,
-  "themadridzone": 33411,
+  "themadridzone": 33413,
   "FabrizioRomanoTG": 67848
  },
  "sent": [
@@ -1576,6 +1576,35 @@
    "status": "fact",
    "headline": "🚨 The points of Ballon d'Or top 10. @lequipe",
    "link": "https://t.me/RealMadridImportantOnly/864"
+  },
+  {
+   "ts": 1793389657.4788866,
+   "date": "2026-10-30",
+   "tokens": [
+    "3",
+    "countri",
+    "greece",
+    "kylian",
+    "left",
+    "mbappe",
+    "scotland",
+    "these",
+    "three",
+    "top",
+    "ukraine"
+   ],
+   "names": [
+    "greece",
+    "kylian",
+    "mbappe",
+    "scotland",
+    "these",
+    "ukraine"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 BREAKING: These are the three countries that left Kylian Mbappé out of their top 3",
+   "link": "https://t.me/RealMadridImportantOnly/865"
   }
  ],
  "offset": 769012044,
@@ -1583,8 +1612,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 87,
-  "tokens": 104137
+  "calls": 89,
+  "tokens": 106619
  },
  "summary_date": "2026-10-29",
  "opts": {
@@ -1617,7 +1646,7 @@
   "discipline": 22,
   "injury": 31,
   "coach": 24,
-  "awards": 80,
+  "awards": 81,
   "fixtures": 17
  }
 }
