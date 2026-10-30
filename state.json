@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59575,
-  "themadridzone": 33404,
-  "FabrizioRomanoTG": 67846
+  "themadridzone": 33408,
+  "FabrizioRomanoTG": 67847
  },
  "sent": [
   {
@@ -1457,7 +1457,8 @@
    "cat": "awards",
    "status": "fact",
    "headline": "🚨🇩🇿 Algeria votes for Ballon d'Or:",
-   "link": "https://t.me/RealMadridImportantOnly/861"
+   "link": "https://t.me/RealMadridImportantOnly/861",
+   "superseded": true
   },
   {
    "ts": 1793388638.6384642,
@@ -1488,6 +1489,93 @@
    "status": "rumour",
    "headline": "🚨 BREAKING: Three journalists have left Kylian Mbappé outside their Ballon d'Or top 10, which has cost the pl…",
    "link": "https://t.me/RealMadridImportantOnly/862"
+  },
+  {
+   "ts": 1793388867.245638,
+   "date": "2026-10-30",
+   "tokens": [
+    "027",
+    "055",
+    "1",
+    "201",
+    "2026",
+    "296",
+    "30",
+    "378",
+    "4",
+    "418",
+    "5",
+    "541",
+    "6",
+    "612",
+    "7",
+    "726",
+    "8",
+    "881",
+    "9",
+    "ballon",
+    "dembele",
+    "erl",
+    "fabian",
+    "fabrizio",
+    "haaland",
+    "harry",
+    "kane",
+    "khvicha",
+    "kvaratskhelia",
+    "kylian",
+    "lamine",
+    "lionel",
+    "mbappe",
+    "messi",
+    "michael",
+    "oct",
+    "official",
+    "olise",
+    "ousmane",
+    "point",
+    "rodri",
+    "romano",
+    "ruiz",
+    "vot",
+    "yamal"
+   ],
+   "names": [
+    "ballon",
+    "erling",
+    "fabian",
+    "fabrizio",
+    "harry",
+    "khvicha",
+    "kylian",
+    "lamine",
+    "lionel",
+    "michael",
+    "oct",
+    "ousmane",
+    "romano"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "2026 Ballon d'Or results: Kane beats Mbappé",
+   "link": "https://t.me/RealMadridImportantOnly/863"
+  },
+  {
+   "ts": 1793388933.2206528,
+   "date": "2026-10-30",
+   "tokens": [
+    "10",
+    "ballon",
+    "point",
+    "top"
+   ],
+   "names": [
+    "ballon"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 The points of Ballon d'Or top 10. @lequipe",
+   "link": "https://t.me/RealMadridImportantOnly/864"
   }
  ],
  "offset": 769012044,
@@ -1495,8 +1583,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 82,
-  "tokens": 97832
+  "calls": 85,
+  "tokens": 101696
  },
  "summary_date": "2026-10-29",
  "opts": {
@@ -1529,7 +1617,7 @@
   "discipline": 22,
   "injury": 31,
   "coach": 24,
-  "awards": 78,
+  "awards": 80,
   "fixtures": 17
  }
 }
