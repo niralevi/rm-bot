@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59575,
-  "themadridzone": 33413,
-  "FabrizioRomanoTG": 67848
+  "themadridzone": 33415,
+  "FabrizioRomanoTG": 67849
  },
  "sent": [
   {
@@ -1587,6 +1587,56 @@
    "status": "fact",
    "headline": "🚨 BREAKING: These are the three countries that left Kylian Mbappé out of their top 3",
    "link": "https://t.me/RealMadridImportantOnly/865"
+  },
+  {
+   "ts": 1793390125.450932,
+   "date": "2026-10-30",
+   "tokens": [
+    "0",
+    "1",
+    "10",
+    "10th",
+    "13",
+    "17",
+    "1st",
+    "23",
+    "24",
+    "2nd",
+    "3",
+    "3rd",
+    "4th",
+    "5th",
+    "6",
+    "6th",
+    "7th",
+    "8th",
+    "9th",
+    "ballon",
+    "divid",
+    "football",
+    "france",
+    "how",
+    "kylian",
+    "mbappe",
+    "outside",
+    "tim",
+    "top",
+    "via",
+    "vot"
+   ],
+   "names": [
+    "ballon",
+    "football",
+    "france",
+    "how",
+    "kylian",
+    "mbappe",
+    "outside"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 How Kylian Mbappé's votes were divided in this Ballon d'Or:",
+   "link": "https://t.me/RealMadridImportantOnly/866"
   }
  ],
  "offset": 769012044,
@@ -1594,8 +1644,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 89,
-  "tokens": 106619
+  "calls": 90,
+  "tokens": 107861
  },
  "summary_date": "2026-10-29",
  "opts": {
@@ -1628,7 +1678,7 @@
   "discipline": 22,
   "injury": 31,
   "coach": 24,
-  "awards": 81,
+  "awards": 82,
   "fixtures": 17
  }
 }
