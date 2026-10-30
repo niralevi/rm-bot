@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59567,
-  "themadridzone": 33373,
+  "themadridzone": 33375,
   "FabrizioRomanoTG": 67837
  },
  "sent": [
@@ -1347,6 +1347,32 @@
    "status": "fact",
    "headline": "🚨 With Eder Militão returning from injury, Real Madrid feel very relaxed about the CB position, they believe …",
    "link": "https://t.me/RealMadridImportantOnly/855"
+  },
+  {
+   "ts": 1793373745.755314,
+   "date": "2026-10-30",
+   "tokens": [
+    "19yo",
+    "almost",
+    "castilla",
+    "close",
+    "deal",
+    "done",
+    "issman",
+    "latif",
+    "midfielder",
+    "sign",
+    "talent"
+   ],
+   "names": [
+    "castilla",
+    "issman",
+    "latif"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 BREAKING: Real Madrid are VERY CLOSE to signing talented 19yo midfielder Latif Issman for Castilla.",
+   "link": "https://t.me/RealMadridImportantOnly/856"
   }
  ],
  "offset": 769012044,
@@ -1354,8 +1380,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 54,
-  "tokens": 64636
+  "calls": 56,
+  "tokens": 66900
  },
  "summary_date": "2026-10-29",
  "opts": {
@@ -1383,7 +1409,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 79,
-  "transfer": 47,
+  "transfer": 48,
   "stats": 1,
   "discipline": 22,
   "injury": 31,
