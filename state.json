@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59562,
-  "themadridzone": 33343,
+  "themadridzone": 33345,
   "FabrizioRomanoTG": 67829
  },
  "sent": [
@@ -1215,6 +1215,25 @@
    "status": "fact",
    "headline": "🔙 Real Madrid’s starting XI the last time they faced Racing Santander:",
    "link": "https://t.me/RealMadridImportantOnly/851"
+  },
+  {
+   "ts": 1793359767.3444424,
+   "date": "2026-10-30",
+   "tokens": [
+    "fede",
+    "individual",
+    "pitch",
+    "train",
+    "valverde"
+   ],
+   "names": [
+    "fede",
+    "valverde"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🚨 UPDATE: Fede Valverde training individually on the pitch today. 🏃‍♂️",
+   "link": "https://t.me/RealMadridImportantOnly/852"
   }
  ],
  "offset": 769012044,
@@ -1222,20 +1241,15 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 33,
-  "tokens": 39634
+  "calls": 34,
+  "tokens": 40770
  },
  "summary_date": "2026-10-29",
  "opts": {
   "quiet": true,
   "summary": true
  },
- "health": {
-  "_ai": {
-   "since": 1793358778.7537878,
-   "err": "520 Server Error: <none> for url: https://api.groq.com/openai/v1/chat/completions"
-  }
- },
+ "health": {},
  "limit_alert": "2026-10-26",
  "version": 2,
  "topics_on": {
@@ -1259,7 +1273,7 @@
   "transfer": 46,
   "stats": 1,
   "discipline": 22,
-  "injury": 29,
+  "injury": 30,
   "coach": 23,
   "awards": 73,
   "fixtures": 16
