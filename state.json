@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59562,
-  "themadridzone": 33341,
+  "themadridzone": 33343,
   "FabrizioRomanoTG": 67829
  },
  "sent": [
@@ -1171,6 +1171,50 @@
    "status": "rumour",
    "headline": "Marc Cucurella ⭐️",
    "link": "https://t.me/RealMadridImportantOnly/850"
+  },
+  {
+   "ts": 1793358779.7369924,
+   "date": "2026-10-30",
+   "tokens": [
+    "alonso",
+    "benzema",
+    "casilla",
+    "cristiano",
+    "fac",
+    "granero",
+    "kaka",
+    "last",
+    "marcelo",
+    "ozil",
+    "pepe",
+    "rac",
+    "ramo",
+    "ronaldo",
+    "santander",
+    "start",
+    "time",
+    "varane"
+   ],
+   "names": [
+    "alonso",
+    "benzema",
+    "casillas",
+    "cristiano",
+    "granero",
+    "kaka",
+    "marcelo",
+    "ozil",
+    "pepe",
+    "racing",
+    "ramos",
+    "ronaldo",
+    "santander",
+    "varane"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🔙 Real Madrid’s starting XI the last time they faced Racing Santander:",
+   "link": "https://t.me/RealMadridImportantOnly/851"
   }
  ],
  "offset": 769012044,
@@ -1186,7 +1230,12 @@
   "quiet": true,
   "summary": true
  },
- "health": {},
+ "health": {
+  "_ai": {
+   "since": 1793358778.7537878,
+   "err": "520 Server Error: <none> for url: https://api.groq.com/openai/v1/chat/completions"
+  }
+ },
  "limit_alert": "2026-10-26",
  "version": 2,
  "topics_on": {
@@ -1206,7 +1255,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 78,
+  "lineup": 79,
   "transfer": 46,
   "stats": 1,
   "discipline": 22,
