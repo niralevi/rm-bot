@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59575,
-  "themadridzone": 33415,
-  "FabrizioRomanoTG": 67849
+  "themadridzone": 33417,
+  "FabrizioRomanoTG": 67850
  },
  "sent": [
   {
@@ -1637,6 +1637,33 @@
    "status": "fact",
    "headline": "🚨 How Kylian Mbappé's votes were divided in this Ballon d'Or:",
    "link": "https://t.me/RealMadridImportantOnly/866"
+  },
+  {
+   "ts": 1793390370.6557817,
+   "date": "2026-10-30",
+   "tokens": [
+    "8th",
+    "ballon",
+    "best",
+    "cup",
+    "england",
+    "journalist",
+    "ranking",
+    "scorer",
+    "top",
+    "vot",
+    "world"
+   ],
+   "names": [
+    "ballon",
+    "cup",
+    "england",
+    "world"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England's journalist voted their World Cup top scorer & best player as 8th in the Ballon d'Or ranking…",
+   "link": "https://t.me/RealMadridImportantOnly/867"
   }
  ],
  "offset": 769012044,
@@ -1644,8 +1671,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 90,
-  "tokens": 107861
+  "calls": 91,
+  "tokens": 109083
  },
  "summary_date": "2026-10-29",
  "opts": {
@@ -1678,7 +1705,7 @@
   "discipline": 22,
   "injury": 31,
   "coach": 24,
-  "awards": 82,
+  "awards": 83,
   "fixtures": 17
  }
 }
