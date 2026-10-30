@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59563,
+  "real_madrid": 59565,
   "themadridzone": 33370,
   "FabrizioRomanoTG": 67836
  },
@@ -1271,6 +1271,38 @@
    "status": "rumour",
    "headline": "🚨 NEW: Andriy Lunin had offers in 2024 and 2025 to leave Real Madrid, but none convinced him.",
    "link": "https://t.me/RealMadridImportantOnly/853"
+  },
+  {
+   "ts": 1793368907.0538068,
+   "date": "2026-10-30",
+   "tokens": [
+    "1",
+    "16",
+    "2",
+    "4",
+    "5",
+    "6",
+    "clean",
+    "conced",
+    "draw",
+    "gam",
+    "goal",
+    "jose",
+    "mourinho",
+    "rac",
+    "scor",
+    "sheet",
+    "wins"
+   ],
+   "names": [
+    "jose",
+    "mourinho",
+    "racing"
+   ],
+   "cat": "coach",
+   "status": "fact",
+   "headline": "🚨 Jose Mourinho vs Racing Club:",
+   "link": "https://t.me/RealMadridImportantOnly/854"
   }
  ],
  "offset": 769012044,
@@ -1278,8 +1310,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 50,
-  "tokens": 59932
+  "calls": 51,
+  "tokens": 61078
  },
  "summary_date": "2026-10-29",
  "opts": {
@@ -1311,7 +1343,7 @@
   "stats": 1,
   "discipline": 22,
   "injury": 30,
-  "coach": 23,
+  "coach": 24,
   "awards": 73,
   "fixtures": 16
  }
