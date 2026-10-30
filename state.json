@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59575,
-  "themadridzone": 33427,
+  "themadridzone": 33429,
   "FabrizioRomanoTG": 67850
  },
  "sent": [
@@ -1737,6 +1737,26 @@
    "status": "fact",
    "headline": "🚨🏴󠁧󠁢󠁳󠁣󠁴󠁿 Here is how Greece, who didn't have Kylian Mbappé in their Ballon d'Or top 10, voted:",
    "link": "https://t.me/RealMadridImportantOnly/869"
+  },
+  {
+   "ts": 1793394886.1745822,
+   "date": "2026-10-30",
+   "tokens": [
+    "duo",
+    "everyone",
+    "fit",
+    "should",
+    "start",
+    "when",
+    "who"
+   ],
+   "names": [
+    "when"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "When everyone is fit, who should be Real Madrid's starting CB duo?",
+   "link": "https://t.me/RealMadridImportantOnly/870"
   }
  ],
  "offset": 769012044,
@@ -1744,8 +1764,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 97,
-  "tokens": 117030
+  "calls": 98,
+  "tokens": 118252
  },
  "summary_date": "2026-10-30",
  "opts": {
@@ -1772,7 +1792,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 79,
+  "lineup": 80,
   "transfer": 48,
   "stats": 1,
   "discipline": 22,
