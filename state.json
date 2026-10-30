@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59562,
-  "themadridzone": 33357,
+  "themadridzone": 33360,
   "FabrizioRomanoTG": 67829
  },
  "sent": [
@@ -1234,6 +1234,43 @@
    "status": "fact",
    "headline": "🚨 UPDATE: Fede Valverde training individually on the pitch today. 🏃‍♂️",
    "link": "https://t.me/RealMadridImportantOnly/852"
+  },
+  {
+   "ts": 1793361502.6652758,
+   "date": "2026-10-30",
+   "tokens": [
+    "2024",
+    "2025",
+    "2030",
+    "alway",
+    "andriy",
+    "contract",
+    "convinc",
+    "held",
+    "high",
+    "him",
+    "leave",
+    "lunin",
+    "mutual",
+    "never",
+    "none",
+    "offer",
+    "part",
+    "regard",
+    "symbol",
+    "trust",
+    "until",
+    "want",
+    "ways"
+   ],
+   "names": [
+    "andriy",
+    "lunin"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 NEW: Andriy Lunin had offers in 2024 and 2025 to leave Real Madrid, but none convinced him.",
+   "link": "https://t.me/RealMadridImportantOnly/853"
   }
  ],
  "offset": 769012044,
@@ -1241,8 +1278,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 41,
-  "tokens": 49246
+  "calls": 43,
+  "tokens": 51589
  },
  "summary_date": "2026-10-29",
  "opts": {
@@ -1270,7 +1307,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 79,
-  "transfer": 46,
+  "transfer": 47,
   "stats": 1,
   "discipline": 22,
   "injury": 30,
