@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59562,
-  "themadridzone": 33332,
+  "themadridzone": 33338,
   "FabrizioRomanoTG": 67829
  },
  "sent": [
@@ -1155,6 +1155,22 @@
    "status": "official",
    "headline": "🚨 CONFIRMED: There are no intentions for Trent to leave Real Madrid in January.",
    "link": "https://t.me/RealMadridImportantOnly/849"
+  },
+  {
+   "ts": 1793358112.3579822,
+   "date": "2026-10-30",
+   "tokens": [
+    "cucurella",
+    "marc"
+   ],
+   "names": [
+    "cucurella",
+    "marc"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Marc Cucurella ⭐️",
+   "link": "https://t.me/RealMadridImportantOnly/850"
   }
  ],
  "offset": 769012044,
@@ -1162,8 +1178,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 26,
-  "tokens": 31286
+  "calls": 31,
+  "tokens": 37281
  },
  "summary_date": "2026-10-29",
  "opts": {
@@ -1191,7 +1207,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 78,
-  "transfer": 45,
+  "transfer": 46,
   "stats": 1,
   "discipline": 22,
   "injury": 29,
