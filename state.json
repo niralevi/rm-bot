@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59575,
-  "themadridzone": 33420,
+  "themadridzone": 33422,
   "FabrizioRomanoTG": 67850
  },
  "sent": [
@@ -1664,6 +1664,79 @@
    "status": "fact",
    "headline": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England's journalist voted their World Cup top scorer & best player as 8th in the Ballon d'Or ranking…",
    "link": "https://t.me/RealMadridImportantOnly/867"
+  },
+  {
+   "ts": 1793392646.632898,
+   "date": "2026-10-30",
+   "tokens": [
+    "1",
+    "10",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "ballon",
+    "cucurella",
+    "declan",
+    "didn",
+    "football",
+    "france",
+    "gabriel",
+    "greece",
+    "harry",
+    "here",
+    "how",
+    "joao",
+    "kane",
+    "khvicha",
+    "kvaratskhelia",
+    "kylian",
+    "marc",
+    "marquinho",
+    "mbappe",
+    "michael",
+    "nev",
+    "olise",
+    "pacho",
+    "rice",
+    "rodri",
+    "top",
+    "via",
+    "vot",
+    "who",
+    "willian"
+   ],
+   "names": [
+    "ballon",
+    "declan",
+    "football",
+    "france",
+    "gabriel",
+    "greece",
+    "harry",
+    "joao",
+    "kane",
+    "khvicha",
+    "kvaratskhelia",
+    "kylian",
+    "marquinhos",
+    "mbappe",
+    "michael",
+    "neves",
+    "olise",
+    "pacho",
+    "rice",
+    "rodri",
+    "willian"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨🏴󠁧󠁢󠁳󠁣󠁴󠁿 Here is how Greece, who didn't have Kylian Mbappé in their Ballon d'Or top 10, voted:",
+   "link": "https://t.me/RealMadridImportantOnly/869"
   }
  ],
  "offset": 769012044,
@@ -1671,8 +1744,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-30",
-  "calls": 93,
-  "tokens": 111632
+  "calls": 94,
+  "tokens": 113037
  },
  "summary_date": "2026-10-30",
  "opts": {
@@ -1705,7 +1778,7 @@
   "discipline": 22,
   "injury": 31,
   "coach": 24,
-  "awards": 83,
+  "awards": 84,
   "fixtures": 17
  }
 }
