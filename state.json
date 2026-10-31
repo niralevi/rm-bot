@@ -6,23 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793276133.9791055,
-   "date": "2026-10-29",
-   "tokens": [
-    "back",
-    "courtoi",
-    "thibaut"
-   ],
-   "names": [
-    "courtois",
-    "thibaut"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "Thibaut Courtois is BACK. 🧱",
-   "link": "https://t.me/RealMadridImportantOnly/833"
-  },
-  {
    "ts": 1793277444.0353012,
    "date": "2026-10-29",
    "tokens": [
