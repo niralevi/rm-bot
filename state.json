@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59579,
-  "themadridzone": 33494,
+  "themadridzone": 33497,
   "FabrizioRomanoTG": 67882
  },
  "sent": [
@@ -1379,6 +1379,39 @@
    "status": "rumour",
    "headline": "🚨 With Fede Valverde & Viní Jr. out of tomorrow's match, the captain will be whoever starts between Courtois …",
    "link": "https://t.me/RealMadridImportantOnly/881"
+  },
+  {
+   "ts": 1793462841.8890982,
+   "date": "2026-10-31",
+   "tokens": [
+    "bellingham",
+    "jude"
+   ],
+   "names": [
+    "bellingham",
+    "jude"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Jude Bellingham. ✈️",
+   "link": "https://t.me/RealMadridImportantOnly/882"
+  },
+  {
+   "ts": 1793462844.60125,
+   "date": "2026-10-31",
+   "tokens": [
+    "arda",
+    "guler",
+    "ready"
+   ],
+   "names": [
+    "arda",
+    "guler"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "Arda Güler is ready. 🪄",
+   "link": "https://t.me/RealMadridImportantOnly/883"
   }
  ],
  "offset": 769012044,
@@ -1386,8 +1419,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-31",
-  "calls": 60,
-  "tokens": 75545
+  "calls": 63,
+  "tokens": 79057
  },
  "summary_date": "2026-10-30",
  "opts": {
@@ -1414,8 +1447,8 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 83,
-  "transfer": 49,
+  "lineup": 84,
+  "transfer": 50,
   "stats": 1,
   "discipline": 23,
   "injury": 31,
