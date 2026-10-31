@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59575,
-  "themadridzone": 33444,
+  "themadridzone": 33447,
   "FabrizioRomanoTG": 67863
  },
  "sent": [
@@ -1395,6 +1395,30 @@
    "status": "rumour",
    "headline": "🚨 Endrick has NOT closed the door to a possible loan in January.",
    "link": "https://t.me/RealMadridImportantOnly/872"
+  },
+  {
+   "ts": 1793438726.464865,
+   "date": "2026-10-31",
+   "tokens": [
+    "diomande",
+    "kopa",
+    "ronaldinho",
+    "third",
+    "trophy",
+    "vot",
+    "yan"
+   ],
+   "names": [
+    "diomande",
+    "kopa",
+    "ronaldinho",
+    "trophy",
+    "yan"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 Ronaldinho voted Yan Diomande third in Kopa Trophy.",
+   "link": "https://t.me/RealMadridImportantOnly/873"
   }
  ],
  "offset": 769012044,
@@ -1402,8 +1426,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-31",
-  "calls": 8,
-  "tokens": 9888
+  "calls": 10,
+  "tokens": 12393
  },
  "summary_date": "2026-10-30",
  "opts": {
@@ -1436,7 +1460,7 @@
   "discipline": 22,
   "injury": 31,
   "coach": 24,
-  "awards": 84,
+  "awards": 85,
   "fixtures": 17
  }
 }
