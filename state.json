@@ -6,54 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793301501.1231196,
-   "date": "2026-10-29",
-   "tokens": [
-    "goal",
-    "kylian",
-    "liga",
-    "mbappe",
-    "month",
-    "nominat",
-    "official",
-    "sevilla"
-   ],
-   "names": [
-    "goal",
-    "kylian",
-    "mbappe",
-    "month",
-    "sevilla"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Kylian Mbappé’s goal vs Sevilla is nominated for La Liga Goal of the Month. 🚀",
-   "link": "https://t.me/RealMadridImportantOnly/844"
-  },
-  {
-   "ts": 1793301565.9822454,
-   "date": "2026-10-29",
-   "tokens": [
-    "diomande",
-    "liga",
-    "month",
-    "nominat",
-    "official",
-    "u23",
-    "yan"
-   ],
-   "names": [
-    "diomande",
-    "month",
-    "player",
-    "yan"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Yan Diomande is nominated for La Liga U23 Player of the Month. 💎",
-   "link": "https://t.me/RealMadridImportantOnly/845"
-  },
-  {
    "ts": 1793329971.0024483,
    "date": "2026-10-30",
    "tokens": [
