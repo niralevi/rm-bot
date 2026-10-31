@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59575,
-  "themadridzone": 33452,
+  "themadridzone": 33453,
   "FabrizioRomanoTG": 67865
  },
  "sent": [
@@ -1435,6 +1435,44 @@
    "status": "fact",
    "headline": "✂️🌎 Ukraine, Greece and Scotland journalists excluded Kylian Mbappé from Ballon d’Or top 10. 🇺🇦🇬🇷🏴󠁧󠁢󠁳󠁣󠁴󠁿 http…",
    "link": "https://t.me/RealMadridImportantOnly/874"
+  },
+  {
+   "ts": 1793446365.2895617,
+   "date": "2026-10-31",
+   "tokens": [
+    "3",
+    "award",
+    "ballon",
+    "cristiano",
+    "did",
+    "former",
+    "kopa",
+    "michel",
+    "platini",
+    "ronaldo",
+    "there",
+    "vote",
+    "who",
+    "winner",
+    "year",
+    "zidane",
+    "zinedine"
+   ],
+   "names": [
+    "ballon",
+    "cristiano",
+    "kopa",
+    "michel",
+    "platini",
+    "ronaldo",
+    "there",
+    "zidane",
+    "zinedine"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 JUST IN: There are 3 former Ballon d'Or winners who did NOT vote for Kopa award this year:",
+   "link": "https://t.me/RealMadridImportantOnly/875"
   }
  ],
  "offset": 769012044,
@@ -1442,8 +1480,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-31",
-  "calls": 15,
-  "tokens": 18769
+  "calls": 16,
+  "tokens": 20057
  },
  "summary_date": "2026-10-30",
  "opts": {
@@ -1476,7 +1514,7 @@
   "discipline": 22,
   "injury": 31,
   "coach": 24,
-  "awards": 86,
+  "awards": 87,
   "fixtures": 17
  }
 }
