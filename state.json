@@ -6,27 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793290700.9961536,
-   "date": "2026-10-29",
-   "tokens": [
-    "650",
-    "barcelona",
-    "behavior",
-    "clasico",
-    "fans",
-    "fin",
-    "set"
-   ],
-   "names": [
-    "barcelona",
-    "clasico"
-   ],
-   "cat": "discipline",
-   "status": "fact",
-   "headline": "🚨 Barcelona are set to be fined up to €650 for the behavior of their fans in El Clasico. @marca",
-   "link": "https://t.me/RealMadridImportantOnly/839"
-  },
-  {
    "ts": 1793291127.462857,
    "date": "2026-10-29",
    "tokens": [
