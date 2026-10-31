@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59575,
   "themadridzone": 33447,
-  "FabrizioRomanoTG": 67863
+  "FabrizioRomanoTG": 67864
  },
  "sent": [
   {
@@ -1419,6 +1419,42 @@
    "status": "fact",
    "headline": "🚨 Ronaldinho voted Yan Diomande third in Kopa Trophy.",
    "link": "https://t.me/RealMadridImportantOnly/873"
+  },
+  {
+   "ts": 1793440169.9775004,
+   "date": "2026-10-31",
+   "tokens": [
+    "10",
+    "2026",
+    "31",
+    "ballon",
+    "exclud",
+    "fabrizio",
+    "greece",
+    "journalist",
+    "kylian",
+    "mbappe",
+    "oct",
+    "romano",
+    "scotland",
+    "top",
+    "ukraine"
+   ],
+   "names": [
+    "ballon",
+    "fabrizio",
+    "greece",
+    "kylian",
+    "mbappe",
+    "oct",
+    "romano",
+    "scotland",
+    "ukraine"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "✂️🌎 Ukraine, Greece and Scotland journalists excluded Kylian Mbappé from Ballon d’Or top 10. 🇺🇦🇬🇷🏴󠁧󠁢󠁳󠁣󠁴󠁿 http…",
+   "link": "https://t.me/RealMadridImportantOnly/874"
   }
  ],
  "offset": 769012044,
@@ -1426,8 +1462,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-31",
-  "calls": 10,
-  "tokens": 12393
+  "calls": 11,
+  "tokens": 13800
  },
  "summary_date": "2026-10-30",
  "opts": {
@@ -1460,7 +1496,7 @@
   "discipline": 22,
   "injury": 31,
   "coach": 24,
-  "awards": 85,
+  "awards": 86,
   "fixtures": 17
  }
 }
