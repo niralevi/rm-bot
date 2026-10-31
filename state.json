@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59575,
-  "themadridzone": 33454,
+  "themadridzone": 33458,
   "FabrizioRomanoTG": 67865
  },
  "sent": [
@@ -1473,6 +1473,44 @@
    "status": "fact",
    "headline": "🚨 JUST IN: There are 3 former Ballon d'Or winners who did NOT vote for Kopa award this year:",
    "link": "https://t.me/RealMadridImportantOnly/875"
+  },
+  {
+   "ts": 1793447003.2376747,
+   "date": "2026-10-31",
+   "tokens": [
+    "ancelotti",
+    "andriy",
+    "ballon",
+    "be",
+    "benzema",
+    "carlo",
+    "coach",
+    "cristiano",
+    "kaka",
+    "karim",
+    "ronaldo",
+    "shevchenko",
+    "while",
+    "who",
+    "winner",
+    "won"
+   ],
+   "names": [
+    "ancelotti",
+    "andriy",
+    "ballon",
+    "benzema",
+    "carlo",
+    "cristiano",
+    "kaka",
+    "karim",
+    "ronaldo",
+    "shevchenko"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 Ballon d’Or winners who won while being coached by Carlo Ancelotti:",
+   "link": "https://t.me/RealMadridImportantOnly/876"
   }
  ],
  "offset": 769012044,
@@ -1480,8 +1518,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-31",
-  "calls": 17,
-  "tokens": 21317
+  "calls": 19,
+  "tokens": 23804
  },
  "summary_date": "2026-10-30",
  "opts": {
@@ -1514,7 +1552,7 @@
   "discipline": 22,
   "injury": 31,
   "coach": 24,
-  "awards": 87,
+  "awards": 88,
   "fixtures": 17
  }
 }
