@@ -6,38 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793246369.0400403,
-   "date": "2026-10-29",
-   "tokens": [
-    "ahead",
-    "alvaro",
-    "carrera",
-    "cucurella",
-    "however",
-    "jose",
-    "marc",
-    "mourinho",
-    "noteworthy",
-    "order",
-    "peck",
-    "performanc",
-    "right"
-   ],
-   "names": [
-    "alvaro",
-    "carreras",
-    "cucurella",
-    "however",
-    "jose",
-    "marc",
-    "mourinho"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 JUST IN: Marc Cucurella is ahead of Alvaro Carreras in the pecking order right now.",
-   "link": "https://t.me/RealMadridImportantOnly/820"
-  },
-  {
    "ts": 1793247922.8874865,
    "date": "2026-10-29",
    "tokens": [
