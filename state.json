@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59577,
-  "themadridzone": 33486,
+  "real_madrid": 59578,
+  "themadridzone": 33488,
   "FabrizioRomanoTG": 67870
  },
  "sent": [
@@ -1463,6 +1463,55 @@
    "status": "fact",
    "headline": "🚨 Ballon d’Or winners who won while being coached by Carlo Ancelotti:",
    "link": "https://t.me/RealMadridImportantOnly/876"
+  },
+  {
+   "ts": 1793454739.463434,
+   "date": "2026-10-31",
+   "tokens": [
+    "47",
+    "57",
+    "addres",
+    "average",
+    "bernardo",
+    "build",
+    "change",
+    "clasico",
+    "deeper",
+    "drop",
+    "exclud",
+    "figure",
+    "him",
+    "improv",
+    "jose",
+    "marca",
+    "midfield",
+    "mourinho",
+    "mov",
+    "pitch",
+    "play",
+    "possession",
+    "problem",
+    "role",
+    "silva",
+    "source",
+    "team",
+    "without"
+   ],
+   "names": [
+    "bernardo",
+    "clasico",
+    "jose",
+    "marca",
+    "mourinho",
+    "silva",
+    "source",
+    "with",
+    "without"
+   ],
+   "cat": "coach",
+   "status": "rumour",
+   "headline": "🚨 NEW: José Mourinho has moved Bernardo Silva into a deeper midfield role to address Real Madrid’s midfield p…",
+   "link": "https://t.me/RealMadridImportantOnly/877"
   }
  ],
  "offset": 769012044,
@@ -1470,8 +1519,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-31",
-  "calls": 47,
-  "tokens": 59137
+  "calls": 50,
+  "tokens": 62918
  },
  "summary_date": "2026-10-30",
  "opts": {
@@ -1503,7 +1552,7 @@
   "stats": 1,
   "discipline": 22,
   "injury": 31,
-  "coach": 24,
+  "coach": 25,
   "awards": 88,
   "fixtures": 17
  }
