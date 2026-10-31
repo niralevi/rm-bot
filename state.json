@@ -1,79 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59575,
-  "themadridzone": 33436,
+  "themadridzone": 33440,
   "FabrizioRomanoTG": 67859
  },
  "sent": [
-  {
-   "ts": 1793259146.785572,
-   "date": "2026-10-29",
-   "tokens": [
-    "2026",
-    "again",
-    "back",
-    "became",
-    "bernardo",
-    "coach",
-    "did",
-    "dream",
-    "ear",
-    "himself",
-    "jose",
-    "knew",
-    "month",
-    "mourinho",
-    "offer",
-    "open",
-    "play",
-    "silva",
-    "soon",
-    "then",
-    "think",
-    "worth"
-   ],
-   "names": [
-    "bernardo",
-    "jose",
-    "mourinho",
-    "silva"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 JUST IN: Bernardo Silva had OFFERED HIMSELF to Real Madrid in the early months of 2026, but Real Madrid did…",
-   "link": "https://t.me/RealMadridImportantOnly/825"
-  },
-  {
-   "ts": 1793259149.6375666,
-   "date": "2026-10-29",
-   "tokens": [
-    "atletico",
-    "barcelona",
-    "bernardo",
-    "circle",
-    "confid",
-    "confirm",
-    "gamble",
-    "inner",
-    "join",
-    "offer",
-    "previou",
-    "reject",
-    "risky",
-    "silva",
-    "worth"
-   ],
-   "names": [
-    "atletico",
-    "barcelona",
-    "bernardo",
-    "silva"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 CONFIRMED: Bernardo Silva REJECTED previous offers from Barcelona and Atletico Madrid to join Real Madrid.",
-   "link": "https://t.me/RealMadridImportantOnly/826"
-  },
   {
    "ts": 1793259309.2716987,
    "date": "2026-10-29",
@@ -1606,8 +1537,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-31",
-  "calls": 3,
-  "tokens": 3852
+  "calls": 5,
+  "tokens": 6270
  },
  "summary_date": "2026-10-30",
  "opts": {
