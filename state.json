@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59579,
-  "themadridzone": 33491,
+  "themadridzone": 33492,
   "FabrizioRomanoTG": 67878
  },
  "sent": [
@@ -1487,6 +1487,38 @@
    "status": "official",
    "headline": "📆 Madridistas, here’s our November calendar.",
    "link": "https://t.me/RealMadridImportantOnly/879"
+  },
+  {
+   "ts": 1793459069.0884812,
+   "date": "2026-10-31",
+   "tokens": [
+    "against",
+    "all",
+    "barcelona",
+    "card",
+    "crazy",
+    "current",
+    "decade",
+    "decision",
+    "last",
+    "red",
+    "refere",
+    "rmtv",
+    "season",
+    "show",
+    "shown",
+    "statistic",
+    "taken",
+    "wrong"
+   ],
+   "names": [
+    "also",
+    "barcelona"
+   ],
+   "cat": "discipline",
+   "status": "rumour",
+   "headline": "🚨 RMTV are currently showing all the wrong decisions taken against Real Madrid this season by the referees.",
+   "link": "https://t.me/RealMadridImportantOnly/880"
   }
  ],
  "offset": 769012044,
@@ -1494,8 +1526,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-31",
-  "calls": 57,
-  "tokens": 71853
+  "calls": 58,
+  "tokens": 73102
  },
  "summary_date": "2026-10-30",
  "opts": {
@@ -1525,7 +1557,7 @@
   "lineup": 82,
   "transfer": 49,
   "stats": 1,
-  "discipline": 22,
+  "discipline": 23,
   "injury": 31,
   "coach": 25,
   "awards": 88,
