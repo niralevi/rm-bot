@@ -6,40 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793294131.9175396,
-   "date": "2026-10-29",
-   "tokens": [
-    "alexander",
-    "arnold",
-    "club",
-    "does",
-    "however",
-    "january",
-    "league",
-    "leave",
-    "multiple",
-    "plan",
-    "premier",
-    "sign",
-    "stay",
-    "succe",
-    "trent",
-    "want"
-   ],
-   "names": [
-    "alexander",
-    "arnold",
-    "however",
-    "january",
-    "premier",
-    "trent"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨💣 BREAKING: MULTIPLE Premier League clubs want to sign Trent Alexander-Arnold in January.",
-   "link": "https://t.me/RealMadridImportantOnly/842"
-  },
-  {
    "ts": 1793301391.8262794,
    "date": "2026-10-29",
    "tokens": [
