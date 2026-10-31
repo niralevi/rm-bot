@@ -6,47 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793249128.8907673,
-   "date": "2026-10-29",
-   "tokens": [
-    "90",
-    "action",
-    "all",
-    "clasico",
-    "dean",
-    "decisive",
-    "defensive",
-    "deliver",
-    "doubt",
-    "duel",
-    "exact",
-    "focus",
-    "full",
-    "huijsen",
-    "jose",
-    "minut",
-    "mourinho",
-    "performance",
-    "place",
-    "seek",
-    "shut",
-    "starter",
-    "strong",
-    "type"
-   ],
-   "names": [
-    "clasico",
-    "dean",
-    "huijsen",
-    "jose",
-    "mourinho"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 NEW: In El Clasico, Dean Huijsen delivered the exact type of performance Jose Mourinho was seeking.",
-   "link": "https://t.me/RealMadridImportantOnly/822"
-  },
-  {
    "ts": 1793249614.1990662,
    "date": "2026-10-29",
    "tokens": [
