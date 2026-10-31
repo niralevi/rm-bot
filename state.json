@@ -1,25 +1,10 @@
 {
  "last_post": {
-  "real_madrid": 59575,
+  "real_madrid": 59577,
   "themadridzone": 33460,
   "FabrizioRomanoTG": 67865
  },
  "sent": [
-  {
-   "ts": 1793277444.0353012,
-   "date": "2026-10-29",
-   "tokens": [
-    "action",
-    "back"
-   ],
-   "names": [
-    "back"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "Back in action 🔜",
-   "link": "https://t.me/RealMadridImportantOnly/834"
-  },
   {
    "ts": 1793285394.7690587,
    "date": "2026-10-29",
@@ -1485,8 +1470,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-31",
-  "calls": 20,
-  "tokens": 25056
+  "calls": 21,
+  "tokens": 26358
  },
  "summary_date": "2026-10-30",
  "opts": {
