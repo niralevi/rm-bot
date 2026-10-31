@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59579,
-  "themadridzone": 33503,
+  "themadridzone": 33505,
   "FabrizioRomanoTG": 67887
  },
  "sent": [
@@ -1384,6 +1384,22 @@
    "status": "fact",
    "headline": "🎥 Fede Valverde and Aurelien Tchouaméni leave Real Madrid City.",
    "link": "https://t.me/RealMadridImportantOnly/887"
+  },
+  {
+   "ts": 1793468573.0039904,
+   "date": "2026-10-31",
+   "tokens": [
+    "official",
+    "rac",
+    "squad"
+   ],
+   "names": [
+    "racing"
+   ],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 Official: Real Madrid squad for Racing.",
+   "link": "https://t.me/RealMadridImportantOnly/888"
   }
  ],
  "offset": 769012044,
@@ -1391,8 +1407,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-31",
-  "calls": 69,
-  "tokens": 85742
+  "calls": 70,
+  "tokens": 86795
  },
  "summary_date": "2026-10-30",
  "opts": {
@@ -1419,7 +1435,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 87,
+  "lineup": 88,
   "transfer": 51,
   "stats": 1,
   "discipline": 23,
