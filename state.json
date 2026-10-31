@@ -1,26 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59575,
-  "themadridzone": 33458,
+  "themadridzone": 33460,
   "FabrizioRomanoTG": 67865
  },
  "sent": [
-  {
-   "ts": 1793275887.5807707,
-   "date": "2026-10-29",
-   "tokens": [
-    "kylian",
-    "mbappe"
-   ],
-   "names": [
-    "kylian",
-    "mbappe"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "Kylian Mbappé 🌟",
-   "link": "https://t.me/RealMadridImportantOnly/832"
-  },
   {
    "ts": 1793276133.9791055,
    "date": "2026-10-29",
@@ -1518,8 +1502,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-31",
-  "calls": 19,
-  "tokens": 23804
+  "calls": 20,
+  "tokens": 25056
  },
  "summary_date": "2026-10-30",
  "opts": {
