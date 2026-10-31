@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59578,
+  "real_madrid": 59579,
   "themadridzone": 33491,
   "FabrizioRomanoTG": 67875
  },
@@ -1535,6 +1535,24 @@
    "status": "official",
    "headline": "🚨 Fede Valverde will NOT play as RB tomorrow, Jose Mourinho has confirmed.",
    "link": "https://t.me/RealMadridImportantOnly/878"
+  },
+  {
+   "ts": 1793457990.971607,
+   "date": "2026-10-31",
+   "tokens": [
+    "calendar",
+    "here",
+    "madridista",
+    "november"
+   ],
+   "names": [
+    "madridistas",
+    "november"
+   ],
+   "cat": "fixtures",
+   "status": "official",
+   "headline": "📆 Madridistas, here’s our November calendar.",
+   "link": "https://t.me/RealMadridImportantOnly/879"
   }
  ],
  "offset": 769012044,
@@ -1542,8 +1560,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-31",
-  "calls": 54,
-  "tokens": 68024
+  "calls": 55,
+  "tokens": 69223
  },
  "summary_date": "2026-10-30",
  "opts": {
@@ -1577,6 +1595,6 @@
   "injury": 31,
   "coach": 25,
   "awards": 88,
-  "fixtures": 17
+  "fixtures": 18
  }
 }
