@@ -6,33 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793261317.367633,
-   "date": "2026-10-29",
-   "tokens": [
-    "2008",
-    "all",
-    "ballon",
-    "cost",
-    "cristiano",
-    "greatest",
-    "how",
-    "market",
-    "much",
-    "time",
-    "transfer"
-   ],
-   "names": [
-    "ballon",
-    "cristiano",
-    "greatest",
-    "how"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🧐 How much would the Greatest Ballon d'Or of all time, 2008 Cristiano, cost in today's transfer market?",
-   "link": "https://t.me/RealMadridImportantOnly/828"
-  },
-  {
    "ts": 1793265270.0024216,
    "date": "2026-10-29",
    "tokens": [
