@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59579,
-  "themadridzone": 33493,
+  "themadridzone": 33494,
   "FabrizioRomanoTG": 67882
  },
  "sent": [
@@ -1350,6 +1350,35 @@
    "status": "rumour",
    "headline": "🚨 RMTV are currently showing all the wrong decisions taken against Real Madrid this season by the referees.",
    "link": "https://t.me/RealMadridImportantOnly/880"
+  },
+  {
+   "ts": 1793461939.9371173,
+   "date": "2026-10-31",
+   "tokens": [
+    "between",
+    "captain",
+    "courtoi",
+    "fede",
+    "lunin",
+    "match",
+    "start",
+    "tomorrow",
+    "valverde",
+    "vini",
+    "whoever"
+   ],
+   "names": [
+    "courtois",
+    "fede",
+    "lunin",
+    "valverde",
+    "vini",
+    "with"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 With Fede Valverde & Viní Jr. out of tomorrow's match, the captain will be whoever starts between Courtois …",
+   "link": "https://t.me/RealMadridImportantOnly/881"
   }
  ],
  "offset": 769012044,
@@ -1357,8 +1386,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-31",
-  "calls": 59,
-  "tokens": 74320
+  "calls": 60,
+  "tokens": 75545
  },
  "summary_date": "2026-10-30",
  "opts": {
@@ -1385,7 +1414,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 82,
+  "lineup": 83,
   "transfer": 49,
   "stats": 1,
   "discipline": 23,
