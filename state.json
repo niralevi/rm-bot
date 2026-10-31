@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59579,
-  "themadridzone": 33501,
+  "themadridzone": 33502,
   "FabrizioRomanoTG": 67883
  },
  "sent": [
@@ -1386,6 +1386,38 @@
    "status": "rumour",
    "headline": "Endrick ⚔️",
    "link": "https://t.me/RealMadridImportantOnly/886"
+  },
+  {
+   "ts": 1793465128.7725987,
+   "date": "2026-10-31",
+   "tokens": [
+    "aurelien",
+    "both",
+    "city",
+    "expect",
+    "fede",
+    "includ",
+    "leave",
+    "match",
+    "rac",
+    "santander",
+    "squad",
+    "tchouameni",
+    "valverde"
+   ],
+   "names": [
+    "aurelien",
+    "city",
+    "fede",
+    "racing",
+    "santander",
+    "tchouameni",
+    "valverde"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🎥 Fede Valverde and Aurelien Tchouaméni leave Real Madrid City.",
+   "link": "https://t.me/RealMadridImportantOnly/887"
   }
  ],
  "offset": 769012044,
@@ -1393,8 +1425,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-10-31",
-  "calls": 67,
-  "tokens": 83569
+  "calls": 68,
+  "tokens": 84673
  },
  "summary_date": "2026-10-30",
  "opts": {
@@ -1421,7 +1453,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 86,
+  "lineup": 87,
   "transfer": 51,
   "stats": 1,
   "discipline": 23,
