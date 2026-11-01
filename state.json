@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59601,
-  "themadridzone": 33664,
+  "themadridzone": 33667,
   "FabrizioRomanoTG": 67903
  },
  "sent": [
@@ -1428,6 +1428,27 @@
    "status": "fact",
    "headline": "🚨 Arda Güler is OFF. Brahim Diaz is ON.",
    "link": "https://t.me/RealMadridImportantOnly/910"
+  },
+  {
+   "ts": 1793552185.53136,
+   "date": "2026-11-01",
+   "tokens": [
+    "bernardo",
+    "camavinga",
+    "eduardo",
+    "off",
+    "silva"
+   ],
+   "names": [
+    "bernardo",
+    "camavinga",
+    "eduardo",
+    "silva"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Bernardo Silva is OFF. Eduardo Camavinga is ON.",
+   "link": "https://t.me/RealMadridImportantOnly/911"
   }
  ],
  "offset": 769012044,
@@ -1435,8 +1456,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 150,
-  "tokens": 160881
+  "calls": 152,
+  "tokens": 162983
  },
  "summary_date": "2026-10-31",
  "opts": {
@@ -1463,7 +1484,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 99,
+  "lineup": 100,
   "transfer": 55,
   "stats": 1,
   "discipline": 24,
