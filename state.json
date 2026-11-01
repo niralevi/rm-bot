@@ -1,26 +1,10 @@
 {
  "last_post": {
-  "real_madrid": 59582,
+  "real_madrid": 59583,
   "themadridzone": 33547,
   "FabrizioRomanoTG": 67894
  },
  "sent": [
-  {
-   "ts": 1793358112.3579822,
-   "date": "2026-10-30",
-   "tokens": [
-    "cucurella",
-    "marc"
-   ],
-   "names": [
-    "cucurella",
-    "marc"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "Marc Cucurella ⭐️",
-   "link": "https://t.me/RealMadridImportantOnly/850"
-  },
   {
    "ts": 1793358779.7369924,
    "date": "2026-10-30",
@@ -1378,8 +1362,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 24,
-  "tokens": 26015
+  "calls": 25,
+  "tokens": 27098
  },
  "summary_date": "2026-10-31",
  "opts": {
