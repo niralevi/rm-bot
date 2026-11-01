@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59601,
-  "themadridzone": 33669,
+  "themadridzone": 33670,
   "FabrizioRomanoTG": 67903
  },
  "sent": [
@@ -1449,6 +1449,25 @@
    "status": "fact",
    "headline": "🚨 Bernardo Silva is OFF. Eduardo Camavinga is ON.",
    "link": "https://t.me/RealMadridImportantOnly/911"
+  },
+  {
+   "ts": 1793552667.6121588,
+   "date": "2026-11-01",
+   "tokens": [
+    "diomande",
+    "endrick",
+    "off",
+    "yan"
+   ],
+   "names": [
+    "diomande",
+    "endrick",
+    "yan"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Endrick is ON. Yan Diomande is OFF.",
+   "link": "https://t.me/RealMadridImportantOnly/912"
   }
  ],
  "offset": 769012044,
@@ -1456,8 +1475,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 154,
-  "tokens": 165090
+  "calls": 155,
+  "tokens": 166175
  },
  "summary_date": "2026-10-31",
  "opts": {
@@ -1484,7 +1503,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 100,
+  "lineup": 101,
   "transfer": 55,
   "stats": 1,
   "discipline": 24,
