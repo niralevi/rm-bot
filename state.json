@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59601,
-  "themadridzone": 33657,
+  "themadridzone": 33660,
   "FabrizioRomanoTG": 67903
  },
  "sent": [
@@ -1452,6 +1452,27 @@
    "status": "fact",
    "headline": "🚨 Camavinga, Espi, Endrick & Brahim are warming up.",
    "link": "https://t.me/RealMadridImportantOnly/909"
+  },
+  {
+   "ts": 1793551607.367837,
+   "date": "2026-11-01",
+   "tokens": [
+    "arda",
+    "brahim",
+    "diaz",
+    "guler",
+    "off"
+   ],
+   "names": [
+    "arda",
+    "brahim",
+    "diaz",
+    "guler"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Arda Güler is OFF. Brahim Diaz is ON.",
+   "link": "https://t.me/RealMadridImportantOnly/910"
   }
  ],
  "offset": 769012044,
@@ -1459,8 +1480,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 145,
-  "tokens": 155573
+  "calls": 147,
+  "tokens": 157677
  },
  "summary_date": "2026-10-31",
  "opts": {
@@ -1487,7 +1508,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 98,
+  "lineup": 99,
   "transfer": 55,
   "stats": 1,
   "discipline": 24,
