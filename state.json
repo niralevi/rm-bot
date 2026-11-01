@@ -6,50 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793358779.7369924,
-   "date": "2026-10-30",
-   "tokens": [
-    "alonso",
-    "benzema",
-    "casilla",
-    "cristiano",
-    "fac",
-    "granero",
-    "kaka",
-    "last",
-    "marcelo",
-    "ozil",
-    "pepe",
-    "rac",
-    "ramo",
-    "ronaldo",
-    "santander",
-    "start",
-    "time",
-    "varane"
-   ],
-   "names": [
-    "alonso",
-    "benzema",
-    "casillas",
-    "cristiano",
-    "granero",
-    "kaka",
-    "marcelo",
-    "ozil",
-    "pepe",
-    "racing",
-    "ramos",
-    "ronaldo",
-    "santander",
-    "varane"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🔙 Real Madrid’s starting XI the last time they faced Racing Santander:",
-   "link": "https://t.me/RealMadridImportantOnly/851"
-  },
-  {
    "ts": 1793359767.3444424,
    "date": "2026-10-30",
    "tokens": [
