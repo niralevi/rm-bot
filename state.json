@@ -6,34 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793387423.8196168,
-   "date": "2026-10-30",
-   "tokens": [
-    "1028",
-    "1055",
-    "27",
-    "ballon",
-    "harry",
-    "kane",
-    "kylian",
-    "mbappe",
-    "only",
-    "point",
-    "won"
-   ],
-   "names": [
-    "ballon",
-    "harry",
-    "kane",
-    "kylian",
-    "mbappe"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 BREAKING: Harry Kane won the Ballon d'Or over Kylian Mbappé for only 27 points.",
-   "link": "https://t.me/RealMadridImportantOnly/859"
-  },
-  {
    "ts": 1793387728.2819464,
    "date": "2026-10-30",
    "tokens": [
