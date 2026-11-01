@@ -6,33 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793390370.6557817,
-   "date": "2026-10-30",
-   "tokens": [
-    "8th",
-    "ballon",
-    "best",
-    "cup",
-    "england",
-    "journalist",
-    "ranking",
-    "scorer",
-    "top",
-    "vot",
-    "world"
-   ],
-   "names": [
-    "ballon",
-    "cup",
-    "england",
-    "world"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England's journalist voted their World Cup top scorer & best player as 8th in the Ballon d'Or ranking…",
-   "link": "https://t.me/RealMadridImportantOnly/867"
-  },
-  {
    "ts": 1793392646.632898,
    "date": "2026-10-30",
    "tokens": [
@@ -1285,7 +1258,7 @@
   "calls": 173,
   "tokens": 185244
  },
- "summary_date": "2026-10-31",
+ "summary_date": "2026-11-01",
  "opts": {
   "quiet": true,
   "summary": true
