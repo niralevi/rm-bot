@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59586,
-  "themadridzone": 33563,
+  "themadridzone": 33565,
   "FabrizioRomanoTG": 67894
  },
  "sent": [
@@ -1345,6 +1345,21 @@
    "status": "fact",
    "headline": "🚨 Real Madrid & England have won EVERY game with Trent starting this season:",
    "link": "https://t.me/RealMadridImportantOnly/899"
+  },
+  {
+   "ts": 1793542946.5583396,
+   "date": "2026-11-01",
+   "tokens": [
+    "arriv",
+    "best",
+    "midfielder",
+    "world"
+   ],
+   "names": [],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "The best midfielder in the world has arrived. 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+   "link": "https://t.me/RealMadridImportantOnly/900"
   }
  ],
  "offset": 769012044,
@@ -1352,8 +1367,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 40,
-  "tokens": 43366
+  "calls": 42,
+  "tokens": 45616
  },
  "summary_date": "2026-10-31",
  "opts": {
@@ -1381,7 +1396,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 95,
-  "transfer": 52,
+  "transfer": 53,
   "stats": 1,
   "discipline": 23,
   "injury": 31,
