@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59586,
-  "themadridzone": 33560,
+  "themadridzone": 33563,
   "FabrizioRomanoTG": 67894
  },
  "sent": [
@@ -1308,6 +1308,43 @@
    "status": "official",
    "headline": "🚨 Two changes from El Clasico XI:",
    "link": "https://t.me/RealMadridImportantOnly/898"
+  },
+  {
+   "ts": 1793542342.8743029,
+   "date": "2026-11-01",
+   "tokens": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "back",
+    "czechia",
+    "elche",
+    "england",
+    "every",
+    "game",
+    "inter",
+    "malaga",
+    "season",
+    "start",
+    "trent",
+    "villarreal",
+    "won"
+   ],
+   "names": [
+    "czechia",
+    "elche",
+    "england",
+    "inter",
+    "malaga",
+    "trent",
+    "villarreal"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Real Madrid & England have won EVERY game with Trent starting this season:",
+   "link": "https://t.me/RealMadridImportantOnly/899"
   }
  ],
  "offset": 769012044,
@@ -1315,8 +1352,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 38,
-  "tokens": 41079
+  "calls": 40,
+  "tokens": 43366
  },
  "summary_date": "2026-10-31",
  "opts": {
@@ -1343,7 +1380,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 94,
+  "lineup": 95,
   "transfer": 52,
   "stats": 1,
   "discipline": 23,
