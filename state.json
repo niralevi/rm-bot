@@ -6,38 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793345446.9359314,
-   "date": "2026-10-30",
-   "tokens": [
-    "2012",
-    "2026",
-    "27",
-    "82",
-    "against",
-    "chance",
-    "current",
-    "first",
-    "home",
-    "liga",
-    "rac",
-    "return",
-    "santander",
-    "season",
-    "since",
-    "time",
-    "unbeaten",
-    "winn"
-   ],
-   "names": [
-    "racing",
-    "santander"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "🚨 Real Madrid return to Racing Santander for the first time since 2012.",
-   "link": "https://t.me/RealMadridImportantOnly/848"
-  },
-  {
    "ts": 1793354358.4708607,
    "date": "2026-10-30",
    "tokens": [
