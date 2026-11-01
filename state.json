@@ -6,35 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793389657.4788866,
-   "date": "2026-10-30",
-   "tokens": [
-    "3",
-    "countri",
-    "greece",
-    "kylian",
-    "left",
-    "mbappe",
-    "scotland",
-    "these",
-    "three",
-    "top",
-    "ukraine"
-   ],
-   "names": [
-    "greece",
-    "kylian",
-    "mbappe",
-    "scotland",
-    "these",
-    "ukraine"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 BREAKING: These are the three countries that left Kylian Mbappé out of their top 3",
-   "link": "https://t.me/RealMadridImportantOnly/865"
-  },
-  {
    "ts": 1793390125.450932,
    "date": "2026-10-30",
    "tokens": [
