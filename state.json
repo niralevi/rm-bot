@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59593,
-  "themadridzone": 33603,
+  "real_madrid": 59595,
+  "themadridzone": 33608,
   "FabrizioRomanoTG": 67896
  },
  "sent": [
@@ -1352,6 +1352,22 @@
    "status": "fact",
    "headline": "🚨 Endrick is warming up.",
    "link": "https://t.me/RealMadridImportantOnly/904"
+  },
+  {
+   "ts": 1793547557.3888788,
+   "date": "2026-11-01",
+   "tokens": [
+    "jose",
+    "mourinho"
+   ],
+   "names": [
+    "jose",
+    "mourinho"
+   ],
+   "cat": "coach",
+   "status": "rumour",
+   "headline": "Jose Mourinho. 🧠",
+   "link": "https://t.me/RealMadridImportantOnly/905"
   }
  ],
  "offset": 769012044,
@@ -1359,8 +1375,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 84,
-  "tokens": 91051
+  "calls": 90,
+  "tokens": 97293
  },
  "summary_date": "2026-10-31",
  "opts": {
@@ -1392,7 +1408,7 @@
   "stats": 1,
   "discipline": 23,
   "injury": 33,
-  "coach": 25,
+  "coach": 26,
   "awards": 88,
   "fixtures": 20
  }
