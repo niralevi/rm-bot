@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59595,
-  "themadridzone": 33617,
+  "themadridzone": 33619,
   "FabrizioRomanoTG": 67900
  },
  "sent": [
@@ -1368,6 +1368,28 @@
    "status": "rumour",
    "headline": "Jose Mourinho. 🧠",
    "link": "https://t.me/RealMadridImportantOnly/905"
+  },
+  {
+   "ts": 1793548340.827733,
+   "date": "2026-11-01",
+   "tokens": [
+    "arda",
+    "belocian",
+    "card",
+    "chest",
+    "elbow",
+    "guler",
+    "yellow"
+   ],
+   "names": [
+    "arda",
+    "belocian",
+    "guler"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "Arda Güler elbowed in the chest, yellow card to Belocian.",
+   "link": "https://t.me/RealMadridImportantOnly/906"
   }
  ],
  "offset": 769012044,
@@ -1375,8 +1397,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 100,
-  "tokens": 107918
+  "calls": 102,
+  "tokens": 110002
  },
  "summary_date": "2026-10-31",
  "opts": {
@@ -1406,7 +1428,7 @@
   "lineup": 96,
   "transfer": 54,
   "stats": 1,
-  "discipline": 23,
+  "discipline": 24,
   "injury": 33,
   "coach": 26,
   "awards": 88,
