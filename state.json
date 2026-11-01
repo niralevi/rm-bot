@@ -6,23 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793388933.2206528,
-   "date": "2026-10-30",
-   "tokens": [
-    "10",
-    "ballon",
-    "point",
-    "top"
-   ],
-   "names": [
-    "ballon"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 The points of Ballon d'Or top 10. @lequipe",
-   "link": "https://t.me/RealMadridImportantOnly/864"
-  },
-  {
    "ts": 1793389657.4788866,
    "date": "2026-10-30",
    "tokens": [
