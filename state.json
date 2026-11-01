@@ -1,55 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59601,
-  "themadridzone": 33662,
+  "themadridzone": 33664,
   "FabrizioRomanoTG": 67903
  },
  "sent": [
-  {
-   "ts": 1793379040.231637,
-   "date": "2026-10-30",
-   "tokens": [
-    "another",
-    "build",
-    "can",
-    "desperate",
-    "espanyol",
-    "even",
-    "host",
-    "keep",
-    "meanwhile",
-    "momentum",
-    "need",
-    "pick",
-    "point",
-    "ready",
-    "relegation",
-    "rid",
-    "secure",
-    "steam",
-    "streak",
-    "stuck",
-    "submarine",
-    "victory",
-    "villarreal",
-    "visitor",
-    "winn",
-    "yellow",
-    "zone"
-   ],
-   "names": [
-    "can",
-    "espanyol",
-    "meanwhile",
-    "submarine",
-    "villarreal",
-    "yellow"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "🟡🇪🇸The Yellow Submarine picking up steam  Villarreal is riding a winning streak and ready to secure another v…",
-   "link": "https://t.me/RealMadridImportantOnly/857"
-  },
   {
    "ts": 1793384908.0139723,
    "date": "2026-10-30",
@@ -1480,8 +1435,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 149,
-  "tokens": 159839
+  "calls": 150,
+  "tokens": 160881
  },
  "summary_date": "2026-10-31",
  "opts": {
