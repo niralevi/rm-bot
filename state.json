@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59597,
-  "themadridzone": 33623,
+  "real_madrid": 59598,
+  "themadridzone": 33631,
   "FabrizioRomanoTG": 67900
  },
  "sent": [
@@ -1390,6 +1390,28 @@
    "status": "fact",
    "headline": "Arda Güler elbowed in the chest, yellow card to Belocian.",
    "link": "https://t.me/RealMadridImportantOnly/906"
+  },
+  {
+   "ts": 1793548704.2461245,
+   "date": "2026-11-01",
+   "tokens": [
+    "dean",
+    "huijsen",
+    "kylian",
+    "mbappe",
+    "trent"
+   ],
+   "names": [
+    "dean",
+    "huijsen",
+    "kylian",
+    "mbappe",
+    "trent"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "Trent x Kylian Mbappé x Dean Huijsen 🩷",
+   "link": "https://t.me/RealMadridImportantOnly/907"
   }
  ],
  "offset": 769012044,
@@ -1397,8 +1419,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 108,
-  "tokens": 116256
+  "calls": 116,
+  "tokens": 124787
  },
  "summary_date": "2026-10-31",
  "opts": {
@@ -1425,7 +1447,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 96,
+  "lineup": 97,
   "transfer": 54,
   "stats": 1,
   "discipline": 24,
