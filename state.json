@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59586,
-  "themadridzone": 33578,
+  "themadridzone": 33582,
   "FabrizioRomanoTG": 67894
  },
  "sent": [
@@ -1376,6 +1376,21 @@
    "status": "rumour",
    "headline": "Ibrahima Konate. 🤍",
    "link": "https://t.me/RealMadridImportantOnly/901"
+  },
+  {
+   "ts": 1793545107.031414,
+   "date": "2026-11-01",
+   "tokens": [
+    "jude",
+    "ready"
+   ],
+   "names": [
+    "jude"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "Jude is READY. 🩷",
+   "link": "https://t.me/RealMadridImportantOnly/902"
   }
  ],
  "offset": 769012044,
@@ -1383,8 +1398,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 53,
-  "tokens": 57782
+  "calls": 57,
+  "tokens": 62199
  },
  "summary_date": "2026-10-31",
  "opts": {
@@ -1415,7 +1430,7 @@
   "transfer": 54,
   "stats": 1,
   "discipline": 23,
-  "injury": 31,
+  "injury": 32,
   "coach": 25,
   "awards": 88,
   "fixtures": 20
