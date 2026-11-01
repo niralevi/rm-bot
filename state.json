@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59602,
-  "themadridzone": 33744,
+  "themadridzone": 33745,
   "FabrizioRomanoTG": 67911
  },
  "sent": [
@@ -1175,6 +1175,43 @@
    "status": "fact",
    "headline": "🚨 During the Racing vs Real Madrid match, a 64-year-old person suffered a heart attack in the stands.",
    "link": "https://t.me/RealMadridImportantOnly/918"
+  },
+  {
+   "ts": 1793565900.8655214,
+   "date": "2026-11-01",
+   "tokens": [
+    "11",
+    "2",
+    "6",
+    "61",
+    "8",
+    "9",
+    "96",
+    "accuracy",
+    "aurelien",
+    "ball",
+    "carri",
+    "clearanc",
+    "contribution",
+    "defensive",
+    "interception",
+    "long",
+    "monster",
+    "pass",
+    "rac",
+    "recoveri",
+    "tchouameni",
+    "touch"
+   ],
+   "names": [
+    "aurelien",
+    "racing",
+    "tchouameni"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🚨 Aurélien Tchouaméni vs Racing:",
+   "link": "https://t.me/RealMadridImportantOnly/920"
   }
  ],
  "offset": 769012044,
@@ -1214,7 +1251,7 @@
   "transfer": 55,
   "stats": 1,
   "discipline": 25,
-  "injury": 37,
+  "injury": 38,
   "coach": 26,
   "awards": 88,
   "fixtures": 20
