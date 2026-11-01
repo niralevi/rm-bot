@@ -1,42 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59585,
-  "themadridzone": 33558,
+  "themadridzone": 33560,
   "FabrizioRomanoTG": 67894
  },
  "sent": [
-  {
-   "ts": 1793368907.0538068,
-   "date": "2026-10-30",
-   "tokens": [
-    "1",
-    "16",
-    "2",
-    "4",
-    "5",
-    "6",
-    "clean",
-    "conced",
-    "draw",
-    "gam",
-    "goal",
-    "jose",
-    "mourinho",
-    "rac",
-    "scor",
-    "sheet",
-    "wins"
-   ],
-   "names": [
-    "jose",
-    "mourinho",
-    "racing"
-   ],
-   "cat": "coach",
-   "status": "fact",
-   "headline": "🚨 Jose Mourinho vs Racing Club:",
-   "link": "https://t.me/RealMadridImportantOnly/854"
-  },
   {
    "ts": 1793373090.1276608,
    "date": "2026-10-30",
@@ -1347,8 +1315,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 36,
-  "tokens": 38908
+  "calls": 37,
+  "tokens": 40008
  },
  "summary_date": "2026-10-31",
  "opts": {
