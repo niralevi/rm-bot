@@ -1,36 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59587,
-  "themadridzone": 33588,
+  "themadridzone": 33589,
   "FabrizioRomanoTG": 67894
  },
  "sent": [
-  {
-   "ts": 1793373745.755314,
-   "date": "2026-10-30",
-   "tokens": [
-    "19yo",
-    "almost",
-    "castilla",
-    "close",
-    "deal",
-    "done",
-    "issman",
-    "latif",
-    "midfielder",
-    "sign",
-    "talent"
-   ],
-   "names": [
-    "castilla",
-    "issman",
-    "latif"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 BREAKING: Real Madrid are VERY CLOSE to signing talented 19yo midfielder Latif Issman for Castilla.",
-   "link": "https://t.me/RealMadridImportantOnly/856"
-  },
   {
    "ts": 1793379040.231637,
    "date": "2026-10-30",
@@ -1354,8 +1328,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 63,
-  "tokens": 68769
+  "calls": 64,
+  "tokens": 69835
  },
  "summary_date": "2026-10-31",
  "opts": {
