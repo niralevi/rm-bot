@@ -1,8 +1,8 @@
 {
  "last_post": {
-  "real_madrid": 59587,
-  "themadridzone": 33589,
-  "FabrizioRomanoTG": 67894
+  "real_madrid": 59590,
+  "themadridzone": 33593,
+  "FabrizioRomanoTG": 67896
  },
  "sent": [
   {
@@ -1321,6 +1321,37 @@
    "status": "fact",
    "headline": "Jude is READY. 🩷",
    "link": "https://t.me/RealMadridImportantOnly/902"
+  },
+  {
+   "ts": 1793546726.409112,
+   "date": "2026-11-01",
+   "tokens": [
+    "7",
+    "diomande",
+    "limp"
+   ],
+   "names": [
+    "diomande"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "7’ Diomande is limping.",
+   "link": "https://t.me/RealMadridImportantOnly/903"
+  },
+  {
+   "ts": 1793546798.1954982,
+   "date": "2026-11-01",
+   "tokens": [
+    "endrick",
+    "warm"
+   ],
+   "names": [
+    "endrick"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Endrick is warming up.",
+   "link": "https://t.me/RealMadridImportantOnly/904"
   }
  ],
  "offset": 769012044,
@@ -1328,8 +1359,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 64,
-  "tokens": 69835
+  "calls": 71,
+  "tokens": 77338
  },
  "summary_date": "2026-10-31",
  "opts": {
@@ -1356,11 +1387,11 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 95,
+  "lineup": 96,
   "transfer": 54,
   "stats": 1,
   "discipline": 23,
-  "injury": 32,
+  "injury": 33,
   "coach": 25,
   "awards": 88,
   "fixtures": 20
