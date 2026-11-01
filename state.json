@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59580,
-  "themadridzone": 33536,
+  "themadridzone": 33538,
   "FabrizioRomanoTG": 67894
  },
  "sent": [
@@ -1360,6 +1360,27 @@
    "status": "rumour",
    "headline": "🚨💣 BREAKING: Real Madrid are VERY CLOSELY MONITORING Bart Verbruggen as a potential long-term replacement for…",
    "link": "https://t.me/RealMadridImportantOnly/893"
+  },
+  {
+   "ts": 1793525368.3437586,
+   "date": "2026-11-01",
+   "tokens": [
+    "home",
+    "lose",
+    "rac",
+    "reminder",
+    "santander",
+    "season",
+    "yet"
+   ],
+   "names": [
+    "racing",
+    "santander"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "🚨 REMINDER: Racing Santander are yet to lose at home this season.",
+   "link": "https://t.me/RealMadridImportantOnly/894"
   }
  ],
  "offset": 769012044,
@@ -1367,8 +1388,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 16,
-  "tokens": 17453
+  "calls": 17,
+  "tokens": 18541
  },
  "summary_date": "2026-10-31",
  "opts": {
@@ -1402,6 +1423,6 @@
   "injury": 31,
   "coach": 25,
   "awards": 88,
-  "fixtures": 18
+  "fixtures": 19
  }
 }
