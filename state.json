@@ -1,34 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59602,
-  "themadridzone": 33719,
-  "FabrizioRomanoTG": 67905
+  "themadridzone": 33721,
+  "FabrizioRomanoTG": 67906
  },
  "sent": [
-  {
-   "ts": 1793384908.0139723,
-   "date": "2026-10-30",
-   "tokens": [
-    "2",
-    "ballon",
-    "clause",
-    "contract",
-    "diomande",
-    "leipzig",
-    "pay",
-    "wins",
-    "yan"
-   ],
-   "names": [
-    "diomande",
-    "leipzig",
-    "yan"
-   ],
-   "cat": "awards",
-   "status": "rumour",
-   "headline": "🚨💣 JUST IN: Yan Diomande has a BALLON D’OR clause in his contract.",
-   "link": "https://t.me/RealMadridImportantOnly/858"
-  },
   {
    "ts": 1793387423.8196168,
    "date": "2026-10-30",
