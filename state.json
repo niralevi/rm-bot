@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59601,
-  "themadridzone": 33700,
+  "real_madrid": 59602,
+  "themadridzone": 33703,
   "FabrizioRomanoTG": 67904
  },
  "sent": [
@@ -1584,6 +1584,28 @@
    "status": "rumour",
    "headline": "🚨 José Mourinho: \"I love this stadium, and I love Racing fans.",
    "link": "https://t.me/RealMadridImportantOnly/915"
+  },
+  {
+   "ts": 1793555127.5645733,
+   "date": "2026-11-01",
+   "tokens": [
+    "1",
+    "end",
+    "game",
+    "left",
+    "liga",
+    "only",
+    "suspension",
+    "vini"
+   ],
+   "names": [
+    "only",
+    "vini"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "🚨 Only 1 game left for Vini Jr's suspension to end in La Liga!",
+   "link": "https://t.me/RealMadridImportantOnly/916"
   }
  ],
  "offset": 769012044,
@@ -1622,7 +1644,7 @@
   "lineup": 102,
   "transfer": 55,
   "stats": 1,
-  "discipline": 24,
+  "discipline": 25,
   "injury": 35,
   "coach": 26,
   "awards": 88,
