@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59585,
-  "themadridzone": 33554,
+  "themadridzone": 33556,
   "FabrizioRomanoTG": 67894
  },
  "sent": [
@@ -1255,6 +1255,34 @@
    "status": "fact",
    "headline": "Matchday in Santander.",
    "link": "https://t.me/RealMadridImportantOnly/895"
+  },
+  {
+   "ts": 1793541384.4791288,
+   "date": "2026-11-01",
+   "tokens": [
+    "bellingham",
+    "carlo",
+    "dean",
+    "espi",
+    "huijsen",
+    "jude",
+    "pitarch",
+    "thiago"
+   ],
+   "names": [
+    "bellingham",
+    "carlos",
+    "dean",
+    "espi",
+    "huijsen",
+    "jude",
+    "pitarch",
+    "thiago"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "Jude Bellingham x Dean Huijsen x Thiago Pitarch x Carlos Espí 💫",
+   "link": "https://t.me/RealMadridImportantOnly/896"
   }
  ],
  "offset": 769012044,
@@ -1262,8 +1290,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 32,
-  "tokens": 34589
+  "calls": 34,
+  "tokens": 36729
  },
  "summary_date": "2026-10-31",
  "opts": {
@@ -1290,7 +1318,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 91,
+  "lineup": 92,
   "transfer": 52,
   "stats": 1,
   "discipline": 23,
