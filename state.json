@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59585,
-  "themadridzone": 33556,
+  "themadridzone": 33558,
   "FabrizioRomanoTG": 67894
  },
  "sent": [
@@ -1283,6 +1283,63 @@
    "status": "fact",
    "headline": "Jude Bellingham x Dean Huijsen x Thiago Pitarch x Carlos Espí 💫",
    "link": "https://t.me/RealMadridImportantOnly/896"
+  },
+  {
+   "ts": 1793541500.7360315,
+   "date": "2026-11-01",
+   "tokens": [
+    "alexander",
+    "arnold",
+    "rac",
+    "start",
+    "trent"
+   ],
+   "names": [
+    "alexander",
+    "arnold",
+    "racing",
+    "trent"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 BREAKING: Trent Alexander-Arnold STARTS vs Racing.",
+   "link": "https://t.me/RealMadridImportantOnly/897",
+   "superseded": true
+  },
+  {
+   "ts": 1793541565.241937,
+   "date": "2026-11-01",
+   "tokens": [
+    "alexander",
+    "andriy",
+    "arnold",
+    "chang",
+    "clasico",
+    "courtoi",
+    "fede",
+    "lunin",
+    "thibaut",
+    "trent",
+    "two",
+    "valverde"
+   ],
+   "names": [
+    "alexander",
+    "andriy",
+    "arnold",
+    "clasico",
+    "courtois",
+    "fede",
+    "lunin",
+    "thibaut",
+    "trent",
+    "two",
+    "valverde"
+   ],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 Two changes from El Clasico XI:",
+   "link": "https://t.me/RealMadridImportantOnly/898"
   }
  ],
  "offset": 769012044,
@@ -1290,8 +1347,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 34,
-  "tokens": 36729
+  "calls": 36,
+  "tokens": 38908
  },
  "summary_date": "2026-10-31",
  "opts": {
@@ -1318,7 +1375,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 92,
+  "lineup": 94,
   "transfer": 52,
   "stats": 1,
   "discipline": 23,
