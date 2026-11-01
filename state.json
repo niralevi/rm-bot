@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59580,
-  "themadridzone": 33520,
+  "themadridzone": 33523,
   "FabrizioRomanoTG": 67891
  },
  "sent": [
@@ -1312,7 +1312,8 @@
    "cat": "lineup",
    "status": "rumour",
    "headline": "🚨 Real Madrid's expected XI vs Racing. @diarioas",
-   "link": "https://t.me/RealMadridImportantOnly/889"
+   "link": "https://t.me/RealMadridImportantOnly/889",
+   "superseded": true
   },
   {
    "ts": 1793478207.2591436,
@@ -1335,6 +1336,36 @@
    "status": "rumour",
    "headline": "🚨 BREAKING: Denzel Dumfries is set to START for Real Madrid at RB tomorrow.",
    "link": "https://t.me/RealMadridImportantOnly/891"
+  },
+  {
+   "ts": 1793513247.38195,
+   "date": "2026-11-01",
+   "tokens": [
+    "aurelien",
+    "bernardo",
+    "confirm",
+    "denzel",
+    "dumfri",
+    "pivot",
+    "rac",
+    "rightback",
+    "silva",
+    "start",
+    "tchouameni"
+   ],
+   "names": [
+    "aurelien",
+    "bernardo",
+    "denzel",
+    "dumfries",
+    "racing",
+    "silva",
+    "tchouameni"
+   ],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 CONFIRMED: Real Madrid’s pivot vs Racing will be Bernardo Silva and Aurelien Tchouaméni.",
+   "link": "https://t.me/RealMadridImportantOnly/892"
   }
  ],
  "offset": 769012044,
@@ -1342,8 +1373,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 6,
-  "tokens": 6536
+  "calls": 8,
+  "tokens": 8732
  },
  "summary_date": "2026-10-31",
  "opts": {
@@ -1370,7 +1401,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 90,
+  "lineup": 91,
   "transfer": 51,
   "stats": 1,
   "discipline": 23,
