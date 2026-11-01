@@ -1,29 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59583,
-  "themadridzone": 33548,
+  "themadridzone": 33549,
   "FabrizioRomanoTG": 67894
  },
  "sent": [
-  {
-   "ts": 1793359767.3444424,
-   "date": "2026-10-30",
-   "tokens": [
-    "fede",
-    "individual",
-    "pitch",
-    "train",
-    "valverde"
-   ],
-   "names": [
-    "fede",
-    "valverde"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨 UPDATE: Fede Valverde training individually on the pitch today. 🏃‍♂️",
-   "link": "https://t.me/RealMadridImportantOnly/852"
-  },
   {
    "ts": 1793361502.6652758,
    "date": "2026-10-30",
@@ -1318,8 +1299,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 26,
-  "tokens": 28152
+  "calls": 27,
+  "tokens": 29224
  },
  "summary_date": "2026-10-31",
  "opts": {
