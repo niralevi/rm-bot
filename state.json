@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59601,
-  "themadridzone": 33670,
+  "themadridzone": 33671,
   "FabrizioRomanoTG": 67903
  },
  "sent": [
@@ -1468,6 +1468,28 @@
    "status": "fact",
    "headline": "🚨 Endrick is ON. Yan Diomande is OFF.",
    "link": "https://t.me/RealMadridImportantOnly/912"
+  },
+  {
+   "ts": 1793552908.1257467,
+   "date": "2026-11-01",
+   "tokens": [
+    "brahim",
+    "endrick",
+    "few",
+    "last",
+    "mbappe",
+    "minut",
+    "these"
+   ],
+   "names": [
+    "brahim",
+    "endrick",
+    "mbappe"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Brahim LW, Mbappe ST, Endrick RW in these last few minutes.",
+   "link": "https://t.me/RealMadridImportantOnly/913"
   }
  ],
  "offset": 769012044,
@@ -1475,8 +1497,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 155,
-  "tokens": 166175
+  "calls": 156,
+  "tokens": 167258
  },
  "summary_date": "2026-10-31",
  "opts": {
@@ -1503,7 +1525,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 101,
+  "lineup": 102,
   "transfer": 55,
   "stats": 1,
   "discipline": 24,
