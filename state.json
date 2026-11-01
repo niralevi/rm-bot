@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59598,
-  "themadridzone": 33641,
+  "themadridzone": 33644,
   "FabrizioRomanoTG": 67902
  },
  "sent": [
@@ -1412,6 +1412,25 @@
    "status": "fact",
    "headline": "Trent x Kylian Mbappé x Dean Huijsen 🩷",
    "link": "https://t.me/RealMadridImportantOnly/907"
+  },
+  {
+   "ts": 1793549607.0848453,
+   "date": "2026-11-01",
+   "tokens": [
+    "140m",
+    "another",
+    "diomande",
+    "leipzig",
+    "right",
+    "send",
+    "superstar",
+    "yan"
+   ],
+   "names": [],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "SEND RB LEIPZIG ANOTHER €140M RIGHT NOW.",
+   "link": "https://t.me/RealMadridImportantOnly/908"
   }
  ],
  "offset": 769012044,
@@ -1419,8 +1438,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 127,
-  "tokens": 136425
+  "calls": 129,
+  "tokens": 138555
  },
  "summary_date": "2026-10-31",
  "opts": {
@@ -1448,7 +1467,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 97,
-  "transfer": 54,
+  "transfer": 55,
   "stats": 1,
   "discipline": 24,
   "injury": 33,
