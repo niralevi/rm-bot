@@ -6,35 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793329971.0024483,
-   "date": "2026-10-30",
-   "tokens": [
-    "back",
-    "best",
-    "come",
-    "conduct",
-    "do",
-    "double",
-    "everyday",
-    "everyth",
-    "form",
-    "giv",
-    "recover",
-    "scientific",
-    "session",
-    "train",
-    "vini",
-    "work"
-   ],
-   "names": [
-    "vini"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨 NEW: Viní Jr. is conducting scientific work with the club to recover his best form.",
-   "link": "https://t.me/RealMadridImportantOnly/847"
-  },
-  {
    "ts": 1793345446.9359314,
    "date": "2026-10-30",
    "tokens": [
