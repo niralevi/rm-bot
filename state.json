@@ -6,26 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793394886.1745822,
-   "date": "2026-10-30",
-   "tokens": [
-    "duo",
-    "everyone",
-    "fit",
-    "should",
-    "start",
-    "when",
-    "who"
-   ],
-   "names": [
-    "when"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "When everyone is fit, who should be Real Madrid's starting CB duo?",
-   "link": "https://t.me/RealMadridImportantOnly/870"
-  },
-  {
    "ts": 1793395269.078372,
    "date": "2026-10-30",
    "tokens": [
