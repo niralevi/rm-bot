@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59580,
-  "themadridzone": 33523,
+  "themadridzone": 33525,
   "FabrizioRomanoTG": 67891
  },
  "sent": [
@@ -1366,6 +1366,32 @@
    "status": "official",
    "headline": "🚨 CONFIRMED: Real Madrid’s pivot vs Racing will be Bernardo Silva and Aurelien Tchouaméni.",
    "link": "https://t.me/RealMadridImportantOnly/892"
+  },
+  {
+   "ts": 1793514924.207966,
+   "date": "2026-11-01",
+   "tokens": [
+    "bart",
+    "close",
+    "courtoi",
+    "long",
+    "monitor",
+    "potential",
+    "replacement",
+    "term",
+    "thibaut",
+    "verbruggen"
+   ],
+   "names": [
+    "bart",
+    "courtois",
+    "thibaut",
+    "verbruggen"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨💣 BREAKING: Real Madrid are VERY CLOSELY MONITORING Bart Verbruggen as a potential long-term replacement for…",
+   "link": "https://t.me/RealMadridImportantOnly/893"
   }
  ],
  "offset": 769012044,
@@ -1373,8 +1399,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-01",
-  "calls": 8,
-  "tokens": 8732
+  "calls": 9,
+  "tokens": 9828
  },
  "summary_date": "2026-10-31",
  "opts": {
@@ -1402,7 +1428,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 91,
-  "transfer": 51,
+  "transfer": 52,
   "stats": 1,
   "discipline": 23,
   "injury": 31,
