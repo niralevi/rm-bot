@@ -6,38 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793465128.7725987,
-   "date": "2026-10-31",
-   "tokens": [
-    "aurelien",
-    "both",
-    "city",
-    "expect",
-    "fede",
-    "includ",
-    "leave",
-    "match",
-    "rac",
-    "santander",
-    "squad",
-    "tchouameni",
-    "valverde"
-   ],
-   "names": [
-    "aurelien",
-    "city",
-    "fede",
-    "racing",
-    "santander",
-    "tchouameni",
-    "valverde"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🎥 Fede Valverde and Aurelien Tchouaméni leave Real Madrid City.",
-   "link": "https://t.me/RealMadridImportantOnly/887"
-  },
-  {
    "ts": 1793468573.0039904,
    "date": "2026-10-31",
    "tokens": [
