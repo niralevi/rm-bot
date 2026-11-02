@@ -1,26 +1,10 @@
 {
  "last_post": {
-  "real_madrid": 59617,
+  "real_madrid": 59618,
   "themadridzone": 33835,
   "FabrizioRomanoTG": 67941
  },
  "sent": [
-  {
-   "ts": 1793474070.2249396,
-   "date": "2026-10-31",
-   "tokens": [
-    "expect",
-    "rac"
-   ],
-   "names": [
-    "racing"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 Real Madrid's expected XI vs Racing. @diarioas",
-   "link": "https://t.me/RealMadridImportantOnly/889",
-   "superseded": true
-  },
   {
    "ts": 1793478207.2591436,
    "date": "2026-10-31",
@@ -1074,8 +1058,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-02",
-  "calls": 72,
-  "tokens": 83191
+  "calls": 73,
+  "tokens": 84530
  },
  "summary_date": "2026-11-01",
  "opts": {
