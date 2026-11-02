@@ -6,39 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793462841.8890982,
-   "date": "2026-10-31",
-   "tokens": [
-    "bellingham",
-    "jude"
-   ],
-   "names": [
-    "bellingham",
-    "jude"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "Jude Bellingham. ✈️",
-   "link": "https://t.me/RealMadridImportantOnly/882"
-  },
-  {
-   "ts": 1793462844.60125,
-   "date": "2026-10-31",
-   "tokens": [
-    "arda",
-    "guler",
-    "ready"
-   ],
-   "names": [
-    "arda",
-    "guler"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "Arda Güler is ready. 🪄",
-   "link": "https://t.me/RealMadridImportantOnly/883"
-  },
-  {
    "ts": 1793464400.350678,
    "date": "2026-10-31",
    "tokens": [
