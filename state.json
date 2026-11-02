@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59602,
-  "themadridzone": 33769,
+  "themadridzone": 33770,
   "FabrizioRomanoTG": 67911
  },
  "sent": [
@@ -1210,6 +1210,50 @@
    "status": "rumour",
    "headline": "🚨 NEW: If a player wants to leave and Jose Mourinho approves, the club could allow a departure in January.",
    "link": "https://t.me/RealMadridImportantOnly/923"
+  },
+  {
+   "ts": 1793600545.4157932,
+   "date": "2026-11-02",
+   "tokens": [
+    "2011",
+    "2013",
+    "actual",
+    "adebayor",
+    "aris",
+    "brahim",
+    "diaz",
+    "diego",
+    "due",
+    "emmanuel",
+    "get",
+    "january",
+    "jose",
+    "last",
+    "lopez",
+    "manager",
+    "mourinho",
+    "opportunity",
+    "rather",
+    "request",
+    "sign",
+    "signing",
+    "than"
+   ],
+   "names": [
+    "adebayor",
+    "brahim",
+    "diaz",
+    "diego",
+    "emmanuel",
+    "january",
+    "jose",
+    "lopez",
+    "mourinho"
+   ],
+   "cat": "transfer",
+   "status": "fact",
+   "headline": "🚨 Jose Mourinho was the last manager to request signings in January and actually get them.",
+   "link": "https://t.me/RealMadridImportantOnly/924"
   }
  ],
  "offset": 769012044,
@@ -1217,8 +1261,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-02",
-  "calls": 13,
-  "tokens": 14377
+  "calls": 14,
+  "tokens": 15593
  },
  "summary_date": "2026-11-01",
  "opts": {
@@ -1246,7 +1290,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 102,
-  "transfer": 58,
+  "transfer": 59,
   "stats": 1,
   "discipline": 25,
   "injury": 38,
