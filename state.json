@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59604,
-  "themadridzone": 33784,
+  "themadridzone": 33786,
   "FabrizioRomanoTG": 67914
  },
  "sent": [
@@ -1283,6 +1283,45 @@
    "status": "rumour",
    "headline": "🚨 NEW: Jose Mourinho’s new “magic” square in midfield:",
    "link": "https://t.me/RealMadridImportantOnly/927"
+  },
+  {
+   "ts": 1793613306.1069047,
+   "date": "2026-11-02",
+   "tokens": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "aek",
+    "athen",
+    "city",
+    "italian",
+    "leipzig",
+    "lille",
+    "manchester",
+    "mariano",
+    "match",
+    "maurizio",
+    "official",
+    "officiat",
+    "officiate",
+    "previous",
+    "referee"
+   ],
+   "names": [
+    "athens",
+    "city",
+    "italian",
+    "leipzig",
+    "lille",
+    "manchester",
+    "mariano",
+    "maurizio"
+   ],
+   "cat": "fixtures",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Italian referee Maurizio Mariano will officiate Real Madrid vs AEK Athens.",
+   "link": "https://t.me/RealMadridImportantOnly/928"
   }
  ],
  "offset": 769012044,
@@ -1290,8 +1329,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-02",
-  "calls": 24,
-  "tokens": 27638
+  "calls": 25,
+  "tokens": 28837
  },
  "summary_date": "2026-11-01",
  "opts": {
@@ -1325,6 +1364,6 @@
   "injury": 38,
   "coach": 26,
   "awards": 88,
-  "fixtures": 20
+  "fixtures": 21
  }
 }
