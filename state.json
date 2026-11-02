@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59602,
-  "themadridzone": 33765,
+  "themadridzone": 33767,
   "FabrizioRomanoTG": 67911
  },
  "sent": [
@@ -1183,6 +1183,33 @@
    "status": "rumour",
    "headline": "🚨 BREAKING: Real Madrid have NO INTENTION of making ANY signings during the winter transfer window. @jfelixdi…",
    "link": "https://t.me/RealMadridImportantOnly/922"
+  },
+  {
+   "ts": 1793600193.2185419,
+   "date": "2026-11-02",
+   "tokens": [
+    "allow",
+    "approv",
+    "could",
+    "departure",
+    "however",
+    "january",
+    "jose",
+    "leave",
+    "mourinho",
+    "unlike",
+    "want"
+   ],
+   "names": [
+    "however",
+    "january",
+    "jose",
+    "mourinho"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 NEW: If a player wants to leave and Jose Mourinho approves, the club could allow a departure in January.",
+   "link": "https://t.me/RealMadridImportantOnly/923"
   }
  ],
  "offset": 769012044,
@@ -1190,8 +1217,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-02",
-  "calls": 11,
-  "tokens": 12115
+  "calls": 12,
+  "tokens": 13250
  },
  "summary_date": "2026-11-01",
  "opts": {
@@ -1219,7 +1246,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 102,
-  "transfer": 57,
+  "transfer": 58,
   "stats": 1,
   "discipline": 25,
   "injury": 38,
