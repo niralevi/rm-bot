@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59602,
-  "themadridzone": 33770,
-  "FabrizioRomanoTG": 67911
+  "themadridzone": 33772,
+  "FabrizioRomanoTG": 67912
  },
  "sent": [
   {
@@ -1254,6 +1254,37 @@
    "status": "fact",
    "headline": "🚨 Jose Mourinho was the last manager to request signings in January and actually get them.",
    "link": "https://t.me/RealMadridImportantOnly/924"
+  },
+  {
+   "ts": 1793600963.153276,
+   "date": "2026-11-02",
+   "tokens": [
+    "arda",
+    "barcelona",
+    "believe",
+    "bernardo",
+    "big",
+    "guler",
+    "lead",
+    "midfield",
+    "performance",
+    "priority",
+    "prov",
+    "reinforcement",
+    "right",
+    "silva"
+   ],
+   "names": [
+    "arda",
+    "barcelona",
+    "bernardo",
+    "guler",
+    "silva"
+   ],
+   "cat": "transfer",
+   "status": "official",
+   "headline": "🚨 JUST IN: Real Madrid do NOT believe midfield reinforcements are a big priority.",
+   "link": "https://t.me/RealMadridImportantOnly/925"
   }
  ],
  "offset": 769012044,
@@ -1261,8 +1292,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-02",
-  "calls": 14,
-  "tokens": 15593
+  "calls": 15,
+  "tokens": 16808
  },
  "summary_date": "2026-11-01",
  "opts": {
@@ -1290,7 +1321,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 102,
-  "transfer": 59,
+  "transfer": 60,
   "stats": 1,
   "discipline": 25,
   "injury": 38,
