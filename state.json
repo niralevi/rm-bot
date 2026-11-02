@@ -6,55 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793464400.350678,
-   "date": "2026-10-31",
-   "tokens": [
-    "kylian",
-    "mbappe",
-    "train"
-   ],
-   "names": [
-    "kylian",
-    "mbappe"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "Kylian Mbappé in training today. 🚀",
-   "link": "https://t.me/RealMadridImportantOnly/884"
-  },
-  {
-   "ts": 1793464403.0976036,
-   "date": "2026-10-31",
-   "tokens": [
-    "diomande",
-    "ready",
-    "tomorrow",
-    "yan"
-   ],
-   "names": [
-    "diomande",
-    "yan"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "Yan Diomande is ready for tomorrow. ✨",
-   "link": "https://t.me/RealMadridImportantOnly/885"
-  },
-  {
-   "ts": 1793464405.928165,
-   "date": "2026-10-31",
-   "tokens": [
-    "endrick"
-   ],
-   "names": [
-    "endrick"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "Endrick ⚔️",
-   "link": "https://t.me/RealMadridImportantOnly/886"
-  },
-  {
    "ts": 1793465128.7725987,
    "date": "2026-10-31",
    "tokens": [
