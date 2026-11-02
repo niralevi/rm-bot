@@ -1,48 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59610,
-  "themadridzone": 33802,
+  "themadridzone": 33803,
   "FabrizioRomanoTG": 67914
  },
  "sent": [
-  {
-   "ts": 1793447003.2376747,
-   "date": "2026-10-31",
-   "tokens": [
-    "ancelotti",
-    "andriy",
-    "ballon",
-    "be",
-    "benzema",
-    "carlo",
-    "coach",
-    "cristiano",
-    "kaka",
-    "karim",
-    "ronaldo",
-    "shevchenko",
-    "while",
-    "who",
-    "winner",
-    "won"
-   ],
-   "names": [
-    "ancelotti",
-    "andriy",
-    "ballon",
-    "benzema",
-    "carlo",
-    "cristiano",
-    "kaka",
-    "karim",
-    "ronaldo",
-    "shevchenko"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 Ballon d’Or winners who won while being coached by Carlo Ancelotti:",
-   "link": "https://t.me/RealMadridImportantOnly/876"
-  },
   {
    "ts": 1793454739.463434,
    "date": "2026-10-31",
@@ -1333,6 +1295,22 @@
    "status": "fact",
    "headline": "Preparations for the match vs AEK. 💪",
    "link": "https://t.me/RealMadridImportantOnly/931"
+  },
+  {
+   "ts": 1793619803.293857,
+   "date": "2026-11-02",
+   "tokens": [
+    "brahim",
+    "diaz"
+   ],
+   "names": [
+    "brahim",
+    "diaz"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Brahim Diaz. 🇲🇦",
+   "link": "https://t.me/RealMadridImportantOnly/932"
   }
  ],
  "offset": 769012044,
@@ -1340,8 +1318,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-02",
-  "calls": 42,
-  "tokens": 48426
+  "calls": 43,
+  "tokens": 49558
  },
  "summary_date": "2026-11-01",
  "opts": {
@@ -1369,7 +1347,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 103,
-  "transfer": 62,
+  "transfer": 63,
   "stats": 1,
   "discipline": 25,
   "injury": 39,
