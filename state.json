@@ -1,39 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59615,
-  "themadridzone": 33828,
+  "themadridzone": 33829,
   "FabrizioRomanoTG": 67934
  },
  "sent": [
-  {
-   "ts": 1793461939.9371173,
-   "date": "2026-10-31",
-   "tokens": [
-    "between",
-    "captain",
-    "courtoi",
-    "fede",
-    "lunin",
-    "match",
-    "start",
-    "tomorrow",
-    "valverde",
-    "vini",
-    "whoever"
-   ],
-   "names": [
-    "courtois",
-    "fede",
-    "lunin",
-    "valverde",
-    "vini",
-    "with"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 With Fede Valverde & Viní Jr. out of tomorrow's match, the captain will be whoever starts between Courtois …",
-   "link": "https://t.me/RealMadridImportantOnly/881"
-  },
   {
    "ts": 1793462841.8890982,
    "date": "2026-10-31",
@@ -1233,8 +1204,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-02",
-  "calls": 66,
-  "tokens": 76124
+  "calls": 67,
+  "tokens": 77448
  },
  "summary_date": "2026-11-01",
  "opts": {
