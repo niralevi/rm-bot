@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59602,
-  "themadridzone": 33763,
+  "themadridzone": 33765,
   "FabrizioRomanoTG": 67911
  },
  "sent": [
@@ -1164,6 +1164,25 @@
    "status": "rumour",
    "headline": "🚨 CONFIRMED: Real Madrid see Jacobo Ramon as a possible successor to Antonio Rüdiger. @jfelixdiaz",
    "link": "https://t.me/RealMadridImportantOnly/921"
+  },
+  {
+   "ts": 1793600067.2057056,
+   "date": "2026-11-02",
+   "tokens": [
+    "any",
+    "dur",
+    "intention",
+    "mak",
+    "signing",
+    "transfer",
+    "window",
+    "winter"
+   ],
+   "names": [],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 BREAKING: Real Madrid have NO INTENTION of making ANY signings during the winter transfer window. @jfelixdi…",
+   "link": "https://t.me/RealMadridImportantOnly/922"
   }
  ],
  "offset": 769012044,
@@ -1171,8 +1190,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-02",
-  "calls": 10,
-  "tokens": 10982
+  "calls": 11,
+  "tokens": 12115
  },
  "summary_date": "2026-11-01",
  "opts": {
@@ -1200,7 +1219,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 102,
-  "transfer": 56,
+  "transfer": 57,
   "stats": 1,
   "discipline": 25,
   "injury": 38,
