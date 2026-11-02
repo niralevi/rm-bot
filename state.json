@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59604,
-  "themadridzone": 33780,
+  "themadridzone": 33782,
   "FabrizioRomanoTG": 67914
  },
  "sent": [
@@ -1284,6 +1284,41 @@
    "status": "rumour",
    "headline": "🚨 NEW: Rafa Marín and Victor Muñoz are on Real Madrid’s radar as potential returns. @jfelixdiaz",
    "link": "https://t.me/RealMadridImportantOnly/926"
+  },
+  {
+   "ts": 1793612420.8055015,
+   "date": "2026-11-02",
+   "tokens": [
+    "arda",
+    "aurelien",
+    "bellingham",
+    "bernardo",
+    "guler",
+    "jose",
+    "jude",
+    "magic",
+    "midfield",
+    "mourinho",
+    "silva",
+    "square",
+    "tchouameni"
+   ],
+   "names": [
+    "arda",
+    "aurelien",
+    "bellingham",
+    "bernardo",
+    "guler",
+    "jose",
+    "jude",
+    "mourinho",
+    "silva",
+    "tchouameni"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 NEW: Jose Mourinho’s new “magic” square in midfield:",
+   "link": "https://t.me/RealMadridImportantOnly/927"
   }
  ],
  "offset": 769012044,
@@ -1291,8 +1326,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-02",
-  "calls": 22,
-  "tokens": 25251
+  "calls": 23,
+  "tokens": 26455
  },
  "summary_date": "2026-11-01",
  "opts": {
@@ -1319,7 +1354,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 102,
+  "lineup": 103,
   "transfer": 61,
   "stats": 1,
   "discipline": 25,
