@@ -6,29 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793455103.3784287,
-   "date": "2026-10-31",
-   "tokens": [
-    "confirm",
-    "fede",
-    "jose",
-    "mourinho",
-    "play",
-    "tomorrow",
-    "valverde"
-   ],
-   "names": [
-    "fede",
-    "jose",
-    "mourinho",
-    "valverde"
-   ],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "🚨 Fede Valverde will NOT play as RB tomorrow, Jose Mourinho has confirmed.",
-   "link": "https://t.me/RealMadridImportantOnly/878"
-  },
-  {
    "ts": 1793457990.971607,
    "date": "2026-10-31",
    "tokens": [
