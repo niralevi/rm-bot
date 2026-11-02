@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59602,
-  "themadridzone": 33772,
+  "themadridzone": 33774,
   "FabrizioRomanoTG": 67912
  },
  "sent": [
@@ -1285,6 +1285,29 @@
    "status": "official",
    "headline": "🚨 JUST IN: Real Madrid do NOT believe midfield reinforcements are a big priority.",
    "link": "https://t.me/RealMadridImportantOnly/925"
+  },
+  {
+   "ts": 1793601034.7346127,
+   "date": "2026-11-02",
+   "tokens": [
+    "marin",
+    "munoz",
+    "potential",
+    "radar",
+    "rafa",
+    "return",
+    "victor"
+   ],
+   "names": [
+    "marin",
+    "munoz",
+    "rafa",
+    "victor"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 NEW: Rafa Marín and Victor Muñoz are on Real Madrid’s radar as potential returns. @jfelixdiaz",
+   "link": "https://t.me/RealMadridImportantOnly/926"
   }
  ],
  "offset": 769012044,
@@ -1292,8 +1315,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-02",
-  "calls": 15,
-  "tokens": 16808
+  "calls": 16,
+  "tokens": 17968
  },
  "summary_date": "2026-11-01",
  "opts": {
@@ -1321,7 +1344,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 102,
-  "transfer": 60,
+  "transfer": 61,
   "stats": 1,
   "discipline": 25,
   "injury": 38,
