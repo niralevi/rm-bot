@@ -6,30 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793438726.464865,
-   "date": "2026-10-31",
-   "tokens": [
-    "diomande",
-    "kopa",
-    "ronaldinho",
-    "third",
-    "trophy",
-    "vot",
-    "yan"
-   ],
-   "names": [
-    "diomande",
-    "kopa",
-    "ronaldinho",
-    "trophy",
-    "yan"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 Ronaldinho voted Yan Diomande third in Kopa Trophy.",
-   "link": "https://t.me/RealMadridImportantOnly/873"
-  },
-  {
    "ts": 1793440169.9775004,
    "date": "2026-10-31",
    "tokens": [
