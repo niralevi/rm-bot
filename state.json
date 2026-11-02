@@ -2,25 +2,9 @@
  "last_post": {
   "real_madrid": 59617,
   "themadridzone": 33833,
-  "FabrizioRomanoTG": 67936
+  "FabrizioRomanoTG": 67938
  },
  "sent": [
-  {
-   "ts": 1793468573.0039904,
-   "date": "2026-10-31",
-   "tokens": [
-    "official",
-    "rac",
-    "squad"
-   ],
-   "names": [
-    "racing"
-   ],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "🚨 Official: Real Madrid squad for Racing.",
-   "link": "https://t.me/RealMadridImportantOnly/888"
-  },
   {
    "ts": 1793474070.2249396,
    "date": "2026-10-31",
