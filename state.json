@@ -6,28 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793478207.2591436,
-   "date": "2026-10-31",
-   "tokens": [
-    "bench",
-    "denzel",
-    "dumfri",
-    "set",
-    "start",
-    "tomorrow",
-    "trent"
-   ],
-   "names": [
-    "denzel",
-    "dumfries",
-    "trent"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 BREAKING: Denzel Dumfries is set to START for Real Madrid at RB tomorrow.",
-   "link": "https://t.me/RealMadridImportantOnly/891"
-  },
-  {
    "ts": 1793513247.38195,
    "date": "2026-11-01",
    "tokens": [
