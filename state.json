@@ -6,24 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793457990.971607,
-   "date": "2026-10-31",
-   "tokens": [
-    "calendar",
-    "here",
-    "madridista",
-    "november"
-   ],
-   "names": [
-    "madridistas",
-    "november"
-   ],
-   "cat": "fixtures",
-   "status": "official",
-   "headline": "📆 Madridistas, here’s our November calendar.",
-   "link": "https://t.me/RealMadridImportantOnly/879"
-  },
-  {
    "ts": 1793459069.0884812,
    "date": "2026-10-31",
    "tokens": [
