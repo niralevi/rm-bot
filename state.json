@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59609,
-  "themadridzone": 33790,
+  "real_madrid": 59610,
+  "themadridzone": 33793,
   "FabrizioRomanoTG": 67914
  },
  "sent": [
@@ -1322,6 +1322,25 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Italian referee Maurizio Mariano will officiate Real Madrid vs AEK Athens.",
    "link": "https://t.me/RealMadridImportantOnly/928"
+  },
+  {
+   "ts": 1793617549.5370657,
+   "date": "2026-11-02",
+   "tokens": [
+    "back",
+    "fede",
+    "team",
+    "train",
+    "valverde"
+   ],
+   "names": [
+    "fede",
+    "valverde"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🚨 BREAKING: Fede Valverde is BACK in team training. 🦅",
+   "link": "https://t.me/RealMadridImportantOnly/929"
   }
  ],
  "offset": 769012044,
@@ -1329,8 +1348,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-02",
-  "calls": 31,
-  "tokens": 35688
+  "calls": 34,
+  "tokens": 39197
  },
  "summary_date": "2026-11-01",
  "opts": {
@@ -1361,7 +1380,7 @@
   "transfer": 61,
   "stats": 1,
   "discipline": 25,
-  "injury": 38,
+  "injury": 39,
   "coach": 26,
   "awards": 88,
   "fixtures": 21
