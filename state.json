@@ -6,44 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793446365.2895617,
-   "date": "2026-10-31",
-   "tokens": [
-    "3",
-    "award",
-    "ballon",
-    "cristiano",
-    "did",
-    "former",
-    "kopa",
-    "michel",
-    "platini",
-    "ronaldo",
-    "there",
-    "vote",
-    "who",
-    "winner",
-    "year",
-    "zidane",
-    "zinedine"
-   ],
-   "names": [
-    "ballon",
-    "cristiano",
-    "kopa",
-    "michel",
-    "platini",
-    "ronaldo",
-    "there",
-    "zidane",
-    "zinedine"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 JUST IN: There are 3 former Ballon d'Or winners who did NOT vote for Kopa award this year:",
-   "link": "https://t.me/RealMadridImportantOnly/875"
-  },
-  {
    "ts": 1793447003.2376747,
    "date": "2026-10-31",
    "tokens": [
