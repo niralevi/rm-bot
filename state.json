@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59615,
-  "themadridzone": 33825,
-  "FabrizioRomanoTG": 67933
+  "themadridzone": 33827,
+  "FabrizioRomanoTG": 67934
  },
  "sent": [
   {
@@ -1189,6 +1189,43 @@
    "status": "rumour",
    "headline": "Brahim Diaz. 🇲🇦",
    "link": "https://t.me/RealMadridImportantOnly/932"
+  },
+  {
+   "ts": 1793634143.3688965,
+   "date": "2026-11-02",
+   "tokens": [
+    "bellingham",
+    "courtoi",
+    "cristiano",
+    "cucurella",
+    "fifpro",
+    "jude",
+    "kylian",
+    "marc",
+    "mbappe",
+    "nomine",
+    "official",
+    "ronaldo",
+    "thibaut",
+    "world"
+   ],
+   "names": [
+    "bellingham",
+    "courtois",
+    "cristiano",
+    "cucurella",
+    "jude",
+    "kylian",
+    "marc",
+    "mbappe",
+    "ronaldo",
+    "thibaut",
+    "world"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: FIFPro World XI nominees.",
+   "link": "https://t.me/RealMadridImportantOnly/933"
   }
  ],
  "offset": 769012044,
@@ -1196,8 +1233,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-02",
-  "calls": 63,
-  "tokens": 72414
+  "calls": 65,
+  "tokens": 75034
  },
  "summary_date": "2026-11-01",
  "opts": {
@@ -1230,7 +1267,7 @@
   "discipline": 25,
   "injury": 39,
   "coach": 26,
-  "awards": 88,
+  "awards": 89,
   "fixtures": 22
  }
 }
