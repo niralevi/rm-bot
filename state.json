@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59602,
-  "themadridzone": 33760,
+  "themadridzone": 33761,
   "FabrizioRomanoTG": 67911
  },
  "sent": [
@@ -1140,6 +1140,30 @@
    "status": "fact",
    "headline": "🚨 Aurélien Tchouaméni vs Racing:",
    "link": "https://t.me/RealMadridImportantOnly/920"
+  },
+  {
+   "ts": 1793599645.9177704,
+   "date": "2026-11-02",
+   "tokens": [
+    "antonio",
+    "confirm",
+    "jacobo",
+    "possible",
+    "ramon",
+    "rudiger",
+    "see",
+    "successor"
+   ],
+   "names": [
+    "antonio",
+    "jacobo",
+    "ramon",
+    "rudiger"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 CONFIRMED: Real Madrid see Jacobo Ramon as a possible successor to Antonio Rüdiger. @jfelixdiaz",
+   "link": "https://t.me/RealMadridImportantOnly/921"
   }
  ],
  "offset": 769012044,
@@ -1147,8 +1171,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-02",
-  "calls": 8,
-  "tokens": 8718
+  "calls": 9,
+  "tokens": 9822
  },
  "summary_date": "2026-11-01",
  "opts": {
@@ -1176,7 +1200,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 102,
-  "transfer": 55,
+  "transfer": 56,
   "stats": 1,
   "discipline": 25,
   "injury": 38,
