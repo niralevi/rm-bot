@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59610,
-  "themadridzone": 33797,
+  "themadridzone": 33802,
   "FabrizioRomanoTG": 67914
  },
  "sent": [
@@ -1303,6 +1303,36 @@
    "status": "fact",
    "headline": "🚨 BREAKING: Fede Valverde is BACK in team training. 🦅",
    "link": "https://t.me/RealMadridImportantOnly/929"
+  },
+  {
+   "ts": 1793619628.1223235,
+   "date": "2026-11-02",
+   "tokens": [
+    "vini"
+   ],
+   "names": [
+    "vini"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Viní Jr. 🔜",
+   "link": "https://t.me/RealMadridImportantOnly/930"
+  },
+  {
+   "ts": 1793619632.4436786,
+   "date": "2026-11-02",
+   "tokens": [
+    "aek",
+    "match",
+    "preparation"
+   ],
+   "names": [
+    "preparations"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "Preparations for the match vs AEK. 💪",
+   "link": "https://t.me/RealMadridImportantOnly/931"
   }
  ],
  "offset": 769012044,
@@ -1310,8 +1340,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-02",
-  "calls": 37,
-  "tokens": 42674
+  "calls": 42,
+  "tokens": 48426
  },
  "summary_date": "2026-11-01",
  "opts": {
@@ -1339,12 +1369,12 @@
   "fun": 1,
   "social": 2,
   "lineup": 103,
-  "transfer": 61,
+  "transfer": 62,
   "stats": 1,
   "discipline": 25,
   "injury": 39,
   "coach": 26,
   "awards": 88,
-  "fixtures": 21
+  "fixtures": 22
  }
 }
