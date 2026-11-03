@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59621,
-  "themadridzone": 33876,
+  "themadridzone": 33878,
   "FabrizioRomanoTG": 67952
  },
  "sent": [
@@ -852,7 +852,8 @@
    "cat": "injury",
    "status": "fact",
    "headline": "🚨 BREAKING: Fede Valverde is BACK in team training. 🦅",
-   "link": "https://t.me/RealMadridImportantOnly/929"
+   "link": "https://t.me/RealMadridImportantOnly/929",
+   "superseded": true
   },
   {
    "ts": 1793619628.1223235,
@@ -1024,6 +1025,25 @@
    "status": "official",
    "headline": "🚨 OFFICIAL REAL MADRID SQUAD FOR AEK ATHENS.",
    "link": "https://t.me/RealMadridImportantOnly/938"
+  },
+  {
+   "ts": 1793709995.4224257,
+   "date": "2026-11-03",
+   "tokens": [
+    "back",
+    "fede",
+    "official",
+    "squad",
+    "valverde"
+   ],
+   "names": [
+    "fede",
+    "valverde"
+   ],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Fede Valverde is BACK in the squad. 🦅",
+   "link": "https://t.me/RealMadridImportantOnly/939"
   }
  ],
  "offset": 769012044,
@@ -1031,8 +1051,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-03",
-  "calls": 31,
-  "tokens": 33785
+  "calls": 33,
+  "tokens": 35908
  },
  "summary_date": "2026-11-02",
  "opts": {
@@ -1059,7 +1079,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 106,
+  "lineup": 107,
   "transfer": 64,
   "stats": 1,
   "discipline": 25,
