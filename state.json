@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59621,
-  "themadridzone": 33862,
+  "themadridzone": 33867,
   "FabrizioRomanoTG": 67947
  },
  "sent": [
@@ -992,6 +992,23 @@
    "status": "fact",
    "headline": "Team in training.",
    "link": "https://t.me/RealMadridImportantOnly/936"
+  },
+  {
+   "ts": 1793706396.3097985,
+   "date": "2026-11-03",
+   "tokens": [
+    "ibrahima",
+    "konate",
+    "train"
+   ],
+   "names": [
+    "ibrahima",
+    "konate"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "Ibrahima Konaté in training 💪",
+   "link": "https://t.me/RealMadridImportantOnly/937"
   }
  ],
  "offset": 769012044,
@@ -999,8 +1016,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-03",
-  "calls": 18,
-  "tokens": 20007
+  "calls": 23,
+  "tokens": 25373
  },
  "summary_date": "2026-11-02",
  "opts": {
@@ -1027,7 +1044,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 104,
+  "lineup": 105,
   "transfer": 64,
   "stats": 1,
   "discipline": 25,
