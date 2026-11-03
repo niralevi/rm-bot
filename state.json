@@ -6,43 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793542342.8743029,
-   "date": "2026-11-01",
-   "tokens": [
-    "0",
-    "1",
-    "2",
-    "3",
-    "4",
-    "back",
-    "czechia",
-    "elche",
-    "england",
-    "every",
-    "game",
-    "inter",
-    "malaga",
-    "season",
-    "start",
-    "trent",
-    "villarreal",
-    "won"
-   ],
-   "names": [
-    "czechia",
-    "elche",
-    "england",
-    "inter",
-    "malaga",
-    "trent",
-    "villarreal"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Real Madrid & England have won EVERY game with Trent starting this season:",
-   "link": "https://t.me/RealMadridImportantOnly/899"
-  },
-  {
    "ts": 1793542946.5583396,
    "date": "2026-11-01",
    "tokens": [
