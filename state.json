@@ -6,37 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793560652.4104407,
-   "date": "2026-11-01",
-   "tokens": [
-    "64",
-    "attack",
-    "current",
-    "dur",
-    "heart",
-    "hospital",
-    "match",
-    "old",
-    "person",
-    "prayer",
-    "rac",
-    "stand",
-    "suffer",
-    "surgery",
-    "undergo",
-    "year"
-   ],
-   "names": [
-    "during",
-    "prayers",
-    "racing"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨 During the Racing vs Real Madrid match, a 64-year-old person suffered a heart attack in the stands.",
-   "link": "https://t.me/RealMadridImportantOnly/918"
-  },
-  {
    "ts": 1793565900.8655214,
    "date": "2026-11-01",
    "tokens": [
