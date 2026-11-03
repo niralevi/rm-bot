@@ -6,27 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793551607.367837,
-   "date": "2026-11-01",
-   "tokens": [
-    "arda",
-    "brahim",
-    "diaz",
-    "guler",
-    "off"
-   ],
-   "names": [
-    "arda",
-    "brahim",
-    "diaz",
-    "guler"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Arda Güler is OFF. Brahim Diaz is ON.",
-   "link": "https://t.me/RealMadridImportantOnly/910"
-  },
-  {
    "ts": 1793552185.53136,
    "date": "2026-11-01",
    "tokens": [
