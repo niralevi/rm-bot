@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59621,
-  "themadridzone": 33869,
+  "themadridzone": 33873,
   "FabrizioRomanoTG": 67947
  },
  "sent": [
@@ -1009,6 +1009,21 @@
    "status": "fact",
    "headline": "Ibrahima Konaté in training 💪",
    "link": "https://t.me/RealMadridImportantOnly/937"
+  },
+  {
+   "ts": 1793706923.5564606,
+   "date": "2026-11-03",
+   "tokens": [
+    "aek",
+    "athen",
+    "official",
+    "squad"
+   ],
+   "names": [],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 OFFICIAL REAL MADRID SQUAD FOR AEK ATHENS.",
+   "link": "https://t.me/RealMadridImportantOnly/938"
   }
  ],
  "offset": 769012044,
@@ -1016,8 +1031,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-03",
-  "calls": 25,
-  "tokens": 27490
+  "calls": 28,
+  "tokens": 30650
  },
  "summary_date": "2026-11-02",
  "opts": {
@@ -1044,7 +1059,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 105,
+  "lineup": 106,
   "transfer": 64,
   "stats": 1,
   "discipline": 25,
