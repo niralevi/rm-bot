@@ -1,67 +1,10 @@
 {
  "last_post": {
-  "real_madrid": 59622,
+  "real_madrid": 59623,
   "themadridzone": 33880,
   "FabrizioRomanoTG": 67952
  },
  "sent": [
-  {
-   "ts": 1793541500.7360315,
-   "date": "2026-11-01",
-   "tokens": [
-    "alexander",
-    "arnold",
-    "rac",
-    "start",
-    "trent"
-   ],
-   "names": [
-    "alexander",
-    "arnold",
-    "racing",
-    "trent"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 BREAKING: Trent Alexander-Arnold STARTS vs Racing.",
-   "link": "https://t.me/RealMadridImportantOnly/897",
-   "superseded": true
-  },
-  {
-   "ts": 1793541565.241937,
-   "date": "2026-11-01",
-   "tokens": [
-    "alexander",
-    "andriy",
-    "arnold",
-    "chang",
-    "clasico",
-    "courtoi",
-    "fede",
-    "lunin",
-    "thibaut",
-    "trent",
-    "two",
-    "valverde"
-   ],
-   "names": [
-    "alexander",
-    "andriy",
-    "arnold",
-    "clasico",
-    "courtois",
-    "fede",
-    "lunin",
-    "thibaut",
-    "trent",
-    "two",
-    "valverde"
-   ],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "🚨 Two changes from El Clasico XI:",
-   "link": "https://t.me/RealMadridImportantOnly/898"
-  },
   {
    "ts": 1793542342.8743029,
    "date": "2026-11-01",
