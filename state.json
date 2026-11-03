@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59621,
-  "themadridzone": 33878,
+  "themadridzone": 33880,
   "FabrizioRomanoTG": 67952
  },
  "sent": [
@@ -1044,6 +1044,29 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Fede Valverde is BACK in the squad. 🦅",
    "link": "https://t.me/RealMadridImportantOnly/939"
+  },
+  {
+   "ts": 1793712565.8107746,
+   "date": "2026-11-03",
+   "tokens": [
+    "aek",
+    "any",
+    "arda",
+    "does",
+    "guler",
+    "issu",
+    "physical",
+    "rest",
+    "squad"
+   ],
+   "names": [
+    "arda",
+    "guler"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 UPDATE: Arda Güler is not in the squad vs AEK for rest.",
+   "link": "https://t.me/RealMadridImportantOnly/940"
   }
  ],
  "offset": 769012044,
@@ -1051,8 +1074,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-03",
-  "calls": 33,
-  "tokens": 35908
+  "calls": 35,
+  "tokens": 38000
  },
  "summary_date": "2026-11-02",
  "opts": {
@@ -1079,7 +1102,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 107,
+  "lineup": 108,
   "transfer": 64,
   "stats": 1,
   "discipline": 25,
