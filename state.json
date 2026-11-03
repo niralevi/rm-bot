@@ -6,27 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793552185.53136,
-   "date": "2026-11-01",
-   "tokens": [
-    "bernardo",
-    "camavinga",
-    "eduardo",
-    "off",
-    "silva"
-   ],
-   "names": [
-    "bernardo",
-    "camavinga",
-    "eduardo",
-    "silva"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Bernardo Silva is OFF. Eduardo Camavinga is ON.",
-   "link": "https://t.me/RealMadridImportantOnly/911"
-  },
-  {
    "ts": 1793552667.6121588,
    "date": "2026-11-01",
    "tokens": [
