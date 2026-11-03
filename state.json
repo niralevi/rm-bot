@@ -1,69 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59630,
-  "themadridzone": 33905,
-  "FabrizioRomanoTG": 67959
+  "themadridzone": 33908,
+  "FabrizioRomanoTG": 67960
  },
  "sent": [
-  {
-   "ts": 1793554461.532578,
-   "date": "2026-11-01",
-   "tokens": [
-    "awake",
-    "because",
-    "change",
-    "come",
-    "course",
-    "decision",
-    "didn",
-    "don",
-    "every",
-    "example",
-    "fans",
-    "game",
-    "good",
-    "hard",
-    "jose",
-    "know",
-    "long",
-    "love",
-    "make",
-    "most",
-    "mourinho",
-    "movie",
-    "much",
-    "never",
-    "obviou",
-    "opponent",
-    "participate",
-    "penalty",
-    "protest",
-    "rac",
-    "referee",
-    "rul",
-    "rule",
-    "says",
-    "show",
-    "sleep",
-    "stadium",
-    "thankful",
-    "thing",
-    "understand",
-    "var",
-    "watch",
-    "well",
-    "when"
-   ],
-   "names": [
-    "jose",
-    "mourinho",
-    "racing"
-   ],
-   "cat": "injury",
-   "status": "rumour",
-   "headline": "🚨 José Mourinho: \"I love this stadium, and I love Racing fans.",
-   "link": "https://t.me/RealMadridImportantOnly/915"
-  },
   {
    "ts": 1793555127.5645733,
    "date": "2026-11-01",
@@ -695,8 +636,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-03",
-  "calls": 64,
-  "tokens": 68787
+  "calls": 67,
+  "tokens": 71864
  },
  "summary_date": "2026-11-02",
  "opts": {
