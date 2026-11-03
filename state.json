@@ -6,28 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793548340.827733,
-   "date": "2026-11-01",
-   "tokens": [
-    "arda",
-    "belocian",
-    "card",
-    "chest",
-    "elbow",
-    "guler",
-    "yellow"
-   ],
-   "names": [
-    "arda",
-    "belocian",
-    "guler"
-   ],
-   "cat": "discipline",
-   "status": "fact",
-   "headline": "Arda Güler elbowed in the chest, yellow card to Belocian.",
-   "link": "https://t.me/RealMadridImportantOnly/906"
-  },
-  {
    "ts": 1793548704.2461245,
    "date": "2026-11-01",
    "tokens": [
