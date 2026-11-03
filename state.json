@@ -6,34 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793541384.4791288,
-   "date": "2026-11-01",
-   "tokens": [
-    "bellingham",
-    "carlo",
-    "dean",
-    "espi",
-    "huijsen",
-    "jude",
-    "pitarch",
-    "thiago"
-   ],
-   "names": [
-    "bellingham",
-    "carlos",
-    "dean",
-    "espi",
-    "huijsen",
-    "jude",
-    "pitarch",
-    "thiago"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "Jude Bellingham x Dean Huijsen x Thiago Pitarch x Carlos Espí 💫",
-   "link": "https://t.me/RealMadridImportantOnly/896"
-  },
-  {
    "ts": 1793541500.7360315,
    "date": "2026-11-01",
    "tokens": [
