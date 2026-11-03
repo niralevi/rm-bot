@@ -6,21 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793546798.1954982,
-   "date": "2026-11-01",
-   "tokens": [
-    "endrick",
-    "warm"
-   ],
-   "names": [
-    "endrick"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Endrick is warming up.",
-   "link": "https://t.me/RealMadridImportantOnly/904"
-  },
-  {
    "ts": 1793547557.3888788,
    "date": "2026-11-01",
    "tokens": [
