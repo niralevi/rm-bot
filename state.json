@@ -1,32 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59630,
-  "themadridzone": 33886,
+  "themadridzone": 33888,
   "FabrizioRomanoTG": 67959
  },
  "sent": [
-  {
-   "ts": 1793552908.1257467,
-   "date": "2026-11-01",
-   "tokens": [
-    "brahim",
-    "endrick",
-    "few",
-    "last",
-    "mbappe",
-    "minut",
-    "these"
-   ],
-   "names": [
-    "brahim",
-    "endrick",
-    "mbappe"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Brahim LW, Mbappe ST, Endrick RW in these last few minutes.",
-   "link": "https://t.me/RealMadridImportantOnly/913"
-  },
   {
    "ts": 1793554238.2781966,
    "date": "2026-11-01",
@@ -752,8 +730,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-03",
-  "calls": 45,
-  "tokens": 48716
+  "calls": 47,
+  "tokens": 50762
  },
  "summary_date": "2026-11-02",
  "opts": {
