@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59621,
-  "themadridzone": 33860,
+  "themadridzone": 33862,
   "FabrizioRomanoTG": 67947
  },
  "sent": [
@@ -977,6 +977,21 @@
    "status": "fact",
    "headline": "🚨 Real Madrid last 5 signings from the Bundesliga:",
    "link": "https://t.me/RealMadridImportantOnly/935"
+  },
+  {
+   "ts": 1793704981.9613233,
+   "date": "2026-11-03",
+   "tokens": [
+    "team",
+    "train"
+   ],
+   "names": [
+    "team"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "Team in training.",
+   "link": "https://t.me/RealMadridImportantOnly/936"
   }
  ],
  "offset": 769012044,
@@ -984,8 +999,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-03",
-  "calls": 16,
-  "tokens": 17820
+  "calls": 18,
+  "tokens": 20007
  },
  "summary_date": "2026-11-02",
  "opts": {
@@ -1012,7 +1027,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 103,
+  "lineup": 104,
   "transfer": 64,
   "stats": 1,
   "discipline": 25,
