@@ -1,45 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59630,
-  "themadridzone": 33903,
+  "themadridzone": 33905,
   "FabrizioRomanoTG": 67959
  },
  "sent": [
-  {
-   "ts": 1793554238.2781966,
-   "date": "2026-11-01",
-   "tokens": [
-    "1",
-    "3",
-    "4",
-    "94",
-    "accuracy",
-    "big",
-    "chanc",
-    "chance",
-    "creat",
-    "duel",
-    "goal",
-    "kylian",
-    "mbappe",
-    "numero",
-    "pass",
-    "penalty",
-    "rac",
-    "recoveri",
-    "won"
-   ],
-   "names": [
-    "kylian",
-    "mbappe",
-    "numero",
-    "racing"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨 Kylian Mbappé vs Racing:",
-   "link": "https://t.me/RealMadridImportantOnly/914"
-  },
   {
    "ts": 1793554461.532578,
    "date": "2026-11-01",
@@ -730,8 +695,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-03",
-  "calls": 62,
-  "tokens": 66720
+  "calls": 64,
+  "tokens": 68787
  },
  "summary_date": "2026-11-02",
  "opts": {
