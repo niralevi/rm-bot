@@ -6,22 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793526140.2351332,
-   "date": "2026-11-01",
-   "tokens": [
-    "matchday",
-    "santander"
-   ],
-   "names": [
-    "matchday",
-    "santander"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "Matchday in Santander.",
-   "link": "https://t.me/RealMadridImportantOnly/895"
-  },
-  {
    "ts": 1793541384.4791288,
    "date": "2026-11-01",
    "tokens": [
