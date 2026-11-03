@@ -6,25 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793552667.6121588,
-   "date": "2026-11-01",
-   "tokens": [
-    "diomande",
-    "endrick",
-    "off",
-    "yan"
-   ],
-   "names": [
-    "diomande",
-    "endrick",
-    "yan"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Endrick is ON. Yan Diomande is OFF.",
-   "link": "https://t.me/RealMadridImportantOnly/912"
-  },
-  {
    "ts": 1793552908.1257467,
    "date": "2026-11-01",
    "tokens": [
