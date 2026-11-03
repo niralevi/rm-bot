@@ -1,31 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59628,
-  "themadridzone": 33885,
+  "themadridzone": 33886,
   "FabrizioRomanoTG": 67959
  },
  "sent": [
-  {
-   "ts": 1793550739.6588266,
-   "date": "2026-11-01",
-   "tokens": [
-    "brahim",
-    "camavinga",
-    "endrick",
-    "espi",
-    "warm"
-   ],
-   "names": [
-    "brahim",
-    "camavinga",
-    "endrick",
-    "espi"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Camavinga, Espi, Endrick & Brahim are warming up.",
-   "link": "https://t.me/RealMadridImportantOnly/909"
-  },
   {
    "ts": 1793551607.367837,
    "date": "2026-11-01",
@@ -834,8 +813,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-03",
-  "calls": 43,
-  "tokens": 46658
+  "calls": 44,
+  "tokens": 47706
  },
  "summary_date": "2026-11-02",
  "opts": {
