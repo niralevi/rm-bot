@@ -6,28 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793557897.5027883,
-   "date": "2026-11-01",
-   "tokens": [
-    "anymore",
-    "anyone",
-    "arda",
-    "doubt",
-    "guler",
-    "there",
-    "untouchable"
-   ],
-   "names": [
-    "arda",
-    "guler",
-    "there"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨 There's no doubt for anyone anymore at Real Madrid: Arda Güler is UNTOUCHABLE! @marca",
-   "link": "https://t.me/RealMadridImportantOnly/917"
-  },
-  {
    "ts": 1793560652.4104407,
    "date": "2026-11-01",
    "tokens": [
