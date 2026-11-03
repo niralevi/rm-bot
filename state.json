@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59619,
-  "themadridzone": 33846,
+  "themadridzone": 33848,
   "FabrizioRomanoTG": 67944
  },
  "sent": [
@@ -973,6 +973,47 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: FIFPro World XI nominees.",
    "link": "https://t.me/RealMadridImportantOnly/933"
+  },
+  {
+   "ts": 1793689104.1698937,
+   "date": "2026-11-03",
+   "tokens": [
+    "5",
+    "alaba",
+    "bellingham",
+    "bundesliga",
+    "busines",
+    "david",
+    "diomande",
+    "impeccable",
+    "jovic",
+    "jude",
+    "kroo",
+    "last",
+    "luka",
+    "near",
+    "signing",
+    "toni",
+    "yan"
+   ],
+   "names": [
+    "alaba",
+    "bellingham",
+    "bundesliga",
+    "david",
+    "diomande",
+    "jovic",
+    "jude",
+    "kroos",
+    "luka",
+    "near",
+    "toni",
+    "yan"
+   ],
+   "cat": "transfer",
+   "status": "fact",
+   "headline": "🚨 Real Madrid last 5 signings from the Bundesliga:",
+   "link": "https://t.me/RealMadridImportantOnly/935"
   }
  ],
  "offset": 769012044,
@@ -980,8 +1021,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-03",
-  "calls": 4,
-  "tokens": 4430
+  "calls": 5,
+  "tokens": 5565
  },
  "summary_date": "2026-11-02",
  "opts": {
@@ -1009,7 +1050,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 103,
-  "transfer": 63,
+  "transfer": 64,
   "stats": 1,
   "discipline": 25,
   "injury": 39,
