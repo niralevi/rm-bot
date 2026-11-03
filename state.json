@@ -2,25 +2,9 @@
  "last_post": {
   "real_madrid": 59625,
   "themadridzone": 33880,
-  "FabrizioRomanoTG": 67956
+  "FabrizioRomanoTG": 67957
  },
  "sent": [
-  {
-   "ts": 1793546726.409112,
-   "date": "2026-11-01",
-   "tokens": [
-    "7",
-    "diomande",
-    "limp"
-   ],
-   "names": [
-    "diomande"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "7’ Diomande is limping.",
-   "link": "https://t.me/RealMadridImportantOnly/903"
-  },
   {
    "ts": 1793546798.1954982,
    "date": "2026-11-01",
