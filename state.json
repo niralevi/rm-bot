@@ -6,21 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793545107.031414,
-   "date": "2026-11-01",
-   "tokens": [
-    "jude",
-    "ready"
-   ],
-   "names": [
-    "jude"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "Jude is READY. 🩷",
-   "link": "https://t.me/RealMadridImportantOnly/902"
-  },
-  {
    "ts": 1793546726.409112,
    "date": "2026-11-01",
    "tokens": [
