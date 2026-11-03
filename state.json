@@ -6,27 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793525368.3437586,
-   "date": "2026-11-01",
-   "tokens": [
-    "home",
-    "lose",
-    "rac",
-    "reminder",
-    "santander",
-    "season",
-    "yet"
-   ],
-   "names": [
-    "racing",
-    "santander"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "🚨 REMINDER: Racing Santander are yet to lose at home this season.",
-   "link": "https://t.me/RealMadridImportantOnly/894"
-  },
-  {
    "ts": 1793526140.2351332,
    "date": "2026-11-01",
    "tokens": [
