@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59627,
-  "themadridzone": 33880,
+  "themadridzone": 33882,
   "FabrizioRomanoTG": 67958
  },
  "sent": [
@@ -830,6 +830,25 @@
    "status": "fact",
    "headline": "🚨 UPDATE: Arda Güler is not in the squad vs AEK for rest.",
    "link": "https://t.me/RealMadridImportantOnly/940"
+  },
+  {
+   "ts": 1793721262.8120723,
+   "date": "2026-11-03",
+   "tokens": [
+    "eder",
+    "militao",
+    "train",
+    "vini"
+   ],
+   "names": [
+    "eder",
+    "militao",
+    "vini"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "Vini Jr and Eder Militao in training 😭🤍",
+   "link": "https://t.me/RealMadridImportantOnly/941"
   }
  ],
  "offset": 769012044,
@@ -837,8 +856,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-03",
-  "calls": 39,
-  "tokens": 42345
+  "calls": 40,
+  "tokens": 43427
  },
  "summary_date": "2026-11-02",
  "opts": {
@@ -865,7 +884,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 108,
+  "lineup": 109,
   "transfer": 64,
   "stats": 1,
   "discipline": 25,
