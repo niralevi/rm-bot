@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59628,
-  "themadridzone": 33884,
+  "themadridzone": 33885,
   "FabrizioRomanoTG": 67959
  },
  "sent": [
@@ -808,6 +808,25 @@
    "status": "fact",
    "headline": "Vini Jr and Eder Militao in training 😭🤍",
    "link": "https://t.me/RealMadridImportantOnly/941"
+  },
+  {
+   "ts": 1793723365.4227216,
+   "date": "2026-11-03",
+   "tokens": [
+    "arriv",
+    "athen",
+    "diomande",
+    "yan"
+   ],
+   "names": [
+    "athens",
+    "diomande",
+    "yan"
+   ],
+   "cat": "transfer",
+   "status": "fact",
+   "headline": "Yan Diomandé has arrived in Athens",
+   "link": "https://t.me/RealMadridImportantOnly/942"
   }
  ],
  "offset": 769012044,
@@ -815,8 +834,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-03",
-  "calls": 42,
-  "tokens": 45591
+  "calls": 43,
+  "tokens": 46658
  },
  "summary_date": "2026-11-02",
  "opts": {
@@ -844,7 +863,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 109,
-  "transfer": 64,
+  "transfer": 65,
   "stats": 1,
   "discipline": 25,
   "injury": 39,
