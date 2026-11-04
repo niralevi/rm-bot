@@ -6,30 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793599645.9177704,
-   "date": "2026-11-02",
-   "tokens": [
-    "antonio",
-    "confirm",
-    "jacobo",
-    "possible",
-    "ramon",
-    "rudiger",
-    "see",
-    "successor"
-   ],
-   "names": [
-    "antonio",
-    "jacobo",
-    "ramon",
-    "rudiger"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 CONFIRMED: Real Madrid see Jacobo Ramon as a possible successor to Antonio Rüdiger. @jfelixdiaz",
-   "link": "https://t.me/RealMadridImportantOnly/921"
-  },
-  {
    "ts": 1793600067.2057056,
    "date": "2026-11-02",
    "tokens": [
