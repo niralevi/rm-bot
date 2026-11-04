@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59638,
-  "themadridzone": 33975,
+  "themadridzone": 33979,
   "FabrizioRomanoTG": 68015
  },
  "sent": [
@@ -713,6 +713,16 @@
    "status": "rumour",
    "headline": "🚨 Juni Calafat is the main man behind the signing of JJ Gabriel for Real Madrid.",
    "link": "https://t.me/RealMadridImportantOnly/960"
+  },
+  {
+   "ts": 1793809594.5900269,
+   "date": "2026-11-04",
+   "tokens": [],
+   "names": [],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐑𝐄𝐀𝐋 𝐌𝐀𝐃𝐑𝐈𝐃 𝐗𝐈 🚨",
+   "link": "https://t.me/RealMadridImportantOnly/961"
   }
  ],
  "offset": 769012044,
@@ -720,8 +730,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-04",
-  "calls": 54,
-  "tokens": 64360
+  "calls": 57,
+  "tokens": 67904
  },
  "summary_date": "2026-11-03",
  "opts": {
@@ -748,7 +758,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 114,
+  "lineup": 115,
   "transfer": 71,
   "stats": 1,
   "discipline": 25,
