@@ -1,8 +1,8 @@
 {
  "last_post": {
-  "real_madrid": 59673,
-  "themadridzone": 34080,
-  "FabrizioRomanoTG": 68019
+  "real_madrid": 59675,
+  "themadridzone": 34087,
+  "FabrizioRomanoTG": 68021
  },
  "sent": [
   {
@@ -1059,6 +1059,55 @@
    "status": "fact",
    "headline": "WHAT A HIT FROM THE CAPTAIN IN INJURY TIME.",
    "link": "https://t.me/RealMadridImportantOnly/980"
+  },
+  {
+   "ts": 1793821764.9640076,
+   "date": "2026-11-04",
+   "tokens": [
+    "1",
+    "2",
+    "24",
+    "3",
+    "4",
+    "5",
+    "63",
+    "67",
+    "80",
+    "90",
+    "aek",
+    "ball",
+    "block",
+    "carri",
+    "clearanc",
+    "duel",
+    "eder",
+    "first",
+    "foul",
+    "injury",
+    "last",
+    "long",
+    "man",
+    "militao",
+    "minut",
+    "pass",
+    "recoveri",
+    "shot",
+    "since",
+    "start",
+    "tackl",
+    "tackle",
+    "touch",
+    "won"
+   ],
+   "names": [
+    "eder",
+    "first",
+    "militao"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🚨 Eder Militão vs AEK:",
+   "link": "https://t.me/RealMadridImportantOnly/981"
   }
  ],
  "offset": 769012044,
@@ -1098,7 +1147,7 @@
   "transfer": 76,
   "stats": 1,
   "discipline": 26,
-  "injury": 41,
+  "injury": 42,
   "coach": 29,
   "awards": 92,
   "fixtures": 24
