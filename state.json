@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59632,
-  "themadridzone": 33928,
+  "themadridzone": 33935,
   "FabrizioRomanoTG": 67995
  },
  "sent": [
@@ -671,6 +671,96 @@
    "status": "fact",
    "headline": "🚨 JUST IN: Antonio Rüdiger, Denzel Dumfries and Alvaro Carreras are all expected to START vs AEK Athens. @cope",
    "link": "https://t.me/RealMadridImportantOnly/950"
+  },
+  {
+   "ts": 1793770237.8025532,
+   "date": "2026-11-04",
+   "tokens": [
+    "aek",
+    "athen",
+    "camavinga",
+    "eduardo",
+    "fede",
+    "like",
+    "pivot",
+    "valverde"
+   ],
+   "names": [
+    "athens",
+    "camavinga",
+    "eduardo",
+    "fede",
+    "valverde"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 NEW: Fede Valverde and Eduardo Camavinga will likely be the PIVOT vs AEK Athens. @COPE",
+   "link": "https://t.me/RealMadridImportantOnly/951"
+  },
+  {
+   "ts": 1793770240.6132567,
+   "date": "2026-11-04",
+   "tokens": [
+    "aek",
+    "brahim",
+    "diaz",
+    "expect",
+    "play",
+    "right",
+    "start"
+   ],
+   "names": [
+    "brahim",
+    "diaz"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 NEW: Brahim Diaz is expected to START vs AEK.",
+   "link": "https://t.me/RealMadridImportantOnly/952"
+  },
+  {
+   "ts": 1793770243.3620944,
+   "date": "2026-11-04",
+   "tokens": [
+    "aek",
+    "athen",
+    "expect"
+   ],
+   "names": [
+    "athens"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 Real Madrid expected XI vs AEK Athens. @diarioas",
+   "link": "https://t.me/RealMadridImportantOnly/953",
+   "superseded": true
+  },
+  {
+   "ts": 1793770309.109515,
+   "date": "2026-11-04",
+   "tokens": [
+    "aek",
+    "athen",
+    "attack",
+    "brahim",
+    "confirm",
+    "diaz",
+    "kylian",
+    "mbappe",
+    "vini"
+   ],
+   "names": [
+    "athens",
+    "brahim",
+    "diaz",
+    "kylian",
+    "mbappe",
+    "vini"
+   ],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 CONFIRMED: Real Madrid’s attack vs AEK Athens:",
+   "link": "https://t.me/RealMadridImportantOnly/954"
   }
  ],
  "offset": 769012044,
@@ -678,8 +768,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-04",
-  "calls": 10,
-  "tokens": 11081
+  "calls": 14,
+  "tokens": 15888
  },
  "summary_date": "2026-11-03",
  "opts": {
@@ -706,7 +796,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 110,
+  "lineup": 114,
   "transfer": 68,
   "stats": 1,
   "discipline": 25,
