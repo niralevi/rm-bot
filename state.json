@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59638,
-  "themadridzone": 33965,
+  "themadridzone": 33966,
   "FabrizioRomanoTG": 68015
  },
  "sent": [
@@ -691,6 +691,31 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Brahim Diaz is among the nominees for the African Player of the Year. 🇲🇦⭐️",
    "link": "https://t.me/RealMadridImportantOnly/958"
+  },
+  {
+   "ts": 1793805143.864918,
+   "date": "2026-11-04",
+   "tokens": [
+    "african",
+    "diomande",
+    "nominat",
+    "official",
+    "yan",
+    "year",
+    "young"
+   ],
+   "names": [
+    "african",
+    "diomande",
+    "player",
+    "yan",
+    "year",
+    "young"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Yan Diomande is nominated for the African Young Player of the Year. 🇨🇮💎",
+   "link": "https://t.me/RealMadridImportantOnly/959"
   }
  ],
  "offset": 769012044,
@@ -698,8 +723,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-04",
-  "calls": 46,
-  "tokens": 54744
+  "calls": 47,
+  "tokens": 55872
  },
  "summary_date": "2026-11-03",
  "opts": {
@@ -732,7 +757,7 @@
   "discipline": 25,
   "injury": 39,
   "coach": 27,
-  "awards": 91,
+  "awards": 92,
   "fixtures": 24
  }
 }
