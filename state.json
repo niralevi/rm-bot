@@ -6,36 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793619628.1223235,
-   "date": "2026-11-02",
-   "tokens": [
-    "vini"
-   ],
-   "names": [
-    "vini"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "Viní Jr. 🔜",
-   "link": "https://t.me/RealMadridImportantOnly/930"
-  },
-  {
-   "ts": 1793619632.4436786,
-   "date": "2026-11-02",
-   "tokens": [
-    "aek",
-    "match",
-    "preparation"
-   ],
-   "names": [
-    "preparations"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "Preparations for the match vs AEK. 💪",
-   "link": "https://t.me/RealMadridImportantOnly/931"
-  },
-  {
    "ts": 1793619803.293857,
    "date": "2026-11-02",
    "tokens": [
