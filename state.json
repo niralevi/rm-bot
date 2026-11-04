@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59676,
-  "themadridzone": 34120,
+  "themadridzone": 34123,
   "FabrizioRomanoTG": 68023
  },
  "sent": [
@@ -1186,6 +1186,39 @@
    "status": "rumour",
    "headline": "🚨 José Mourinho: \"Endrick?",
    "link": "https://t.me/RealMadridImportantOnly/984"
+  },
+  {
+   "ts": 1793823453.5601618,
+   "date": "2026-11-04",
+   "tokens": [
+    "becom",
+    "board",
+    "coach",
+    "congrat",
+    "every",
+    "feel",
+    "jose",
+    "madridista",
+    "member",
+    "mourinho",
+    "nadal",
+    "pride",
+    "proud",
+    "rafa",
+    "say"
+   ],
+   "names": [
+    "every",
+    "jose",
+    "madridista",
+    "mourinho",
+    "nadal",
+    "rafa"
+   ],
+   "cat": "coach",
+   "status": "fact",
+   "headline": "🚨 José Mourinho: \"Rafa Nadal becoming a Real Madrid board member?",
+   "link": "https://t.me/RealMadridImportantOnly/985"
   }
  ],
  "offset": 769012044,
@@ -1226,7 +1259,7 @@
   "stats": 1,
   "discipline": 26,
   "injury": 42,
-  "coach": 29,
+  "coach": 30,
   "awards": 92,
   "fixtures": 25
  }
