@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59651,
-  "themadridzone": 34016,
+  "real_madrid": 59652,
+  "themadridzone": 34017,
   "FabrizioRomanoTG": 68016
  },
  "sent": [
@@ -920,6 +920,20 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: AEK Athens starting XI.",
    "link": "https://t.me/RealMadridImportantOnly/972"
+  },
+  {
+   "ts": 1793815588.975844,
+   "date": "2026-11-04",
+   "tokens": [
+    "courtoi",
+    "deni",
+    "jovic"
+   ],
+   "names": [],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "COURTOIS DENIES JOVIC.",
+   "link": "https://t.me/RealMadridImportantOnly/973"
   }
  ],
  "offset": 769012044,
@@ -927,20 +941,15 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-04",
-  "calls": 100,
-  "tokens": 115821
+  "calls": 102,
+  "tokens": 117947
  },
  "summary_date": "2026-11-03",
  "opts": {
   "quiet": true,
   "summary": true
  },
- "health": {
-  "themadridzone": {
-   "since": 1793815528.3363247,
-   "err": "sending to channel failed: None"
-  }
- },
+ "health": {},
  "limit_alert": "2026-11-01",
  "version": 2,
  "topics_on": {
@@ -961,7 +970,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 121,
-  "transfer": 74,
+  "transfer": 75,
   "stats": 1,
   "discipline": 25,
   "injury": 40,
