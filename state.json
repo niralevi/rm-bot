@@ -6,52 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793600067.2057056,
-   "date": "2026-11-02",
-   "tokens": [
-    "any",
-    "dur",
-    "intention",
-    "mak",
-    "signing",
-    "transfer",
-    "window",
-    "winter"
-   ],
-   "names": [],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 BREAKING: Real Madrid have NO INTENTION of making ANY signings during the winter transfer window. @jfelixdi…",
-   "link": "https://t.me/RealMadridImportantOnly/922"
-  },
-  {
-   "ts": 1793600193.2185419,
-   "date": "2026-11-02",
-   "tokens": [
-    "allow",
-    "approv",
-    "could",
-    "departure",
-    "however",
-    "january",
-    "jose",
-    "leave",
-    "mourinho",
-    "unlike",
-    "want"
-   ],
-   "names": [
-    "however",
-    "january",
-    "jose",
-    "mourinho"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 NEW: If a player wants to leave and Jose Mourinho approves, the club could allow a departure in January.",
-   "link": "https://t.me/RealMadridImportantOnly/923"
-  },
-  {
    "ts": 1793600545.4157932,
    "date": "2026-11-02",
    "tokens": [
