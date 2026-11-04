@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59638,
   "themadridzone": 33962,
-  "FabrizioRomanoTG": 68014
+  "FabrizioRomanoTG": 68015
  },
  "sent": [
   {
@@ -636,6 +636,37 @@
    "status": "official",
    "headline": "Rafael Nadal appointed to Real Madrid Board of Directors",
    "link": "https://t.me/RealMadridImportantOnly/956"
+  },
+  {
+   "ts": 1793800176.1935081,
+   "date": "2026-11-04",
+   "tokens": [
+    "2026",
+    "4",
+    "fabrizio",
+    "gabriel",
+    "happen",
+    "lead",
+    "make",
+    "nov",
+    "race",
+    "ready",
+    "romano",
+    "september",
+    "since",
+    "soon"
+   ],
+   "names": [
+    "fabrizio",
+    "gabriel",
+    "nov",
+    "romano",
+    "september"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 JJ Gabriel and Real Madrid: leading the race since September, ready to make it happen very soon. 🔜💣 https:/…",
+   "link": "https://t.me/RealMadridImportantOnly/957"
   }
  ],
  "offset": 769012044,
@@ -643,8 +674,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-04",
-  "calls": 42,
-  "tokens": 50155
+  "calls": 43,
+  "tokens": 51360
  },
  "summary_date": "2026-11-03",
  "opts": {
@@ -672,7 +703,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 114,
-  "transfer": 69,
+  "transfer": 70,
   "stats": 1,
   "discipline": 25,
   "injury": 39,
