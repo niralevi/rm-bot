@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59676,
-  "themadridzone": 34127,
+  "themadridzone": 34128,
   "FabrizioRomanoTG": 68023
  },
  "sent": [
@@ -1244,6 +1244,32 @@
    "status": "fact",
    "headline": "🚨 José Mourinho: \"The atmosphere in Greece was INCREDIBLE tonight.",
    "link": "https://t.me/RealMadridImportantOnly/986"
+  },
+  {
+   "ts": 1793823738.149416,
+   "date": "2026-11-04",
+   "tokens": [
+    "aek",
+    "complete",
+    "different",
+    "how",
+    "incredible",
+    "jose",
+    "made",
+    "manager",
+    "mourinho",
+    "play",
+    "team",
+    "used"
+   ],
+   "names": [
+    "jose",
+    "mourinho"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "🚨 José Mourinho: \"AEK's manager was incredible tonight, he made his team play completely differently from how…",
+   "link": "https://t.me/RealMadridImportantOnly/987"
   }
  ],
  "offset": 769012044,
@@ -1286,6 +1312,6 @@
   "injury": 42,
   "coach": 30,
   "awards": 92,
-  "fixtures": 26
+  "fixtures": 27
  }
 }
