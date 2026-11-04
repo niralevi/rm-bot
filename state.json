@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59638,
-  "themadridzone": 33985,
-  "FabrizioRomanoTG": 68015
+  "themadridzone": 33989,
+  "FabrizioRomanoTG": 68016
  },
  "sent": [
   {
@@ -784,6 +784,54 @@
    "status": "fact",
    "headline": "🚨 REAL MADRID'S ATTACK TONIGHT:",
    "link": "https://t.me/RealMadridImportantOnly/964"
+  },
+  {
+   "ts": 1793810664.638773,
+   "date": "2026-11-04",
+   "tokens": [
+    "best",
+    "here",
+    "world"
+   ],
+   "names": [],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "The best player in the world is here 🇫🇷✨",
+   "link": "https://t.me/RealMadridImportantOnly/965"
+  },
+  {
+   "ts": 1793810668.2626567,
+   "date": "2026-11-04",
+   "tokens": [
+    "arriv",
+    "bellingham",
+    "jude"
+   ],
+   "names": [
+    "bellingham",
+    "jude"
+   ],
+   "cat": "transfer",
+   "status": "fact",
+   "headline": "Jude Bellingham has arrived 🏴󠁧󠁢󠁥󠁮󠁧󠁿🤍",
+   "link": "https://t.me/RealMadridImportantOnly/966"
+  },
+  {
+   "ts": 1793810671.434357,
+   "date": "2026-11-04",
+   "tokens": [
+    "coach",
+    "here",
+    "jose"
+   ],
+   "names": [
+    "coach",
+    "jose"
+   ],
+   "cat": "coach",
+   "status": "fact",
+   "headline": "Coach José is here 🧠",
+   "link": "https://t.me/RealMadridImportantOnly/967"
   }
  ],
  "offset": 769012044,
@@ -791,8 +839,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-04",
-  "calls": 62,
-  "tokens": 73943
+  "calls": 65,
+  "tokens": 77427
  },
  "summary_date": "2026-11-03",
  "opts": {
@@ -820,11 +868,11 @@
   "fun": 1,
   "social": 2,
   "lineup": 118,
-  "transfer": 71,
+  "transfer": 73,
   "stats": 1,
   "discipline": 25,
   "injury": 39,
-  "coach": 27,
+  "coach": 28,
   "awards": 92,
   "fixtures": 24
  }
