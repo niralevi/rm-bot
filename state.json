@@ -6,50 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793600545.4157932,
-   "date": "2026-11-02",
-   "tokens": [
-    "2011",
-    "2013",
-    "actual",
-    "adebayor",
-    "aris",
-    "brahim",
-    "diaz",
-    "diego",
-    "due",
-    "emmanuel",
-    "get",
-    "january",
-    "jose",
-    "last",
-    "lopez",
-    "manager",
-    "mourinho",
-    "opportunity",
-    "rather",
-    "request",
-    "sign",
-    "signing",
-    "than"
-   ],
-   "names": [
-    "adebayor",
-    "brahim",
-    "diaz",
-    "diego",
-    "emmanuel",
-    "january",
-    "jose",
-    "lopez",
-    "mourinho"
-   ],
-   "cat": "transfer",
-   "status": "fact",
-   "headline": "🚨 Jose Mourinho was the last manager to request signings in January and actually get them.",
-   "link": "https://t.me/RealMadridImportantOnly/924"
-  },
-  {
    "ts": 1793600963.153276,
    "date": "2026-11-02",
    "tokens": [
