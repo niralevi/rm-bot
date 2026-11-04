@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59667,
-  "themadridzone": 34061,
+  "real_madrid": 59668,
+  "themadridzone": 34064,
   "FabrizioRomanoTG": 68019
  },
  "sent": [
@@ -1008,6 +1008,22 @@
    "status": "official",
    "headline": "🚨 Valverde, Endrick are ON.",
    "link": "https://t.me/RealMadridImportantOnly/977"
+  },
+  {
+   "ts": 1793820442.5943103,
+   "date": "2026-11-04",
+   "tokens": [
+    "brahim",
+    "carrera",
+    "cucurella",
+    "off",
+    "vini"
+   ],
+   "names": [],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 BRAHIM, CARRERAS ARE ON.",
+   "link": "https://t.me/RealMadridImportantOnly/978"
   }
  ],
  "offset": 769012044,
@@ -1015,8 +1031,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-04",
-  "calls": 160,
-  "tokens": 178159
+  "calls": 164,
+  "tokens": 182260
  },
  "summary_date": "2026-11-03",
  "opts": {
@@ -1043,7 +1059,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 122,
+  "lineup": 123,
   "transfer": 76,
   "stats": 1,
   "discipline": 26,
