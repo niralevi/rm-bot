@@ -6,43 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793634143.3688965,
-   "date": "2026-11-02",
-   "tokens": [
-    "bellingham",
-    "courtoi",
-    "cristiano",
-    "cucurella",
-    "fifpro",
-    "jude",
-    "kylian",
-    "marc",
-    "mbappe",
-    "nomine",
-    "official",
-    "ronaldo",
-    "thibaut",
-    "world"
-   ],
-   "names": [
-    "bellingham",
-    "courtois",
-    "cristiano",
-    "cucurella",
-    "jude",
-    "kylian",
-    "marc",
-    "mbappe",
-    "ronaldo",
-    "thibaut",
-    "world"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: FIFPro World XI nominees.",
-   "link": "https://t.me/RealMadridImportantOnly/933"
-  },
-  {
    "ts": 1793689104.1698937,
    "date": "2026-11-03",
    "tokens": [
