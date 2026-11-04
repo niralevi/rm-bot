@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59632,
-  "themadridzone": 33924,
+  "themadridzone": 33926,
   "FabrizioRomanoTG": 67989
  },
  "sent": [
@@ -616,6 +616,31 @@
    "status": "fact",
    "headline": "Back in action tonight. 🤍",
    "link": "https://t.me/RealMadridImportantOnly/948"
+  },
+  {
+   "ts": 1793763621.7660913,
+   "date": "2026-11-04",
+   "tokens": [
+    "be",
+    "career",
+    "chosen",
+    "confirm",
+    "convinc",
+    "deal",
+    "decision",
+    "dream",
+    "final",
+    "finaliz",
+    "gabriel",
+    "spend"
+   ],
+   "names": [
+    "gabriel"
+   ],
+   "cat": "transfer",
+   "status": "official",
+   "headline": "🚨💣 CONFIRMED: JJ Gabriel has chosen REAL MADRID!",
+   "link": "https://t.me/RealMadridImportantOnly/949"
   }
  ],
  "offset": 769012044,
@@ -623,8 +648,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-04",
-  "calls": 8,
-  "tokens": 8777
+  "calls": 9,
+  "tokens": 9957
  },
  "summary_date": "2026-11-03",
  "opts": {
@@ -652,7 +677,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 109,
-  "transfer": 67,
+  "transfer": 68,
   "stats": 1,
   "discipline": 25,
   "injury": 39,
