@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59676,
-  "themadridzone": 34123,
+  "themadridzone": 34127,
   "FabrizioRomanoTG": 68023
  },
  "sent": [
@@ -1219,6 +1219,31 @@
    "status": "fact",
    "headline": "🚨 José Mourinho: \"Rafa Nadal becoming a Real Madrid board member?",
    "link": "https://t.me/RealMadridImportantOnly/985"
+  },
+  {
+   "ts": 1793823626.2837143,
+   "date": "2026-11-04",
+   "tokens": [
+    "atmospher",
+    "atmosphere",
+    "familiar",
+    "greece",
+    "incredible",
+    "jose",
+    "mourinho",
+    "similar",
+    "turkish"
+   ],
+   "names": [
+    "greece",
+    "jose",
+    "mourinho",
+    "turkish"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "🚨 José Mourinho: \"The atmosphere in Greece was INCREDIBLE tonight.",
+   "link": "https://t.me/RealMadridImportantOnly/986"
   }
  ],
  "offset": 769012044,
@@ -1261,6 +1286,6 @@
   "injury": 42,
   "coach": 30,
   "awards": 92,
-  "fixtures": 25
+  "fixtures": 26
  }
 }
