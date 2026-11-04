@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59669,
-  "themadridzone": 34067,
+  "real_madrid": 59672,
+  "themadridzone": 34072,
   "FabrizioRomanoTG": 68019
  },
  "sent": [
@@ -1040,6 +1040,25 @@
    "status": "fact",
    "headline": "🚨 CARLOS ESPI IS ON.",
    "link": "https://t.me/RealMadridImportantOnly/979"
+  },
+  {
+   "ts": 1793821114.6199303,
+   "date": "2026-11-04",
+   "tokens": [
+    "captain",
+    "don",
+    "fede",
+    "hit",
+    "injury",
+    "time",
+    "valverde",
+    "what"
+   ],
+   "names": [],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "WHAT A HIT FROM THE CAPTAIN IN INJURY TIME.",
+   "link": "https://t.me/RealMadridImportantOnly/980"
   }
  ],
  "offset": 769012044,
@@ -1056,7 +1075,7 @@
   "summary": true
  },
  "health": {},
- "limit_alert": "2026-11-01",
+ "limit_alert": "2026-11-04",
  "version": 2,
  "topics_on": {
   "quotes": false,
@@ -1079,7 +1098,7 @@
   "transfer": 76,
   "stats": 1,
   "discipline": 26,
-  "injury": 40,
+  "injury": 41,
   "coach": 29,
   "awards": 92,
   "fixtures": 24
