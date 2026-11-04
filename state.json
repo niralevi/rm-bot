@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59676,
-  "themadridzone": 34140,
+  "themadridzone": 34142,
   "FabrizioRomanoTG": 68023
  },
  "sent": [
@@ -1270,6 +1270,33 @@
    "status": "fact",
    "headline": "🚨 José Mourinho: \"AEK's manager was incredible tonight, he made his team play completely differently from how…",
    "link": "https://t.me/RealMadridImportantOnly/987"
+  },
+  {
+   "ts": 1793825964.7112947,
+   "date": "2026-11-04",
+   "tokens": [
+    "born",
+    "jesu",
+    "late",
+    "miguel",
+    "nico",
+    "pay",
+    "paz",
+    "scor",
+    "tenerife",
+    "tribute"
+   ],
+   "names": [
+    "jesus",
+    "miguel",
+    "nico",
+    "paz",
+    "tenerife"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "Nico Paz paying tribute to the late Jesús de Miguel of CD Tenerife after scoring tonight. 🖤🕊️🙏",
+   "link": "https://t.me/RealMadridImportantOnly/988"
   }
  ],
  "offset": 769012044,
@@ -1312,6 +1339,6 @@
   "injury": 42,
   "coach": 30,
   "awards": 92,
-  "fixtures": 27
+  "fixtures": 28
  }
 }
