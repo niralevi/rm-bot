@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59676,
-  "themadridzone": 34144,
-  "FabrizioRomanoTG": 68023
+  "themadridzone": 34148,
+  "FabrizioRomanoTG": 68024
  },
  "sent": [
   {
@@ -1340,6 +1340,47 @@
    "status": "rumour",
    "headline": "🚨 Nico Paz in the 1st half vs Lens:",
    "link": "https://t.me/RealMadridImportantOnly/989"
+  },
+  {
+   "ts": 1793826265.452885,
+   "date": "2026-11-04",
+   "tokens": [
+    "100",
+    "2027",
+    "activate",
+    "away",
+    "back",
+    "best",
+    "buy",
+    "cannot",
+    "clause",
+    "display",
+    "dominance",
+    "elegance",
+    "every",
+    "footballer",
+    "game",
+    "genuine",
+    "get",
+    "like",
+    "nico",
+    "one",
+    "paz",
+    "planet",
+    "play",
+    "pure",
+    "should",
+    "simp"
+   ],
+   "names": [
+    "every",
+    "nico",
+    "paz"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Nico Paz is genuinely one of the best footballers on the planet.",
+   "link": "https://t.me/RealMadridImportantOnly/990"
   }
  ],
  "offset": 769012044,
@@ -1376,7 +1417,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 124,
-  "transfer": 77,
+  "transfer": 78,
   "stats": 1,
   "discipline": 26,
   "injury": 43,
