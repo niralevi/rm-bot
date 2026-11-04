@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59638,
-  "themadridzone": 33964,
+  "themadridzone": 33965,
   "FabrizioRomanoTG": 68015
  },
  "sent": [
@@ -667,6 +667,30 @@
    "status": "rumour",
    "headline": "🚨 JJ Gabriel and Real Madrid: leading the race since September, ready to make it happen very soon. 🔜💣 https:/…",
    "link": "https://t.me/RealMadridImportantOnly/957"
+  },
+  {
+   "ts": 1793804190.8522003,
+   "date": "2026-11-04",
+   "tokens": [
+    "african",
+    "among",
+    "brahim",
+    "diaz",
+    "nomine",
+    "official",
+    "year"
+   ],
+   "names": [
+    "african",
+    "brahim",
+    "diaz",
+    "player",
+    "year"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Brahim Diaz is among the nominees for the African Player of the Year. 🇲🇦⭐️",
+   "link": "https://t.me/RealMadridImportantOnly/958"
   }
  ],
  "offset": 769012044,
@@ -674,8 +698,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-04",
-  "calls": 45,
-  "tokens": 53616
+  "calls": 46,
+  "tokens": 54744
  },
  "summary_date": "2026-11-03",
  "opts": {
@@ -708,7 +732,7 @@
   "discipline": 25,
   "injury": 39,
   "coach": 27,
-  "awards": 90,
+  "awards": 91,
   "fixtures": 24
  }
 }
