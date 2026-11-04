@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59664,
-  "themadridzone": 34047,
+  "themadridzone": 34048,
   "FabrizioRomanoTG": 68019
  },
  "sent": [
@@ -950,6 +950,24 @@
    "status": "rumour",
    "headline": "Jose Mourinho. ⚪️",
    "link": "https://t.me/RealMadridImportantOnly/974"
+  },
+  {
+   "ts": 1793818807.905462,
+   "date": "2026-11-04",
+   "tokens": [
+    "block",
+    "close",
+    "cucurella",
+    "kylian",
+    "mbappe",
+    "move",
+    "what"
+   ],
+   "names": [],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "CLOSE CUCURELLA, BLOCKED.",
+   "link": "https://t.me/RealMadridImportantOnly/975"
   }
  ],
  "offset": 769012044,
@@ -957,8 +975,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-04",
-  "calls": 144,
-  "tokens": 161606
+  "calls": 145,
+  "tokens": 162662
  },
  "summary_date": "2026-11-03",
  "opts": {
@@ -986,7 +1004,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 121,
-  "transfer": 75,
+  "transfer": 76,
   "stats": 1,
   "discipline": 25,
   "injury": 40,
