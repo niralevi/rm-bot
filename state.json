@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59657,
-  "themadridzone": 34026,
+  "real_madrid": 59660,
+  "themadridzone": 34031,
   "FabrizioRomanoTG": 68016
  },
  "sent": [
@@ -934,6 +934,22 @@
    "status": "rumour",
    "headline": "COURTOIS DENIES JOVIC.",
    "link": "https://t.me/RealMadridImportantOnly/973"
+  },
+  {
+   "ts": 1793816791.0746453,
+   "date": "2026-11-04",
+   "tokens": [
+    "jose",
+    "mourinho"
+   ],
+   "names": [
+    "jose",
+    "mourinho"
+   ],
+   "cat": "coach",
+   "status": "rumour",
+   "headline": "Jose Mourinho. ⚪️",
+   "link": "https://t.me/RealMadridImportantOnly/974"
   }
  ],
  "offset": 769012044,
@@ -941,8 +957,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-04",
-  "calls": 116,
-  "tokens": 132362
+  "calls": 124,
+  "tokens": 140738
  },
  "summary_date": "2026-11-03",
  "opts": {
@@ -974,7 +990,7 @@
   "stats": 1,
   "discipline": 25,
   "injury": 40,
-  "coach": 28,
+  "coach": 29,
   "awards": 92,
   "fixtures": 24
  }
