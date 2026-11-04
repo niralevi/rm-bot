@@ -6,26 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793617549.5370657,
-   "date": "2026-11-02",
-   "tokens": [
-    "back",
-    "fede",
-    "team",
-    "train",
-    "valverde"
-   ],
-   "names": [
-    "fede",
-    "valverde"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨 BREAKING: Fede Valverde is BACK in team training. 🦅",
-   "link": "https://t.me/RealMadridImportantOnly/929",
-   "superseded": true
-  },
-  {
    "ts": 1793619628.1223235,
    "date": "2026-11-02",
    "tokens": [
