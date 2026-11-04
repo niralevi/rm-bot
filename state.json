@@ -6,29 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793601034.7346127,
-   "date": "2026-11-02",
-   "tokens": [
-    "marin",
-    "munoz",
-    "potential",
-    "radar",
-    "rafa",
-    "return",
-    "victor"
-   ],
-   "names": [
-    "marin",
-    "munoz",
-    "rafa",
-    "victor"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 NEW: Rafa Marín and Victor Muñoz are on Real Madrid’s radar as potential returns. @jfelixdiaz",
-   "link": "https://t.me/RealMadridImportantOnly/926"
-  },
-  {
    "ts": 1793612420.8055015,
    "date": "2026-11-02",
    "tokens": [
