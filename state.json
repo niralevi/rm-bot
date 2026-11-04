@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59664,
-  "themadridzone": 34053,
+  "real_madrid": 59665,
+  "themadridzone": 34055,
   "FabrizioRomanoTG": 68019
  },
  "sent": [
@@ -968,6 +968,46 @@
    "status": "rumour",
    "headline": "CLOSE CUCURELLA, BLOCKED.",
    "link": "https://t.me/RealMadridImportantOnly/975"
+  },
+  {
+   "ts": 1793819538.2002347,
+   "date": "2026-11-04",
+   "tokens": [
+    "1",
+    "66",
+    "book",
+    "cucu",
+    "remain"
+   ],
+   "names": [
+    "cucu",
+    "remains"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "66’ Remains 1-1. Cucu has been booked.",
+   "link": "https://t.me/RealMadridImportantOnly/976"
+  },
+  {
+   "ts": 1793819602.64263,
+   "date": "2026-11-04",
+   "tokens": [
+    "bernardo",
+    "diomande",
+    "endrick",
+    "off",
+    "valverde"
+   ],
+   "names": [
+    "bernardo",
+    "diomande",
+    "endrick",
+    "valverde"
+   ],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 Valverde, Endrick are ON.",
+   "link": "https://t.me/RealMadridImportantOnly/977"
   }
  ],
  "offset": 769012044,
@@ -975,8 +1015,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-04",
-  "calls": 149,
-  "tokens": 166813
+  "calls": 152,
+  "tokens": 169923
  },
  "summary_date": "2026-11-03",
  "opts": {
@@ -1003,10 +1043,10 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 121,
+  "lineup": 122,
   "transfer": 76,
   "stats": 1,
-  "discipline": 25,
+  "discipline": 26,
   "injury": 40,
   "coach": 29,
   "awards": 92,
