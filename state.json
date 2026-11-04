@@ -6,41 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793612420.8055015,
-   "date": "2026-11-02",
-   "tokens": [
-    "arda",
-    "aurelien",
-    "bellingham",
-    "bernardo",
-    "guler",
-    "jose",
-    "jude",
-    "magic",
-    "midfield",
-    "mourinho",
-    "silva",
-    "square",
-    "tchouameni"
-   ],
-   "names": [
-    "arda",
-    "aurelien",
-    "bellingham",
-    "bernardo",
-    "guler",
-    "jose",
-    "jude",
-    "mourinho",
-    "silva",
-    "tchouameni"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 NEW: Jose Mourinho’s new “magic” square in midfield:",
-   "link": "https://t.me/RealMadridImportantOnly/927"
-  },
-  {
    "ts": 1793613306.1069047,
    "date": "2026-11-02",
    "tokens": [
