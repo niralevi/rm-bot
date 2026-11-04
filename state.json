@@ -6,45 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793613306.1069047,
-   "date": "2026-11-02",
-   "tokens": [
-    "0",
-    "1",
-    "2",
-    "3",
-    "aek",
-    "athen",
-    "city",
-    "italian",
-    "leipzig",
-    "lille",
-    "manchester",
-    "mariano",
-    "match",
-    "maurizio",
-    "official",
-    "officiat",
-    "officiate",
-    "previous",
-    "referee"
-   ],
-   "names": [
-    "athens",
-    "city",
-    "italian",
-    "leipzig",
-    "lille",
-    "manchester",
-    "mariano",
-    "maurizio"
-   ],
-   "cat": "fixtures",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Italian referee Maurizio Mariano will officiate Real Madrid vs AEK Athens.",
-   "link": "https://t.me/RealMadridImportantOnly/928"
-  },
-  {
    "ts": 1793617549.5370657,
    "date": "2026-11-02",
    "tokens": [
