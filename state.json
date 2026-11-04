@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59632,
-  "themadridzone": 33926,
+  "themadridzone": 33928,
   "FabrizioRomanoTG": 67995
  },
  "sent": [
@@ -641,6 +641,36 @@
    "status": "official",
    "headline": "🚨💣 CONFIRMED: JJ Gabriel has chosen REAL MADRID!",
    "link": "https://t.me/RealMadridImportantOnly/949"
+  },
+  {
+   "ts": 1793770100.6631937,
+   "date": "2026-11-04",
+   "tokens": [
+    "aek",
+    "all",
+    "alvaro",
+    "antonio",
+    "athen",
+    "carrera",
+    "denzel",
+    "dumfri",
+    "expect",
+    "rudiger",
+    "start"
+   ],
+   "names": [
+    "alvaro",
+    "antonio",
+    "athens",
+    "carreras",
+    "denzel",
+    "dumfries",
+    "rudiger"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 JUST IN: Antonio Rüdiger, Denzel Dumfries and Alvaro Carreras are all expected to START vs AEK Athens. @cope",
+   "link": "https://t.me/RealMadridImportantOnly/950"
   }
  ],
  "offset": 769012044,
@@ -648,8 +678,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-04",
-  "calls": 9,
-  "tokens": 9957
+  "calls": 10,
+  "tokens": 11081
  },
  "summary_date": "2026-11-03",
  "opts": {
@@ -676,7 +706,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 109,
+  "lineup": 110,
   "transfer": 68,
   "stats": 1,
   "discipline": 25,
