@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59638,
-  "themadridzone": 33968,
+  "themadridzone": 33970,
   "FabrizioRomanoTG": 68015
  },
  "sent": [
@@ -716,6 +716,40 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Yan Diomande is nominated for the African Young Player of the Year. 🇨🇮💎",
    "link": "https://t.me/RealMadridImportantOnly/959"
+  },
+  {
+   "ts": 1793806296.814897,
+   "date": "2026-11-04",
+   "tokens": [
+    "beginn",
+    "behind",
+    "calafat",
+    "circle",
+    "close",
+    "contact",
+    "deal",
+    "entire",
+    "gabriel",
+    "happen",
+    "hard",
+    "juni",
+    "main",
+    "maintain",
+    "make",
+    "man",
+    "sign",
+    "work"
+   ],
+   "names": [
+    "calafat",
+    "from",
+    "gabriel",
+    "juni"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 Juni Calafat is the main man behind the signing of JJ Gabriel for Real Madrid.",
+   "link": "https://t.me/RealMadridImportantOnly/960"
   }
  ],
  "offset": 769012044,
@@ -723,8 +757,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-04",
-  "calls": 49,
-  "tokens": 58236
+  "calls": 50,
+  "tokens": 59491
  },
  "summary_date": "2026-11-03",
  "opts": {
@@ -752,7 +786,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 114,
-  "transfer": 70,
+  "transfer": 71,
   "stats": 1,
   "discipline": 25,
   "injury": 39,
