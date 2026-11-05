@@ -6,47 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793689104.1698937,
-   "date": "2026-11-03",
-   "tokens": [
-    "5",
-    "alaba",
-    "bellingham",
-    "bundesliga",
-    "busines",
-    "david",
-    "diomande",
-    "impeccable",
-    "jovic",
-    "jude",
-    "kroo",
-    "last",
-    "luka",
-    "near",
-    "signing",
-    "toni",
-    "yan"
-   ],
-   "names": [
-    "alaba",
-    "bellingham",
-    "bundesliga",
-    "david",
-    "diomande",
-    "jovic",
-    "jude",
-    "kroos",
-    "luka",
-    "near",
-    "toni",
-    "yan"
-   ],
-   "cat": "transfer",
-   "status": "fact",
-   "headline": "🚨 Real Madrid last 5 signings from the Bundesliga:",
-   "link": "https://t.me/RealMadridImportantOnly/935"
-  },
-  {
    "ts": 1793704981.9613233,
    "date": "2026-11-03",
    "tokens": [
