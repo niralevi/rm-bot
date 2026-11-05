@@ -6,21 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793704981.9613233,
-   "date": "2026-11-03",
-   "tokens": [
-    "team",
-    "train"
-   ],
-   "names": [
-    "team"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "Team in training.",
-   "link": "https://t.me/RealMadridImportantOnly/936"
-  },
-  {
    "ts": 1793706396.3097985,
    "date": "2026-11-03",
    "tokens": [
