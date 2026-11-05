@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59676,
-  "themadridzone": 34182,
+  "themadridzone": 34183,
   "FabrizioRomanoTG": 68058
  },
  "sent": [
@@ -1364,6 +1364,49 @@
    "status": "rumour",
    "headline": "📺 New YouTube Video Uploaded!",
    "link": "https://t.me/RealMadridImportantOnly/992"
+  },
+  {
+   "ts": 1793880559.3986053,
+   "date": "2026-11-05",
+   "tokens": [
+    "all",
+    "available",
+    "bellingham",
+    "bernabeu",
+    "camp",
+    "choose",
+    "club",
+    "come",
+    "convinc",
+    "decision",
+    "encourag",
+    "gabriel",
+    "insight",
+    "interest",
+    "jude",
+    "key",
+    "life",
+    "move",
+    "offer",
+    "opportuniti",
+    "other",
+    "play",
+    "recommend",
+    "role",
+    "spoke",
+    "within",
+    "young"
+   ],
+   "names": [
+    "bellingham",
+    "bernabeu",
+    "gabriel",
+    "jude"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Bellingham influences JJ Gabriel's decision to join Real Madrid",
+   "link": "https://t.me/RealMadridImportantOnly/993"
   }
  ],
  "offset": 769012044,
@@ -1371,8 +1414,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-05",
-  "calls": 25,
-  "tokens": 28515
+  "calls": 26,
+  "tokens": 29729
  },
  "summary_date": "2026-11-04",
  "opts": {
@@ -1400,7 +1443,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 124,
-  "transfer": 79,
+  "transfer": 80,
   "stats": 1,
   "discipline": 26,
   "injury": 43,
