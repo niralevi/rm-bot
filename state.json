@@ -6,25 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793709995.4224257,
-   "date": "2026-11-03",
-   "tokens": [
-    "back",
-    "fede",
-    "official",
-    "squad",
-    "valverde"
-   ],
-   "names": [
-    "fede",
-    "valverde"
-   ],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Fede Valverde is BACK in the squad. 🦅",
-   "link": "https://t.me/RealMadridImportantOnly/939"
-  },
-  {
    "ts": 1793712565.8107746,
    "date": "2026-11-03",
    "tokens": [
