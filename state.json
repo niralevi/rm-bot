@@ -6,34 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793728910.6648898,
-   "date": "2026-11-03",
-   "tokens": [
-    "bellingham",
-    "diomande",
-    "includ",
-    "jude",
-    "liga",
-    "official",
-    "team",
-    "week",
-    "whoscor",
-    "yan"
-   ],
-   "names": [
-    "bellingham",
-    "diomande",
-    "jude",
-    "team",
-    "week",
-    "yan"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨 OFFICIAL: Jude Bellingham and Yan Diomandé are included in WhoScored La Liga Team of The Week!",
-   "link": "https://t.me/RealMadridImportantOnly/943"
-  },
-  {
    "ts": 1793746848.9502292,
    "date": "2026-11-04",
    "tokens": [],
