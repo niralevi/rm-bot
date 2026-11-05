@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59681,
-  "themadridzone": 34243,
+  "themadridzone": 34245,
   "FabrizioRomanoTG": 68066
  },
  "sent": [
@@ -1455,6 +1455,34 @@
    "status": "official",
    "headline": "🚨 EVERY SINGLE top club in Europe has tried to sign JJ Gabriel.",
    "link": "https://t.me/RealMadridImportantOnly/1000"
+  },
+  {
+   "ts": 1793921959.3664844,
+   "date": "2026-11-06",
+   "tokens": [
+    "2027",
+    "80m",
+    "back",
+    "buy",
+    "clause",
+    "confirm",
+    "control",
+    "expir",
+    "lose",
+    "nico",
+    "only",
+    "paz",
+    "summer",
+    "valid"
+   ],
+   "names": [
+    "nico",
+    "paz"
+   ],
+   "cat": "transfer",
+   "status": "official",
+   "headline": "🚨 CONFIRMED: Real Madrid have a €80M buy-back clause for Nico Paz, but it's ONLY valid in summer 2027.",
+   "link": "https://t.me/RealMadridImportantOnly/1001"
   }
  ],
  "offset": 769012044,
@@ -1462,8 +1490,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-06",
-  "calls": 4,
-  "tokens": 4645
+  "calls": 5,
+  "tokens": 5766
  },
  "summary_date": "2026-11-05",
  "opts": {
@@ -1491,7 +1519,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 125,
-  "transfer": 84,
+  "transfer": 85,
   "stats": 1,
   "discipline": 26,
   "injury": 43,
