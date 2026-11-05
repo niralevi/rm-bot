@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59676,
-  "themadridzone": 34187,
+  "themadridzone": 34192,
   "FabrizioRomanoTG": 68059
  },
  "sent": [
@@ -1460,6 +1460,22 @@
    "status": "rumour",
    "headline": "JJ Gabriel decides to join Real Madrid after impressed by project",
    "link": "https://t.me/RealMadridImportantOnly/994"
+  },
+  {
+   "ts": 1793881463.3483777,
+   "date": "2026-11-05",
+   "tokens": [
+    "endrick",
+    "trent"
+   ],
+   "names": [
+    "endrick",
+    "trent"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Endrick x Trent! ⭐️⭐️",
+   "link": "https://t.me/RealMadridImportantOnly/995"
   }
  ],
  "offset": 769012044,
@@ -1467,8 +1483,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-05",
-  "calls": 28,
-  "tokens": 32088
+  "calls": 32,
+  "tokens": 36440
  },
  "summary_date": "2026-11-04",
  "opts": {
@@ -1496,7 +1512,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 124,
-  "transfer": 81,
+  "transfer": 82,
   "stats": 1,
   "discipline": 26,
   "injury": 43,
