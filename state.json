@@ -6,29 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793712565.8107746,
-   "date": "2026-11-03",
-   "tokens": [
-    "aek",
-    "any",
-    "arda",
-    "does",
-    "guler",
-    "issu",
-    "physical",
-    "rest",
-    "squad"
-   ],
-   "names": [
-    "arda",
-    "guler"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 UPDATE: Arda Güler is not in the squad vs AEK for rest.",
-   "link": "https://t.me/RealMadridImportantOnly/940"
-  },
-  {
    "ts": 1793721262.8120723,
    "date": "2026-11-03",
    "tokens": [
