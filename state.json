@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59681,
-  "themadridzone": 34239,
+  "themadridzone": 34243,
   "FabrizioRomanoTG": 68066
  },
  "sent": [
@@ -1409,6 +1409,52 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Real Madrid Player of the Month nominees.",
    "link": "https://t.me/RealMadridImportantOnly/998"
+  },
+  {
+   "ts": 1793921244.0556622,
+   "date": "2026-11-06",
+   "tokens": [
+    "all",
+    "barcelona",
+    "bayern",
+    "chelsea",
+    "city",
+    "contact",
+    "convince",
+    "entourage",
+    "europe",
+    "every",
+    "gabriel",
+    "him",
+    "however",
+    "join",
+    "manchester",
+    "munich",
+    "psg",
+    "race",
+    "recent",
+    "sign",
+    "single",
+    "top",
+    "tri",
+    "try",
+    "won"
+   ],
+   "names": [
+    "barcelona",
+    "bayern",
+    "chelsea",
+    "city",
+    "europe",
+    "gabriel",
+    "however",
+    "manchester",
+    "munich"
+   ],
+   "cat": "transfer",
+   "status": "official",
+   "headline": "🚨 EVERY SINGLE top club in Europe has tried to sign JJ Gabriel.",
+   "link": "https://t.me/RealMadridImportantOnly/1000"
   }
  ],
  "offset": 769012044,
@@ -1416,8 +1462,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-06",
-  "calls": 2,
-  "tokens": 2313
+  "calls": 4,
+  "tokens": 4645
  },
  "summary_date": "2026-11-05",
  "opts": {
@@ -1445,7 +1491,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 125,
-  "transfer": 83,
+  "transfer": 84,
   "stats": 1,
   "discipline": 26,
   "injury": 43,
