@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59676,
-  "themadridzone": 34193,
+  "themadridzone": 34197,
   "FabrizioRomanoTG": 68061
  },
  "sent": [
@@ -1457,6 +1457,40 @@
    "status": "rumour",
    "headline": "Endrick x Trent! ⭐️⭐️",
    "link": "https://t.me/RealMadridImportantOnly/995"
+  },
+  {
+   "ts": 1793883264.9657872,
+   "date": "2026-11-05",
+   "tokens": [
+    "arda",
+    "guler",
+    "train"
+   ],
+   "names": [
+    "arda",
+    "guler"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Arda Guler in training 🇹🇷🪄",
+   "link": "https://t.me/RealMadridImportantOnly/996"
+  },
+  {
+   "ts": 1793883394.9750865,
+   "date": "2026-11-05",
+   "tokens": [
+    "ferland",
+    "mendy",
+    "train"
+   ],
+   "names": [
+    "ferland",
+    "mendy"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "Ferland Mendy in training 🇫🇷",
+   "link": "https://t.me/RealMadridImportantOnly/997"
   }
  ],
  "offset": 769012044,
@@ -1464,8 +1498,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-05",
-  "calls": 33,
-  "tokens": 37498
+  "calls": 37,
+  "tokens": 41902
  },
  "summary_date": "2026-11-04",
  "opts": {
@@ -1492,8 +1526,8 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 124,
-  "transfer": 82,
+  "lineup": 125,
+  "transfer": 83,
   "stats": 1,
   "discipline": 26,
   "injury": 43,
