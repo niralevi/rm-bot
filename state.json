@@ -6,25 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793721262.8120723,
-   "date": "2026-11-03",
-   "tokens": [
-    "eder",
-    "militao",
-    "train",
-    "vini"
-   ],
-   "names": [
-    "eder",
-    "militao",
-    "vini"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "Vini Jr and Eder Militao in training 😭🤍",
-   "link": "https://t.me/RealMadridImportantOnly/941"
-  },
-  {
    "ts": 1793723365.4227216,
    "date": "2026-11-03",
    "tokens": [
