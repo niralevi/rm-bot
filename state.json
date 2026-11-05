@@ -1,29 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59681,
-  "themadridzone": 34228,
+  "themadridzone": 34231,
   "FabrizioRomanoTG": 68064
  },
  "sent": [
-  {
-   "ts": 1793723365.4227216,
-   "date": "2026-11-03",
-   "tokens": [
-    "arriv",
-    "athen",
-    "diomande",
-    "yan"
-   ],
-   "names": [
-    "athens",
-    "diomande",
-    "yan"
-   ],
-   "cat": "transfer",
-   "status": "fact",
-   "headline": "Yan Diomandé has arrived in Athens",
-   "link": "https://t.me/RealMadridImportantOnly/942"
-  },
   {
    "ts": 1793728910.6648898,
    "date": "2026-11-03",
@@ -1473,8 +1454,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-05",
-  "calls": 63,
-  "tokens": 69775
+  "calls": 65,
+  "tokens": 71908
  },
  "summary_date": "2026-11-04",
  "opts": {
