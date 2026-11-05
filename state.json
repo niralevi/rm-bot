@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59676,
   "themadridzone": 34169,
-  "FabrizioRomanoTG": 68048
+  "FabrizioRomanoTG": 68049
  },
  "sent": [
   {
@@ -1376,6 +1376,41 @@
    "status": "fact",
    "headline": "🚨 José Mourinho on Vinicius Jr moment: “Vini had an acceptable match tonight. Not extraordinary, just like th…",
    "link": "https://t.me/RealMadridImportantOnly/991"
+  },
+  {
+   "ts": 1793868623.6779256,
+   "date": "2026-11-05",
+   "tokens": [
+    "80m",
+    "back",
+    "buy",
+    "call",
+    "emery",
+    "january",
+    "mourinho",
+    "nico",
+    "offer",
+    "paz",
+    "sent",
+    "stop",
+    "unit",
+    "upload",
+    "verdict",
+    "video",
+    "watch",
+    "youtube"
+   ],
+   "names": [
+    "new",
+    "now",
+    "uploaded",
+    "video",
+    "watch"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "📺 New YouTube Video Uploaded!",
+   "link": "https://t.me/RealMadridImportantOnly/992"
   }
  ],
  "offset": 769012044,
@@ -1383,8 +1418,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-05",
-  "calls": 12,
-  "tokens": 13661
+  "calls": 13,
+  "tokens": 14773
  },
  "summary_date": "2026-11-04",
  "opts": {
@@ -1412,7 +1447,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 124,
-  "transfer": 78,
+  "transfer": 79,
   "stats": 1,
   "discipline": 26,
   "injury": 43,
