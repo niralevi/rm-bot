@@ -6,23 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793706396.3097985,
-   "date": "2026-11-03",
-   "tokens": [
-    "ibrahima",
-    "konate",
-    "train"
-   ],
-   "names": [
-    "ibrahima",
-    "konate"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "Ibrahima Konaté in training 💪",
-   "link": "https://t.me/RealMadridImportantOnly/937"
-  },
-  {
    "ts": 1793706923.5564606,
    "date": "2026-11-03",
    "tokens": [
