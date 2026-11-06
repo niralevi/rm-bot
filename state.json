@@ -6,42 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793828361.330833,
-   "date": "2026-11-04",
-   "tokens": [
-    "2026",
-    "4",
-    "acceptable",
-    "extraordinary",
-    "fabrizio",
-    "jose",
-    "like",
-    "match",
-    "moment",
-    "mourinho",
-    "nov",
-    "romano",
-    "team",
-    "vini",
-    "viniciu",
-    "whole"
-   ],
-   "names": [
-    "fabrizio",
-    "jose",
-    "mourinho",
-    "not",
-    "nov",
-    "romano",
-    "vini",
-    "vinicius"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "🚨 José Mourinho on Vinicius Jr moment: “Vini had an acceptable match tonight. Not extraordinary, just like th…",
-   "link": "https://t.me/RealMadridImportantOnly/991"
-  },
-  {
    "ts": 1793868623.6779256,
    "date": "2026-11-05",
    "tokens": [
