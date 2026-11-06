@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59681,
-  "themadridzone": 34289,
-  "FabrizioRomanoTG": 68076
+  "themadridzone": 34290,
+  "FabrizioRomanoTG": 68078
  },
  "sent": [
   {
@@ -1374,6 +1374,26 @@
    "status": "fact",
    "headline": "🚨 BREAKING: Vini Jr is NOT training with the squad right now.",
    "link": "https://t.me/RealMadridImportantOnly/1005"
+  },
+  {
+   "ts": 1793963131.9578502,
+   "date": "2026-11-06",
+   "tokens": [
+    "award",
+    "kylian",
+    "liga",
+    "mbappe",
+    "month",
+    "won"
+   ],
+   "names": [
+    "kylian",
+    "mbappe"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨💣 BREAKING: Kylian Mbappé has won LA LIGA PLAYER OF THE MONTH AWARD. @FutSheriff ⭐️",
+   "link": "https://t.me/RealMadridImportantOnly/1006"
   }
  ],
  "offset": 769012044,
@@ -1381,8 +1401,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-06",
-  "calls": 40,
-  "tokens": 44677
+  "calls": 43,
+  "tokens": 48059
  },
  "summary_date": "2026-11-05",
  "opts": {
@@ -1415,7 +1435,7 @@
   "discipline": 26,
   "injury": 44,
   "coach": 30,
-  "awards": 93,
+  "awards": 94,
   "fixtures": 29
  }
 }
