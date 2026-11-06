@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59689,
-  "themadridzone": 34314,
+  "themadridzone": 34316,
   "FabrizioRomanoTG": 68093
  },
  "sent": [
@@ -547,15 +547,32 @@
    "status": "fact",
    "headline": "🧤 Thibaut Courtois",
    "link": "https://t.me/RealMadridImportantOnly/1011"
+  },
+  {
+   "ts": 1794005362.7820399,
+   "date": "2026-11-07",
+   "tokens": [
+    "announc",
+    "cover",
+    "gabriel",
+    "hold",
+    "marca",
+    "move"
+   ],
+   "names": [],
+   "cat": "transfer",
+   "status": "fact",
+   "headline": "🚨💣 JJ GABRIEL HOLDING THE MARCA COVER ANNOUNCING HIS MOVE TO REAL MADRID!",
+   "link": "https://t.me/RealMadridImportantOnly/1013"
   }
  ],
  "offset": 769012044,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
-  "date": "2026-11-06",
-  "calls": 70,
-  "tokens": 78756
+  "date": "2026-11-07",
+  "calls": 2,
+  "tokens": 2339
  },
  "summary_date": "2026-11-06",
  "opts": {
@@ -583,7 +600,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 128,
-  "transfer": 88,
+  "transfer": 89,
   "stats": 1,
   "discipline": 26,
   "injury": 44,
