@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59686,
-  "themadridzone": 34303,
+  "real_madrid": 59687,
+  "themadridzone": 34305,
   "FabrizioRomanoTG": 68089
  },
  "sent": [
@@ -1005,6 +1005,45 @@
    "status": "official",
    "headline": "⏩ NEXT MATCH",
    "link": "https://t.me/RealMadridImportantOnly/1009"
+  },
+  {
+   "ts": 1793984439.262884,
+   "date": "2026-11-06",
+   "tokens": [
+    "award",
+    "bellingham",
+    "jude",
+    "month",
+    "wins"
+   ],
+   "names": [
+    "bellingham",
+    "jude"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨💣 BREAKING: Jude Bellingham wins REAL MADRID PLAYER OF THE MONTH AWARD. ⭐️",
+   "link": "https://t.me/RealMadridImportantOnly/1010"
+  },
+  {
+   "ts": 1793984506.3304873,
+   "date": "2026-11-06",
+   "tokens": [
+    "andrey",
+    "courtoi",
+    "lunin",
+    "thibaut"
+   ],
+   "names": [
+    "andrey",
+    "courtois",
+    "lunin",
+    "thibaut"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🧤 Thibaut Courtois",
+   "link": "https://t.me/RealMadridImportantOnly/1011"
   }
  ],
  "offset": 769012044,
@@ -1012,8 +1051,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-06",
-  "calls": 59,
-  "tokens": 66209
+  "calls": 62,
+  "tokens": 69638
  },
  "summary_date": "2026-11-05",
  "opts": {
@@ -1040,13 +1079,13 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 127,
+  "lineup": 128,
   "transfer": 88,
   "stats": 1,
   "discipline": 26,
   "injury": 44,
   "coach": 30,
-  "awards": 94,
+  "awards": 95,
   "fixtures": 30
  }
 }
