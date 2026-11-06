@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59681,
   "themadridzone": 34250,
-  "FabrizioRomanoTG": 68067
+  "FabrizioRomanoTG": 68068
  },
  "sent": [
   {
@@ -1280,7 +1280,8 @@
    "cat": "transfer",
    "status": "rumour",
    "headline": "JJ Gabriel decides to join Real Madrid after impressed by project",
-   "link": "https://t.me/RealMadridImportantOnly/994"
+   "link": "https://t.me/RealMadridImportantOnly/994",
+   "superseded": true
   },
   {
    "ts": 1793881463.3483777,
@@ -1422,6 +1423,53 @@
    "status": "official",
    "headline": "🚨 CONFIRMED: Real Madrid have a €80M buy-back clause for Nico Paz, but it's ONLY valid in summer 2027.",
    "link": "https://t.me/RealMadridImportantOnly/1001"
+  },
+  {
+   "ts": 1793931927.4551988,
+   "date": "2026-11-06",
+   "tokens": [
+    "16",
+    "2026",
+    "6",
+    "all",
+    "be",
+    "camp",
+    "club",
+    "communication",
+    "deal",
+    "decision",
+    "fabrizio",
+    "final",
+    "formal",
+    "gabriel",
+    "here",
+    "inform",
+    "interest",
+    "keen",
+    "nov",
+    "old",
+    "only",
+    "romano",
+    "seal",
+    "set",
+    "soon",
+    "talent",
+    "term",
+    "top",
+    "want",
+    "year"
+   ],
+   "names": [
+    "fabrizio",
+    "formal",
+    "gabriel",
+    "nov",
+    "romano"
+   ],
+   "cat": "transfer",
+   "status": "official",
+   "headline": "🚨💣 JJ Gabriel and Real Madrid, deal set to be sealed: the 16 year old talent’s camp has informed all interest…",
+   "link": "https://t.me/RealMadridImportantOnly/1002"
   }
  ],
  "offset": 769012044,
@@ -1429,8 +1477,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-06",
-  "calls": 9,
-  "tokens": 10160
+  "calls": 10,
+  "tokens": 11392
  },
  "summary_date": "2026-11-05",
  "opts": {
@@ -1458,7 +1506,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 125,
-  "transfer": 85,
+  "transfer": 86,
   "stats": 1,
   "discipline": 26,
   "injury": 43,
