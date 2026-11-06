@@ -6,25 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793810904.2353735,
-   "date": "2026-11-04",
-   "tokens": [
-    "back",
-    "eder",
-    "gabriel",
-    "militao"
-   ],
-   "names": [
-    "eder",
-    "gabriel",
-    "militao"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "Eder Gabriel Militao is back 🤍",
-   "link": "https://t.me/RealMadridImportantOnly/968"
-  },
-  {
    "ts": 1793811031.2840922,
    "date": "2026-11-04",
    "tokens": [
