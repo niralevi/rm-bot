@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59689,
-  "themadridzone": 34317,
+  "themadridzone": 34318,
   "FabrizioRomanoTG": 68093
  },
  "sent": [
@@ -564,6 +564,16 @@
    "status": "fact",
    "headline": "🚨💣 JJ GABRIEL HOLDING THE MARCA COVER ANNOUNCING HIS MOVE TO REAL MADRID!",
    "link": "https://t.me/RealMadridImportantOnly/1013"
+  },
+  {
+   "ts": 1794006039.9106903,
+   "date": "2026-11-07",
+   "tokens": [],
+   "names": [],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "🚨 𝐈𝐓’𝐒 𝐌𝐀𝐓𝐂𝐇𝐃𝐀𝐘! 🚨",
+   "link": "https://t.me/RealMadridImportantOnly/1014"
   }
  ],
  "offset": 769012044,
@@ -571,8 +581,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-07",
-  "calls": 3,
-  "tokens": 3472
+  "calls": 4,
+  "tokens": 4623
  },
  "summary_date": "2026-11-06",
  "opts": {
@@ -606,6 +616,6 @@
   "injury": 44,
   "coach": 30,
   "awards": 95,
-  "fixtures": 30
+  "fixtures": 31
  }
 }
