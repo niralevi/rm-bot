@@ -6,31 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793823626.2837143,
-   "date": "2026-11-04",
-   "tokens": [
-    "atmospher",
-    "atmosphere",
-    "familiar",
-    "greece",
-    "incredible",
-    "jose",
-    "mourinho",
-    "similar",
-    "turkish"
-   ],
-   "names": [
-    "greece",
-    "jose",
-    "mourinho",
-    "turkish"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "🚨 José Mourinho: \"The atmosphere in Greece was INCREDIBLE tonight.",
-   "link": "https://t.me/RealMadridImportantOnly/986"
-  },
-  {
    "ts": 1793823738.149416,
    "date": "2026-11-04",
    "tokens": [
