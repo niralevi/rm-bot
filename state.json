@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59681,
+  "real_madrid": 59682,
   "themadridzone": 34303,
   "FabrizioRomanoTG": 68085
  },
@@ -1250,6 +1250,27 @@
    "status": "fact",
    "headline": "🚨 REAL MADRID SQUAD vs VALENCIA.",
    "link": "https://t.me/RealMadridImportantOnly/1008"
+  },
+  {
+   "ts": 1793977529.1782904,
+   "date": "2026-11-06",
+   "tokens": [
+    "00",
+    "07",
+    "11",
+    "21",
+    "cet",
+    "match",
+    "next",
+    "valencia"
+   ],
+   "names": [
+    "valencia"
+   ],
+   "cat": "fixtures",
+   "status": "official",
+   "headline": "⏩ NEXT MATCH",
+   "link": "https://t.me/RealMadridImportantOnly/1009"
   }
  ],
  "offset": 769012044,
@@ -1257,8 +1278,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-06",
-  "calls": 54,
-  "tokens": 60686
+  "calls": 55,
+  "tokens": 61809
  },
  "summary_date": "2026-11-05",
  "opts": {
@@ -1292,6 +1313,6 @@
   "injury": 44,
   "coach": 30,
   "awards": 94,
-  "fixtures": 29
+  "fixtures": 30
  }
 }
