@@ -6,26 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793821943.8899672,
-   "date": "2026-11-04",
-   "tokens": [
-    "7",
-    "aek",
-    "combin",
-    "conced",
-    "gam",
-    "goal",
-    "home",
-    "last",
-    "than"
-   ],
-   "names": [],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "🚨 AEK have conceded more goals at home tonight than in their last 7 HOME GAMES COMBINED 🤯",
-   "link": "https://t.me/RealMadridImportantOnly/982"
-  },
-  {
    "ts": 1793822957.4639275,
    "date": "2026-11-04",
    "tokens": [
