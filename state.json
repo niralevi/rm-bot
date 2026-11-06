@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59681,
-  "themadridzone": 34255,
+  "themadridzone": 34256,
   "FabrizioRomanoTG": 68069
  },
  "sent": [
@@ -1325,6 +1325,42 @@
    "status": "official",
    "headline": "🚨💣 JJ Gabriel and Real Madrid, deal set to be sealed: the 16 year old talent’s camp has informed all interest…",
    "link": "https://t.me/RealMadridImportantOnly/1002"
+  },
+  {
+   "ts": 1793944051.7011216,
+   "date": "2026-11-06",
+   "tokens": [
+    "any",
+    "attempt",
+    "aware",
+    "bayern",
+    "florentino",
+    "future",
+    "him",
+    "himself",
+    "interest",
+    "michael",
+    "mission",
+    "munich",
+    "olise",
+    "perez",
+    "renew",
+    "sign",
+    "stop",
+    "want"
+   ],
+   "names": [
+    "bayern",
+    "florentino",
+    "michael",
+    "munich",
+    "olise",
+    "perez"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 BREAKING: Bayern Munich want to STOP any future attempt from Real Madrid to sign Michael Olise.",
+   "link": "https://t.me/RealMadridImportantOnly/1003"
   }
  ],
  "offset": 769012044,
@@ -1332,8 +1368,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-06",
-  "calls": 14,
-  "tokens": 15749
+  "calls": 15,
+  "tokens": 16852
  },
  "summary_date": "2026-11-05",
  "opts": {
@@ -1361,7 +1397,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 125,
-  "transfer": 86,
+  "transfer": 87,
   "stats": 1,
   "discipline": 26,
   "injury": 43,
