@@ -6,54 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793811031.2840922,
-   "date": "2026-11-04",
-   "tokens": [
-    "captain",
-    "official",
-    "vini"
-   ],
-   "names": [
-    "vini"
-   ],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Vini Jr will be Real Madrid's CAPTAIN tonight. 🇧🇷",
-   "link": "https://t.me/RealMadridImportantOnly/969"
-  },
-  {
-   "ts": 1793811143.927912,
-   "date": "2026-11-04",
-   "tokens": [
-    "7",
-    "ready",
-    "vini"
-   ],
-   "names": [
-    "vini"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "Viní Jr. is READY. 7️⃣",
-   "link": "https://t.me/RealMadridImportantOnly/970"
-  },
-  {
-   "ts": 1793811146.9082353,
-   "date": "2026-11-04",
-   "tokens": [
-    "cucurella",
-    "marc"
-   ],
-   "names": [
-    "cucurella",
-    "marc"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "Marc Cucurella. 🇪🇸",
-   "link": "https://t.me/RealMadridImportantOnly/971"
-  },
-  {
    "ts": 1793811281.0452697,
    "date": "2026-11-04",
    "tokens": [
