@@ -1,43 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59689,
-  "themadridzone": 34306,
+  "themadridzone": 34308,
   "FabrizioRomanoTG": 68091
  },
  "sent": [
-  {
-   "ts": 1793823453.5601618,
-   "date": "2026-11-04",
-   "tokens": [
-    "becom",
-    "board",
-    "coach",
-    "congrat",
-    "every",
-    "feel",
-    "jose",
-    "madridista",
-    "member",
-    "mourinho",
-    "nadal",
-    "pride",
-    "proud",
-    "rafa",
-    "say"
-   ],
-   "names": [
-    "every",
-    "jose",
-    "madridista",
-    "mourinho",
-    "nadal",
-    "rafa"
-   ],
-   "cat": "coach",
-   "status": "fact",
-   "headline": "🚨 José Mourinho: \"Rafa Nadal becoming a Real Madrid board member?",
-   "link": "https://t.me/RealMadridImportantOnly/985"
-  },
   {
    "ts": 1793823626.2837143,
    "date": "2026-11-04",
@@ -785,8 +752,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-06",
-  "calls": 64,
-  "tokens": 71881
+  "calls": 65,
+  "tokens": 73003
  },
  "summary_date": "2026-11-06",
  "opts": {
