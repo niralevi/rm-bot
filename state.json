@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59681,
-  "themadridzone": 34291,
+  "themadridzone": 34293,
   "FabrizioRomanoTG": 68078
  },
  "sent": [
@@ -1254,6 +1254,44 @@
    "status": "fact",
    "headline": "🚨💣 BREAKING: Kylian Mbappé has won LA LIGA PLAYER OF THE MONTH AWARD. @FutSheriff ⭐️",
    "link": "https://t.me/RealMadridImportantOnly/1006"
+  },
+  {
+   "ts": 1793966722.7081287,
+   "date": "2026-11-06",
+   "tokens": [
+    "best",
+    "brazil",
+    "break",
+    "commercial",
+    "confirm",
+    "consider",
+    "deal",
+    "distance",
+    "dubai",
+    "due",
+    "help",
+    "international",
+    "long",
+    "miss",
+    "permission",
+    "suspension",
+    "time",
+    "train",
+    "travel",
+    "vini",
+    "year"
+   ],
+   "names": [
+    "brazil",
+    "break",
+    "dubai",
+    "international",
+    "vini"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 CONFIRMED: Viní Jr. missed training today with the club's permission, as he is in Dubai for a Real Madrid y…",
+   "link": "https://t.me/RealMadridImportantOnly/1007"
   }
  ],
  "offset": 769012044,
@@ -1261,8 +1299,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-06",
-  "calls": 44,
-  "tokens": 49263
+  "calls": 45,
+  "tokens": 50439
  },
  "summary_date": "2026-11-05",
  "opts": {
@@ -1289,7 +1327,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 125,
+  "lineup": 126,
   "transfer": 88,
   "stats": 1,
   "discipline": 26,
