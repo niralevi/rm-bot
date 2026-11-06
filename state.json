@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59681,
-  "themadridzone": 34277,
-  "FabrizioRomanoTG": 68074
+  "themadridzone": 34279,
+  "FabrizioRomanoTG": 68075
  },
  "sent": [
   {
@@ -1357,6 +1357,23 @@
    "status": "fact",
    "headline": "🚨 Manchester United to Real Madrid transfers:",
    "link": "https://t.me/RealMadridImportantOnly/1004"
+  },
+  {
+   "ts": 1793960065.7495484,
+   "date": "2026-11-06",
+   "tokens": [
+    "right",
+    "squad",
+    "train",
+    "vini"
+   ],
+   "names": [
+    "vini"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🚨 BREAKING: Vini Jr is NOT training with the squad right now.",
+   "link": "https://t.me/RealMadridImportantOnly/1005"
   }
  ],
  "offset": 769012044,
@@ -1364,8 +1381,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-06",
-  "calls": 32,
-  "tokens": 35653
+  "calls": 35,
+  "tokens": 39058
  },
  "summary_date": "2026-11-05",
  "opts": {
@@ -1396,7 +1413,7 @@
   "transfer": 88,
   "stats": 1,
   "discipline": 26,
-  "injury": 43,
+  "injury": 44,
   "coach": 30,
   "awards": 93,
   "fixtures": 29
