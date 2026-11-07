@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59709,
-  "themadridzone": 34402,
+  "real_madrid": 59710,
+  "themadridzone": 34409,
   "FabrizioRomanoTG": 68114
  },
  "sent": [
@@ -641,6 +641,20 @@
    "status": "rumour",
    "headline": "Mbappe denied again, another great pass this time from Huijsen.",
    "link": "https://t.me/RealMadridImportantOnly/1026"
+  },
+  {
+   "ts": 1794087627.8641608,
+   "date": "2026-11-07",
+   "tokens": [
+    "connection",
+    "guler",
+    "mbappe"
+   ],
+   "names": [],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "THAT MBAPPÉ - GÜLER CONNECTION 🔥",
+   "link": "https://t.me/RealMadridImportantOnly/1027"
   }
  ],
  "offset": 769012045,
@@ -648,8 +662,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-07",
-  "calls": 101,
-  "tokens": 114065
+  "calls": 109,
+  "tokens": 122844
  },
  "summary_date": "2026-11-07",
  "opts": {
@@ -678,7 +692,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 131,
-  "transfer": 92,
+  "transfer": 93,
   "stats": 1,
   "discipline": 28,
   "injury": 44,
