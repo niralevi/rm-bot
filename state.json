@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59689,
-  "themadridzone": 34323,
+  "themadridzone": 34325,
   "FabrizioRomanoTG": 68103
  },
  "sent": [
@@ -566,6 +566,75 @@
    "status": "rumour",
    "headline": "🚨 NEW: A lot of top Premier League clubs are interested in Jacobo Ramon.",
    "link": "https://t.me/RealMadridImportantOnly/1015"
+  },
+  {
+   "ts": 1794052587.126794,
+   "date": "2026-11-07",
+   "tokens": [
+    "aek",
+    "against",
+    "allow",
+    "arda",
+    "arrive",
+    "aurelien",
+    "benefit",
+    "copy",
+    "days",
+    "decid",
+    "disconnect",
+    "dur",
+    "ear",
+    "enrique",
+    "first",
+    "giv",
+    "guler",
+    "implement",
+    "includ",
+    "injur",
+    "jose",
+    "late",
+    "luis",
+    "management",
+    "match",
+    "measur",
+    "mental",
+    "mid",
+    "middle",
+    "mourinho",
+    "off",
+    "often",
+    "other",
+    "part",
+    "plan",
+    "psg",
+    "recover",
+    "repeat",
+    "rest",
+    "rotation",
+    "season",
+    "shape",
+    "some",
+    "special",
+    "star",
+    "tchouameni",
+    "tir",
+    "top",
+    "workload"
+   ],
+   "names": [
+    "arda",
+    "aurelien",
+    "enrique",
+    "guler",
+    "jose",
+    "luis",
+    "mourinho",
+    "tchouameni"
+   ],
+   "cat": "coach",
+   "status": "rumour",
+   "headline": "Mourinho adopts PSG-style mid-season rest plan for Real Madrid",
+   "link": "https://t.me/RealMadridImportantOnly/1016"
   }
  ],
  "offset": 769012044,
@@ -573,8 +642,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-07",
-  "calls": 12,
-  "tokens": 14151
+  "calls": 13,
+  "tokens": 15459
  },
  "summary_date": "2026-11-06",
  "opts": {
@@ -606,7 +675,7 @@
   "stats": 1,
   "discipline": 26,
   "injury": 44,
-  "coach": 30,
+  "coach": 31,
   "awards": 95,
   "fixtures": 31
  }
