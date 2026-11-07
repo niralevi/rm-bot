@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59711,
-  "themadridzone": 34426,
+  "themadridzone": 34428,
   "FabrizioRomanoTG": 68116
  },
  "sent": [
@@ -709,6 +709,36 @@
    "status": "official",
    "headline": "🚨 Thiago Pitarch, Carlos Espi are ON.",
    "link": "https://t.me/RealMadridImportantOnly/1029"
+  },
+  {
+   "ts": 1794088705.3770583,
+   "date": "2026-11-07",
+   "tokens": [
+    "19th",
+    "current",
+    "help",
+    "liga",
+    "loser",
+    "maffeo",
+    "mallorca",
+    "pablo",
+    "relegate",
+    "same",
+    "serial",
+    "valencia",
+    "way"
+   ],
+   "names": [
+    "maffeo",
+    "mallorca",
+    "pablo",
+    "serial",
+    "valencia"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "After he helped relegate Mallorca, Pablo Maffeo is now on his way to do the same for Valencia!",
+   "link": "https://t.me/RealMadridImportantOnly/1030"
   }
  ],
  "offset": 769012045,
@@ -716,8 +746,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-07",
-  "calls": 129,
-  "tokens": 144676
+  "calls": 131,
+  "tokens": 146830
  },
  "summary_date": "2026-11-07",
  "opts": {
@@ -746,7 +776,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 133,
-  "transfer": 93,
+  "transfer": 94,
   "stats": 1,
   "discipline": 28,
   "injury": 44,
