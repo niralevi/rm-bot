@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59689,
+  "real_madrid": 59693,
   "themadridzone": 34327,
   "FabrizioRomanoTG": 68103
  },
@@ -488,6 +488,20 @@
    "status": "rumour",
    "headline": "Mourinho adopts PSG-style mid-season rest plan for Real Madrid",
    "link": "https://t.me/RealMadridImportantOnly/1016"
+  },
+  {
+   "ts": 1794056843.0229344,
+   "date": "2026-11-07",
+   "tokens": [
+    "matchday"
+   ],
+   "names": [
+    "matchday"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "Matchday.",
+   "link": "https://t.me/RealMadridImportantOnly/1017"
   }
  ],
  "offset": 769012044,
@@ -495,8 +509,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-07",
-  "calls": 14,
-  "tokens": 16617
+  "calls": 15,
+  "tokens": 17728
  },
  "summary_date": "2026-11-06",
  "opts": {
@@ -530,6 +544,6 @@
   "injury": 44,
   "coach": 31,
   "awards": 95,
-  "fixtures": 31
+  "fixtures": 32
  }
 }
