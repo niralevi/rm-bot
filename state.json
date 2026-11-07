@@ -6,41 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793868623.6779256,
-   "date": "2026-11-05",
-   "tokens": [
-    "80m",
-    "back",
-    "buy",
-    "call",
-    "emery",
-    "january",
-    "mourinho",
-    "nico",
-    "offer",
-    "paz",
-    "sent",
-    "stop",
-    "unit",
-    "upload",
-    "verdict",
-    "video",
-    "watch",
-    "youtube"
-   ],
-   "names": [
-    "new",
-    "now",
-    "uploaded",
-    "video",
-    "watch"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "📺 New YouTube Video Uploaded!",
-   "link": "https://t.me/RealMadridImportantOnly/992"
-  },
-  {
    "ts": 1793880559.3986053,
    "date": "2026-11-05",
    "tokens": [
