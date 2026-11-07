@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59694,
-  "themadridzone": 34334,
+  "themadridzone": 34337,
   "FabrizioRomanoTG": 68107
  },
  "sent": [
@@ -511,6 +511,72 @@
    "status": "fact",
    "headline": "🚨 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐑𝐄𝐀𝐋 𝐌𝐀𝐃𝐑𝐈𝐃 𝐗𝐈 🚨",
    "link": "https://t.me/RealMadridImportantOnly/1019"
+  },
+  {
+   "ts": 1794077299.4636679,
+   "date": "2026-11-07",
+   "tokens": [
+    "due",
+    "match",
+    "mestalla",
+    "miss",
+    "row",
+    "second",
+    "suspension",
+    "valencia",
+    "vini",
+    "year"
+   ],
+   "names": [
+    "for",
+    "mestalla",
+    "valencia",
+    "vini"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "For the second year in a row, Vini Jr. will miss the match vs Valencia in Mestalla due to suspension.",
+   "link": "https://t.me/RealMadridImportantOnly/1020"
+  },
+  {
+   "ts": 1794077302.0869598,
+   "date": "2026-11-07",
+   "tokens": [
+    "again",
+    "back",
+    "fede",
+    "official",
+    "once",
+    "right",
+    "start",
+    "valverde"
+   ],
+   "names": [
+    "fede",
+    "valverde"
+   ],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Fede Valverde STARTS at RIGHT-BACK once again.",
+   "link": "https://t.me/RealMadridImportantOnly/1021"
+  },
+  {
+   "ts": 1794077367.133998,
+   "date": "2026-11-07",
+   "tokens": [
+    "arda",
+    "back",
+    "guler",
+    "start"
+   ],
+   "names": [
+    "arda",
+    "guler"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 Arda Guler is back to the starting XI!",
+   "link": "https://t.me/RealMadridImportantOnly/1022"
   }
  ],
  "offset": 769012044,
@@ -518,8 +584,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-07",
-  "calls": 21,
-  "tokens": 24397
+  "calls": 24,
+  "tokens": 27764
  },
  "summary_date": "2026-11-06",
  "opts": {
@@ -546,10 +612,10 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 129,
+  "lineup": 131,
   "transfer": 90,
   "stats": 1,
-  "discipline": 26,
+  "discipline": 27,
   "injury": 44,
   "coach": 31,
   "awards": 95,
