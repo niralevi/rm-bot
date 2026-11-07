@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59689,
-  "themadridzone": 34325,
+  "themadridzone": 34327,
   "FabrizioRomanoTG": 68103
  },
  "sent": [
@@ -529,8 +529,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-07",
-  "calls": 13,
-  "tokens": 15459
+  "calls": 14,
+  "tokens": 16617
  },
  "summary_date": "2026-11-06",
  "opts": {
