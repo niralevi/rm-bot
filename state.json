@@ -6,23 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793883264.9657872,
-   "date": "2026-11-05",
-   "tokens": [
-    "arda",
-    "guler",
-    "train"
-   ],
-   "names": [
-    "arda",
-    "guler"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "Arda Guler in training 🇹🇷🪄",
-   "link": "https://t.me/RealMadridImportantOnly/996"
-  },
-  {
    "ts": 1793883394.9750865,
    "date": "2026-11-05",
    "tokens": [
