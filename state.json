@@ -1,56 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59712,
-  "themadridzone": 34482,
+  "themadridzone": 34483,
   "FabrizioRomanoTG": 68120
  },
  "sent": [
-  {
-   "ts": 1793921244.0556622,
-   "date": "2026-11-06",
-   "tokens": [
-    "all",
-    "barcelona",
-    "bayern",
-    "chelsea",
-    "city",
-    "contact",
-    "convince",
-    "entourage",
-    "europe",
-    "every",
-    "gabriel",
-    "him",
-    "however",
-    "join",
-    "manchester",
-    "munich",
-    "psg",
-    "race",
-    "recent",
-    "sign",
-    "single",
-    "top",
-    "tri",
-    "try",
-    "won"
-   ],
-   "names": [
-    "barcelona",
-    "bayern",
-    "chelsea",
-    "city",
-    "europe",
-    "gabriel",
-    "however",
-    "manchester",
-    "munich"
-   ],
-   "cat": "transfer",
-   "status": "official",
-   "headline": "🚨 EVERY SINGLE top club in Europe has tried to sign JJ Gabriel.",
-   "link": "https://t.me/RealMadridImportantOnly/1000"
-  },
   {
    "ts": 1793921959.3664844,
    "date": "2026-11-06",
@@ -780,8 +734,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-08",
-  "calls": 55,
-  "tokens": 59816
+  "calls": 56,
+  "tokens": 60967
  },
  "summary_date": "2026-11-07",
  "opts": {
