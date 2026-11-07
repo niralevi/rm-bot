@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59694,
-  "themadridzone": 34333,
+  "themadridzone": 34334,
   "FabrizioRomanoTG": 68107
  },
  "sent": [
@@ -501,6 +501,16 @@
    "status": "fact",
    "headline": "🛬 Touchdown in Valencia!",
    "link": "https://t.me/RealMadridImportantOnly/1018"
+  },
+  {
+   "ts": 1794076898.555378,
+   "date": "2026-11-07",
+   "tokens": [],
+   "names": [],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐑𝐄𝐀𝐋 𝐌𝐀𝐃𝐑𝐈𝐃 𝐗𝐈 🚨",
+   "link": "https://t.me/RealMadridImportantOnly/1019"
   }
  ],
  "offset": 769012044,
@@ -508,8 +518,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-07",
-  "calls": 20,
-  "tokens": 23271
+  "calls": 21,
+  "tokens": 24397
  },
  "summary_date": "2026-11-06",
  "opts": {
@@ -536,7 +546,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 128,
+  "lineup": 129,
   "transfer": 90,
   "stats": 1,
   "discipline": 26,
