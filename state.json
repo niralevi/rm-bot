@@ -1,8 +1,8 @@
 {
  "last_post": {
-  "real_madrid": 59706,
-  "themadridzone": 34380,
-  "FabrizioRomanoTG": 68113
+  "real_madrid": 59708,
+  "themadridzone": 34382,
+  "FabrizioRomanoTG": 68114
  },
  "sent": [
   {
@@ -599,6 +599,26 @@
    "status": "fact",
    "headline": "Real Madrid player gets pulled down in the box = no call.",
    "link": "https://t.me/RealMadridImportantOnly/1024"
+  },
+  {
+   "ts": 1794085757.9973576,
+   "date": "2026-11-07",
+   "tokens": [
+    "arda",
+    "bellingham",
+    "guler",
+    "jude"
+   ],
+   "names": [
+    "arda",
+    "bellingham",
+    "guler",
+    "jude"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Arda Güler AND Jude Bellingham.",
+   "link": "https://t.me/RealMadridImportantOnly/1025"
   }
  ],
  "offset": 769012045,
@@ -606,8 +626,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-07",
-  "calls": 76,
-  "tokens": 86220
+  "calls": 81,
+  "tokens": 91923
  },
  "summary_date": "2026-11-07",
  "opts": {
@@ -636,7 +656,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 131,
-  "transfer": 90,
+  "transfer": 91,
   "stats": 1,
   "discipline": 28,
   "injury": 44,
