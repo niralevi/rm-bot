@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59710,
-  "themadridzone": 34422,
+  "real_madrid": 59711,
+  "themadridzone": 34426,
   "FabrizioRomanoTG": 68116
  },
  "sent": [
@@ -680,6 +680,35 @@
    "status": "official",
    "headline": "🚨 Endrick, Brahim, Camavinga are ON.",
    "link": "https://t.me/RealMadridImportantOnly/1028"
+  },
+  {
+   "ts": 1794088460.361245,
+   "date": "2026-11-07",
+   "tokens": [
+    "bellingham",
+    "carlo",
+    "espi",
+    "jude",
+    "kylian",
+    "mbappe",
+    "off",
+    "pitarch",
+    "thiago"
+   ],
+   "names": [
+    "bellingham",
+    "carlos",
+    "espi",
+    "jude",
+    "kylian",
+    "mbappe",
+    "pitarch",
+    "thiago"
+   ],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 Thiago Pitarch, Carlos Espi are ON.",
+   "link": "https://t.me/RealMadridImportantOnly/1029"
   }
  ],
  "offset": 769012045,
@@ -687,8 +716,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-07",
-  "calls": 124,
-  "tokens": 139274
+  "calls": 129,
+  "tokens": 144676
  },
  "summary_date": "2026-11-07",
  "opts": {
@@ -716,7 +745,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 132,
+  "lineup": 133,
   "transfer": 93,
   "stats": 1,
   "discipline": 28,
