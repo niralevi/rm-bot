@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59700,
-  "themadridzone": 34340,
+  "themadridzone": 34343,
   "FabrizioRomanoTG": 68110
  },
  "sent": [
@@ -577,15 +577,37 @@
    "status": "fact",
    "headline": "🚨 Arda Guler is back to the starting XI!",
    "link": "https://t.me/RealMadridImportantOnly/1022"
+  },
+  {
+   "ts": 1794082219.2293127,
+   "date": "2026-11-07",
+   "tokens": [
+    "box",
+    "call",
+    "down",
+    "foul",
+    "gets",
+    "goes",
+    "pull",
+    "valencia",
+    "who"
+   ],
+   "names": [
+    "valencia"
+   ],
+   "cat": "discipline",
+   "status": "fact",
+   "headline": "Real Madrid player gets pulled down in the box = no call.",
+   "link": "https://t.me/RealMadridImportantOnly/1024"
   }
  ],
- "offset": 769012044,
+ "offset": 769012045,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-11-07",
-  "calls": 30,
-  "tokens": 34598
+  "calls": 33,
+  "tokens": 37943
  },
  "summary_date": "2026-11-07",
  "opts": {
@@ -604,7 +626,8 @@
   "club": false,
   "academy": false,
   "other": false,
-  "match": false
+  "match": false,
+  "discipline": false
  },
  "paused": false,
  "topic_count": {
@@ -615,7 +638,7 @@
   "lineup": 131,
   "transfer": 90,
   "stats": 1,
-  "discipline": 27,
+  "discipline": 28,
   "injury": 44,
   "coach": 31,
   "awards": 95,
