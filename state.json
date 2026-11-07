@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59709,
-  "themadridzone": 34387,
+  "themadridzone": 34393,
   "FabrizioRomanoTG": 68114
  },
  "sent": [
@@ -619,6 +619,28 @@
    "status": "rumour",
    "headline": "Arda Güler AND Jude Bellingham.",
    "link": "https://t.me/RealMadridImportantOnly/1025"
+  },
+  {
+   "ts": 1794086538.778705,
+   "date": "2026-11-07",
+   "tokens": [
+    "again",
+    "another",
+    "deni",
+    "great",
+    "huijsen",
+    "mbappe",
+    "pass",
+    "time"
+   ],
+   "names": [
+    "huijsen",
+    "mbappe"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Mbappe denied again, another great pass this time from Huijsen.",
+   "link": "https://t.me/RealMadridImportantOnly/1026"
   }
  ],
  "offset": 769012045,
@@ -626,8 +648,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-07",
-  "calls": 86,
-  "tokens": 97493
+  "calls": 92,
+  "tokens": 104145
  },
  "summary_date": "2026-11-07",
  "opts": {
@@ -656,7 +678,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 131,
-  "transfer": 91,
+  "transfer": 92,
   "stats": 1,
   "discipline": 28,
   "injury": 44,
