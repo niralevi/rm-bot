@@ -6,23 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793886949.6772692,
-   "date": "2026-11-05",
-   "tokens": [
-    "month",
-    "nomine",
-    "official"
-   ],
-   "names": [
-    "month",
-    "player"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Real Madrid Player of the Month nominees.",
-   "link": "https://t.me/RealMadridImportantOnly/998"
-  },
-  {
    "ts": 1793921244.0556622,
    "date": "2026-11-06",
    "tokens": [
