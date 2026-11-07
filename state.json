@@ -6,23 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793883394.9750865,
-   "date": "2026-11-05",
-   "tokens": [
-    "ferland",
-    "mendy",
-    "train"
-   ],
-   "names": [
-    "ferland",
-    "mendy"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "Ferland Mendy in training 🇫🇷",
-   "link": "https://t.me/RealMadridImportantOnly/997"
-  },
-  {
    "ts": 1793886949.6772692,
    "date": "2026-11-05",
    "tokens": [
