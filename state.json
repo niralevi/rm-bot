@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59711,
-  "themadridzone": 34428,
+  "themadridzone": 34433,
   "FabrizioRomanoTG": 68116
  },
  "sent": [
@@ -470,7 +470,8 @@
    "cat": "coach",
    "status": "rumour",
    "headline": "Mourinho adopts PSG-style mid-season rest plan for Real Madrid",
-   "link": "https://t.me/RealMadridImportantOnly/1016"
+   "link": "https://t.me/RealMadridImportantOnly/1016",
+   "superseded": true
   },
   {
    "ts": 1794056843.0229344,
@@ -739,15 +740,48 @@
    "status": "rumour",
    "headline": "After he helped relegate Mallorca, Pablo Maffeo is now on his way to do the same for Valencia!",
    "link": "https://t.me/RealMadridImportantOnly/1030"
+  },
+  {
+   "ts": 1794088836.2333689,
+   "date": "2026-11-08",
+   "tokens": [
+    "escape",
+    "injury",
+    "mestalla",
+    "safe"
+   ],
+   "names": [
+    "mestalla"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "Real Madrid are safe as they escape Mestalla with no injury. 💪",
+   "link": "https://t.me/RealMadridImportantOnly/1031"
+  },
+  {
+   "ts": 1794088840.493855,
+   "date": "2026-11-08",
+   "tokens": [
+    "arda",
+    "guler",
+    "man",
+    "match",
+    "official"
+   ],
+   "names": [],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: ARDA GÜLER IS MAN OF THE MATCH.",
+   "link": "https://t.me/RealMadridImportantOnly/1032"
   }
  ],
  "offset": 769012045,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
-  "date": "2026-11-07",
-  "calls": 131,
-  "tokens": 146830
+  "date": "2026-11-08",
+  "calls": 4,
+  "tokens": 4364
  },
  "summary_date": "2026-11-07",
  "opts": {
@@ -779,9 +813,9 @@
   "transfer": 94,
   "stats": 1,
   "discipline": 28,
-  "injury": 44,
+  "injury": 45,
   "coach": 31,
-  "awards": 95,
+  "awards": 96,
   "fixtures": 33
  }
 }
