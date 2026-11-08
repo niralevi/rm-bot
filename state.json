@@ -6,26 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793963131.9578502,
-   "date": "2026-11-06",
-   "tokens": [
-    "award",
-    "kylian",
-    "liga",
-    "mbappe",
-    "month",
-    "won"
-   ],
-   "names": [
-    "kylian",
-    "mbappe"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨💣 BREAKING: Kylian Mbappé has won LA LIGA PLAYER OF THE MONTH AWARD. @FutSheriff ⭐️",
-   "link": "https://t.me/RealMadridImportantOnly/1006"
-  },
-  {
    "ts": 1793966722.7081287,
    "date": "2026-11-06",
    "tokens": [
