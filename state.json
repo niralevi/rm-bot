@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59712,
-  "themadridzone": 34504,
+  "themadridzone": 34505,
   "FabrizioRomanoTG": 68123
  },
  "sent": [
@@ -548,6 +548,50 @@
    "status": "fact",
    "headline": "📆 What's left in 2026 for Real Madrid:",
    "link": "https://t.me/RealMadridImportantOnly/1034"
+  },
+  {
+   "ts": 1794139823.2536602,
+   "date": "2026-11-08",
+   "tokens": [
+    "again",
+    "anymore",
+    "aware",
+    "back",
+    "be",
+    "best",
+    "chang",
+    "feel",
+    "ful",
+    "game",
+    "get",
+    "hard",
+    "however",
+    "jose",
+    "know",
+    "lost",
+    "mourinho",
+    "priority",
+    "respect",
+    "spot",
+    "start",
+    "starter",
+    "still",
+    "support",
+    "top",
+    "total",
+    "vini",
+    "work"
+   ],
+   "names": [
+    "however",
+    "jose",
+    "mourinho",
+    "vini"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "Vini Jr dropped from Real Madrid starting lineup",
+   "link": "https://t.me/RealMadridImportantOnly/1035"
   }
  ],
  "offset": 769012045,
@@ -555,8 +599,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-08",
-  "calls": 77,
-  "tokens": 83867
+  "calls": 78,
+  "tokens": 85089
  },
  "summary_date": "2026-11-07",
  "opts": {
@@ -584,7 +628,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 133,
+  "lineup": 134,
   "transfer": 94,
   "stats": 1,
   "discipline": 28,
