@@ -6,45 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793984439.262884,
-   "date": "2026-11-06",
-   "tokens": [
-    "award",
-    "bellingham",
-    "jude",
-    "month",
-    "wins"
-   ],
-   "names": [
-    "bellingham",
-    "jude"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨💣 BREAKING: Jude Bellingham wins REAL MADRID PLAYER OF THE MONTH AWARD. ⭐️",
-   "link": "https://t.me/RealMadridImportantOnly/1010"
-  },
-  {
-   "ts": 1793984506.3304873,
-   "date": "2026-11-06",
-   "tokens": [
-    "andrey",
-    "courtoi",
-    "lunin",
-    "thibaut"
-   ],
-   "names": [
-    "andrey",
-    "courtois",
-    "lunin",
-    "thibaut"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🧤 Thibaut Courtois",
-   "link": "https://t.me/RealMadridImportantOnly/1011"
-  },
-  {
    "ts": 1794005362.7820399,
    "date": "2026-11-07",
    "tokens": [
