@@ -6,16 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794006039.9106903,
-   "date": "2026-11-07",
-   "tokens": [],
-   "names": [],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "🚨 𝐈𝐓’𝐒 𝐌𝐀𝐓𝐂𝐇𝐃𝐀𝐘! 🚨",
-   "link": "https://t.me/RealMadridImportantOnly/1014"
-  },
-  {
    "ts": 1794048564.6708126,
    "date": "2026-11-07",
    "tokens": [
