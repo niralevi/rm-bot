@@ -6,19 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793973031.234518,
-   "date": "2026-11-06",
-   "tokens": [
-    "squad",
-    "valencia"
-   ],
-   "names": [],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 REAL MADRID SQUAD vs VALENCIA.",
-   "link": "https://t.me/RealMadridImportantOnly/1008"
-  },
-  {
    "ts": 1793977529.1782904,
    "date": "2026-11-06",
    "tokens": [
