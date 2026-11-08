@@ -6,42 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793944051.7011216,
-   "date": "2026-11-06",
-   "tokens": [
-    "any",
-    "attempt",
-    "aware",
-    "bayern",
-    "florentino",
-    "future",
-    "him",
-    "himself",
-    "interest",
-    "michael",
-    "mission",
-    "munich",
-    "olise",
-    "perez",
-    "renew",
-    "sign",
-    "stop",
-    "want"
-   ],
-   "names": [
-    "bayern",
-    "florentino",
-    "michael",
-    "munich",
-    "olise",
-    "perez"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 BREAKING: Bayern Munich want to STOP any future attempt from Real Madrid to sign Michael Olise.",
-   "link": "https://t.me/RealMadridImportantOnly/1003"
-  },
-  {
    "ts": 1793949675.0762644,
    "date": "2026-11-06",
    "tokens": [
