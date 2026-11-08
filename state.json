@@ -6,44 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793966722.7081287,
-   "date": "2026-11-06",
-   "tokens": [
-    "best",
-    "brazil",
-    "break",
-    "commercial",
-    "confirm",
-    "consider",
-    "deal",
-    "distance",
-    "dubai",
-    "due",
-    "help",
-    "international",
-    "long",
-    "miss",
-    "permission",
-    "suspension",
-    "time",
-    "train",
-    "travel",
-    "vini",
-    "year"
-   ],
-   "names": [
-    "brazil",
-    "break",
-    "dubai",
-    "international",
-    "vini"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 CONFIRMED: Viní Jr. missed training today with the club's permission, as he is in Dubai for a Real Madrid y…",
-   "link": "https://t.me/RealMadridImportantOnly/1007"
-  },
-  {
    "ts": 1793973031.234518,
    "date": "2026-11-06",
    "tokens": [
