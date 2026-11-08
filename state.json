@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59712,
-  "themadridzone": 34487,
+  "themadridzone": 34489,
   "FabrizioRomanoTG": 68120
  },
  "sent": [
@@ -699,6 +699,21 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: ARDA GÜLER IS MAN OF THE MATCH.",
    "link": "https://t.me/RealMadridImportantOnly/1032"
+  },
+  {
+   "ts": 1794096504.263171,
+   "date": "2026-11-08",
+   "tokens": [
+    "2",
+    "football",
+    "next",
+    "week"
+   ],
+   "names": [],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "No Real Madrid football for the next 2 weeks 💔",
+   "link": "https://t.me/RealMadridImportantOnly/1033"
   }
  ],
  "offset": 769012045,
@@ -706,8 +721,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-08",
-  "calls": 59,
-  "tokens": 64469
+  "calls": 60,
+  "tokens": 65539
  },
  "summary_date": "2026-11-07",
  "opts": {
@@ -742,6 +757,6 @@
   "injury": 45,
   "coach": 31,
   "awards": 96,
-  "fixtures": 33
+  "fixtures": 34
  }
 }
