@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59712,
-  "themadridzone": 34490,
+  "themadridzone": 34491,
   "FabrizioRomanoTG": 68120
  },
  "sent": [
@@ -714,6 +714,37 @@
    "status": "fact",
    "headline": "No Real Madrid football for the next 2 weeks 💔",
    "link": "https://t.me/RealMadridImportantOnly/1033"
+  },
+  {
+   "ts": 1794096989.1502807,
+   "date": "2026-11-08",
+   "tokens": [
+    "2026",
+    "alav",
+    "arsenal",
+    "athletic",
+    "celta",
+    "deportivo",
+    "left",
+    "osasuna",
+    "psv",
+    "sociedad",
+    "what"
+   ],
+   "names": [
+    "alaves",
+    "arsenal",
+    "athletic",
+    "celta",
+    "deportivo",
+    "osasuna",
+    "sociedad",
+    "what"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "📆 What's left in 2026 for Real Madrid:",
+   "link": "https://t.me/RealMadridImportantOnly/1034"
   }
  ],
  "offset": 769012045,
@@ -721,8 +752,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-08",
-  "calls": 61,
-  "tokens": 66608
+  "calls": 62,
+  "tokens": 67707
  },
  "summary_date": "2026-11-07",
  "opts": {
@@ -757,6 +788,6 @@
   "injury": 45,
   "coach": 31,
   "awards": 96,
-  "fixtures": 34
+  "fixtures": 35
  }
 }
