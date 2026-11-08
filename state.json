@@ -6,23 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793960065.7495484,
-   "date": "2026-11-06",
-   "tokens": [
-    "right",
-    "squad",
-    "train",
-    "vini"
-   ],
-   "names": [
-    "vini"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨 BREAKING: Vini Jr is NOT training with the squad right now.",
-   "link": "https://t.me/RealMadridImportantOnly/1005"
-  },
-  {
    "ts": 1793963131.9578502,
    "date": "2026-11-06",
    "tokens": [
