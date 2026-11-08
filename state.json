@@ -6,45 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1793949675.0762644,
-   "date": "2026-11-06",
-   "tokens": [
-    "2003",
-    "2006",
-    "2007",
-    "2009",
-    "beckham",
-    "cristiano",
-    "david",
-    "gabriel",
-    "heinze",
-    "manchester",
-    "nistelrooy",
-    "ronaldo",
-    "ruud",
-    "transfer",
-    "unit",
-    "van"
-   ],
-   "names": [
-    "beckham",
-    "cristiano",
-    "david",
-    "gabriel",
-    "heinze",
-    "manchester",
-    "nistelrooy",
-    "ronaldo",
-    "ruud",
-    "united",
-    "van"
-   ],
-   "cat": "transfer",
-   "status": "fact",
-   "headline": "🚨 Manchester United to Real Madrid transfers:",
-   "link": "https://t.me/RealMadridImportantOnly/1004"
-  },
-  {
    "ts": 1793960065.7495484,
    "date": "2026-11-06",
    "tokens": [
