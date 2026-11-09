@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59727,
-  "themadridzone": 34574,
+  "themadridzone": 34577,
   "FabrizioRomanoTG": 68158
  },
  "sent": [
@@ -549,6 +549,36 @@
    "status": "official",
    "headline": "🚨💣 BREAKING: Kylian Mbappé wins La Liga PLAYER OF THE MONTH AWARD. ⭐️",
    "link": "https://t.me/RealMadridImportantOnly/1044"
+  },
+  {
+   "ts": 1794253702.9754884,
+   "date": "2026-11-09",
+   "tokens": [
+    "000",
+    "20",
+    "2023",
+    "2024",
+    "2025",
+    "2026",
+    "back",
+    "bellingham",
+    "fifpro",
+    "footballer",
+    "jude",
+    "professional",
+    "team",
+    "vot",
+    "world"
+   ],
+   "names": [
+    "bellingham",
+    "jude",
+    "world"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🤯 Jude Bellingham in FIFPro World XI team voted by 20,000 professional footballers:",
+   "link": "https://t.me/RealMadridImportantOnly/1045"
   }
  ],
  "offset": 769012045,
@@ -556,8 +586,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-09",
-  "calls": 44,
-  "tokens": 48860
+  "calls": 47,
+  "tokens": 52445
  },
  "summary_date": "2026-11-08",
  "opts": {
@@ -591,7 +621,7 @@
   "discipline": 28,
   "injury": 45,
   "coach": 33,
-  "awards": 102,
+  "awards": 103,
   "fixtures": 35
  }
 }
