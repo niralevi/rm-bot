@@ -6,36 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794088705.3770583,
-   "date": "2026-11-07",
-   "tokens": [
-    "19th",
-    "current",
-    "help",
-    "liga",
-    "loser",
-    "maffeo",
-    "mallorca",
-    "pablo",
-    "relegate",
-    "same",
-    "serial",
-    "valencia",
-    "way"
-   ],
-   "names": [
-    "maffeo",
-    "mallorca",
-    "pablo",
-    "serial",
-    "valencia"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "After he helped relegate Mallorca, Pablo Maffeo is now on his way to do the same for Valencia!",
-   "link": "https://t.me/RealMadridImportantOnly/1030"
-  },
-  {
    "ts": 1794088836.2333689,
    "date": "2026-11-08",
    "tokens": [
