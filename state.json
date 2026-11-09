@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59716,
-  "themadridzone": 34551,
+  "themadridzone": 34552,
   "FabrizioRomanoTG": 68140
  },
  "sent": [
@@ -492,6 +492,25 @@
    "status": "rumour",
    "headline": "Vini Jr dropped from Real Madrid starting lineup",
    "link": "https://t.me/RealMadridImportantOnly/1035"
+  },
+  {
+   "ts": 1794212539.1834614,
+   "date": "2026-11-09",
+   "tokens": [
+    "become",
+    "candidate",
+    "coach",
+    "oviedo",
+    "raul"
+   ],
+   "names": [
+    "oviedo",
+    "raul"
+   ],
+   "cat": "coach",
+   "status": "rumour",
+   "headline": "🚨 NEW: Raúl is a candidate to become the coach of Real Oviedo. @marca",
+   "link": "https://t.me/RealMadridImportantOnly/1037"
   }
  ],
  "offset": 769012045,
@@ -499,8 +518,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-09",
-  "calls": 13,
-  "tokens": 13918
+  "calls": 14,
+  "tokens": 14962
  },
  "summary_date": "2026-11-08",
  "opts": {
@@ -533,7 +552,7 @@
   "stats": 1,
   "discipline": 28,
   "injury": 45,
-  "coach": 31,
+  "coach": 32,
   "awards": 96,
   "fixtures": 35
  }
