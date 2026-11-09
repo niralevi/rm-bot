@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59721,
   "themadridzone": 34568,
-  "FabrizioRomanoTG": 68145
+  "FabrizioRomanoTG": 68146
  },
  "sent": [
   {
@@ -470,6 +470,89 @@
    "status": "official",
    "headline": "🚨🇪🇸 OFFICIAL: José Mourinho wins the La Liga Manager of the Month award for October. https://t.co/LqUzzTdEK9",
    "link": "https://t.me/RealMadridImportantOnly/1040"
+  },
+  {
+   "ts": 1794239960.7161224,
+   "date": "2026-11-09",
+   "tokens": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026",
+    "9",
+    "anthony",
+    "bellingham",
+    "boy",
+    "cubarsi",
+    "desire",
+    "doue",
+    "erl",
+    "european",
+    "fabrizio",
+    "felix",
+    "gavi",
+    "golden",
+    "haaland",
+    "joao",
+    "jude",
+    "kylian",
+    "lamine",
+    "latest",
+    "ligt",
+    "martial",
+    "matthij",
+    "mbappe",
+    "nov",
+    "pau",
+    "pedri",
+    "renato",
+    "romano",
+    "sanch",
+    "winner",
+    "yamal"
+   ],
+   "names": [
+    "anthony",
+    "bellingham",
+    "boy",
+    "cubarsi",
+    "desire",
+    "doue",
+    "erling",
+    "european",
+    "fabrizio",
+    "felix",
+    "gavi",
+    "golden",
+    "haaland",
+    "joao",
+    "jude",
+    "kylian",
+    "lamine",
+    "ligt",
+    "martial",
+    "matthijs",
+    "mbappe",
+    "nov",
+    "pau",
+    "pedri",
+    "renato",
+    "romano",
+    "sanches",
+    "yamal"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "Pau Cubarsí wins 2026 European Golden Boy award",
+   "link": "https://t.me/RealMadridImportantOnly/1041"
   }
  ],
  "offset": 769012045,
@@ -477,8 +560,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-09",
-  "calls": 31,
-  "tokens": 33791
+  "calls": 32,
+  "tokens": 35111
  },
  "summary_date": "2026-11-08",
  "opts": {
@@ -512,7 +595,7 @@
   "discipline": 28,
   "injury": 45,
   "coach": 33,
-  "awards": 98,
+  "awards": 99,
   "fixtures": 35
  }
 }
