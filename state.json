@@ -6,28 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794082219.2293127,
-   "date": "2026-11-07",
-   "tokens": [
-    "box",
-    "call",
-    "down",
-    "foul",
-    "gets",
-    "goes",
-    "pull",
-    "valencia",
-    "who"
-   ],
-   "names": [
-    "valencia"
-   ],
-   "cat": "discipline",
-   "status": "fact",
-   "headline": "Real Madrid player gets pulled down in the box = no call.",
-   "link": "https://t.me/RealMadridImportantOnly/1024"
-  },
-  {
    "ts": 1794085757.9973576,
    "date": "2026-11-07",
    "tokens": [
