@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59721,
-  "themadridzone": 34569,
+  "themadridzone": 34570,
   "FabrizioRomanoTG": 68149
  },
  "sent": [
@@ -568,6 +568,43 @@
    "status": "official",
    "headline": "🚨💣 OFFICIAL: FIFPRO WORLD XI 2026",
    "link": "https://t.me/RealMadridImportantOnly/1042"
+  },
+  {
+   "ts": 1794241705.4522002,
+   "date": "2026-11-09",
+   "tokens": [
+    "19806",
+    "5th",
+    "any",
+    "ballon",
+    "came",
+    "fifpro",
+    "first",
+    "footballer",
+    "forward",
+    "harry",
+    "kane",
+    "kylian",
+    "mbappe",
+    "most",
+    "only",
+    "professional",
+    "receiv",
+    "vot",
+    "winner",
+    "world"
+   ],
+   "names": [
+    "ballon",
+    "harry",
+    "kane",
+    "kylian",
+    "mbappe"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨💣 BREAKING: Kylian Mbappé received the MOST VOTES of any forward in the FIFPRO WORLD XI.",
+   "link": "https://t.me/RealMadridImportantOnly/1043"
   }
  ],
  "offset": 769012045,
@@ -575,8 +612,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-09",
-  "calls": 33,
-  "tokens": 36208
+  "calls": 34,
+  "tokens": 37385
  },
  "summary_date": "2026-11-08",
  "opts": {
@@ -610,7 +647,7 @@
   "discipline": 28,
   "injury": 45,
   "coach": 33,
-  "awards": 100,
+  "awards": 101,
   "fixtures": 35
  }
 }
