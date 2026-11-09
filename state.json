@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59721,
-  "themadridzone": 34570,
+  "themadridzone": 34572,
   "FabrizioRomanoTG": 68150
  },
  "sent": [
@@ -605,6 +605,26 @@
    "status": "official",
    "headline": "🚨💣 BREAKING: Kylian Mbappé received the MOST VOTES of any forward in the FIFPRO WORLD XI.",
    "link": "https://t.me/RealMadridImportantOnly/1043"
+  },
+  {
+   "ts": 1794243930.8886414,
+   "date": "2026-11-09",
+   "tokens": [
+    "award",
+    "kylian",
+    "liga",
+    "mbappe",
+    "month",
+    "wins"
+   ],
+   "names": [
+    "kylian",
+    "mbappe"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨💣 BREAKING: Kylian Mbappé wins La Liga PLAYER OF THE MONTH AWARD. ⭐️",
+   "link": "https://t.me/RealMadridImportantOnly/1044"
   }
  ],
  "offset": 769012045,
@@ -612,8 +632,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-09",
-  "calls": 34,
-  "tokens": 37385
+  "calls": 36,
+  "tokens": 39634
  },
  "summary_date": "2026-11-08",
  "opts": {
@@ -647,7 +667,7 @@
   "discipline": 28,
   "injury": 45,
   "coach": 33,
-  "awards": 101,
+  "awards": 102,
   "fixtures": 35
  }
 }
