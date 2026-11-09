@@ -6,39 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794088836.2333689,
-   "date": "2026-11-08",
-   "tokens": [
-    "escape",
-    "injury",
-    "mestalla",
-    "safe"
-   ],
-   "names": [
-    "mestalla"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "Real Madrid are safe as they escape Mestalla with no injury. 💪",
-   "link": "https://t.me/RealMadridImportantOnly/1031"
-  },
-  {
-   "ts": 1794088840.493855,
-   "date": "2026-11-08",
-   "tokens": [
-    "arda",
-    "guler",
-    "man",
-    "match",
-    "official"
-   ],
-   "names": [],
-   "cat": "awards",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: ARDA GÜLER IS MAN OF THE MATCH.",
-   "link": "https://t.me/RealMadridImportantOnly/1032"
-  },
-  {
    "ts": 1794096504.263171,
    "date": "2026-11-08",
    "tokens": [
