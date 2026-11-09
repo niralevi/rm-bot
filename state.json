@@ -6,28 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794086538.778705,
-   "date": "2026-11-07",
-   "tokens": [
-    "again",
-    "another",
-    "deni",
-    "great",
-    "huijsen",
-    "mbappe",
-    "pass",
-    "time"
-   ],
-   "names": [
-    "huijsen",
-    "mbappe"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "Mbappe denied again, another great pass this time from Huijsen.",
-   "link": "https://t.me/RealMadridImportantOnly/1026"
-  },
-  {
    "ts": 1794087627.8641608,
    "date": "2026-11-07",
    "tokens": [
