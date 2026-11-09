@@ -6,35 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794088460.361245,
-   "date": "2026-11-07",
-   "tokens": [
-    "bellingham",
-    "carlo",
-    "espi",
-    "jude",
-    "kylian",
-    "mbappe",
-    "off",
-    "pitarch",
-    "thiago"
-   ],
-   "names": [
-    "bellingham",
-    "carlos",
-    "espi",
-    "jude",
-    "kylian",
-    "mbappe",
-    "pitarch",
-    "thiago"
-   ],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "🚨 Thiago Pitarch, Carlos Espi are ON.",
-   "link": "https://t.me/RealMadridImportantOnly/1029"
-  },
-  {
    "ts": 1794088705.3770583,
    "date": "2026-11-07",
    "tokens": [
