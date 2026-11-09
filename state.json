@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59718,
-  "themadridzone": 34559,
+  "themadridzone": 34562,
   "FabrizioRomanoTG": 68141
  },
  "sent": [
@@ -510,7 +510,37 @@
    "cat": "coach",
    "status": "rumour",
    "headline": "🚨 NEW: Raúl is a candidate to become the coach of Real Oviedo. @marca",
-   "link": "https://t.me/RealMadridImportantOnly/1037"
+   "link": "https://t.me/RealMadridImportantOnly/1037",
+   "superseded": true
+  },
+  {
+   "ts": 1794221194.0149243,
+   "date": "2026-11-09",
+   "tokens": [
+    "assistant",
+    "becom",
+    "castilla",
+    "close",
+    "confirm",
+    "him",
+    "jimenez",
+    "join",
+    "manager",
+    "marco",
+    "oviedo",
+    "raul"
+   ],
+   "names": [
+    "castilla",
+    "jimenez",
+    "marcos",
+    "oviedo",
+    "raul"
+   ],
+   "cat": "coach",
+   "status": "official",
+   "headline": "🚨 CONFIRMED: Raúl is VERY CLOSE to becoming the new manager of Real Oviedo.",
+   "link": "https://t.me/RealMadridImportantOnly/1038"
   }
  ],
  "offset": 769012045,
@@ -518,8 +548,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-09",
-  "calls": 20,
-  "tokens": 21635
+  "calls": 22,
+  "tokens": 23799
  },
  "summary_date": "2026-11-08",
  "opts": {
@@ -552,7 +582,7 @@
   "stats": 1,
   "discipline": 28,
   "injury": 45,
-  "coach": 32,
+  "coach": 33,
   "awards": 96,
   "fixtures": 35
  }
