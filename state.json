@@ -1,41 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59727,
-  "themadridzone": 34588,
+  "themadridzone": 34590,
   "FabrizioRomanoTG": 68167
  },
  "sent": [
-  {
-   "ts": 1794096989.1502807,
-   "date": "2026-11-08",
-   "tokens": [
-    "2026",
-    "alav",
-    "arsenal",
-    "athletic",
-    "celta",
-    "deportivo",
-    "left",
-    "osasuna",
-    "psv",
-    "sociedad",
-    "what"
-   ],
-   "names": [
-    "alaves",
-    "arsenal",
-    "athletic",
-    "celta",
-    "deportivo",
-    "osasuna",
-    "sociedad",
-    "what"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "📆 What's left in 2026 for Real Madrid:",
-   "link": "https://t.me/RealMadridImportantOnly/1034"
-  },
   {
    "ts": 1794139823.2536602,
    "date": "2026-11-08",
@@ -556,8 +525,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-10",
-  "calls": 5,
-  "tokens": 6164
+  "calls": 6,
+  "tokens": 7333
  },
  "summary_date": "2026-11-09",
  "opts": {
