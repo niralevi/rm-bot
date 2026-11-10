@@ -6,21 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794096504.263171,
-   "date": "2026-11-08",
-   "tokens": [
-    "2",
-    "football",
-    "next",
-    "week"
-   ],
-   "names": [],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "No Real Madrid football for the next 2 weeks 💔",
-   "link": "https://t.me/RealMadridImportantOnly/1033"
-  },
-  {
    "ts": 1794096989.1502807,
    "date": "2026-11-08",
    "tokens": [
