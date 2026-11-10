@@ -6,50 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794139823.2536602,
-   "date": "2026-11-08",
-   "tokens": [
-    "again",
-    "anymore",
-    "aware",
-    "back",
-    "be",
-    "best",
-    "chang",
-    "feel",
-    "ful",
-    "game",
-    "get",
-    "hard",
-    "however",
-    "jose",
-    "know",
-    "lost",
-    "mourinho",
-    "priority",
-    "respect",
-    "spot",
-    "start",
-    "starter",
-    "still",
-    "support",
-    "top",
-    "total",
-    "vini",
-    "work"
-   ],
-   "names": [
-    "however",
-    "jose",
-    "mourinho",
-    "vini"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "Vini Jr dropped from Real Madrid starting lineup",
-   "link": "https://t.me/RealMadridImportantOnly/1035"
-  },
-  {
    "ts": 1794212539.1834614,
    "date": "2026-11-09",
    "tokens": [
