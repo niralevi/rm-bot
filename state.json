@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59743,
-  "themadridzone": 34629,
+  "themadridzone": 34633,
   "FabrizioRomanoTG": 68186
  },
  "sent": [
@@ -639,6 +639,23 @@
    "status": "rumour",
    "headline": "🚨💣 BREAKING: Endrick is now open to a PERMANENT TRANSFER from Real Madrid, and not just a loan.",
    "link": "https://t.me/RealMadridImportantOnly/1054"
+  },
+  {
+   "ts": 1794335268.2770357,
+   "date": "2026-11-10",
+   "tokens": [
+    "aurelien",
+    "injur",
+    "tchouameni"
+   ],
+   "names": [
+    "aurelien",
+    "tchouameni"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🚨🚨💣 BREAKING: Aurélien Tchouaméni is INJURED. @lequipe",
+   "link": "https://t.me/RealMadridImportantOnly/1055"
   }
  ],
  "offset": 769012045,
@@ -646,8 +663,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-10",
-  "calls": 51,
-  "tokens": 60370
+  "calls": 53,
+  "tokens": 62763
  },
  "summary_date": "2026-11-09",
  "opts": {
@@ -679,7 +696,7 @@
   "transfer": 99,
   "stats": 1,
   "discipline": 28,
-  "injury": 45,
+  "injury": 46,
   "coach": 33,
   "awards": 106,
   "fixtures": 35
