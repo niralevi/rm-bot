@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59735,
-  "themadridzone": 34609,
+  "real_madrid": 59739,
+  "themadridzone": 34610,
   "FabrizioRomanoTG": 68182
  },
  "sent": [
@@ -500,6 +500,25 @@
    "status": "rumour",
    "headline": "🚨💣 BREAKING: Real Madrid are interested in signing Martin Zubimendi in JANUARY.",
    "link": "https://t.me/RealMadridImportantOnly/1050"
+  },
+  {
+   "ts": 1794324696.3107603,
+   "date": "2026-11-10",
+   "tokens": [
+    "arsenal",
+    "endrick",
+    "january",
+    "want"
+   ],
+   "names": [
+    "arsenal",
+    "endrick",
+    "january"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨💣 BREAKING: Arsenal want Endrick in January. @talkSPORT",
+   "link": "https://t.me/RealMadridImportantOnly/1051"
   }
  ],
  "offset": 769012045,
@@ -507,8 +526,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-10",
-  "calls": 33,
-  "tokens": 38897
+  "calls": 35,
+  "tokens": 41247
  },
  "summary_date": "2026-11-09",
  "opts": {
@@ -537,7 +556,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 134,
-  "transfer": 95,
+  "transfer": 96,
   "stats": 1,
   "discipline": 28,
   "injury": 45,
