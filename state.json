@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59743,
-  "themadridzone": 34623,
+  "themadridzone": 34629,
   "FabrizioRomanoTG": 68186
  },
  "sent": [
@@ -572,6 +572,73 @@
    "status": "rumour",
    "headline": "Endrick may leave Real Madrid on loan in January, says MatteMoretto",
    "link": "https://t.me/RealMadridImportantOnly/1052"
+  },
+  {
+   "ts": 1794335099.7691634,
+   "date": "2026-11-10",
+   "tokens": [
+    "ask",
+    "coach",
+    "decision",
+    "destination",
+    "endrick",
+    "final",
+    "fonseca",
+    "him",
+    "january",
+    "join",
+    "know",
+    "lyon",
+    "made",
+    "open",
+    "paulo",
+    "personal",
+    "potential",
+    "real",
+    "sign",
+    "sport",
+    "want",
+    "which",
+    "yet"
+   ],
+   "names": [
+    "endrick",
+    "fonseca",
+    "january",
+    "lyon",
+    "paulo",
+    "sporting",
+    "their"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨💣 JUST IN: Sporting REALLY want to sign Endrick in January.",
+   "link": "https://t.me/RealMadridImportantOnly/1053"
+  },
+  {
+   "ts": 1794335103.960802,
+   "date": "2026-11-10",
+   "tokens": [
+    "back",
+    "buy",
+    "clause",
+    "endrick",
+    "future",
+    "keep",
+    "loan",
+    "open",
+    "permanent",
+    "right",
+    "sale",
+    "transfer"
+   ],
+   "names": [
+    "endrick"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨💣 BREAKING: Endrick is now open to a PERMANENT TRANSFER from Real Madrid, and not just a loan.",
+   "link": "https://t.me/RealMadridImportantOnly/1054"
   }
  ],
  "offset": 769012045,
@@ -579,8 +646,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-10",
-  "calls": 48,
-  "tokens": 56761
+  "calls": 51,
+  "tokens": 60370
  },
  "summary_date": "2026-11-09",
  "opts": {
@@ -609,7 +676,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 134,
-  "transfer": 97,
+  "transfer": 99,
   "stats": 1,
   "discipline": 28,
   "injury": 45,
