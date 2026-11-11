@@ -6,28 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794226282.8489616,
-   "date": "2026-11-09",
-   "tokens": [
-    "award",
-    "jose",
-    "liga",
-    "manager",
-    "month",
-    "mourinho",
-    "wins"
-   ],
-   "names": [
-    "jose",
-    "mourinho"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🚨💣 BREAKING: Jose Mourinho wins LA LIGA MANAGER OF THE MONTH AWARD. ⭐️",
-   "link": "https://t.me/RealMadridImportantOnly/1039",
-   "superseded": true
-  },
-  {
    "ts": 1794228265.1705768,
    "date": "2026-11-09",
    "tokens": [
