@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59756,
+  "real_madrid": 59758,
   "themadridzone": 34683,
   "FabrizioRomanoTG": 68204
  },
@@ -573,6 +573,25 @@
    "status": "rumour",
    "headline": "Antonio Rüdiger 🇩🇪",
    "link": "https://t.me/RealMadridImportantOnly/1061"
+  },
+  {
+   "ts": 1794414026.1709383,
+   "date": "2026-11-11",
+   "tokens": [
+    "easportsfc",
+    "laliga",
+    "month",
+    "october"
+   ],
+   "names": [
+    "month",
+    "october",
+    "player"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🏆 @Kylian_Mbappe, LaLiga's Player of the Month for October!",
+   "link": "https://t.me/RealMadridImportantOnly/1062"
   }
  ],
  "offset": 769012045,
@@ -580,8 +599,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-11",
-  "calls": 34,
-  "tokens": 40137
+  "calls": 35,
+  "tokens": 41240
  },
  "summary_date": "2026-11-10",
  "opts": {
@@ -615,7 +634,7 @@
   "discipline": 28,
   "injury": 48,
   "coach": 34,
-  "awards": 106,
+  "awards": 107,
   "fixtures": 35
  }
 }
