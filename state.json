@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59758,
-  "themadridzone": 34718,
+  "themadridzone": 34719,
   "FabrizioRomanoTG": 68204
  },
  "sent": [
@@ -442,7 +442,8 @@
    "cat": "injury",
    "status": "rumour",
    "headline": "🚨 BREAKING: Kylian Mbappé is set to be OUT vs Italy tomorrow.",
-   "link": "https://t.me/RealMadridImportantOnly/1058"
+   "link": "https://t.me/RealMadridImportantOnly/1058",
+   "superseded": true
   },
   {
    "ts": 1794399923.0811214,
@@ -559,6 +560,28 @@
    "status": "rumour",
    "headline": "🚨💣 BREAKING: Endrick’s future is now in DOUBT.",
    "link": "https://t.me/RealMadridImportantOnly/1063"
+  },
+  {
+   "ts": 1794425557.5287757,
+   "date": "2026-11-11",
+   "tokens": [
+    "confirm",
+    "ita",
+    "kylian",
+    "mbappe",
+    "tomorrow",
+    "zidane"
+   ],
+   "names": [
+    "italy",
+    "kylian",
+    "mbappe",
+    "zidane"
+   ],
+   "cat": "injury",
+   "status": "official",
+   "headline": "🚨 CONFIRMED: Kylian Mbappé is OUT vs Italy tomorrow, confirms Zidane. ❌",
+   "link": "https://t.me/RealMadridImportantOnly/1064"
   }
  ],
  "offset": 769012045,
@@ -566,8 +589,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-11",
-  "calls": 60,
-  "tokens": 69540
+  "calls": 61,
+  "tokens": 70708
  },
  "summary_date": "2026-11-10",
  "opts": {
@@ -599,7 +622,7 @@
   "transfer": 102,
   "stats": 1,
   "discipline": 28,
-  "injury": 48,
+  "injury": 49,
   "coach": 34,
   "awards": 107,
   "fixtures": 35
