@@ -1,47 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59758,
-  "themadridzone": 34684,
+  "themadridzone": 34685,
   "FabrizioRomanoTG": 68204
  },
  "sent": [
-  {
-   "ts": 1794241705.4522002,
-   "date": "2026-11-09",
-   "tokens": [
-    "19806",
-    "5th",
-    "any",
-    "ballon",
-    "came",
-    "fifpro",
-    "first",
-    "footballer",
-    "forward",
-    "harry",
-    "kane",
-    "kylian",
-    "mbappe",
-    "most",
-    "only",
-    "professional",
-    "receiv",
-    "vot",
-    "winner",
-    "world"
-   ],
-   "names": [
-    "ballon",
-    "harry",
-    "kane",
-    "kylian",
-    "mbappe"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "🚨💣 BREAKING: Kylian Mbappé received the MOST VOTES of any forward in the FIFPRO WORLD XI.",
-   "link": "https://t.me/RealMadridImportantOnly/1043"
-  },
   {
    "ts": 1794243930.8886414,
    "date": "2026-11-09",
@@ -592,6 +555,30 @@
    "status": "fact",
    "headline": "🏆 @Kylian_Mbappe, LaLiga's Player of the Month for October!",
    "link": "https://t.me/RealMadridImportantOnly/1062"
+  },
+  {
+   "ts": 1794414503.6663322,
+   "date": "2026-11-11",
+   "tokens": [
+    "60",
+    "ask",
+    "decision",
+    "doubt",
+    "endrick",
+    "future",
+    "him",
+    "make",
+    "million",
+    "month",
+    "next"
+   ],
+   "names": [
+    "endrick"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨💣 BREAKING: Endrick’s future is now in DOUBT.",
+   "link": "https://t.me/RealMadridImportantOnly/1063"
   }
  ],
  "offset": 769012045,
@@ -599,8 +586,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-11",
-  "calls": 36,
-  "tokens": 42337
+  "calls": 37,
+  "tokens": 43540
  },
  "summary_date": "2026-11-10",
  "opts": {
@@ -629,7 +616,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 134,
-  "transfer": 101,
+  "transfer": 102,
   "stats": 1,
   "discipline": 28,
   "injury": 48,
