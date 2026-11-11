@@ -1,40 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59758,
-  "themadridzone": 34725,
+  "themadridzone": 34726,
   "FabrizioRomanoTG": 68205
  },
  "sent": [
-  {
-   "ts": 1794253702.9754884,
-   "date": "2026-11-09",
-   "tokens": [
-    "000",
-    "20",
-    "2023",
-    "2024",
-    "2025",
-    "2026",
-    "back",
-    "bellingham",
-    "fifpro",
-    "footballer",
-    "jude",
-    "professional",
-    "team",
-    "vot",
-    "world"
-   ],
-   "names": [
-    "bellingham",
-    "jude",
-    "world"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🤯 Jude Bellingham in FIFPro World XI team voted by 20,000 professional footballers:",
-   "link": "https://t.me/RealMadridImportantOnly/1045"
-  },
   {
    "ts": 1794260966.0351214,
    "date": "2026-11-09",
@@ -589,8 +559,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-11",
-  "calls": 66,
-  "tokens": 76555
+  "calls": 67,
+  "tokens": 77684
  },
  "summary_date": "2026-11-10",
  "opts": {
