@@ -6,26 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794212539.1834614,
-   "date": "2026-11-09",
-   "tokens": [
-    "become",
-    "candidate",
-    "coach",
-    "oviedo",
-    "raul"
-   ],
-   "names": [
-    "oviedo",
-    "raul"
-   ],
-   "cat": "coach",
-   "status": "rumour",
-   "headline": "🚨 NEW: Raúl is a candidate to become the coach of Real Oviedo. @marca",
-   "link": "https://t.me/RealMadridImportantOnly/1037",
-   "superseded": true
-  },
-  {
    "ts": 1794221194.0149243,
    "date": "2026-11-09",
    "tokens": [
