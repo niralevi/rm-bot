@@ -6,40 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794228265.1705768,
-   "date": "2026-11-09",
-   "tokens": [
-    "2026",
-    "9",
-    "award",
-    "fabrizio",
-    "jose",
-    "liga",
-    "manager",
-    "month",
-    "mourinho",
-    "nov",
-    "october",
-    "official",
-    "romano",
-    "wins"
-   ],
-   "names": [
-    "fabrizio",
-    "jose",
-    "manager",
-    "month",
-    "mourinho",
-    "nov",
-    "october",
-    "romano"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "🚨🇪🇸 OFFICIAL: José Mourinho wins the La Liga Manager of the Month award for October. https://t.co/LqUzzTdEK9",
-   "link": "https://t.me/RealMadridImportantOnly/1040"
-  },
-  {
    "ts": 1794239960.7161224,
    "date": "2026-11-09",
    "tokens": [
