@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59744,
+  "real_madrid": 59746,
   "themadridzone": 34669,
   "FabrizioRomanoTG": 68203
  },
@@ -632,6 +632,39 @@
    "status": "rumour",
    "headline": "🚨 BREAKING: Kylian Mbappé is set to be OUT vs Italy tomorrow.",
    "link": "https://t.me/RealMadridImportantOnly/1058"
+  },
+  {
+   "ts": 1794399923.0811214,
+   "date": "2026-11-11",
+   "tokens": [
+    "arda",
+    "bernardo",
+    "defend",
+    "defensive",
+    "diarioa",
+    "guler",
+    "key",
+    "mourinho",
+    "play",
+    "possession",
+    "role",
+    "silva",
+    "system",
+    "team",
+    "through",
+    "transform"
+   ],
+   "names": [
+    "arda",
+    "bernardo",
+    "guler",
+    "mourinho",
+    "silva"
+   ],
+   "cat": "coach",
+   "status": "rumour",
+   "headline": "🚨 NEW: Mourinho has TRANSFORMED Real Madrid’s defensive system.",
+   "link": "https://t.me/RealMadridImportantOnly/1059"
   }
  ],
  "offset": 769012045,
@@ -639,8 +672,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-11",
-  "calls": 18,
-  "tokens": 21375
+  "calls": 19,
+  "tokens": 22565
  },
  "summary_date": "2026-11-10",
  "opts": {
@@ -673,7 +706,7 @@
   "stats": 1,
   "discipline": 28,
   "injury": 48,
-  "coach": 33,
+  "coach": 34,
   "awards": 106,
   "fixtures": 35
  }
