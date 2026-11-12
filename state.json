@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59764,
-  "themadridzone": 34786,
+  "themadridzone": 34788,
   "FabrizioRomanoTG": 68224
  },
  "sent": [
@@ -624,6 +624,21 @@
    "status": "rumour",
    "headline": "🚨💣 BREAKING: Luka Vušković dreams of joining REAL MADRID! @Plettigoal 🇭🇷",
    "link": "https://t.me/RealMadridImportantOnly/1077"
+  },
+  {
+   "ts": 1794507746.3071096,
+   "date": "2026-11-12",
+   "tokens": [
+    "france",
+    "start"
+   ],
+   "names": [
+    "france"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 JUST IN: NO Real Madrid player will start for France tonight. @lequipe",
+   "link": "https://t.me/RealMadridImportantOnly/1078"
   }
  ],
  "offset": 769012045,
@@ -631,8 +646,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-12",
-  "calls": 52,
-  "tokens": 58390
+  "calls": 53,
+  "tokens": 59546
  },
  "summary_date": "2026-11-11",
  "opts": {
@@ -660,7 +675,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 134,
+  "lineup": 135,
   "transfer": 109,
   "stats": 1,
   "discipline": 28,
