@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59764,
-  "themadridzone": 34783,
+  "themadridzone": 34785,
   "FabrizioRomanoTG": 68224
  },
  "sent": [
@@ -578,6 +578,33 @@
    "status": "fact",
    "headline": "🚨 UPDATE: Aurelien Tchouaméni trained indoors at Valdebebas today.",
    "link": "https://t.me/RealMadridImportantOnly/1075"
+  },
+  {
+   "ts": 1794504503.803896,
+   "date": "2026-11-12",
+   "tokens": [
+    "21",
+    "amongst",
+    "arda",
+    "best",
+    "definite",
+    "guler",
+    "historic",
+    "insane",
+    "rise",
+    "time",
+    "witness",
+    "world"
+   ],
+   "names": [
+    "arda",
+    "guler",
+    "insane"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "We are witnessing the rise of a historic player in real time.",
+   "link": "https://t.me/RealMadridImportantOnly/1076"
   }
  ],
  "offset": 769012045,
@@ -585,8 +612,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-12",
-  "calls": 49,
-  "tokens": 55065
+  "calls": 51,
+  "tokens": 57321
  },
  "summary_date": "2026-11-11",
  "opts": {
@@ -615,7 +642,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 134,
-  "transfer": 107,
+  "transfer": 108,
   "stats": 1,
   "discipline": 28,
   "injury": 53,
