@@ -1,77 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59764,
-  "themadridzone": 34788,
+  "themadridzone": 34791,
   "FabrizioRomanoTG": 68224
  },
  "sent": [
-  {
-   "ts": 1794335099.7691634,
-   "date": "2026-11-10",
-   "tokens": [
-    "ask",
-    "coach",
-    "decision",
-    "destination",
-    "endrick",
-    "final",
-    "fonseca",
-    "him",
-    "january",
-    "join",
-    "know",
-    "lyon",
-    "made",
-    "open",
-    "paulo",
-    "personal",
-    "potential",
-    "real",
-    "sign",
-    "sport",
-    "want",
-    "which",
-    "yet"
-   ],
-   "names": [
-    "endrick",
-    "fonseca",
-    "january",
-    "lyon",
-    "paulo",
-    "sporting",
-    "their"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨💣 JUST IN: Sporting REALLY want to sign Endrick in January.",
-   "link": "https://t.me/RealMadridImportantOnly/1053"
-  },
-  {
-   "ts": 1794335103.960802,
-   "date": "2026-11-10",
-   "tokens": [
-    "back",
-    "buy",
-    "clause",
-    "endrick",
-    "future",
-    "keep",
-    "loan",
-    "open",
-    "permanent",
-    "right",
-    "sale",
-    "transfer"
-   ],
-   "names": [
-    "endrick"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨💣 BREAKING: Endrick is now open to a PERMANENT TRANSFER from Real Madrid, and not just a loan.",
-   "link": "https://t.me/RealMadridImportantOnly/1054"
-  },
   {
    "ts": 1794335268.2770357,
    "date": "2026-11-10",
@@ -639,6 +572,50 @@
    "status": "fact",
    "headline": "🚨 JUST IN: NO Real Madrid player will start for France tonight. @lequipe",
    "link": "https://t.me/RealMadridImportantOnly/1078"
+  },
+  {
+   "ts": 1794507865.6237783,
+   "date": "2026-11-12",
+   "tokens": [
+    "20m",
+    "arda",
+    "guler",
+    "sign"
+   ],
+   "names": [
+    "arda",
+    "guler"
+   ],
+   "cat": "transfer",
+   "status": "official",
+   "headline": "Real Madrid signed Arda Güler for €20M. 🤯",
+   "link": "https://t.me/RealMadridImportantOnly/1079"
+  },
+  {
+   "ts": 1794507930.926925,
+   "date": "2026-11-12",
+   "tokens": [
+    "cucurella",
+    "czechia",
+    "dean",
+    "huijsen",
+    "marc",
+    "official",
+    "spain",
+    "start"
+   ],
+   "names": [
+    "cucurella",
+    "czechia",
+    "dean",
+    "huijsen",
+    "marc",
+    "spain"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 OFFICIAL: Dean Huijsen & Marc Cucurella start for Spain vs Czechia. 🇪🇸🇨🇿",
+   "link": "https://t.me/RealMadridImportantOnly/1080"
   }
  ],
  "offset": 769012045,
@@ -646,8 +623,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-12",
-  "calls": 53,
-  "tokens": 59546
+  "calls": 55,
+  "tokens": 61700
  },
  "summary_date": "2026-11-11",
  "opts": {
@@ -675,8 +652,8 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 135,
-  "transfer": 109,
+  "lineup": 136,
+  "transfer": 110,
   "stats": 1,
   "discipline": 28,
   "injury": 53,
