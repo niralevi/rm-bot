@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59760,
-  "themadridzone": 34756,
+  "themadridzone": 34757,
   "FabrizioRomanoTG": 68224
  },
  "sent": [
@@ -540,6 +540,52 @@
    "status": "fact",
    "headline": "Real Madrid players in action today:",
    "link": "https://t.me/RealMadridImportantOnly/1071"
+  },
+  {
+   "ts": 1794491726.1139631,
+   "date": "2026-11-12",
+   "tokens": [
+    "2027",
+    "agreement",
+    "bayern",
+    "camp",
+    "contract",
+    "days",
+    "discus",
+    "french",
+    "him",
+    "ibrahima",
+    "interest",
+    "konate",
+    "kylian",
+    "mbappe",
+    "michael",
+    "munich",
+    "next",
+    "olise",
+    "reach",
+    "renewal",
+    "rul",
+    "sale",
+    "still",
+    "talk",
+    "want"
+   ],
+   "names": [
+    "bayern",
+    "french",
+    "ibrahima",
+    "konate",
+    "kylian",
+    "mbappe",
+    "michael",
+    "munich",
+    "olise"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨💣 BREAKING: Real Madrid WANT Michael Olise.",
+   "link": "https://t.me/RealMadridImportantOnly/1072"
   }
  ],
  "offset": 769012045,
@@ -547,8 +593,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-12",
-  "calls": 25,
-  "tokens": 28395
+  "calls": 26,
+  "tokens": 29542
  },
  "summary_date": "2026-11-11",
  "opts": {
@@ -577,7 +623,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 134,
-  "transfer": 105,
+  "transfer": 106,
   "stats": 1,
   "discipline": 28,
   "injury": 51,
