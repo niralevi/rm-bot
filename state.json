@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59764,
-  "themadridzone": 34785,
+  "themadridzone": 34786,
   "FabrizioRomanoTG": 68224
  },
  "sent": [
@@ -605,6 +605,25 @@
    "status": "rumour",
    "headline": "We are witnessing the rise of a historic player in real time.",
    "link": "https://t.me/RealMadridImportantOnly/1076"
+  },
+  {
+   "ts": 1794507145.3269923,
+   "date": "2026-11-12",
+   "tokens": [
+    "dream",
+    "join",
+    "luka",
+    "vuskovic"
+   ],
+   "names": [
+    "luka",
+    "plettigoal",
+    "vuskovic"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨💣 BREAKING: Luka Vušković dreams of joining REAL MADRID! @Plettigoal 🇭🇷",
+   "link": "https://t.me/RealMadridImportantOnly/1077"
   }
  ],
  "offset": 769012045,
@@ -612,8 +631,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-12",
-  "calls": 51,
-  "tokens": 57321
+  "calls": 52,
+  "tokens": 58390
  },
  "summary_date": "2026-11-11",
  "opts": {
@@ -642,7 +661,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 134,
-  "transfer": 108,
+  "transfer": 109,
   "stats": 1,
   "discipline": 28,
   "injury": 53,
