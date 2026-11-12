@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59764,
-  "themadridzone": 34793,
+  "themadridzone": 34794,
   "FabrizioRomanoTG": 68224
  },
  "sent": [
@@ -598,6 +598,32 @@
    "status": "fact",
    "headline": "🚨 OFFICIAL: Dean Huijsen & Marc Cucurella start for Spain vs Czechia. 🇪🇸🇨🇿",
    "link": "https://t.me/RealMadridImportantOnly/1080"
+  },
+  {
+   "ts": 1794509608.4858813,
+   "date": "2026-11-12",
+   "tokens": [
+    "alexander",
+    "arnold",
+    "bellingham",
+    "england",
+    "jude",
+    "official",
+    "start",
+    "trent"
+   ],
+   "names": [
+    "alexander",
+    "arnold",
+    "bellingham",
+    "england",
+    "jude",
+    "trent"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🚨 OFFICIAL: Jude Bellingham & Trent Alexander-Arnold start for England. 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+   "link": "https://t.me/RealMadridImportantOnly/1081"
   }
  ],
  "offset": 769012045,
@@ -605,8 +631,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-12",
-  "calls": 56,
-  "tokens": 62838
+  "calls": 57,
+  "tokens": 63957
  },
  "summary_date": "2026-11-11",
  "opts": {
@@ -634,7 +660,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 136,
+  "lineup": 137,
   "transfer": 110,
   "stats": 1,
   "discipline": 28,
