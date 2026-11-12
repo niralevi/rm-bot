@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59762,
-  "themadridzone": 34762,
+  "themadridzone": 34765,
   "FabrizioRomanoTG": 68224
  },
  "sent": [
@@ -514,6 +514,22 @@
    "status": "rumour",
    "headline": "🚨💣 BREAKING: Real Madrid WANT Michael Olise.",
    "link": "https://t.me/RealMadridImportantOnly/1072"
+  },
+  {
+   "ts": 1794499422.393273,
+   "date": "2026-11-12",
+   "tokens": [
+    "endrick",
+    "estevao"
+   ],
+   "names": [
+    "endrick",
+    "estevao"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Endrick x Estêvão. 🇧🇷",
+   "link": "https://t.me/RealMadridImportantOnly/1073"
   }
  ],
  "offset": 769012045,
@@ -521,8 +537,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-12",
-  "calls": 31,
-  "tokens": 35054
+  "calls": 33,
+  "tokens": 37281
  },
  "summary_date": "2026-11-11",
  "opts": {
@@ -551,7 +567,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 134,
-  "transfer": 106,
+  "transfer": 107,
   "stats": 1,
   "discipline": 28,
   "injury": 51,
