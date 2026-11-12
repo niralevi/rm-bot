@@ -1,29 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59765,
-  "themadridzone": 34802,
+  "themadridzone": 34804,
   "FabrizioRomanoTG": 68224
  },
  "sent": [
-  {
-   "ts": 1794345391.5301635,
-   "date": "2026-11-10",
-   "tokens": [
-    "aurelien",
-    "injur",
-    "official",
-    "return",
-    "tchouameni"
-   ],
-   "names": [
-    "aurelien",
-    "tchouameni"
-   ],
-   "cat": "injury",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Aurelien Tchouaméni is RETURNING to Madrid. ✈️",
-   "link": "https://t.me/RealMadridImportantOnly/1057"
-  },
   {
    "ts": 1794398565.913519,
    "date": "2026-11-11",
@@ -631,8 +612,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-12",
-  "calls": 65,
-  "tokens": 73168
+  "calls": 67,
+  "tokens": 75430
  },
  "summary_date": "2026-11-12",
  "opts": {
