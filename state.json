@@ -6,25 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794324696.3107603,
-   "date": "2026-11-10",
-   "tokens": [
-    "arsenal",
-    "endrick",
-    "january",
-    "want"
-   ],
-   "names": [
-    "arsenal",
-    "endrick",
-    "january"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨💣 BREAKING: Arsenal want Endrick in January. @talkSPORT",
-   "link": "https://t.me/RealMadridImportantOnly/1051"
-  },
-  {
    "ts": 1794324861.2911196,
    "date": "2026-11-10",
    "tokens": [
