@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59758,
+  "real_madrid": 59759,
   "themadridzone": 34749,
   "FabrizioRomanoTG": 68222
  },
@@ -514,6 +514,58 @@
    "status": "rumour",
    "headline": "JJ Gabriel may obtain EU citizenship via Cypriot passport",
    "link": "https://t.me/RealMadridImportantOnly/1070"
+  },
+  {
+   "ts": 1794482964.0419729,
+   "date": "2026-11-12",
+   "tokens": [
+    "00",
+    "18",
+    "20",
+    "45",
+    "action",
+    "arda",
+    "belgium",
+    "bellingham",
+    "camavinga",
+    "cet",
+    "croatia",
+    "cucurella",
+    "czech",
+    "diomande",
+    "espi",
+    "gambia",
+    "guler",
+    "huijsen",
+    "ita",
+    "konate",
+    "republic",
+    "trent",
+    "yan"
+   ],
+   "names": [
+    "arda",
+    "belgium",
+    "bellingham",
+    "camavinga",
+    "croatia",
+    "cucurella",
+    "czech",
+    "diomande",
+    "espi",
+    "gambia",
+    "guler",
+    "huijsen",
+    "italy",
+    "konate",
+    "republic",
+    "trent",
+    "yan"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "Real Madrid players in action today:",
+   "link": "https://t.me/RealMadridImportantOnly/1071"
   }
  ],
  "offset": 769012045,
@@ -521,8 +573,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-12",
-  "calls": 17,
-  "tokens": 19552
+  "calls": 18,
+  "tokens": 20767
  },
  "summary_date": "2026-11-11",
  "opts": {
@@ -557,6 +609,6 @@
   "injury": 51,
   "coach": 34,
   "awards": 107,
-  "fixtures": 35
+  "fixtures": 36
  }
 }
