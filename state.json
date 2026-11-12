@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59758,
-  "themadridzone": 34740,
+  "themadridzone": 34742,
   "FabrizioRomanoTG": 68216
  },
  "sent": [
@@ -290,7 +290,8 @@
    "cat": "transfer",
    "status": "rumour",
    "headline": "🚨 BREAKING: JJ Gabriel will sign his Real Madrid contract by the start of next week, at the LATEST.",
-   "link": "https://t.me/RealMadridImportantOnly/1060"
+   "link": "https://t.me/RealMadridImportantOnly/1060",
+   "superseded": true
   },
   {
    "ts": 1794406943.7176976,
@@ -451,6 +452,28 @@
    "status": "rumour",
    "headline": "Yan Diomande. 🇨🇮",
    "link": "https://t.me/RealMadridImportantOnly/1068"
+  },
+  {
+   "ts": 1794457459.4148307,
+   "date": "2026-11-12",
+   "tokens": [
+    "basical",
+    "confirm",
+    "deal",
+    "detail",
+    "done",
+    "final",
+    "gabriel",
+    "only",
+    "pend"
+   ],
+   "names": [
+    "gabriel"
+   ],
+   "cat": "transfer",
+   "status": "official",
+   "headline": "🚨 CONFIRMED: JJ Gabriel to Real Madrid is basically a done deal.",
+   "link": "https://t.me/RealMadridImportantOnly/1069"
   }
  ],
  "offset": 769012045,
@@ -458,8 +481,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-12",
-  "calls": 11,
-  "tokens": 12716
+  "calls": 12,
+  "tokens": 13873
  },
  "summary_date": "2026-11-11",
  "opts": {
@@ -488,7 +511,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 134,
-  "transfer": 103,
+  "transfer": 104,
   "stats": 1,
   "discipline": 28,
   "injury": 51,
