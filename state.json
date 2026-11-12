@@ -6,24 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794335268.2770357,
-   "date": "2026-11-10",
-   "tokens": [
-    "aurelien",
-    "injur",
-    "tchouameni"
-   ],
-   "names": [
-    "aurelien",
-    "tchouameni"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨🚨💣 BREAKING: Aurélien Tchouaméni is INJURED. @lequipe",
-   "link": "https://t.me/RealMadridImportantOnly/1055",
-   "superseded": true
-  },
-  {
    "ts": 1794345391.5301635,
    "date": "2026-11-10",
    "tokens": [
