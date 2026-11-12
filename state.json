@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59758,
-  "themadridzone": 34735,
+  "themadridzone": 34736,
   "FabrizioRomanoTG": 68216
  },
  "sent": [
@@ -435,6 +435,22 @@
    "status": "fact",
    "headline": "🚨 JUST IN: At this point last season, Real Madrid had already suffered 39 (!) muscle injuries.",
    "link": "https://t.me/RealMadridImportantOnly/1067"
+  },
+  {
+   "ts": 1794454521.5259392,
+   "date": "2026-11-12",
+   "tokens": [
+    "diomande",
+    "yan"
+   ],
+   "names": [
+    "diomande",
+    "yan"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Yan Diomande. 🇨🇮",
+   "link": "https://t.me/RealMadridImportantOnly/1068"
   }
  ],
  "offset": 769012045,
@@ -442,8 +458,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-12",
-  "calls": 7,
-  "tokens": 8151
+  "calls": 8,
+  "tokens": 9326
  },
  "summary_date": "2026-11-11",
  "opts": {
@@ -472,7 +488,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 134,
-  "transfer": 102,
+  "transfer": 103,
   "stats": 1,
   "discipline": 28,
   "injury": 51,
