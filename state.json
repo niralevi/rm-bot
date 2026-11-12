@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59762,
-  "themadridzone": 34768,
+  "themadridzone": 34769,
   "FabrizioRomanoTG": 68224
  },
  "sent": [
@@ -530,6 +530,30 @@
    "status": "rumour",
    "headline": "Endrick x Estêvão. 🇧🇷",
    "link": "https://t.me/RealMadridImportantOnly/1073"
+  },
+  {
+   "ts": 1794500806.7875664,
+   "date": "2026-11-12",
+   "tokens": [
+    "16th",
+    "copa",
+    "december",
+    "del",
+    "first",
+    "game",
+    "prepar",
+    "return",
+    "rey",
+    "rodrygo",
+    "season"
+   ],
+   "names": [
+    "rodrygo"
+   ],
+   "cat": "injury",
+   "status": "rumour",
+   "headline": "🚨💣 BREAKING: Rodrygo is preparing to return on the 16th of DECEMBER, for the first Copa del Rey game of the s…",
+   "link": "https://t.me/RealMadridImportantOnly/1074"
   }
  ],
  "offset": 769012045,
@@ -537,8 +561,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-12",
-  "calls": 36,
-  "tokens": 40441
+  "calls": 37,
+  "tokens": 41574
  },
  "summary_date": "2026-11-11",
  "opts": {
@@ -570,7 +594,7 @@
   "transfer": 107,
   "stats": 1,
   "discipline": 28,
-  "injury": 51,
+  "injury": 52,
   "coach": 34,
   "awards": 107,
   "fixtures": 36
