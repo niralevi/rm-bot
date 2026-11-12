@@ -450,7 +450,12 @@
   "quiet": true,
   "summary": true
  },
- "health": {},
+ "health": {
+  "themadridzone": {
+   "since": 1794451655.721267,
+   "err": "502 Server Error: Bad Gateway for url: https://t.me/s/themadridzone"
+  }
+ },
  "limit_alert": "2026-11-04",
  "version": 2,
  "topics_on": {
