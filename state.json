@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59764,
-  "themadridzone": 34780,
+  "themadridzone": 34781,
   "FabrizioRomanoTG": 68224
  },
  "sent": [
@@ -554,6 +554,30 @@
    "status": "rumour",
    "headline": "🚨💣 BREAKING: Rodrygo is preparing to return on the 16th of DECEMBER, for the first Copa del Rey game of the s…",
    "link": "https://t.me/RealMadridImportantOnly/1074"
+  },
+  {
+   "ts": 1794503123.8660543,
+   "date": "2026-11-12",
+   "tokens": [
+    "aurelien",
+    "back",
+    "indoor",
+    "possible",
+    "soon",
+    "tchouameni",
+    "train",
+    "valdebeba",
+    "work"
+   ],
+   "names": [
+    "aurelien",
+    "tchouameni",
+    "valdebebas"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🚨 UPDATE: Aurelien Tchouaméni trained indoors at Valdebebas today.",
+   "link": "https://t.me/RealMadridImportantOnly/1075"
   }
  ],
  "offset": 769012045,
@@ -561,8 +585,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-12",
-  "calls": 46,
-  "tokens": 51700
+  "calls": 47,
+  "tokens": 52868
  },
  "summary_date": "2026-11-11",
  "opts": {
@@ -594,7 +618,7 @@
   "transfer": 107,
   "stats": 1,
   "discipline": 28,
-  "injury": 52,
+  "injury": 53,
   "coach": 34,
   "awards": 107,
   "fixtures": 36
