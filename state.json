@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59765,
+  "real_madrid": 59766,
   "themadridzone": 34825,
   "FabrizioRomanoTG": 68231
  },
@@ -719,6 +719,44 @@
    "status": "fact",
    "headline": "🚨 Real Madrid will play JUST ONE of their SIX December games at the Santiago Bernabéu: against Osasuna on Dec…",
    "link": "https://t.me/RealMadridImportantOnly/1085"
+  },
+  {
+   "ts": 1794564959.2131066,
+   "date": "2026-11-13",
+   "tokens": [
+    "00",
+    "19",
+    "20",
+    "21",
+    "45",
+    "action",
+    "argentina",
+    "brahim",
+    "cet",
+    "dumfri",
+    "espi",
+    "greece",
+    "japan",
+    "niger",
+    "pitarch",
+    "u21",
+    "valverde"
+   ],
+   "names": [
+    "argentina",
+    "brahim",
+    "dumfries",
+    "espi",
+    "greece",
+    "japan",
+    "niger",
+    "pitarch",
+    "valverde"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "Real Madrid players in action today:",
+   "link": "https://t.me/RealMadridImportantOnly/1086"
   }
  ],
  "offset": 769012045,
@@ -726,8 +764,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-13",
-  "calls": 17,
-  "tokens": 20163
+  "calls": 18,
+  "tokens": 21387
  },
  "summary_date": "2026-11-12",
  "opts": {
@@ -762,6 +800,6 @@
   "injury": 53,
   "coach": 34,
   "awards": 107,
-  "fixtures": 38
+  "fixtures": 39
  }
 }
