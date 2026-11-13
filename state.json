@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59767,
+  "real_madrid": 59769,
   "themadridzone": 34826,
   "FabrizioRomanoTG": 68238
  },
@@ -632,7 +632,8 @@
    "cat": "fixtures",
    "status": "fact",
    "headline": "🚨 Real Madrid will play JUST ONE of their SIX December games at the Santiago Bernabéu: against Osasuna on Dec…",
-   "link": "https://t.me/RealMadridImportantOnly/1085"
+   "link": "https://t.me/RealMadridImportantOnly/1085",
+   "superseded": true
   },
   {
    "ts": 1794564959.2131066,
@@ -740,6 +741,52 @@
    "status": "official",
    "headline": "🚨⚪️ Latif Issman has signed for Real Madrid with a deal valid from 2027.",
    "link": "https://t.me/RealMadridImportantOnly/1088"
+  },
+  {
+   "ts": 1794574964.272972,
+   "date": "2026-11-13",
+   "tokens": [
+    "12",
+    "13",
+    "against",
+    "arsenal",
+    "athletic",
+    "away",
+    "bernabeu",
+    "copa",
+    "coruna",
+    "december",
+    "del",
+    "deportivo",
+    "diarioa",
+    "first",
+    "five",
+    "gam",
+    "one",
+    "opponent",
+    "osasuna",
+    "other",
+    "play",
+    "rey",
+    "santiago",
+    "six",
+    "sociedad"
+   ],
+   "names": [
+    "arsenal",
+    "athletic",
+    "bernabeu",
+    "coruna",
+    "december",
+    "deportivo",
+    "osasuna",
+    "santiago",
+    "sociedad"
+   ],
+   "cat": "fixtures",
+   "status": "official",
+   "headline": "🚨 Real Madrid will play JUST ONE of their SIX December games at the Santiago Bernabéu: against Osasuna on Dec…",
+   "link": "https://t.me/RealMadridImportantOnly/1089"
   }
  ],
  "offset": 769012045,
@@ -747,8 +794,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-13",
-  "calls": 22,
-  "tokens": 26437
+  "calls": 23,
+  "tokens": 27691
  },
  "summary_date": "2026-11-12",
  "opts": {
@@ -783,6 +830,6 @@
   "injury": 53,
   "coach": 34,
   "awards": 107,
-  "fixtures": 39
+  "fixtures": 40
  }
 }
