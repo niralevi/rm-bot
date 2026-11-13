@@ -6,30 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794414503.6663322,
-   "date": "2026-11-11",
-   "tokens": [
-    "60",
-    "ask",
-    "decision",
-    "doubt",
-    "endrick",
-    "future",
-    "him",
-    "make",
-    "million",
-    "month",
-    "next"
-   ],
-   "names": [
-    "endrick"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨💣 BREAKING: Endrick’s future is now in DOUBT.",
-   "link": "https://t.me/RealMadridImportantOnly/1063"
-  },
-  {
    "ts": 1794425557.5287757,
    "date": "2026-11-11",
    "tokens": [
