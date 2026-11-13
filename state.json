@@ -6,34 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794398565.913519,
-   "date": "2026-11-11",
-   "tokens": [
-    "expect",
-    "however",
-    "ita",
-    "kylian",
-    "mbappe",
-    "play",
-    "set",
-    "tomorrow",
-    "turkey",
-    "weekend"
-   ],
-   "names": [
-    "however",
-    "italy",
-    "kylian",
-    "mbappe",
-    "turkey"
-   ],
-   "cat": "injury",
-   "status": "rumour",
-   "headline": "🚨 BREAKING: Kylian Mbappé is set to be OUT vs Italy tomorrow.",
-   "link": "https://t.me/RealMadridImportantOnly/1058",
-   "superseded": true
-  },
-  {
    "ts": 1794399923.0811214,
    "date": "2026-11-11",
    "tokens": [
