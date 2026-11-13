@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59767,
-  "themadridzone": 34825,
-  "FabrizioRomanoTG": 68234
+  "themadridzone": 34826,
+  "FabrizioRomanoTG": 68235
  },
  "sent": [
   {
@@ -757,6 +757,75 @@
    "status": "fact",
    "headline": "Real Madrid players in action today:",
    "link": "https://t.me/RealMadridImportantOnly/1086"
+  },
+  {
+   "ts": 1794570201.6472292,
+   "date": "2026-11-13",
+   "tokens": [
+    "19",
+    "here",
+    "issman",
+    "latif",
+    "logron"
+   ],
+   "names": [
+    "issman",
+    "latif",
+    "logrones"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 BREAKING: Latif Issman (19) from Logrones to Real Madrid — HERE WE GO! @FabrizioRomano 🇬🇭",
+   "link": "https://t.me/RealMadridImportantOnly/1087",
+   "superseded": true
+  },
+  {
+   "ts": 1794570267.0445378,
+   "date": "2026-11-13",
+   "tokens": [
+    "13",
+    "19",
+    "2026",
+    "2027",
+    "2030",
+    "castilla",
+    "complet",
+    "contract",
+    "deal",
+    "fabrizio",
+    "follow",
+    "ghana",
+    "initial",
+    "issman",
+    "join",
+    "june",
+    "latif",
+    "logron",
+    "midfielder",
+    "move",
+    "nov",
+    "old",
+    "romano",
+    "sign",
+    "until",
+    "valid",
+    "year"
+   ],
+   "names": [
+    "castilla",
+    "fabrizio",
+    "ghana",
+    "issman",
+    "june",
+    "latif",
+    "logrones",
+    "nov",
+    "romano"
+   ],
+   "cat": "transfer",
+   "status": "official",
+   "headline": "🚨⚪️ Latif Issman has signed for Real Madrid with a deal valid from 2027.",
+   "link": "https://t.me/RealMadridImportantOnly/1088"
   }
  ],
  "offset": 769012045,
@@ -764,8 +833,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-13",
-  "calls": 19,
-  "tokens": 22638
+  "calls": 21,
+  "tokens": 25093
  },
  "summary_date": "2026-11-12",
  "opts": {
@@ -794,7 +863,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 137,
-  "transfer": 111,
+  "transfer": 113,
   "stats": 1,
   "discipline": 28,
   "injury": 53,
