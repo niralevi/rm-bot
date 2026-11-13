@@ -6,25 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794414026.1709383,
-   "date": "2026-11-11",
-   "tokens": [
-    "easportsfc",
-    "laliga",
-    "month",
-    "october"
-   ],
-   "names": [
-    "month",
-    "october",
-    "player"
-   ],
-   "cat": "awards",
-   "status": "fact",
-   "headline": "🏆 @Kylian_Mbappe, LaLiga's Player of the Month for October!",
-   "link": "https://t.me/RealMadridImportantOnly/1062"
-  },
-  {
    "ts": 1794414503.6663322,
    "date": "2026-11-11",
    "tokens": [
