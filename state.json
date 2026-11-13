@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59765,
-  "themadridzone": 34819,
+  "themadridzone": 34822,
   "FabrizioRomanoTG": 68231
  },
  "sent": [
@@ -638,6 +638,42 @@
    "status": "rumour",
    "headline": "📺 New YouTube Video Uploaded!",
    "link": "https://t.me/RealMadridImportantOnly/1083"
+  },
+  {
+   "ts": 1794562525.108785,
+   "date": "2026-11-13",
+   "tokens": [
+    "23",
+    "7",
+    "alav",
+    "all",
+    "bernabeu",
+    "break",
+    "celta",
+    "consecutive",
+    "gam",
+    "goal",
+    "home",
+    "international",
+    "next",
+    "play",
+    "psv",
+    "santiago",
+    "scor",
+    "season",
+    "three",
+    "won"
+   ],
+   "names": [
+    "alaves",
+    "bernabeu",
+    "celta",
+    "santiago"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "🚨 Real Madrid will play THREE consecutive games at the Santiago Bernabéu after the international break.",
+   "link": "https://t.me/RealMadridImportantOnly/1084"
   }
  ],
  "offset": 769012045,
@@ -645,8 +681,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-13",
-  "calls": 13,
-  "tokens": 15411
+  "calls": 15,
+  "tokens": 17719
  },
  "summary_date": "2026-11-12",
  "opts": {
@@ -681,6 +717,6 @@
   "injury": 53,
   "coach": 34,
   "awards": 107,
-  "fixtures": 36
+  "fixtures": 37
  }
 }
