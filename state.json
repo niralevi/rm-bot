@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59774,
-  "themadridzone": 34835,
+  "themadridzone": 34836,
   "FabrizioRomanoTG": 68244
  },
  "sent": [
@@ -760,6 +760,27 @@
    "status": "official",
    "headline": "🚨 Real Madrid will play THREE consecutive games at the Santiago Bernabéu after the international break.",
    "link": "https://t.me/RealMadridImportantOnly/1091"
+  },
+  {
+   "ts": 1794599539.1308208,
+   "date": "2026-11-13",
+   "tokens": [
+    "bellingham",
+    "jude",
+    "luka",
+    "modric",
+    "reunit"
+   ],
+   "names": [
+    "bellingham",
+    "jude",
+    "luka",
+    "modric"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "Jude Bellingham x Luka Modrić, REUNITED 🤍",
+   "link": "https://t.me/RealMadridImportantOnly/1092"
   }
  ],
  "offset": 769012045,
@@ -767,8 +788,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-13",
-  "calls": 35,
-  "tokens": 41709
+  "calls": 36,
+  "tokens": 42882
  },
  "summary_date": "2026-11-12",
  "opts": {
@@ -796,7 +817,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 137,
+  "lineup": 138,
   "transfer": 113,
   "stats": 1,
   "discipline": 28,
