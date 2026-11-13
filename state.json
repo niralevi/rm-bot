@@ -1,8 +1,8 @@
 {
  "last_post": {
-  "real_madrid": 59769,
+  "real_madrid": 59770,
   "themadridzone": 34831,
-  "FabrizioRomanoTG": 68242
+  "FabrizioRomanoTG": 68243
  },
  "sent": [
   {
@@ -571,7 +571,8 @@
    "cat": "fixtures",
    "status": "fact",
    "headline": "🚨 Real Madrid will play THREE consecutive games at the Santiago Bernabéu after the international break.",
-   "link": "https://t.me/RealMadridImportantOnly/1084"
+   "link": "https://t.me/RealMadridImportantOnly/1084",
+   "superseded": true
   },
   {
    "ts": 1794563361.874554,
@@ -787,6 +788,43 @@
    "status": "rumour",
    "headline": "Coach Khedira. 🧠",
    "link": "https://t.me/RealMadridImportantOnly/1090"
+  },
+  {
+   "ts": 1794580529.8028295,
+   "date": "2026-11-13",
+   "tokens": [
+    "23",
+    "7",
+    "alav",
+    "all",
+    "bernabeu",
+    "break",
+    "celta",
+    "consecutive",
+    "diarioa",
+    "gam",
+    "goal",
+    "home",
+    "international",
+    "next",
+    "play",
+    "psv",
+    "santiago",
+    "scor",
+    "season",
+    "three",
+    "won"
+   ],
+   "names": [
+    "alaves",
+    "bernabeu",
+    "celta",
+    "santiago"
+   ],
+   "cat": "fixtures",
+   "status": "official",
+   "headline": "🚨 Real Madrid will play THREE consecutive games at the Santiago Bernabéu after the international break.",
+   "link": "https://t.me/RealMadridImportantOnly/1091"
   }
  ],
  "offset": 769012045,
@@ -794,8 +832,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-13",
-  "calls": 27,
-  "tokens": 32281
+  "calls": 28,
+  "tokens": 33505
  },
  "summary_date": "2026-11-12",
  "opts": {
@@ -830,6 +868,6 @@
   "injury": 53,
   "coach": 35,
   "awards": 107,
-  "fixtures": 40
+  "fixtures": 41
  }
 }
