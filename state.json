@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59765,
   "themadridzone": 34808,
-  "FabrizioRomanoTG": 68226
+  "FabrizioRomanoTG": 68227
  },
  "sent": [
   {
@@ -605,6 +605,39 @@
    "status": "fact",
    "headline": "🚨 OFFICIAL: Jude Bellingham & Trent Alexander-Arnold start for England. 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
    "link": "https://t.me/RealMadridImportantOnly/1081"
+  },
+  {
+   "ts": 1794531931.1392543,
+   "date": "2026-11-13",
+   "tokens": [
+    "95",
+    "all",
+    "bomba",
+    "bruno",
+    "deal",
+    "done",
+    "florentino",
+    "next",
+    "olise",
+    "sign",
+    "unit",
+    "upload",
+    "video",
+    "watch",
+    "what",
+    "youtube"
+   ],
+   "names": [
+    "new",
+    "now",
+    "uploaded",
+    "video",
+    "watch"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "📺 New YouTube Video Uploaded!",
+   "link": "https://t.me/RealMadridImportantOnly/1083"
   }
  ],
  "offset": 769012045,
@@ -612,8 +645,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-13",
-  "calls": 1,
-  "tokens": 1183
+  "calls": 2,
+  "tokens": 2356
  },
  "summary_date": "2026-11-12",
  "opts": {
@@ -642,7 +675,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 137,
-  "transfer": 110,
+  "transfer": 111,
   "stats": 1,
   "discipline": 28,
   "injury": 53,
