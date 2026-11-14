@@ -6,32 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794509608.4858813,
-   "date": "2026-11-12",
-   "tokens": [
-    "alexander",
-    "arnold",
-    "bellingham",
-    "england",
-    "jude",
-    "official",
-    "start",
-    "trent"
-   ],
-   "names": [
-    "alexander",
-    "arnold",
-    "bellingham",
-    "england",
-    "jude",
-    "trent"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 OFFICIAL: Jude Bellingham & Trent Alexander-Arnold start for England. 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-   "link": "https://t.me/RealMadridImportantOnly/1081"
-  },
-  {
    "ts": 1794531931.1392543,
    "date": "2026-11-13",
    "tokens": [
