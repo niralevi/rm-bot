@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59774,
-  "themadridzone": 34845,
+  "themadridzone": 34846,
   "FabrizioRomanoTG": 68253
  },
  "sent": [
@@ -640,6 +640,23 @@
    "status": "fact",
    "headline": "Jude Bellingham x Luka Modrić, REUNITED 🤍",
    "link": "https://t.me/RealMadridImportantOnly/1092"
+  },
+  {
+   "ts": 1794646403.1341653,
+   "date": "2026-11-14",
+   "tokens": [
+    "back",
+    "rodrygo",
+    "santo"
+   ],
+   "names": [
+    "rodrygo",
+    "santos"
+   ],
+   "cat": "transfer",
+   "status": "fact",
+   "headline": "Rodrygo back at Santos 🏠",
+   "link": "https://t.me/RealMadridImportantOnly/1094"
   }
  ],
  "offset": 769012045,
@@ -647,8 +664,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-14",
-  "calls": 5,
-  "tokens": 5829
+  "calls": 6,
+  "tokens": 6980
  },
  "summary_date": "2026-11-13",
  "opts": {
@@ -677,7 +694,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 138,
-  "transfer": 113,
+  "transfer": 114,
   "stats": 1,
   "discipline": 28,
   "injury": 53,
