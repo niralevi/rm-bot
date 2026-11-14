@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59778,
-  "themadridzone": 34864,
+  "themadridzone": 34865,
   "FabrizioRomanoTG": 68261
  },
  "sent": [
@@ -486,6 +486,35 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Vini Jr. starts for Brazil 🇧🇷",
    "link": "https://t.me/RealMadridImportantOnly/1095"
+  },
+  {
+   "ts": 1794677659.947537,
+   "date": "2026-11-14",
+   "tokens": [
+    "ancelotti",
+    "bid",
+    "buy",
+    "carlo",
+    "courtoi",
+    "first",
+    "italian",
+    "made",
+    "manag",
+    "reggiana",
+    "thibaut"
+   ],
+   "names": [
+    "ancelotti",
+    "carlo",
+    "courtois",
+    "italian",
+    "reggiana",
+    "thibaut"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨JUST IN: Thibaut Courtois has made a BID to BUY Italian club Reggiana.💰",
+   "link": "https://t.me/RealMadridImportantOnly/1096"
   }
  ],
  "offset": 769012045,
@@ -493,8 +522,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-14",
-  "calls": 26,
-  "tokens": 29948
+  "calls": 27,
+  "tokens": 31062
  },
  "summary_date": "2026-11-13",
  "opts": {
@@ -523,7 +552,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 139,
-  "transfer": 114,
+  "transfer": 115,
   "stats": 1,
   "discipline": 28,
   "injury": 53,
