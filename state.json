@@ -6,28 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794457459.4148307,
-   "date": "2026-11-12",
-   "tokens": [
-    "basical",
-    "confirm",
-    "deal",
-    "detail",
-    "done",
-    "final",
-    "gabriel",
-    "only",
-    "pend"
-   ],
-   "names": [
-    "gabriel"
-   ],
-   "cat": "transfer",
-   "status": "official",
-   "headline": "🚨 CONFIRMED: JJ Gabriel to Real Madrid is basically a done deal.",
-   "link": "https://t.me/RealMadridImportantOnly/1069"
-  },
-  {
    "ts": 1794457639.861538,
    "date": "2026-11-12",
    "tokens": [
