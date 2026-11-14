@@ -6,30 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794503123.8660543,
-   "date": "2026-11-12",
-   "tokens": [
-    "aurelien",
-    "back",
-    "indoor",
-    "possible",
-    "soon",
-    "tchouameni",
-    "train",
-    "valdebeba",
-    "work"
-   ],
-   "names": [
-    "aurelien",
-    "tchouameni",
-    "valdebebas"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨 UPDATE: Aurelien Tchouaméni trained indoors at Valdebebas today.",
-   "link": "https://t.me/RealMadridImportantOnly/1075"
-  },
-  {
    "ts": 1794504503.803896,
    "date": "2026-11-12",
    "tokens": [
