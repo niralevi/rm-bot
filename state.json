@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59774,
-  "themadridzone": 34852,
+  "themadridzone": 34853,
   "FabrizioRomanoTG": 68253
  },
  "sent": [
@@ -657,6 +657,24 @@
    "status": "fact",
    "headline": "Rodrygo back at Santos 🏠",
    "link": "https://t.me/RealMadridImportantOnly/1094"
+  },
+  {
+   "ts": 1794648382.4661407,
+   "date": "2026-11-14",
+   "tokens": [
+    "brazil",
+    "official",
+    "start",
+    "vini"
+   ],
+   "names": [
+    "brazil",
+    "vini"
+   ],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Vini Jr. starts for Brazil 🇧🇷",
+   "link": "https://t.me/RealMadridImportantOnly/1095"
   }
  ],
  "offset": 769012045,
@@ -664,8 +682,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-14",
-  "calls": 11,
-  "tokens": 12898
+  "calls": 12,
+  "tokens": 14017
  },
  "summary_date": "2026-11-13",
  "opts": {
@@ -693,7 +711,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 138,
+  "lineup": 139,
   "transfer": 114,
   "stats": 1,
   "discipline": 28,
