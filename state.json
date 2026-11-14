@@ -6,36 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794447684.2803988,
-   "date": "2026-11-12",
-   "tokens": [
-    "39",
-    "already",
-    "apart",
-    "fede",
-    "injur",
-    "injuri",
-    "injury",
-    "last",
-    "muscle",
-    "only",
-    "point",
-    "season",
-    "start",
-    "suffer",
-    "valverde",
-    "who"
-   ],
-   "names": [
-    "fede",
-    "valverde"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨 JUST IN: At this point last season, Real Madrid had already suffered 39 (!) muscle injuries.",
-   "link": "https://t.me/RealMadridImportantOnly/1067"
-  },
-  {
    "ts": 1794454521.5259392,
    "date": "2026-11-12",
    "tokens": [
