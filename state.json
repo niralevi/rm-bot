@@ -2,7 +2,7 @@
  "last_post": {
   "real_madrid": 59778,
   "themadridzone": 34870,
-  "FabrizioRomanoTG": 68262
+  "FabrizioRomanoTG": 68264
  },
  "sent": [
   {
@@ -411,6 +411,46 @@
    "status": "rumour",
    "headline": "🚨JUST IN: Thibaut Courtois has made a BID to BUY Italian club Reggiana.💰",
    "link": "https://t.me/RealMadridImportantOnly/1096"
+  },
+  {
+   "ts": 1794682762.6463082,
+   "date": "2026-11-14",
+   "tokens": [
+    "14",
+    "2026",
+    "alexander",
+    "analiza",
+    "arnold",
+    "del",
+    "fabrizio",
+    "futuro",
+    "inglesa",
+    "jugador",
+    "liverpool",
+    "los",
+    "nov",
+    "podria",
+    "regresar",
+    "romano",
+    "rumor",
+    "seleccion",
+    "sobre",
+    "trent"
+   ],
+   "names": [
+    "alexander",
+    "arnold",
+    "fabrizio",
+    "liverpool",
+    "nov",
+    "podria",
+    "romano",
+    "trent"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "RT @DAZNBetES: ¿Podría Trent Alexander-Arnold regresar al Liverpool? 👀🔴",
+   "link": "https://t.me/RealMadridImportantOnly/1097"
   }
  ],
  "offset": 769012045,
@@ -418,8 +458,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-14",
-  "calls": 30,
-  "tokens": 34569
+  "calls": 32,
+  "tokens": 37013
  },
  "summary_date": "2026-11-13",
  "opts": {
@@ -448,7 +488,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 139,
-  "transfer": 115,
+  "transfer": 116,
   "stats": 1,
   "discipline": 28,
   "injury": 53,
