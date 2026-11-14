@@ -6,50 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794507865.6237783,
-   "date": "2026-11-12",
-   "tokens": [
-    "20m",
-    "arda",
-    "guler",
-    "sign"
-   ],
-   "names": [
-    "arda",
-    "guler"
-   ],
-   "cat": "transfer",
-   "status": "official",
-   "headline": "Real Madrid signed Arda Güler for €20M. 🤯",
-   "link": "https://t.me/RealMadridImportantOnly/1079"
-  },
-  {
-   "ts": 1794507930.926925,
-   "date": "2026-11-12",
-   "tokens": [
-    "cucurella",
-    "czechia",
-    "dean",
-    "huijsen",
-    "marc",
-    "official",
-    "spain",
-    "start"
-   ],
-   "names": [
-    "cucurella",
-    "czechia",
-    "dean",
-    "huijsen",
-    "marc",
-    "spain"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 OFFICIAL: Dean Huijsen & Marc Cucurella start for Spain vs Czechia. 🇪🇸🇨🇿",
-   "link": "https://t.me/RealMadridImportantOnly/1080"
-  },
-  {
    "ts": 1794509608.4858813,
    "date": "2026-11-12",
    "tokens": [
