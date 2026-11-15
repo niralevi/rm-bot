@@ -6,27 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794570201.6472292,
-   "date": "2026-11-13",
-   "tokens": [
-    "19",
-    "here",
-    "issman",
-    "latif",
-    "logron"
-   ],
-   "names": [
-    "issman",
-    "latif",
-    "logrones"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 BREAKING: Latif Issman (19) from Logrones to Real Madrid — HERE WE GO! @FabrizioRomano 🇬🇭",
-   "link": "https://t.me/RealMadridImportantOnly/1087",
-   "superseded": true
-  },
-  {
    "ts": 1794570267.0445378,
    "date": "2026-11-13",
    "tokens": [
