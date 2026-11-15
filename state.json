@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59780,
-  "themadridzone": 34910,
+  "themadridzone": 34911,
   "FabrizioRomanoTG": 68275
  },
  "sent": [
@@ -391,6 +391,22 @@
    "status": "official",
    "headline": "Viní Jr. vs Japan. ⚡️",
    "link": "https://t.me/RealMadridImportantOnly/1105"
+  },
+  {
+   "ts": 1794743959.9643984,
+   "date": "2026-11-15",
+   "tokens": [
+    "diomande",
+    "yan"
+   ],
+   "names": [
+    "diomande",
+    "yan"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "Yan Diomandé ✂️",
+   "link": "https://t.me/RealMadridImportantOnly/1106"
   }
  ],
  "offset": 769012045,
@@ -398,8 +414,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-15",
-  "calls": 27,
-  "tokens": 30837
+  "calls": 28,
+  "tokens": 31992
  },
  "summary_date": "2026-11-14",
  "opts": {
@@ -428,7 +444,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 142,
-  "transfer": 118,
+  "transfer": 119,
   "stats": 1,
   "discipline": 28,
   "injury": 55,
