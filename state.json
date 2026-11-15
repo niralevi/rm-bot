@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59780,
-  "themadridzone": 34893,
+  "themadridzone": 34894,
   "FabrizioRomanoTG": 68275
  },
  "sent": [
@@ -343,6 +343,29 @@
    "status": "rumour",
    "headline": "🚨 JUST IN: Bayern Munich’s rumoured asking price for Michael Olise is €200 million, but the club is trying to…",
    "link": "https://t.me/RealMadridImportantOnly/1100"
+  },
+  {
+   "ts": 1794737975.4917982,
+   "date": "2026-11-15",
+   "tokens": [
+    "against",
+    "expect",
+    "france",
+    "ibrahima",
+    "konate",
+    "start",
+    "turkey"
+   ],
+   "names": [
+    "france",
+    "ibrahima",
+    "konate",
+    "turkey"
+   ],
+   "cat": "lineup",
+   "status": "rumour",
+   "headline": "🚨 Ibrahima Konate is expected to START for France against Turkey. @lequipe 🇫🇷",
+   "link": "https://t.me/RealMadridImportantOnly/1101"
   }
  ],
  "offset": 769012045,
@@ -350,8 +373,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-15",
-  "calls": 11,
-  "tokens": 12550
+  "calls": 12,
+  "tokens": 13733
  },
  "summary_date": "2026-11-14",
  "opts": {
@@ -379,7 +402,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 139,
+  "lineup": 140,
   "transfer": 117,
   "stats": 1,
   "discipline": 28,
