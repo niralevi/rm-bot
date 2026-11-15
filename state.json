@@ -1,48 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59780,
-  "themadridzone": 34891,
+  "themadridzone": 34893,
   "FabrizioRomanoTG": 68275
  },
  "sent": [
-  {
-   "ts": 1794564959.2131066,
-   "date": "2026-11-13",
-   "tokens": [
-    "00",
-    "19",
-    "20",
-    "21",
-    "45",
-    "action",
-    "argentina",
-    "brahim",
-    "cet",
-    "dumfri",
-    "espi",
-    "greece",
-    "japan",
-    "niger",
-    "pitarch",
-    "u21",
-    "valverde"
-   ],
-   "names": [
-    "argentina",
-    "brahim",
-    "dumfries",
-    "espi",
-    "greece",
-    "japan",
-    "niger",
-    "pitarch",
-    "valverde"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "Real Madrid players in action today:",
-   "link": "https://t.me/RealMadridImportantOnly/1086"
-  },
   {
    "ts": 1794570201.6472292,
    "date": "2026-11-13",
@@ -388,8 +350,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-15",
-  "calls": 10,
-  "tokens": 11369
+  "calls": 11,
+  "tokens": 12550
  },
  "summary_date": "2026-11-14",
  "opts": {
