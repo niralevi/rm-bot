@@ -6,27 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794599539.1308208,
-   "date": "2026-11-13",
-   "tokens": [
-    "bellingham",
-    "jude",
-    "luka",
-    "modric",
-    "reunit"
-   ],
-   "names": [
-    "bellingham",
-    "jude",
-    "luka",
-    "modric"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "Jude Bellingham x Luka Modrić, REUNITED 🤍",
-   "link": "https://t.me/RealMadridImportantOnly/1092"
-  },
-  {
    "ts": 1794646403.1341653,
    "date": "2026-11-14",
    "tokens": [
