@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59780,
-  "themadridzone": 34902,
+  "themadridzone": 34904,
   "FabrizioRomanoTG": 68275
  },
  "sent": [
@@ -314,7 +314,8 @@
    "cat": "injury",
    "status": "fact",
    "headline": "🚨💣 BREAKING: Bernardo Silva is INJURED.",
-   "link": "https://t.me/RealMadridImportantOnly/1099"
+   "link": "https://t.me/RealMadridImportantOnly/1099",
+   "superseded": true
   },
   {
    "ts": 1794737664.1644387,
@@ -390,6 +391,32 @@
    "status": "fact",
    "headline": "🔙 On this day in 2006, Real Madrid officially announced the signing of Marcelo from Fluminense.",
    "link": "https://t.me/RealMadridImportantOnly/1102"
+  },
+  {
+   "ts": 1794739941.370662,
+   "date": "2026-11-15",
+   "tokens": [
+    "bernardo",
+    "camp",
+    "injur",
+    "left",
+    "national",
+    "official",
+    "portuguese",
+    "silva",
+    "team"
+   ],
+   "names": [
+    "bernardo",
+    "national",
+    "portuguese",
+    "silva",
+    "team"
+   ],
+   "cat": "injury",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Bernardo Silva is injured and has left the Portuguese National Team camp.",
+   "link": "https://t.me/RealMadridImportantOnly/1103"
   }
  ],
  "offset": 769012045,
@@ -397,8 +424,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-15",
-  "calls": 19,
-  "tokens": 21763
+  "calls": 21,
+  "tokens": 24011
  },
  "summary_date": "2026-11-14",
  "opts": {
@@ -430,7 +457,7 @@
   "transfer": 118,
   "stats": 1,
   "discipline": 28,
-  "injury": 54,
+  "injury": 55,
   "coach": 35,
   "awards": 107,
   "fixtures": 41
