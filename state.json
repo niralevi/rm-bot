@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59783,
-  "themadridzone": 34925,
+  "themadridzone": 34926,
   "FabrizioRomanoTG": 68277
  },
  "sent": [
@@ -365,6 +365,25 @@
    "status": "fact",
    "headline": "❗️Kylian Mbappé vs Arda Güler tonight.",
    "link": "https://t.me/RealMadridImportantOnly/1108"
+  },
+  {
+   "ts": 1794759677.3287194,
+   "date": "2026-11-15",
+   "tokens": [
+    "2027",
+    "like",
+    "return",
+    "rodrygo",
+    "rush",
+    "want"
+   ],
+   "names": [
+    "rodrygo"
+   ],
+   "cat": "injury",
+   "status": "rumour",
+   "headline": "🚨 UPDATE: Real Madrid do NOT want to rush Rodrygo.",
+   "link": "https://t.me/RealMadridImportantOnly/1109"
   }
  ],
  "offset": 769012045,
@@ -372,8 +391,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-15",
-  "calls": 41,
-  "tokens": 46700
+  "calls": 42,
+  "tokens": 47857
  },
  "summary_date": "2026-11-14",
  "opts": {
@@ -405,7 +424,7 @@
   "transfer": 119,
   "stats": 1,
   "discipline": 28,
-  "injury": 55,
+  "injury": 56,
   "coach": 35,
   "awards": 107,
   "fixtures": 42
