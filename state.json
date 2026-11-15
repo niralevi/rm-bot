@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59780,
-  "themadridzone": 34886,
+  "themadridzone": 34887,
   "FabrizioRomanoTG": 68274
  },
  "sent": [
@@ -418,6 +418,24 @@
    "status": "rumour",
    "headline": "RT @DAZNBetES: ¿Podría Trent Alexander-Arnold regresar al Liverpool? 👀🔴",
    "link": "https://t.me/RealMadridImportantOnly/1097"
+  },
+  {
+   "ts": 1794729796.7825146,
+   "date": "2026-11-15",
+   "tokens": [
+    "bernardo",
+    "injur",
+    "return",
+    "silva"
+   ],
+   "names": [
+    "bernardo",
+    "silva"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🚨💣 BREAKING: Bernardo Silva is INJURED.",
+   "link": "https://t.me/RealMadridImportantOnly/1099"
   }
  ],
  "offset": 769012045,
@@ -425,8 +443,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-15",
-  "calls": 5,
-  "tokens": 5730
+  "calls": 6,
+  "tokens": 6858
  },
  "summary_date": "2026-11-14",
  "opts": {
@@ -458,7 +476,7 @@
   "transfer": 116,
   "stats": 1,
   "discipline": 28,
-  "injury": 53,
+  "injury": 54,
   "coach": 35,
   "awards": 107,
   "fixtures": 41
