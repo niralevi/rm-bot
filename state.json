@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59780,
-  "themadridzone": 34894,
+  "themadridzone": 34895,
   "FabrizioRomanoTG": 68275
  },
  "sent": [
@@ -366,6 +366,30 @@
    "status": "rumour",
    "headline": "🚨 Ibrahima Konate is expected to START for France against Turkey. @lequipe 🇫🇷",
    "link": "https://t.me/RealMadridImportantOnly/1101"
+  },
+  {
+   "ts": 1794738206.39689,
+   "date": "2026-11-15",
+   "tokens": [
+    "2006",
+    "announc",
+    "career",
+    "day",
+    "fluminense",
+    "marcelo",
+    "official",
+    "sign",
+    "what"
+   ],
+   "names": [
+    "fluminense",
+    "marcelo",
+    "what"
+   ],
+   "cat": "transfer",
+   "status": "fact",
+   "headline": "🔙 On this day in 2006, Real Madrid officially announced the signing of Marcelo from Fluminense.",
+   "link": "https://t.me/RealMadridImportantOnly/1102"
   }
  ],
  "offset": 769012045,
@@ -373,8 +397,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-15",
-  "calls": 12,
-  "tokens": 13733
+  "calls": 13,
+  "tokens": 14856
  },
  "summary_date": "2026-11-14",
  "opts": {
@@ -403,7 +427,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 140,
-  "transfer": 117,
+  "transfer": 118,
   "stats": 1,
   "discipline": 28,
   "injury": 54,
