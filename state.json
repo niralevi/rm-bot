@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59780,
-  "themadridzone": 34889,
+  "themadridzone": 34891,
   "FabrizioRomanoTG": 68275
  },
  "sent": [
@@ -353,6 +353,34 @@
    "status": "fact",
    "headline": "🚨💣 BREAKING: Bernardo Silva is INJURED.",
    "link": "https://t.me/RealMadridImportantOnly/1099"
+  },
+  {
+   "ts": 1794737664.1644387,
+   "date": "2026-11-15",
+   "tokens": [
+    "200",
+    "300",
+    "ask",
+    "bayern",
+    "michael",
+    "million",
+    "munich",
+    "olise",
+    "price",
+    "push",
+    "rumour",
+    "try"
+   ],
+   "names": [
+    "bayern",
+    "michael",
+    "munich",
+    "olise"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 JUST IN: Bayern Munich’s rumoured asking price for Michael Olise is €200 million, but the club is trying to…",
+   "link": "https://t.me/RealMadridImportantOnly/1100"
   }
  ],
  "offset": 769012045,
@@ -360,8 +388,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-15",
-  "calls": 8,
-  "tokens": 9088
+  "calls": 10,
+  "tokens": 11369
  },
  "summary_date": "2026-11-14",
  "opts": {
@@ -390,7 +418,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 139,
-  "transfer": 116,
+  "transfer": 117,
   "stats": 1,
   "discipline": 28,
   "injury": 54,
