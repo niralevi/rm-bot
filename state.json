@@ -1,47 +1,10 @@
 {
  "last_post": {
-  "real_madrid": 59781,
+  "real_madrid": 59782,
   "themadridzone": 34918,
   "FabrizioRomanoTG": 68276
  },
  "sent": [
-  {
-   "ts": 1794580529.8028295,
-   "date": "2026-11-13",
-   "tokens": [
-    "23",
-    "7",
-    "alav",
-    "all",
-    "bernabeu",
-    "break",
-    "celta",
-    "consecutive",
-    "diarioa",
-    "gam",
-    "goal",
-    "home",
-    "international",
-    "next",
-    "play",
-    "psv",
-    "santiago",
-    "scor",
-    "season",
-    "three",
-    "won"
-   ],
-   "names": [
-    "alaves",
-    "bernabeu",
-    "celta",
-    "santiago"
-   ],
-   "cat": "fixtures",
-   "status": "official",
-   "headline": "🚨 Real Madrid will play THREE consecutive games at the Santiago Bernabéu after the international break.",
-   "link": "https://t.me/RealMadridImportantOnly/1091"
-  },
   {
    "ts": 1794599539.1308208,
    "date": "2026-11-13",
@@ -386,8 +349,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-15",
-  "calls": 34,
-  "tokens": 38792
+  "calls": 35,
+  "tokens": 39920
  },
  "summary_date": "2026-11-14",
  "opts": {
