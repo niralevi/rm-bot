@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59780,
+  "real_madrid": 59781,
   "themadridzone": 34916,
   "FabrizioRomanoTG": 68276
  },
@@ -361,6 +361,40 @@
    "status": "rumour",
    "headline": "Yan Diomandé ✂️",
    "link": "https://t.me/RealMadridImportantOnly/1106"
+  },
+  {
+   "ts": 1794751103.9215808,
+   "date": "2026-11-15",
+   "tokens": [
+    "20",
+    "45",
+    "action",
+    "arda",
+    "bellingham",
+    "camavinga",
+    "cet",
+    "cucurella",
+    "guler",
+    "huijsen",
+    "konate",
+    "mbappe",
+    "trent"
+   ],
+   "names": [
+    "arda",
+    "bellingham",
+    "camavinga",
+    "cucurella",
+    "guler",
+    "huijsen",
+    "konate",
+    "mbappe",
+    "trent"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "Real Madrid players in action today:",
+   "link": "https://t.me/RealMadridImportantOnly/1107"
   }
  ],
  "offset": 769012045,
@@ -368,8 +402,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-15",
-  "calls": 32,
-  "tokens": 36449
+  "calls": 33,
+  "tokens": 37632
  },
  "summary_date": "2026-11-14",
  "opts": {
@@ -397,7 +431,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 142,
+  "lineup": 143,
   "transfer": 119,
   "stats": 1,
   "discipline": 28,
