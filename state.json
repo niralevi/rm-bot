@@ -6,43 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794562525.108785,
-   "date": "2026-11-13",
-   "tokens": [
-    "23",
-    "7",
-    "alav",
-    "all",
-    "bernabeu",
-    "break",
-    "celta",
-    "consecutive",
-    "gam",
-    "goal",
-    "home",
-    "international",
-    "next",
-    "play",
-    "psv",
-    "santiago",
-    "scor",
-    "season",
-    "three",
-    "won"
-   ],
-   "names": [
-    "alaves",
-    "bernabeu",
-    "celta",
-    "santiago"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "🚨 Real Madrid will play THREE consecutive games at the Santiago Bernabéu after the international break.",
-   "link": "https://t.me/RealMadridImportantOnly/1084",
-   "superseded": true
-  },
-  {
    "ts": 1794563361.874554,
    "date": "2026-11-13",
    "tokens": [
