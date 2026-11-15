@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59784,
-  "themadridzone": 34930,
+  "themadridzone": 34934,
   "FabrizioRomanoTG": 68285
  },
  "sent": [
@@ -384,6 +384,54 @@
    "status": "rumour",
    "headline": "🚨 UPDATE: Real Madrid do NOT want to rush Rodrygo.",
    "link": "https://t.me/RealMadridImportantOnly/1109"
+  },
+  {
+   "ts": 1794768022.33793,
+   "date": "2026-11-15",
+   "tokens": [
+    "bellingham",
+    "cucurella",
+    "england",
+    "jude",
+    "marc",
+    "official",
+    "spain",
+    "start"
+   ],
+   "names": [
+    "bellingham",
+    "cucurella",
+    "england",
+    "jude",
+    "marc",
+    "spain"
+   ],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Marc Cucurella starts for Spain 🇪🇸",
+   "link": "https://t.me/RealMadridImportantOnly/1110"
+  },
+  {
+   "ts": 1794768024.5852513,
+   "date": "2026-11-15",
+   "tokens": [
+    "arda",
+    "france",
+    "guler",
+    "official",
+    "start",
+    "turkiye"
+   ],
+   "names": [
+    "arda",
+    "france",
+    "guler",
+    "turkiye"
+   ],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Arda Guler STARTS for Turkiye vs France.",
+   "link": "https://t.me/RealMadridImportantOnly/1111"
   }
  ],
  "offset": 769012045,
@@ -391,8 +439,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-15",
-  "calls": 48,
-  "tokens": 54655
+  "calls": 51,
+  "tokens": 57886
  },
  "summary_date": "2026-11-14",
  "opts": {
@@ -420,7 +468,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 143,
+  "lineup": 145,
   "transfer": 119,
   "stats": 1,
   "discipline": 28,
