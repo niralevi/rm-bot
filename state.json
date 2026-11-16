@@ -6,23 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794646403.1341653,
-   "date": "2026-11-14",
-   "tokens": [
-    "back",
-    "rodrygo",
-    "santo"
-   ],
-   "names": [
-    "rodrygo",
-    "santos"
-   ],
-   "cat": "transfer",
-   "status": "fact",
-   "headline": "Rodrygo back at Santos 🏠",
-   "link": "https://t.me/RealMadridImportantOnly/1094"
-  },
-  {
    "ts": 1794648382.4661407,
    "date": "2026-11-14",
    "tokens": [
