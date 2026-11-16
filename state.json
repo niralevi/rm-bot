@@ -6,35 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794677659.947537,
-   "date": "2026-11-14",
-   "tokens": [
-    "ancelotti",
-    "bid",
-    "buy",
-    "carlo",
-    "courtoi",
-    "first",
-    "italian",
-    "made",
-    "manag",
-    "reggiana",
-    "thibaut"
-   ],
-   "names": [
-    "ancelotti",
-    "carlo",
-    "courtois",
-    "italian",
-    "reggiana",
-    "thibaut"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨JUST IN: Thibaut Courtois has made a BID to BUY Italian club Reggiana.💰",
-   "link": "https://t.me/RealMadridImportantOnly/1096"
-  },
-  {
    "ts": 1794682762.6463082,
    "date": "2026-11-14",
    "tokens": [
