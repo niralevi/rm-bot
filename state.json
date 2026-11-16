@@ -6,24 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794648382.4661407,
-   "date": "2026-11-14",
-   "tokens": [
-    "brazil",
-    "official",
-    "start",
-    "vini"
-   ],
-   "names": [
-    "brazil",
-    "vini"
-   ],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Vini Jr. starts for Brazil 🇧🇷",
-   "link": "https://t.me/RealMadridImportantOnly/1095"
-  },
-  {
    "ts": 1794677659.947537,
    "date": "2026-11-14",
    "tokens": [
