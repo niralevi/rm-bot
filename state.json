@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59784,
-  "themadridzone": 35016,
+  "themadridzone": 35017,
   "FabrizioRomanoTG": 68294
  },
  "sent": [
@@ -507,6 +507,28 @@
    "status": "official",
    "headline": "🚨 JUST IN: Carlo Ancelotti will START Endrick against Singapore. @geglobo 🇸🇬",
    "link": "https://t.me/RealMadridImportantOnly/1117"
+  },
+  {
+   "ts": 1794822569.2357426,
+   "date": "2026-11-16",
+   "tokens": [
+    "bernardo",
+    "celta",
+    "fine",
+    "ready",
+    "silva",
+    "vigo"
+   ],
+   "names": [
+    "bernardo",
+    "celta",
+    "silva",
+    "vigo"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🚨 UPDATE: Bernardo Silva is FINE.",
+   "link": "https://t.me/RealMadridImportantOnly/1118"
   }
  ],
  "offset": 769012045,
@@ -514,8 +536,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-16",
-  "calls": 34,
-  "tokens": 36668
+  "calls": 35,
+  "tokens": 37782
  },
  "summary_date": "2026-11-15",
  "opts": {
@@ -547,7 +569,7 @@
   "transfer": 121,
   "stats": 1,
   "discipline": 28,
-  "injury": 57,
+  "injury": 58,
   "coach": 35,
   "awards": 107,
   "fixtures": 42
