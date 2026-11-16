@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59784,
-  "themadridzone": 35005,
+  "themadridzone": 35008,
   "FabrizioRomanoTG": 68292
  },
  "sent": [
@@ -490,6 +490,36 @@
    "status": "fact",
    "headline": "🚨REMINDER: Real Madrid has a €80 million buy-back clause for Nico Paz that is active exclusively in the summe…",
    "link": "https://t.me/RealMadridImportantOnly/1115"
+  },
+  {
+   "ts": 1794811765.0244744,
+   "date": "2026-11-16",
+   "tokens": [
+    "10",
+    "20",
+    "2026",
+    "300",
+    "add",
+    "arda",
+    "bought",
+    "clause",
+    "easi",
+    "fenerbahce",
+    "guler",
+    "million",
+    "ons",
+    "sell",
+    "worth"
+   ],
+   "names": [
+    "arda",
+    "fenerbahce",
+    "guler"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨Real Madrid bought Arda Guler from Fenerbahçe for just €20 million with €10 million in add ons and a 20% sel…",
+   "link": "https://t.me/RealMadridImportantOnly/1116"
   }
  ],
  "offset": 769012045,
@@ -497,8 +527,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-16",
-  "calls": 26,
-  "tokens": 27682
+  "calls": 28,
+  "tokens": 29825
  },
  "summary_date": "2026-11-15",
  "opts": {
@@ -527,7 +557,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 146,
-  "transfer": 120,
+  "transfer": 121,
   "stats": 1,
   "discipline": 28,
   "injury": 57,
