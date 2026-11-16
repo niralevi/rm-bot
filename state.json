@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59788,
+  "real_madrid": 59789,
   "themadridzone": 35023,
   "FabrizioRomanoTG": 68310
  },
@@ -586,6 +586,24 @@
    "status": "rumour",
    "headline": "🚨 BREAKING: JJ Gabriel is getting closer to Real Madrid, the move could be completed as soon as THIS WEEK.",
    "link": "https://t.me/RealMadridImportantOnly/1120"
+  },
+  {
+   "ts": 1794842113.6197033,
+   "date": "2026-11-16",
+   "tokens": [
+    "back",
+    "days",
+    "five",
+    "home",
+    "until"
+   ],
+   "names": [
+    "five"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "⏳ Five days until we're back home!",
+   "link": "https://t.me/RealMadridImportantOnly/1121"
   }
  ],
  "offset": 769012045,
@@ -593,8 +611,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-16",
-  "calls": 52,
-  "tokens": 57235
+  "calls": 53,
+  "tokens": 58345
  },
  "summary_date": "2026-11-15",
  "opts": {
@@ -629,6 +647,6 @@
   "injury": 59,
   "coach": 35,
   "awards": 107,
-  "fixtures": 42
+  "fixtures": 43
  }
 }
