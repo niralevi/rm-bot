@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59793,
-  "themadridzone": 35030,
+  "themadridzone": 35031,
   "FabrizioRomanoTG": 68323
  },
  "sent": [
@@ -575,6 +575,28 @@
    "status": "fact",
    "headline": "⏳ Five days until we're back home!",
    "link": "https://t.me/RealMadridImportantOnly/1121"
+  },
+  {
+   "ts": 1794854971.4136453,
+   "date": "2026-11-16",
+   "tokens": [
+    "denzel",
+    "dumfri",
+    "germany",
+    "netherland",
+    "official",
+    "start"
+   ],
+   "names": [
+    "denzel",
+    "dumfries",
+    "germany",
+    "netherlands"
+   ],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Denzel Dumfries starts for Netherlands vs Germany",
+   "link": "https://t.me/RealMadridImportantOnly/1122"
   }
  ],
  "offset": 769012045,
@@ -582,8 +604,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-16",
-  "calls": 63,
-  "tokens": 69877
+  "calls": 64,
+  "tokens": 70977
  },
  "summary_date": "2026-11-15",
  "opts": {
@@ -611,7 +633,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 147,
+  "lineup": 148,
   "transfer": 122,
   "stats": 1,
   "discipline": 28,
