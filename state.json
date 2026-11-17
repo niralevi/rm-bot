@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59794,
-  "themadridzone": 35062,
+  "themadridzone": 35064,
   "FabrizioRomanoTG": 68334
  },
  "sent": [
@@ -577,6 +577,45 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Vini Jr and Endrick START vs Singapore. 🇧🇷🇸🇬",
    "link": "https://t.me/RealMadridImportantOnly/1125"
+  },
+  {
+   "ts": 1794908902.5757165,
+   "date": "2026-11-17",
+   "tokens": [
+    "1000",
+    "123",
+    "1st",
+    "250",
+    "286",
+    "2nd",
+    "3rd",
+    "4th",
+    "5th",
+    "65",
+    "6th",
+    "7th",
+    "89",
+    "8th",
+    "90",
+    "97",
+    "days",
+    "ferland",
+    "injur",
+    "mendy",
+    "play",
+    "season",
+    "sign",
+    "since",
+    "yet"
+   ],
+   "names": [
+    "ferland",
+    "mendy"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🚨🤕 Ferland Mendy has now been injured for 1000 days since signing for Real Madrid.",
+   "link": "https://t.me/RealMadridImportantOnly/1126"
   }
  ],
  "offset": 769012045,
@@ -584,8 +623,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-17",
-  "calls": 25,
-  "tokens": 28609
+  "calls": 26,
+  "tokens": 29805
  },
  "summary_date": "2026-11-16",
  "opts": {
@@ -617,7 +656,7 @@
   "transfer": 122,
   "stats": 1,
   "discipline": 28,
-  "injury": 59,
+  "injury": 60,
   "coach": 35,
   "awards": 107,
   "fixtures": 44
