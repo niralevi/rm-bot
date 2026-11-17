@@ -1,38 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59794,
-  "themadridzone": 35071,
+  "themadridzone": 35074,
   "FabrizioRomanoTG": 68334
  },
  "sent": [
-  {
-   "ts": 1794737664.1644387,
-   "date": "2026-11-15",
-   "tokens": [
-    "200",
-    "300",
-    "ask",
-    "bayern",
-    "michael",
-    "million",
-    "munich",
-    "olise",
-    "price",
-    "push",
-    "rumour",
-    "try"
-   ],
-   "names": [
-    "bayern",
-    "michael",
-    "munich",
-    "olise"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 JUST IN: Bayern Munich’s rumoured asking price for Michael Olise is €200 million, but the club is trying to…",
-   "link": "https://t.me/RealMadridImportantOnly/1100"
-  },
   {
    "ts": 1794737975.4917982,
    "date": "2026-11-15",
@@ -623,8 +595,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-17",
-  "calls": 31,
-  "tokens": 35613
+  "calls": 33,
+  "tokens": 37837
  },
  "summary_date": "2026-11-16",
  "opts": {
