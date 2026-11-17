@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59794,
-  "themadridzone": 35089,
+  "themadridzone": 35091,
   "FabrizioRomanoTG": 68338
  },
  "sent": [
@@ -472,6 +472,28 @@
    "status": "fact",
    "headline": "🚨🤕 Ferland Mendy has now been injured for 1000 days since signing for Real Madrid.",
    "link": "https://t.me/RealMadridImportantOnly/1126"
+  },
+  {
+   "ts": 1794914063.1935725,
+   "date": "2026-11-17",
+   "tokens": [
+    "antonio",
+    "consider",
+    "deal",
+    "departure",
+    "done",
+    "next",
+    "rudiger",
+    "summer"
+   ],
+   "names": [
+    "antonio",
+    "rudiger"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 BREAKING: Real Madrid consider Antonio Rüdiger’s departure next summer a DONE DEAL. @JorgeCPicon",
+   "link": "https://t.me/RealMadridImportantOnly/1127"
   }
  ],
  "offset": 769012045,
@@ -479,8 +501,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-17",
-  "calls": 47,
-  "tokens": 53766
+  "calls": 48,
+  "tokens": 54960
  },
  "summary_date": "2026-11-16",
  "opts": {
@@ -509,7 +531,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 149,
-  "transfer": 122,
+  "transfer": 123,
   "stats": 1,
   "discipline": 28,
   "injury": 60,
