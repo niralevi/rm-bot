@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59801,
-  "themadridzone": 35115,
-  "FabrizioRomanoTG": 68344
+  "themadridzone": 35116,
+  "FabrizioRomanoTG": 68345
  },
  "sent": [
   {
@@ -398,6 +398,26 @@
    "status": "official",
    "headline": "🚨 OFFICIAL: Vini Jr. is MOTM 🏆",
    "link": "https://t.me/RealMadridImportantOnly/1129"
+  },
+  {
+   "ts": 1794942063.4336984,
+   "date": "2026-11-17",
+   "tokens": [
+    "announc",
+    "gabriel",
+    "leav",
+    "manchester",
+    "unit"
+   ],
+   "names": [
+    "gabriel",
+    "manchester",
+    "united"
+   ],
+   "cat": "transfer",
+   "status": "fact",
+   "headline": "🚨 BREAKING: JJ Gabriel announces he’s leaving Manchester United.",
+   "link": "https://t.me/RealMadridImportantOnly/1130"
   }
  ],
  "offset": 769012045,
@@ -405,8 +425,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-17",
-  "calls": 78,
-  "tokens": 89477
+  "calls": 79,
+  "tokens": 90594
  },
  "summary_date": "2026-11-16",
  "opts": {
@@ -435,7 +455,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 149,
-  "transfer": 123,
+  "transfer": 124,
   "stats": 1,
   "discipline": 28,
   "injury": 61,
