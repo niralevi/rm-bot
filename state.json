@@ -6,25 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794729796.7825146,
-   "date": "2026-11-15",
-   "tokens": [
-    "bernardo",
-    "injur",
-    "return",
-    "silva"
-   ],
-   "names": [
-    "bernardo",
-    "silva"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨💣 BREAKING: Bernardo Silva is INJURED.",
-   "link": "https://t.me/RealMadridImportantOnly/1099",
-   "superseded": true
-  },
-  {
    "ts": 1794737664.1644387,
    "date": "2026-11-15",
    "tokens": [
