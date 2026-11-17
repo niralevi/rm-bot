@@ -6,49 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794741019.4614773,
-   "date": "2026-11-15",
-   "tokens": [
-    "70",
-    "75",
-    "expect",
-    "full",
-    "game",
-    "kylian",
-    "like",
-    "mbappe",
-    "minut",
-    "play",
-    "start",
-    "turkey"
-   ],
-   "names": [
-    "kylian",
-    "mbappe",
-    "turkey"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 Kylian Mbappé will not play the full game vs Turkey.",
-   "link": "https://t.me/RealMadridImportantOnly/1104"
-  },
-  {
-   "ts": 1794741084.583154,
-   "date": "2026-11-15",
-   "tokens": [
-    "japan",
-    "vini"
-   ],
-   "names": [
-    "japan",
-    "vini"
-   ],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "Viní Jr. vs Japan. ⚡️",
-   "link": "https://t.me/RealMadridImportantOnly/1105"
-  },
-  {
    "ts": 1794743959.9643984,
    "date": "2026-11-15",
    "tokens": [
