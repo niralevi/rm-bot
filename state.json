@@ -6,54 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794768022.33793,
-   "date": "2026-11-15",
-   "tokens": [
-    "bellingham",
-    "cucurella",
-    "england",
-    "jude",
-    "marc",
-    "official",
-    "spain",
-    "start"
-   ],
-   "names": [
-    "bellingham",
-    "cucurella",
-    "england",
-    "jude",
-    "marc",
-    "spain"
-   ],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Marc Cucurella starts for Spain 🇪🇸",
-   "link": "https://t.me/RealMadridImportantOnly/1110"
-  },
-  {
-   "ts": 1794768024.5852513,
-   "date": "2026-11-15",
-   "tokens": [
-    "arda",
-    "france",
-    "guler",
-    "official",
-    "start",
-    "turkiye"
-   ],
-   "names": [
-    "arda",
-    "france",
-    "guler",
-    "turkiye"
-   ],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Arda Guler STARTS for Turkiye vs France.",
-   "link": "https://t.me/RealMadridImportantOnly/1111"
-  },
-  {
    "ts": 1794799211.9269845,
    "date": "2026-11-16",
    "tokens": [
