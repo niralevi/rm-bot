@@ -6,29 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794756923.1267154,
-   "date": "2026-11-15",
-   "tokens": [
-    "arda",
-    "guler",
-    "kylian",
-    "mbappe",
-    "rival",
-    "teammat"
-   ],
-   "names": [
-    "arda",
-    "from",
-    "guler",
-    "kylian",
-    "mbappe"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "❗️Kylian Mbappé vs Arda Güler tonight.",
-   "link": "https://t.me/RealMadridImportantOnly/1108"
-  },
-  {
    "ts": 1794759677.3287194,
    "date": "2026-11-15",
    "tokens": [
