@@ -1,34 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59794,
-  "themadridzone": 35080,
+  "themadridzone": 35082,
   "FabrizioRomanoTG": 68334
  },
  "sent": [
-  {
-   "ts": 1794738206.39689,
-   "date": "2026-11-15",
-   "tokens": [
-    "2006",
-    "announc",
-    "career",
-    "day",
-    "fluminense",
-    "marcelo",
-    "official",
-    "sign",
-    "what"
-   ],
-   "names": [
-    "fluminense",
-    "marcelo",
-    "what"
-   ],
-   "cat": "transfer",
-   "status": "fact",
-   "headline": "🔙 On this day in 2006, Real Madrid officially announced the signing of Marcelo from Fluminense.",
-   "link": "https://t.me/RealMadridImportantOnly/1102"
-  },
   {
    "ts": 1794739941.370662,
    "date": "2026-11-15",
@@ -572,8 +548,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-17",
-  "calls": 38,
-  "tokens": 43473
+  "calls": 40,
+  "tokens": 45755
  },
  "summary_date": "2026-11-16",
  "opts": {
