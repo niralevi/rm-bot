@@ -6,32 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794739941.370662,
-   "date": "2026-11-15",
-   "tokens": [
-    "bernardo",
-    "camp",
-    "injur",
-    "left",
-    "national",
-    "official",
-    "portuguese",
-    "silva",
-    "team"
-   ],
-   "names": [
-    "bernardo",
-    "national",
-    "portuguese",
-    "silva",
-    "team"
-   ],
-   "cat": "injury",
-   "status": "official",
-   "headline": "🚨 OFFICIAL: Bernardo Silva is injured and has left the Portuguese National Team camp.",
-   "link": "https://t.me/RealMadridImportantOnly/1103"
-  },
-  {
    "ts": 1794741019.4614773,
    "date": "2026-11-15",
    "tokens": [
