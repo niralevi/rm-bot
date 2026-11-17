@@ -6,40 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794751103.9215808,
-   "date": "2026-11-15",
-   "tokens": [
-    "20",
-    "45",
-    "action",
-    "arda",
-    "bellingham",
-    "camavinga",
-    "cet",
-    "cucurella",
-    "guler",
-    "huijsen",
-    "konate",
-    "mbappe",
-    "trent"
-   ],
-   "names": [
-    "arda",
-    "bellingham",
-    "camavinga",
-    "cucurella",
-    "guler",
-    "huijsen",
-    "konate",
-    "mbappe",
-    "trent"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "Real Madrid players in action today:",
-   "link": "https://t.me/RealMadridImportantOnly/1107"
-  },
-  {
    "ts": 1794756923.1267154,
    "date": "2026-11-15",
    "tokens": [
