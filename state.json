@@ -1,33 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59794,
-  "themadridzone": 35076,
+  "themadridzone": 35080,
   "FabrizioRomanoTG": 68334
  },
  "sent": [
-  {
-   "ts": 1794737975.4917982,
-   "date": "2026-11-15",
-   "tokens": [
-    "against",
-    "expect",
-    "france",
-    "ibrahima",
-    "konate",
-    "start",
-    "turkey"
-   ],
-   "names": [
-    "france",
-    "ibrahima",
-    "konate",
-    "turkey"
-   ],
-   "cat": "lineup",
-   "status": "rumour",
-   "headline": "🚨 Ibrahima Konate is expected to START for France against Turkey. @lequipe 🇫🇷",
-   "link": "https://t.me/RealMadridImportantOnly/1101"
-  },
   {
    "ts": 1794738206.39689,
    "date": "2026-11-15",
@@ -595,8 +572,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-17",
-  "calls": 35,
-  "tokens": 40158
+  "calls": 38,
+  "tokens": 43473
  },
  "summary_date": "2026-11-16",
  "opts": {
