@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59801,
-  "themadridzone": 35126,
-  "FabrizioRomanoTG": 68348
+  "themadridzone": 35127,
+  "FabrizioRomanoTG": 68349
  },
  "sent": [
   {
@@ -418,6 +418,34 @@
    "status": "fact",
    "headline": "🚨 BREAKING: JJ Gabriel announces he’s leaving Manchester United.",
    "link": "https://t.me/RealMadridImportantOnly/1130"
+  },
+  {
+   "ts": 1794952520.9997962,
+   "date": "2026-11-17",
+   "tokens": [
+    "confirm",
+    "final",
+    "france",
+    "league",
+    "nation",
+    "netherland",
+    "norway",
+    "opponent",
+    "possible",
+    "quarter",
+    "spain"
+   ],
+   "names": [
+    "france",
+    "nations",
+    "netherlands",
+    "norway",
+    "spain"
+   ],
+   "cat": "fixtures",
+   "status": "fact",
+   "headline": "🚨 CONFIRMED: France's possible opponents in the Nations League quarter-finals:",
+   "link": "https://t.me/RealMadridImportantOnly/1132"
   }
  ],
  "offset": 769012045,
@@ -425,8 +453,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-17",
-  "calls": 87,
-  "tokens": 99671
+  "calls": 88,
+  "tokens": 100783
  },
  "summary_date": "2026-11-17",
  "opts": {
@@ -461,6 +489,6 @@
   "injury": 61,
   "coach": 35,
   "awards": 108,
-  "fixtures": 44
+  "fixtures": 45
  }
 }
