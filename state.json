@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59794,
-  "themadridzone": 35095,
+  "themadridzone": 35098,
   "FabrizioRomanoTG": 68338
  },
  "sent": [
@@ -494,6 +494,34 @@
    "status": "rumour",
    "headline": "🚨 BREAKING: Real Madrid consider Antonio Rüdiger’s departure next summer a DONE DEAL. @JorgeCPicon",
    "link": "https://t.me/RealMadridImportantOnly/1127"
+  },
+  {
+   "ts": 1794914658.6863873,
+   "date": "2026-11-17",
+   "tokens": [
+    "2",
+    "5",
+    "action",
+    "back",
+    "brazil",
+    "break",
+    "gam",
+    "goal",
+    "injury",
+    "international",
+    "liga",
+    "suspension",
+    "viniciu"
+   ],
+   "names": [
+    "brazil",
+    "international",
+    "vinicius"
+   ],
+   "cat": "injury",
+   "status": "fact",
+   "headline": "🚨 International break over and NO INJURY for Vinicius Jr.",
+   "link": "https://t.me/RealMadridImportantOnly/1128"
   }
  ],
  "offset": 769012045,
@@ -501,8 +529,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-17",
-  "calls": 50,
-  "tokens": 57372
+  "calls": 52,
+  "tokens": 59765
  },
  "summary_date": "2026-11-16",
  "opts": {
@@ -534,7 +562,7 @@
   "transfer": 123,
   "stats": 1,
   "discipline": 28,
-  "injury": 60,
+  "injury": 61,
   "coach": 35,
   "awards": 107,
   "fixtures": 44
