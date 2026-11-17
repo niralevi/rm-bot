@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59794,
-  "themadridzone": 35100,
+  "themadridzone": 35101,
   "FabrizioRomanoTG": 68338
  },
  "sent": [
@@ -506,6 +506,22 @@
    "status": "fact",
    "headline": "🚨 International break over and NO INJURY for Vinicius Jr.",
    "link": "https://t.me/RealMadridImportantOnly/1128"
+  },
+  {
+   "ts": 1794921171.6434937,
+   "date": "2026-11-17",
+   "tokens": [
+    "motm",
+    "official",
+    "vini"
+   ],
+   "names": [
+    "vini"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Vini Jr. is MOTM 🏆",
+   "link": "https://t.me/RealMadridImportantOnly/1129"
   }
  ],
  "offset": 769012045,
@@ -513,8 +529,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-17",
-  "calls": 54,
-  "tokens": 62031
+  "calls": 55,
+  "tokens": 63175
  },
  "summary_date": "2026-11-16",
  "opts": {
@@ -548,7 +564,7 @@
   "discipline": 28,
   "injury": 61,
   "coach": 35,
-  "awards": 107,
+  "awards": 108,
   "fixtures": 44
  }
 }
