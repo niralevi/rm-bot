@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59794,
-  "themadridzone": 35061,
+  "themadridzone": 35062,
   "FabrizioRomanoTG": 68334
  },
  "sent": [
@@ -557,6 +557,26 @@
    "status": "fact",
    "headline": "🚨 No more international breaks for the next 4 months!",
    "link": "https://t.me/RealMadridImportantOnly/1124"
+  },
+  {
+   "ts": 1794908539.180544,
+   "date": "2026-11-17",
+   "tokens": [
+    "endrick",
+    "official",
+    "singapore",
+    "start",
+    "vini"
+   ],
+   "names": [
+    "endrick",
+    "singapore",
+    "vini"
+   ],
+   "cat": "lineup",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Vini Jr and Endrick START vs Singapore. 🇧🇷🇸🇬",
+   "link": "https://t.me/RealMadridImportantOnly/1125"
   }
  ],
  "offset": 769012045,
@@ -564,8 +584,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-17",
-  "calls": 24,
-  "tokens": 27454
+  "calls": 25,
+  "tokens": 28609
  },
  "summary_date": "2026-11-16",
  "opts": {
@@ -593,7 +613,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 148,
+  "lineup": 149,
   "transfer": 122,
   "stats": 1,
   "discipline": 28,
