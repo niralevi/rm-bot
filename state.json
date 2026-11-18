@@ -6,28 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794822569.2357426,
-   "date": "2026-11-16",
-   "tokens": [
-    "bernardo",
-    "celta",
-    "fine",
-    "ready",
-    "silva",
-    "vigo"
-   ],
-   "names": [
-    "bernardo",
-    "celta",
-    "silva",
-    "vigo"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨 UPDATE: Bernardo Silva is FINE.",
-   "link": "https://t.me/RealMadridImportantOnly/1118"
-  },
-  {
    "ts": 1794830598.205528,
    "date": "2026-11-16",
    "tokens": [
