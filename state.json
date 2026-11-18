@@ -1,8 +1,8 @@
 {
  "last_post": {
   "real_madrid": 59801,
-  "themadridzone": 35146,
-  "FabrizioRomanoTG": 68356
+  "themadridzone": 35147,
+  "FabrizioRomanoTG": 68359
  },
  "sent": [
   {
@@ -339,6 +339,54 @@
    "status": "official",
    "headline": "🚨🚨💣 OFFICIAL: Arda Güler RENEWS till 2032. ✍️",
    "link": "https://t.me/RealMadridImportantOnly/1134"
+  },
+  {
+   "ts": 1795000115.9136178,
+   "date": "2026-11-18",
+   "tokens": [
+    "18",
+    "2026",
+    "acuerdo",
+    "barca",
+    "con",
+    "dias",
+    "enero",
+    "fabrizio",
+    "faltan",
+    "firmara",
+    "fleco",
+    "gabriel",
+    "los",
+    "negocia",
+    "nov",
+    "opcion",
+    "palabra",
+    "para",
+    "pedro",
+    "porro",
+    "proximo",
+    "quiere",
+    "retener",
+    "romano",
+    "salida",
+    "tambien",
+    "trent",
+    "una"
+   ],
+   "names": [
+    "barca",
+    "fabrizio",
+    "gabriel",
+    "nov",
+    "pedro",
+    "porro",
+    "romano",
+    "trent"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "⚪️🔜 JJ Gabriel firmará con el Real Madrid en los proximos dias, acuerdo de palabra; faltan flecos.",
+   "link": "https://t.me/RealMadridImportantOnly/1135"
   }
  ],
  "offset": 769012045,
@@ -346,8 +394,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-18",
-  "calls": 17,
-  "tokens": 19233
+  "calls": 19,
+  "tokens": 21812
  },
  "summary_date": "2026-11-17",
  "opts": {
@@ -376,7 +424,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 149,
-  "transfer": 126,
+  "transfer": 127,
   "stats": 1,
   "discipline": 28,
   "injury": 61,
