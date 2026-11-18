@@ -639,7 +639,7 @@
    "link": "https://t.me/RealMadridImportantOnly/1148"
   }
  ],
- "offset": 769012046,
+ "offset": 769012051,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
@@ -649,25 +649,31 @@
  },
  "summary_date": "2026-11-17",
  "opts": {
-  "quiet": true,
+  "quiet": false,
   "summary": false
  },
  "health": {},
  "limit_alert": "2026-11-04",
  "version": 2,
  "topics_on": {
-  "quotes": false,
-  "stats": false,
-  "social": false,
-  "fun": false,
-  "rivals": false,
-  "club": false,
-  "academy": false,
-  "other": false,
-  "match": false,
-  "discipline": false
+  "quotes": true,
+  "stats": true,
+  "social": true,
+  "fun": true,
+  "rivals": true,
+  "club": true,
+  "academy": true,
+  "other": true,
+  "match": true,
+  "discipline": true,
+  "injury": true,
+  "transfer": true,
+  "lineup": true,
+  "coach": true,
+  "fixtures": false,
+  "awards": false
  },
- "paused": false,
+ "paused": true,
  "topic_count": {
   "quotes": 1,
   "club": 1,
