@@ -6,25 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794872064.3965597,
-   "date": "2026-11-17",
-   "tokens": [
-    "4",
-    "back",
-    "break",
-    "football",
-    "international",
-    "month",
-    "next",
-    "weekend"
-   ],
-   "names": [],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "🚨 No more international breaks for the next 4 months!",
-   "link": "https://t.me/RealMadridImportantOnly/1124"
-  },
-  {
    "ts": 1794908539.180544,
    "date": "2026-11-17",
    "tokens": [
