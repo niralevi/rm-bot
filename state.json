@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59805,
-  "themadridzone": 35185,
+  "themadridzone": 35188,
   "FabrizioRomanoTG": 68364
  },
  "sent": [
@@ -143,7 +143,8 @@
    "cat": "transfer",
    "status": "rumour",
    "headline": "🚨 BREAKING: Real Madrid consider Antonio Rüdiger’s departure next summer a DONE DEAL. @JorgeCPicon",
-   "link": "https://t.me/RealMadridImportantOnly/1127"
+   "link": "https://t.me/RealMadridImportantOnly/1127",
+   "superseded": true
   },
   {
    "ts": 1794914658.6863873,
@@ -375,6 +376,44 @@
    "status": "fact",
    "headline": "🚨 Arda Güler is included in the @Sofascore Nations League Team of the group stages. ⭐️",
    "link": "https://t.me/RealMadridImportantOnly/1137"
+  },
+  {
+   "ts": 1795006698.0339804,
+   "date": "2026-11-18",
+   "tokens": [
+    "asencio",
+    "next",
+    "raul",
+    "sell",
+    "summer",
+    "try"
+   ],
+   "names": [
+    "asencio",
+    "raul"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 NEW: Real Madrid will try to SELL Raúl Asencio next summer. @benfeerr",
+   "link": "https://t.me/RealMadridImportantOnly/1138"
+  },
+  {
+   "ts": 1795006762.7626638,
+   "date": "2026-11-18",
+   "tokens": [
+    "antonio",
+    "confirm",
+    "renew",
+    "rudiger"
+   ],
+   "names": [
+    "antonio",
+    "rudiger"
+   ],
+   "cat": "transfer",
+   "status": "official",
+   "headline": "🚨 CONFIRMED: Real Madrid will NOT renew Antonio Rüdiger. @benfeerr",
+   "link": "https://t.me/RealMadridImportantOnly/1139"
   }
  ],
  "offset": 769012045,
@@ -382,8 +421,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-18",
-  "calls": 48,
-  "tokens": 56416
+  "calls": 50,
+  "tokens": 58801
  },
  "summary_date": "2026-11-17",
  "opts": {
@@ -412,7 +451,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 150,
-  "transfer": 127,
+  "transfer": 129,
   "stats": 1,
   "discipline": 28,
   "injury": 61,
