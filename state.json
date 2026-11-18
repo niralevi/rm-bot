@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59801,
-  "themadridzone": 35136,
+  "themadridzone": 35139,
   "FabrizioRomanoTG": 68349
  },
  "sent": [
@@ -446,6 +446,32 @@
    "status": "fact",
    "headline": "🚨 CONFIRMED: France's possible opponents in the Nations League quarter-finals:",
    "link": "https://t.me/RealMadridImportantOnly/1132"
+  },
+  {
+   "ts": 1794963809.1573899,
+   "date": "2026-11-18",
+   "tokens": [
+    "deal",
+    "him",
+    "however",
+    "january",
+    "keep",
+    "loan",
+    "rodrygo",
+    "santo",
+    "sign",
+    "stay",
+    "want"
+   ],
+   "names": [
+    "however",
+    "rodrygo",
+    "santos"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨💣 BREAKING: Santos want to sign Rodrygo in JANUARY on a loan deal.",
+   "link": "https://t.me/RealMadridImportantOnly/1133"
   }
  ],
  "offset": 769012045,
@@ -453,8 +479,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-18",
-  "calls": 6,
-  "tokens": 6734
+  "calls": 8,
+  "tokens": 9008
  },
  "summary_date": "2026-11-17",
  "opts": {
@@ -483,7 +509,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 149,
-  "transfer": 124,
+  "transfer": 125,
   "stats": 1,
   "discipline": 28,
   "injury": 61,
