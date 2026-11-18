@@ -6,38 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794808900.7796218,
-   "date": "2026-11-16",
-   "tokens": [
-    "14",
-    "15",
-    "2027",
-    "22",
-    "80",
-    "active",
-    "back",
-    "buy",
-    "clause",
-    "exclusive",
-    "gam",
-    "million",
-    "nico",
-    "old",
-    "paz",
-    "reminder",
-    "summer",
-    "year"
-   ],
-   "names": [
-    "nico",
-    "paz"
-   ],
-   "cat": "transfer",
-   "status": "fact",
-   "headline": "🚨REMINDER: Real Madrid has a €80 million buy-back clause for Nico Paz that is active exclusively in the summe…",
-   "link": "https://t.me/RealMadridImportantOnly/1115"
-  },
-  {
    "ts": 1794811765.0244744,
    "date": "2026-11-16",
    "tokens": [
