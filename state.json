@@ -6,28 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794820098.0516741,
-   "date": "2026-11-16",
-   "tokens": [
-    "against",
-    "ancelotti",
-    "carlo",
-    "endrick",
-    "singapore",
-    "start"
-   ],
-   "names": [
-    "ancelotti",
-    "carlo",
-    "endrick",
-    "singapore"
-   ],
-   "cat": "lineup",
-   "status": "official",
-   "headline": "🚨 JUST IN: Carlo Ancelotti will START Endrick against Singapore. @geglobo 🇸🇬",
-   "link": "https://t.me/RealMadridImportantOnly/1117"
-  },
-  {
    "ts": 1794822569.2357426,
    "date": "2026-11-16",
    "tokens": [
