@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59805,
-  "themadridzone": 35177,
+  "themadridzone": 35179,
   "FabrizioRomanoTG": 68364
  },
  "sent": [
@@ -377,6 +377,31 @@
    "status": "fact",
    "headline": "🔙 A young Jude Bellingham on England duty. 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
    "link": "https://t.me/RealMadridImportantOnly/1136"
+  },
+  {
+   "ts": 1795004544.9156694,
+   "date": "2026-11-18",
+   "tokens": [
+    "arda",
+    "group",
+    "guler",
+    "includ",
+    "league",
+    "nation",
+    "stag",
+    "team"
+   ],
+   "names": [
+    "arda",
+    "guler",
+    "nations",
+    "sofascore",
+    "team"
+   ],
+   "cat": "awards",
+   "status": "fact",
+   "headline": "🚨 Arda Güler is included in the @Sofascore Nations League Team of the group stages. ⭐️",
+   "link": "https://t.me/RealMadridImportantOnly/1137"
   }
  ],
  "offset": 769012045,
@@ -384,8 +409,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-18",
-  "calls": 41,
-  "tokens": 48124
+  "calls": 43,
+  "tokens": 50446
  },
  "summary_date": "2026-11-17",
  "opts": {
@@ -419,7 +444,7 @@
   "discipline": 28,
   "injury": 61,
   "coach": 35,
-  "awards": 108,
+  "awards": 109,
   "fixtures": 45
  }
 }
