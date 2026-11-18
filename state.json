@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59805,
-  "themadridzone": 35172,
+  "themadridzone": 35174,
   "FabrizioRomanoTG": 68364
  },
  "sent": [
@@ -357,6 +357,26 @@
    "status": "rumour",
    "headline": "⚪️🔜 JJ Gabriel firmará con el Real Madrid en los proximos dias, acuerdo de palabra; faltan flecos.",
    "link": "https://t.me/RealMadridImportantOnly/1135"
+  },
+  {
+   "ts": 1795004251.776183,
+   "date": "2026-11-18",
+   "tokens": [
+    "bellingham",
+    "duty",
+    "england",
+    "jude",
+    "young"
+   ],
+   "names": [
+    "bellingham",
+    "england",
+    "jude"
+   ],
+   "cat": "lineup",
+   "status": "fact",
+   "headline": "🔙 A young Jude Bellingham on England duty. 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+   "link": "https://t.me/RealMadridImportantOnly/1136"
   }
  ],
  "offset": 769012045,
@@ -364,8 +384,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-18",
-  "calls": 38,
-  "tokens": 44661
+  "calls": 39,
+  "tokens": 45811
  },
  "summary_date": "2026-11-17",
  "opts": {
@@ -393,7 +413,7 @@
   "club": 1,
   "fun": 1,
   "social": 2,
-  "lineup": 149,
+  "lineup": 150,
   "transfer": 127,
   "stats": 1,
   "discipline": 28,
