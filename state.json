@@ -6,53 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794799211.9269845,
-   "date": "2026-11-16",
-   "tokens": [
-    "cucurella",
-    "down",
-    "marc",
-    "pain"
-   ],
-   "names": [
-    "cucurella",
-    "marc"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨 Marc Cucurella is down in pain.",
-   "link": "https://t.me/RealMadridImportantOnly/1113"
-  },
-  {
-   "ts": 1794799218.1195147,
-   "date": "2026-11-16",
-   "tokens": [
-    "caus",
-    "cubarsi",
-    "dean",
-    "end",
-    "first",
-    "half",
-    "huijsen",
-    "pau",
-    "penalty",
-    "replac",
-    "spain",
-    "who"
-   ],
-   "names": [
-    "cubarsi",
-    "dean",
-    "huijsen",
-    "pau",
-    "spain"
-   ],
-   "cat": "lineup",
-   "status": "fact",
-   "headline": "🚨 Dean Huijsen is on for Spain at HT.",
-   "link": "https://t.me/RealMadridImportantOnly/1114"
-  },
-  {
    "ts": 1794808900.7796218,
    "date": "2026-11-16",
    "tokens": [
