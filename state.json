@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59805,
-  "themadridzone": 35188,
+  "themadridzone": 35189,
   "FabrizioRomanoTG": 68364
  },
  "sent": [
@@ -414,6 +414,34 @@
    "status": "official",
    "headline": "🚨 CONFIRMED: Real Madrid will NOT renew Antonio Rüdiger. @benfeerr",
    "link": "https://t.me/RealMadridImportantOnly/1139"
+  },
+  {
+   "ts": 1795006967.6101737,
+   "date": "2026-11-18",
+   "tokens": [
+    "club",
+    "como",
+    "current",
+    "focus",
+    "him",
+    "interest",
+    "jacobo",
+    "league",
+    "only",
+    "premier",
+    "priority",
+    "ramon"
+   ],
+   "names": [
+    "como",
+    "jacobo",
+    "premier",
+    "ramon"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 JUST IN: Jacobo Ramon is a PRIORITY for Real Madrid.",
+   "link": "https://t.me/RealMadridImportantOnly/1140"
   }
  ],
  "offset": 769012045,
@@ -421,8 +449,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-18",
-  "calls": 50,
-  "tokens": 58801
+  "calls": 51,
+  "tokens": 59977
  },
  "summary_date": "2026-11-17",
  "opts": {
@@ -451,7 +479,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 150,
-  "transfer": 129,
+  "transfer": 130,
   "stats": 1,
   "discipline": 28,
   "injury": 61,
