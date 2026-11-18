@@ -1,7 +1,7 @@
 {
  "last_post": {
   "real_madrid": 59807,
-  "themadridzone": 35197,
+  "themadridzone": 35201,
   "FabrizioRomanoTG": 68365
  },
  "sent": [
@@ -517,6 +517,31 @@
    "status": "rumour",
    "headline": "🚨 BREAKING: Thibaut Courtois will SIGN his RENEWAL until 2028 VERY SOON. @FabrizioRomano",
    "link": "https://t.me/RealMadridImportantOnly/1143"
+  },
+  {
+   "ts": 1795009668.457485,
+   "date": "2026-11-18",
+   "tokens": [
+    "club",
+    "endrick",
+    "him",
+    "interest",
+    "milan",
+    "roma",
+    "two",
+    "unnam",
+    "well"
+   ],
+   "names": [
+    "endrick",
+    "milan",
+    "roma",
+    "two"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 JUST IN: Roma and Milan are interested in Endrick",
+   "link": "https://t.me/RealMadridImportantOnly/1144"
   }
  ],
  "offset": 769012045,
@@ -524,8 +549,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-18",
-  "calls": 57,
-  "tokens": 67046
+  "calls": 59,
+  "tokens": 69456
  },
  "summary_date": "2026-11-17",
  "opts": {
@@ -554,7 +579,7 @@
   "fun": 1,
   "social": 2,
   "lineup": 150,
-  "transfer": 132,
+  "transfer": 133,
   "stats": 1,
   "discipline": 28,
   "injury": 61,
