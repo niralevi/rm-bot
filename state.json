@@ -1,6 +1,6 @@
 {
  "last_post": {
-  "real_madrid": 59814,
+  "real_madrid": 59816,
   "themadridzone": 35210,
   "FabrizioRomanoTG": 68365
  },
@@ -613,20 +613,44 @@
    "status": "rumour",
    "headline": "🚨 There is ZERO chance Vinícius leaves Real Madrid in January. @FabrizioRomano",
    "link": "https://t.me/RealMadridImportantOnly/1147"
+  },
+  {
+   "ts": 1795012523.350645,
+   "date": "2026-11-18",
+   "tokens": [
+    "award",
+    "fans",
+    "globe",
+    "historic",
+    "nominat",
+    "official",
+    "soccer"
+   ],
+   "names": [
+    "award",
+    "fans",
+    "globe",
+    "historic",
+    "soccer"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨⚪️ OFFICIAL: Real Madrid are nominated for Globe Soccer Fans  Historic Club Award.",
+   "link": "https://t.me/RealMadridImportantOnly/1148"
   }
  ],
- "offset": 769012045,
+ "offset": 769012046,
  "owner": 6681074596,
  "players": [],
  "ai_usage": {
   "date": "2026-11-18",
-  "calls": 68,
-  "tokens": 80255
+  "calls": 69,
+  "tokens": 81404
  },
  "summary_date": "2026-11-17",
  "opts": {
   "quiet": true,
-  "summary": true
+  "summary": false
  },
  "health": {},
  "limit_alert": "2026-11-04",
@@ -655,7 +679,7 @@
   "discipline": 28,
   "injury": 61,
   "coach": 35,
-  "awards": 110,
+  "awards": 111,
   "fixtures": 45
  }
 }
