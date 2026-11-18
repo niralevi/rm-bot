@@ -1,40 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59803,
-  "themadridzone": 35168,
+  "themadridzone": 35172,
   "FabrizioRomanoTG": 68364
  },
  "sent": [
-  {
-   "ts": 1794830598.205528,
-   "date": "2026-11-16",
-   "tokens": [
-    "aurelien",
-    "avoid",
-    "careful",
-    "celta",
-    "doubt",
-    "him",
-    "injury",
-    "mak",
-    "seriou",
-    "tchouameni",
-    "vigo",
-    "want",
-    "weekend",
-    "worse"
-   ],
-   "names": [
-    "aurelien",
-    "celta",
-    "tchouameni",
-    "vigo"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨 BREAKING: Aurélien Tchouaméni is a SERIOUS DOUBT vs Celta Vigo this weekend.",
-   "link": "https://t.me/RealMadridImportantOnly/1119"
-  },
   {
    "ts": 1794832225.2603667,
    "date": "2026-11-16",
@@ -394,8 +364,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-18",
-  "calls": 34,
-  "tokens": 39715
+  "calls": 37,
+  "tokens": 43287
  },
  "summary_date": "2026-11-17",
  "opts": {
