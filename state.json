@@ -1,7 +1,7 @@
 {
  "last_post": {
-  "real_madrid": 59805,
-  "themadridzone": 35191,
+  "real_madrid": 59806,
+  "themadridzone": 35195,
   "FabrizioRomanoTG": 68365
  },
  "sent": [
@@ -442,6 +442,81 @@
    "status": "rumour",
    "headline": "🚨 JUST IN: Jacobo Ramon is a PRIORITY for Real Madrid.",
    "link": "https://t.me/RealMadridImportantOnly/1140"
+  },
+  {
+   "ts": 1795008708.1297038,
+   "date": "2026-11-18",
+   "tokens": [
+    "globe",
+    "men",
+    "nomine",
+    "official",
+    "soccer",
+    "year"
+   ],
+   "names": [
+    "globe",
+    "men",
+    "player",
+    "soccer",
+    "year"
+   ],
+   "cat": "awards",
+   "status": "official",
+   "headline": "🚨 OFFICIAL: Globe Soccer Men’s Player of the Year nominees.",
+   "link": "https://t.me/RealMadridImportantOnly/1141"
+  },
+  {
+   "ts": 1795008711.66038,
+   "date": "2026-11-18",
+   "tokens": [
+    "alexi",
+    "allister",
+    "consider",
+    "did",
+    "forward",
+    "go",
+    "however",
+    "initiat",
+    "liverpool",
+    "mac",
+    "move",
+    "renewal",
+    "summer",
+    "talk"
+   ],
+   "names": [
+    "alexis",
+    "allister",
+    "however",
+    "liverpool",
+    "mac"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 NEW: Real Madrid considered going for Alexis Mac Allister this summer.",
+   "link": "https://t.me/RealMadridImportantOnly/1142"
+  },
+  {
+   "ts": 1795008778.1117032,
+   "date": "2026-11-18",
+   "tokens": [
+    "2028",
+    "courtoi",
+    "renewal",
+    "sign",
+    "soon",
+    "thibaut",
+    "until"
+   ],
+   "names": [
+    "courtois",
+    "thibaut"
+   ],
+   "cat": "transfer",
+   "status": "rumour",
+   "headline": "🚨 BREAKING: Thibaut Courtois will SIGN his RENEWAL until 2028 VERY SOON. @FabrizioRomano",
+   "link": "https://t.me/RealMadridImportantOnly/1143"
   }
  ],
  "offset": 769012045,
@@ -449,8 +524,8 @@
  "players": [],
  "ai_usage": {
   "date": "2026-11-18",
-  "calls": 52,
-  "tokens": 61171
+  "calls": 55,
+  "tokens": 64655
  },
  "summary_date": "2026-11-17",
  "opts": {
@@ -479,12 +554,12 @@
   "fun": 1,
   "social": 2,
   "lineup": 150,
-  "transfer": 130,
+  "transfer": 132,
   "stats": 1,
   "discipline": 28,
   "injury": 61,
   "coach": 35,
-  "awards": 109,
+  "awards": 110,
   "fixtures": 45
  }
 }
