@@ -6,36 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794811765.0244744,
-   "date": "2026-11-16",
-   "tokens": [
-    "10",
-    "20",
-    "2026",
-    "300",
-    "add",
-    "arda",
-    "bought",
-    "clause",
-    "easi",
-    "fenerbahce",
-    "guler",
-    "million",
-    "ons",
-    "sell",
-    "worth"
-   ],
-   "names": [
-    "arda",
-    "fenerbahce",
-    "guler"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨Real Madrid bought Arda Guler from Fenerbahçe for just €20 million with €10 million in add ons and a 20% sel…",
-   "link": "https://t.me/RealMadridImportantOnly/1116"
-  },
-  {
    "ts": 1794820098.0516741,
    "date": "2026-11-16",
    "tokens": [
