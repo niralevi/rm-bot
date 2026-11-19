@@ -6,26 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794942063.4336984,
-   "date": "2026-11-17",
-   "tokens": [
-    "announc",
-    "gabriel",
-    "leav",
-    "manchester",
-    "unit"
-   ],
-   "names": [
-    "gabriel",
-    "manchester",
-    "united"
-   ],
-   "cat": "transfer",
-   "status": "fact",
-   "headline": "🚨 BREAKING: JJ Gabriel announces he’s leaving Manchester United.",
-   "link": "https://t.me/RealMadridImportantOnly/1130"
-  },
-  {
    "ts": 1794952520.9997962,
    "date": "2026-11-17",
    "tokens": [
