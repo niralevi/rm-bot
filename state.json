@@ -6,34 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794952520.9997962,
-   "date": "2026-11-17",
-   "tokens": [
-    "confirm",
-    "final",
-    "france",
-    "league",
-    "nation",
-    "netherland",
-    "norway",
-    "opponent",
-    "possible",
-    "quarter",
-    "spain"
-   ],
-   "names": [
-    "france",
-    "nations",
-    "netherlands",
-    "norway",
-    "spain"
-   ],
-   "cat": "fixtures",
-   "status": "fact",
-   "headline": "🚨 CONFIRMED: France's possible opponents in the Nations League quarter-finals:",
-   "link": "https://t.me/RealMadridImportantOnly/1132"
-  },
-  {
    "ts": 1794963809.1573899,
    "date": "2026-11-18",
    "tokens": [
