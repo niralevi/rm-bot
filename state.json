@@ -6,34 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794914658.6863873,
-   "date": "2026-11-17",
-   "tokens": [
-    "2",
-    "5",
-    "action",
-    "back",
-    "brazil",
-    "break",
-    "gam",
-    "goal",
-    "injury",
-    "international",
-    "liga",
-    "suspension",
-    "viniciu"
-   ],
-   "names": [
-    "brazil",
-    "international",
-    "vinicius"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨 International break over and NO INJURY for Vinicius Jr.",
-   "link": "https://t.me/RealMadridImportantOnly/1128"
-  },
-  {
    "ts": 1794921171.6434937,
    "date": "2026-11-17",
    "tokens": [
