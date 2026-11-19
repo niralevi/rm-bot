@@ -6,45 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1794908902.5757165,
-   "date": "2026-11-17",
-   "tokens": [
-    "1000",
-    "123",
-    "1st",
-    "250",
-    "286",
-    "2nd",
-    "3rd",
-    "4th",
-    "5th",
-    "65",
-    "6th",
-    "7th",
-    "89",
-    "8th",
-    "90",
-    "97",
-    "days",
-    "ferland",
-    "injur",
-    "mendy",
-    "play",
-    "season",
-    "sign",
-    "since",
-    "yet"
-   ],
-   "names": [
-    "ferland",
-    "mendy"
-   ],
-   "cat": "injury",
-   "status": "fact",
-   "headline": "🚨🤕 Ferland Mendy has now been injured for 1000 days since signing for Real Madrid.",
-   "link": "https://t.me/RealMadridImportantOnly/1126"
-  },
-  {
    "ts": 1794914063.1935725,
    "date": "2026-11-17",
    "tokens": [
