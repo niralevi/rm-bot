@@ -18,7 +18,12 @@
   "quiet": false,
   "summary": false
  },
- "health": {},
+ "health": {
+  "FabrizioRomanoTG": {
+   "since": 1795205957.5693064,
+   "err": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  }
+ },
  "limit_alert": "2026-11-04",
  "version": 2,
  "topics_on": {
