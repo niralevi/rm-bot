@@ -6,59 +6,6 @@
  },
  "sent": [
   {
-   "ts": 1795009668.457485,
-   "date": "2026-11-18",
-   "tokens": [
-    "club",
-    "endrick",
-    "him",
-    "interest",
-    "milan",
-    "roma",
-    "two",
-    "unnam",
-    "well"
-   ],
-   "names": [
-    "endrick",
-    "milan",
-    "roma",
-    "two"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 JUST IN: Roma and Milan are interested in Endrick",
-   "link": "https://t.me/RealMadridImportantOnly/1144"
-  },
-  {
-   "ts": 1795009765.6395826,
-   "date": "2026-11-18",
-   "tokens": [
-    "bigger",
-    "decision",
-    "depend",
-    "endrick",
-    "get",
-    "hop",
-    "however",
-    "leave",
-    "lov",
-    "play",
-    "real",
-    "role",
-    "stay",
-    "time"
-   ],
-   "names": [
-    "endrick",
-    "however"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 JUST IN: Endrick really loves Real Madrid and hopes to get a bigger role at the club.",
-   "link": "https://t.me/RealMadridImportantOnly/1145"
-  },
-  {
    "ts": 1795009939.223485,
    "date": "2026-11-18",
    "tokens": [
