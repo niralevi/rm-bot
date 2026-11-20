@@ -2,30 +2,9 @@
  "last_post": {
   "real_madrid": 59827,
   "themadridzone": 35303,
-  "FabrizioRomanoTG": 68434
+  "FabrizioRomanoTG": 68435
  },
  "sent": [
-  {
-   "ts": 1795008778.1117032,
-   "date": "2026-11-18",
-   "tokens": [
-    "2028",
-    "courtoi",
-    "renewal",
-    "sign",
-    "soon",
-    "thibaut",
-    "until"
-   ],
-   "names": [
-    "courtois",
-    "thibaut"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 BREAKING: Thibaut Courtois will SIGN his RENEWAL until 2028 VERY SOON. @FabrizioRomano",
-   "link": "https://t.me/RealMadridImportantOnly/1143"
-  },
   {
    "ts": 1795009668.457485,
    "date": "2026-11-18",
