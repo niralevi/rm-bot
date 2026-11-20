@@ -1,53 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59827,
-  "themadridzone": 35305,
+  "themadridzone": 35306,
   "FabrizioRomanoTG": 68435
  },
  "sent": [
-  {
-   "ts": 1795009939.223485,
-   "date": "2026-11-18",
-   "tokens": [
-    "chanc",
-    "does",
-    "leave",
-    "liverpool",
-    "return",
-    "trent",
-    "want",
-    "zero"
-   ],
-   "names": [
-    "liverpool",
-    "trent"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 NEW: The chances of Trent returning to Liverpool are ZERO.",
-   "link": "https://t.me/RealMadridImportantOnly/1146"
-  },
-  {
-   "ts": 1795009941.8550534,
-   "date": "2026-11-18",
-   "tokens": [
-    "chance",
-    "january",
-    "leav",
-    "there",
-    "viniciu",
-    "zero"
-   ],
-   "names": [
-    "january",
-    "there",
-    "vinicius"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 There is ZERO chance Vinícius leaves Real Madrid in January. @FabrizioRomano",
-   "link": "https://t.me/RealMadridImportantOnly/1147"
-  },
   {
    "ts": 1795012523.350645,
    "date": "2026-11-18",
