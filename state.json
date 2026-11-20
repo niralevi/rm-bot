@@ -4,32 +4,7 @@
   "themadridzone": 35307,
   "FabrizioRomanoTG": 68435
  },
- "sent": [
-  {
-   "ts": 1795012523.350645,
-   "date": "2026-11-18",
-   "tokens": [
-    "award",
-    "fans",
-    "globe",
-    "historic",
-    "nominat",
-    "official",
-    "soccer"
-   ],
-   "names": [
-    "award",
-    "fans",
-    "globe",
-    "historic",
-    "soccer"
-   ],
-   "cat": "awards",
-   "status": "official",
-   "headline": "🚨⚪️ OFFICIAL: Real Madrid are nominated for Globe Soccer Fans  Historic Club Award.",
-   "link": "https://t.me/RealMadridImportantOnly/1148"
-  }
- ],
+ "sent": [],
  "offset": 769012051,
  "owner": 6681074596,
  "players": [],
