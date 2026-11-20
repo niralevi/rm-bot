@@ -1,48 +1,10 @@
 {
  "last_post": {
   "real_madrid": 59827,
-  "themadridzone": 35299,
+  "themadridzone": 35303,
   "FabrizioRomanoTG": 68434
  },
  "sent": [
-  {
-   "ts": 1795006698.0339804,
-   "date": "2026-11-18",
-   "tokens": [
-    "asencio",
-    "next",
-    "raul",
-    "sell",
-    "summer",
-    "try"
-   ],
-   "names": [
-    "asencio",
-    "raul"
-   ],
-   "cat": "transfer",
-   "status": "rumour",
-   "headline": "🚨 NEW: Real Madrid will try to SELL Raúl Asencio next summer. @benfeerr",
-   "link": "https://t.me/RealMadridImportantOnly/1138"
-  },
-  {
-   "ts": 1795006762.7626638,
-   "date": "2026-11-18",
-   "tokens": [
-    "antonio",
-    "confirm",
-    "renew",
-    "rudiger"
-   ],
-   "names": [
-    "antonio",
-    "rudiger"
-   ],
-   "cat": "transfer",
-   "status": "official",
-   "headline": "🚨 CONFIRMED: Real Madrid will NOT renew Antonio Rüdiger. @benfeerr",
-   "link": "https://t.me/RealMadridImportantOnly/1139"
-  },
   {
    "ts": 1795006967.6101737,
    "date": "2026-11-18",
